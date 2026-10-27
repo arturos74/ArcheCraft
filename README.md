@@ -1,25 +1,48 @@
+# ArcheCraft
 
-Installation information
-=======
+ArcheCraft is a Minecraft Java Edition mod inspired by ArcheAge, built with NeoForge for Minecraft 1.21.1.
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+This project is also a hands-on learning experience in Java and Minecraft mod development. Features will be developed incrementally, starting with basic items and blocks before moving into more complex gameplay systems.
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+## Planned features
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+- ArcheAge-inspired items and blocks
+- Interactive blocks and gameplay systems
+- Yatas and other creatures
+- Functional gliders
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+These are project goals, not a list of currently implemented features. ArcheCraft is in early development.
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+## Development setup
+
+Requirements:
+
+- A 64-bit Java Development Kit (JDK) 21
+- IntelliJ IDEA or another IDE with Gradle support
+
+Clone the repository, open its root folder in IntelliJ IDEA, and allow the Gradle import to finish. Configure the project SDK and Gradle JVM to use JDK 21.
+
+### Run the development client
+
+From PowerShell in the project root:
+
+```powershell
+.\gradlew.bat runClient
+```
+
+### Build the mod
+
+```powershell
+.\gradlew.bat build
+```
+
+The built mod JAR is placed in `build/libs/`.
+
+## Resources
+
+- [NeoForge documentation for Minecraft 1.21.1](https://docs.neoforged.net/docs/1.21.1/)
+- [NeoForge community Discord](https://discord.neoforged.net/)
+
+## Minecraft mappings
+
+This project uses Mojang's official mappings for Minecraft method and field names. See the [Mojang mappings license reference](https://github.com/NeoForged/NeoForm/blob/main/Mojang.md) for details.
