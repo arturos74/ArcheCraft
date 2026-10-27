@@ -1,0 +1,13 @@
+{
+  "itemGroup.archecraft": "Example Mod Tab",
+  "block.archecraft.example_block": "Example Block",
+  "item.archecraft.example_item": "Example Item",
+
+  "archecraft.configuration.title": "ArcheCraft Configs",
+  "archecraft.configuration.section.archecraft.common.toml": "ArcheCraft Configs",
+  "archecraft.configuration.section.archecraft.common.toml.title": "ArcheCraft Configs",
+  "archecraft.configuration.items": "Item List",
+  "archecraft.configuration.logDirtBlock": "Log Dirt Block",
+  "archecraft.configuration.magicNumberIntroduction": "Magic Number Text",
+  "archecraft.configuration.magicNumber": "Magic Number"
+}

@@ -1,0 +1,22 @@
+# Gradle caches and build output
+.gradle/
+/build/
+# IntelliJ IDEA settings and output
+.idea/
+*.iws
+*.iml
+*.ipr
+/out/
+.run/
+# Development Minecraft instances (worlds, logs, configs, crash reports)
+/run/
+/runs/
+# Data generation cache (keep generated resources themselves)
+**/src/generated/**/.cache/
+# Local dependency repository
+/repo/
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+# Keep the Gradle wrapper, including gradle-wrapper.jar, in Git.
