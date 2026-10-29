@@ -16,6 +16,9 @@ public class ModBlocks {
     public static final DeferredBlock<Block> ARCHEUM_BLOCK = BLOCKS.register("archeum_block",
             () -> new Block(BlockBehaviour.Properties.of().strength(3.0f, 3.0f).sound(SoundType.METAL)));
 
+    public static final DeferredBlock<Block> ARCHEUM_ORE = BLOCKS.register("archeum_ore",
+            () -> new Block(BlockBehaviour.Properties.of().strength(1f, 1f).sound(SoundType.STONE)));
+
     // This method will be called from your main class
     public static void register(IEventBus modEventBus) {
         BLOCKS.register(modEventBus);

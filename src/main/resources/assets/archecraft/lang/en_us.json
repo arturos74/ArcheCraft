@@ -3,6 +3,11 @@
   "block.archecraft.example_block": "Example Block",
   "item.archecraft.example_item": "Example Item",
   "item.archecraft.raw_archeum": "Raw Archeum",
+  "item.archecraft.archeum_ingot": "Archeum Ingot",
+  "block.archecraft.archeum_block": "Archeum Block",
+  "item.archecraft.yata_meat": "Yata Meat",
+  "item.archecraft.cooked_yata_meat" : "Cooked Yata Meat",
+  "item.archecraft.yata_fur" : "Yata Fur",
 
   "archecraft.configuration.title": "ArcheCraft Configs",
   "archecraft.configuration.section.archecraft.common.toml": "ArcheCraft Configs",

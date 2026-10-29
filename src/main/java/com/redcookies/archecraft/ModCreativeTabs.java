@@ -23,6 +23,9 @@ public class ModCreativeTabs {
                         output.accept(ModItems.RAW_ARCHEUM.get());
                         output.accept(ModItems.ARCHEUM_INGOT.get());
                         output.accept(ModItems.ARCHEUM_BLOCK_ITEM.get());
+                        output.accept(ModItems.YATA_MEAT.get());
+                        output.accept(ModItems.COOKED_YATA_MEAT.get());
+                        output.accept(ModItems.YATA_FUR);
                     }).build());
 
     public static void register(IEventBus modEventBus) {

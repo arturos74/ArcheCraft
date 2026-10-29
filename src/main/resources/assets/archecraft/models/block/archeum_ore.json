@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "evenmocreatures:block/archeum_ore_block"
+  }
+}
