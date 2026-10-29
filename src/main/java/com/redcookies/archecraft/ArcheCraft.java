@@ -54,7 +54,7 @@ public class ArcheCraft {
     public static final DeferredItem<Item> EXAMPLE_ITEM = ITEMS.registerSimpleItem("example_item", new Item.Properties().food(new FoodProperties.Builder()
             .alwaysEdible().nutrition(1).saturationModifier(2f).build()));
 
-    public static final DeferredItem<Item> ARCHEUM_CRYSTAL = ITEMS.registerSimpleItem("archeum_crystal");
+    public static final DeferredItem<Item> RAW_ARCHEUM = ITEMS.registerSimpleItem("raw_archeum");
 
     // Creates a creative tab with the id "archecraft:example_tab" for the example item, that is placed after the combat tab
     public static final DeferredHolder<CreativeModeTab, CreativeModeTab> EXAMPLE_TAB = CREATIVE_MODE_TABS.register("example_tab", () -> CreativeModeTab.builder()
@@ -63,7 +63,7 @@ public class ArcheCraft {
             .icon(() -> EXAMPLE_ITEM.get().getDefaultInstance())
             .displayItems((parameters, output) -> {
                 output.accept(EXAMPLE_ITEM.get());// Add the example item to the tab. For your own tabs, this method is preferred over the event
-                output.accept(ARCHEUM_CRYSTAL.get());
+                output.accept(RAW_ARCHEUM.get());
 
             }).build());
 

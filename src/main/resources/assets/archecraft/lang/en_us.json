@@ -2,7 +2,7 @@
   "itemGroup.archecraft": "Example Mod Tab",
   "block.archecraft.example_block": "Example Block",
   "item.archecraft.example_item": "Example Item",
-  "item.archecraft.archeum_crystal": "Archeum Crystal",
+  "item.archecraft.raw_archeum": "Raw Archeum",
 
   "archecraft.configuration.title": "ArcheCraft Configs",
   "archecraft.configuration.section.archecraft.common.toml": "ArcheCraft Configs",
