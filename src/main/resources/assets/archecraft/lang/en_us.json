@@ -1,5 +1,5 @@
 {
-  "itemGroup.archecraft": "Example Mod Tab",
+  "itemGroup.archecraft": "ArcheCraft",
   "block.archecraft.example_block": "Example Block",
   "item.archecraft.example_item": "Example Item",
   "item.archecraft.raw_archeum": "Raw Archeum",
@@ -8,6 +8,7 @@
   "item.archecraft.yata_meat": "Yata Meat",
   "item.archecraft.cooked_yata_meat" : "Cooked Yata Meat",
   "item.archecraft.yata_fur" : "Yata Fur",
+  "item.archecraft.yata_fertilizer" : "Yata Fertilizer",
 
   "archecraft.configuration.title": "ArcheCraft Configs",
   "archecraft.configuration.section.archecraft.common.toml": "ArcheCraft Configs",

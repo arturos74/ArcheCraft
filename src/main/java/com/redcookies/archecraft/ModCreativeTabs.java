@@ -13,7 +13,7 @@ public class ModCreativeTabs {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS =
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, ArcheCraft.MODID);
 
-    public static final DeferredHolder<CreativeModeTab, CreativeModeTab> EXAMPLE_TAB = CREATIVE_MODE_TABS.register("example_tab",
+    public static final DeferredHolder<CreativeModeTab, CreativeModeTab> EXAMPLE_TAB = CREATIVE_MODE_TABS.register("archecraft",
             () -> CreativeModeTab.builder()
                     .title(Component.translatable("itemGroup.archecraft"))
                     .withTabsBefore(CreativeModeTabs.COMBAT)
@@ -26,6 +26,7 @@ public class ModCreativeTabs {
                         output.accept(ModItems.YATA_MEAT.get());
                         output.accept(ModItems.COOKED_YATA_MEAT.get());
                         output.accept(ModItems.YATA_FUR);
+                        output.accept(ModItems.YATA_FERTILIZER);
                     }).build());
 
     public static void register(IEventBus modEventBus) {
