@@ -10,6 +10,7 @@
   "item.archecraft.cooked_yata_meat" : "Cooked Yata Meat",
   "item.archecraft.yata_fur" : "Yata Fur",
   "item.archecraft.yata_fertilizer" : "Yata Fertilizer",
+  "item.archecraft.clover_seeds" : "Clover Seeds",
 
   "archecraft.configuration.title": "ArcheCraft Configs",
   "archecraft.configuration.section.archecraft.common.toml": "ArcheCraft Configs",

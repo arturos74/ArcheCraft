@@ -27,6 +27,7 @@ public class ModCreativeTabs {
                         output.accept(ModItems.COOKED_YATA_MEAT.get());
                         output.accept(ModItems.YATA_FUR);
                         output.accept(ModItems.YATA_FERTILIZER);
+                        output.accept(ModItems.CLOVER_SEEDS);
                     }).build());
 
     public static void register(IEventBus modEventBus) {

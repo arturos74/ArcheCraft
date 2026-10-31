@@ -5,6 +5,7 @@ import net.minecraft.client.renderer.item.ItemProperties;
 import net.minecraft.world.food.FoodProperties;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.ItemNameBlockItem;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
@@ -40,6 +41,13 @@ public class ModItems {
     public static final DeferredItem<Item> GOAT_WOOL = ITEMS.registerSimpleItem("goat_wool");
 
     public static final DeferredItem<Item> HANDICRAFT_YARN = ITEMS.registerSimpleItem("handicraft_yarn");
+
+    public static final DeferredItem<Item> BEAR_FUR = ITEMS.registerSimpleItem("bear_fur");
+
+    public static final DeferredItem<Item> COMBINED_FEED = ITEMS.registerSimpleItem("combine_feed");
+
+    public static final DeferredItem<Item> CLOVER_SEEDS = ITEMS.registerItem("clover_seeds",
+            props -> new ItemNameBlockItem(ModBlocks.CLOVER_CROP.get(), props));
 
     //public static final DeferredItem<Item> AC_DISC_1 = ITEMS.registerSimpleItem("ArcheAge Theme", new Item.Properties().stacksTo(1).jukeboxPlayable(ModSounds.SOUND_EVENTS));
 

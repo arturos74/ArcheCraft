@@ -1,5 +1,8 @@
 package com.redcookies.archecraft;
+import net.minecraft.world.level.ItemLike;
 import net.minecraft.world.level.block.Block;
+import net.minecraft.world.level.block.Blocks;
+import net.minecraft.world.level.block.CropBlock;
 import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.material.MapColor;
@@ -18,6 +21,10 @@ public class ModBlocks {
 
     public static final DeferredBlock<Block> ARCHEUM_ORE = BLOCKS.register("archeum_ore",
             () -> new Block(BlockBehaviour.Properties.of().strength(1f, 1f).sound(SoundType.STONE)));
+
+    public static final DeferredBlock<Block> CLOVER_CROP = BLOCKS.register("clover_crop",
+            properties -> new CropBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.WHEAT)));
+
 
     // This method will be called from your main class
     public static void register(IEventBus modEventBus) {
