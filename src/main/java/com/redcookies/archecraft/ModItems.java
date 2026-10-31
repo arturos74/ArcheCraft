@@ -1,6 +1,7 @@
 package com.redcookies.archecraft;
 
 import com.redcookies.archecraft.ArcheCraft;
+import net.minecraft.client.renderer.item.ItemProperties;
 import net.minecraft.world.food.FoodProperties;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
@@ -39,6 +40,8 @@ public class ModItems {
     public static final DeferredItem<Item> GOAT_WOOL = ITEMS.registerSimpleItem("goat_wool");
 
     public static final DeferredItem<Item> HANDICRAFT_YARN = ITEMS.registerSimpleItem("handicraft_yarn");
+
+    //public static final DeferredItem<Item> AC_DISC_1 = ITEMS.registerSimpleItem("ArcheAge Theme", new Item.Properties().stacksTo(1).jukeboxPlayable(ModSounds.SOUND_EVENTS));
 
 
     public static void register(IEventBus modEventBus) {
