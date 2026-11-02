@@ -1,0 +1,8 @@
+{
+  "sound_event": "archecraft:custom_music",
+  "description": {
+    "translate": "jukebox_song.archecraft.archeage_theme"
+  },
+  "length_in_seconds": 188.022667,
+  "comparator_output": 15
+}

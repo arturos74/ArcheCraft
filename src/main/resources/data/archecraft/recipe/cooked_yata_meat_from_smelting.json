@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "misc",
+  "ingredient": {
+    "item": "archecraft:yata_meat"
+  },
+  "result": {
+    "id": "archecraft:cooked_yata_meat"
+  }
+}

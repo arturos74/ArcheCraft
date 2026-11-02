@@ -12,6 +12,12 @@
   "item.archecraft.yata_fertilizer" : "Yata Fertilizer",
   "item.archecraft.clover_seeds" : "Clover Seeds",
 
+  "item.archecraft.ac_disc_1": "ArcheAge Theme",
+  "jukebox_song.archecraft.archeage_theme": "ArcheAge Theme",
+
+  "item.archecraft.ac_disc_2": "Solzreed Theme",
+  "jukebox_song.archecraft.solzreed_theme": "Solzreed Theme",
+
   "archecraft.configuration.title": "ArcheCraft Configs",
   "archecraft.configuration.section.archecraft.common.toml": "ArcheCraft Configs",
   "archecraft.configuration.section.archecraft.common.toml.title": "ArcheCraft Configs",

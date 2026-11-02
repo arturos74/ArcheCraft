@@ -19,8 +19,13 @@ public class ModBlocks {
     public static final DeferredBlock<Block> ARCHEUM_BLOCK = BLOCKS.register("archeum_block",
             () -> new Block(BlockBehaviour.Properties.of().strength(3.0f, 3.0f).sound(SoundType.METAL)));
 
-    public static final DeferredBlock<Block> ARCHEUM_ORE = BLOCKS.register("archeum_ore",
-            () -> new Block(BlockBehaviour.Properties.of().strength(1f, 1f).sound(SoundType.STONE)));
+    public static final DeferredBlock<Block> ARCHEUM_ORE = BLOCKS.registerSimpleBlock("archeum_ore",
+            BlockBehaviour.Properties.of()
+                    .strength(3.0F, 3.0F)
+                    .requiresCorrectToolForDrops()
+                    .sound(SoundType.STONE)
+                    .lightLevel(state -> 1)
+    );
 
     public static final DeferredBlock<Block> CLOVER_CROP = BLOCKS.register("clover_crop",
             properties -> new CropBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.WHEAT)));

@@ -29,6 +29,10 @@ public class ModCreativeTabs {
                         output.accept(ModItems.YATA_FERTILIZER);
                         output.accept(ModItems.CLOVER_SEEDS);
                         output.accept(ModItems.ARCHEUM_ORE);
+                        output.accept(ModItems.GOAT_WOOL);
+                        output.accept(ModItems.HANDICRAFT_YARN);
+                        output.accept(ModItems.BEAR_FUR);
+                        output.accept(ModItems.COMBINED_FEED);
                     }).build());
 
     public static void register(IEventBus modEventBus) {

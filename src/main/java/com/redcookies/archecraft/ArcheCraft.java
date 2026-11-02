@@ -31,6 +31,7 @@ public class ArcheCraft {
         ModBlocks.register(modEventBus);
         ModItems.register(modEventBus);
         ModCreativeTabs.register(modEventBus);
+        ModSounds.SOUND_EVENTS.register(modEventBus);
 
         // Register gameplay event handlers
         NeoForge.EVENT_BUS.register(this);

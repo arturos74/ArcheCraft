@@ -2,10 +2,14 @@ package com.redcookies.archecraft;
 
 import com.redcookies.archecraft.ArcheCraft;
 import net.minecraft.client.renderer.item.ItemProperties;
+import net.minecraft.core.registries.Registries;
+import net.minecraft.resources.ResourceKey;
+import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.food.FoodProperties;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemNameBlockItem;
+import net.minecraft.world.item.JukeboxSong;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
@@ -49,7 +53,38 @@ public class ModItems {
     public static final DeferredItem<Item> CLOVER_SEEDS = ITEMS.registerItem("clover_seeds",
             props -> new ItemNameBlockItem(ModBlocks.CLOVER_CROP.get(), props));
 
-    //public static final DeferredItem<Item> AC_DISC_1 = ITEMS.registerSimpleItem("ArcheAge Theme", new Item.Properties().stacksTo(1).jukeboxPlayable(ModSounds.SOUND_EVENTS));
+    public static final ResourceKey<JukeboxSong> ARCHEAGE_THEME =
+            ResourceKey.create(
+                    Registries.JUKEBOX_SONG,
+                    ResourceLocation.fromNamespaceAndPath(
+                            ArcheCraft.MODID, "archeage_theme"
+                    )
+            );
+
+    public static final DeferredItem<Item> AC_DISC_1 =
+            ITEMS.registerSimpleItem(
+                    "ac_disc_1",
+                    new Item.Properties()
+                            .stacksTo(1)
+                            .jukeboxPlayable(ARCHEAGE_THEME)
+            );
+
+
+    public static final ResourceKey<JukeboxSong> SOLZREED_THEME =
+            ResourceKey.create(
+                    Registries.JUKEBOX_SONG,
+                    ResourceLocation.fromNamespaceAndPath(
+                            ArcheCraft.MODID, "solzreed_theme"
+                    )
+            );
+
+    public static final DeferredItem<Item> AC_DISC_2 =
+            ITEMS.registerSimpleItem(
+                    "ac_disc_2",
+                    new Item.Properties()
+                            .stacksTo(1)
+                            .jukeboxPlayable(SOLZREED_THEME)
+            );
 
 
     public static void register(IEventBus modEventBus) {

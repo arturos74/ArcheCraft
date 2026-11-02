@@ -15,4 +15,10 @@ public class ModSounds {
                     () -> SoundEvent.createVariableRangeEvent(
                             ResourceLocation.fromNamespaceAndPath("archecraft", "custom_music")
                     ));
+
+    public static final DeferredHolder<SoundEvent, SoundEvent> SOLZREED_MUSIC =
+            SOUND_EVENTS.register("solzreed_theme",
+                    () -> SoundEvent.createVariableRangeEvent(
+                            ResourceLocation.fromNamespaceAndPath("archecraft", "solzreed_theme")
+                    ));
 }
