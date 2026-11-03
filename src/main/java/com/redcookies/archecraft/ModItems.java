@@ -42,6 +42,9 @@ public class ModItems {
 
     public static final DeferredItem<Item> YATA_FERTILIZER = ITEMS.registerSimpleItem("yata_fertilizer");
 
+    public static final DeferredItem<BlockItem> YATA_FERTILIZER_BLOCK_ITEM =
+            ITEMS.registerSimpleBlockItem("yata_fertilizer_block", ModBlocks.YATA_FERTILIZER_BLOCK);
+
     public static final DeferredItem<Item> GOAT_WOOL = ITEMS.registerSimpleItem("goat_wool");
 
     public static final DeferredItem<Item> HANDICRAFT_YARN = ITEMS.registerSimpleItem("handicraft_yarn");
@@ -52,6 +55,8 @@ public class ModItems {
 
     public static final DeferredItem<Item> CLOVER_SEEDS = ITEMS.registerItem("clover_seeds",
             props -> new ItemNameBlockItem(ModBlocks.CLOVER_CROP.get(), props));
+
+    public static final DeferredItem<Item> CLOVER = ITEMS.registerSimpleItem("clover");
 
     public static final ResourceKey<JukeboxSong> ARCHEAGE_THEME =
             ResourceKey.create(

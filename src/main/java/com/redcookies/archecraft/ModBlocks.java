@@ -31,6 +31,9 @@ public class ModBlocks {
             properties -> new CropBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.WHEAT)));
 
 
+    public static final DeferredBlock<Block> YATA_FERTILIZER_BLOCK = BLOCKS.registerSimpleBlock("yata_fertilizer_block",
+            BlockBehaviour.Properties.of().sound(SoundType.MUD));
+
     // This method will be called from your main class
     public static void register(IEventBus modEventBus) {
         BLOCKS.register(modEventBus);
