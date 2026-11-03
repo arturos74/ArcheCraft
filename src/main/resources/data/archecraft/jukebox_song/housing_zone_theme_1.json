@@ -1,0 +1,8 @@
+{
+  "sound_event": "archecraft:housing_zone_theme_1",
+  "description": {
+    "translate": "jukebox_song.archecraft.housing_zone_theme_1"
+  },
+  "length_in_seconds": 94.2535,
+  "comparator_output": 15
+}

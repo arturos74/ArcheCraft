@@ -10,14 +10,22 @@
   "item.archecraft.cooked_yata_meat" : "Cooked Yata Meat",
   "item.archecraft.yata_fur" : "Yata Fur",
   "item.archecraft.yata_fertilizer" : "Yata Fertilizer",
+  "block.archecraft.yata_fertilizer_block": "Yata Fertilizer Block",
   "item.archecraft.clover_seeds" : "Clover Seeds",
   "item.archecraft.clover" : "Clover",
+  "item.archecraft.bear_fur": "Bear Fur",
+  "item.archecraft.goat_wool": "Goat Wool",
+  "item.archecraft.handicraft_yarn": "Handicraft Yarn",
+  "item.archecraft.combined_feed": "Combined Feed",
 
   "item.archecraft.ac_disc_1": "ArcheAge Theme",
   "jukebox_song.archecraft.archeage_theme": "ArcheAge Theme",
 
   "item.archecraft.ac_disc_2": "Solzreed Theme",
   "jukebox_song.archecraft.solzreed_theme": "Solzreed Theme",
+
+  "item.archecraft.ac_disc_3": "Housing Zone Theme 1",
+  "jukebox_song.archecraft.housing_zone_theme_1": "Housing Zone Theme 1",
 
   "archecraft.configuration.title": "ArcheCraft Configs",
   "archecraft.configuration.section.archecraft.common.toml": "ArcheCraft Configs",

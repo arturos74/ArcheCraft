@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "archecraft:block/yata_fertilizer_block"
+  }
+}

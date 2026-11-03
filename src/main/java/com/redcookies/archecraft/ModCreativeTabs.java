@@ -27,6 +27,7 @@ public class ModCreativeTabs {
                         output.accept(ModItems.COOKED_YATA_MEAT.get());
                         output.accept(ModItems.YATA_FUR);
                         output.accept(ModItems.YATA_FERTILIZER);
+                        output.accept(ModItems.YATA_FERTILIZER_BLOCK_ITEM);
                         output.accept(ModItems.CLOVER_SEEDS);
                         output.accept(ModItems.CLOVER);
                         output.accept(ModItems.ARCHEUM_ORE);
@@ -34,6 +35,9 @@ public class ModCreativeTabs {
                         output.accept(ModItems.HANDICRAFT_YARN);
                         output.accept(ModItems.BEAR_FUR);
                         output.accept(ModItems.COMBINED_FEED);
+                        output.accept(ModItems.AC_DISC_1);
+                        output.accept(ModItems.AC_DISC_2);
+                        output.accept(ModItems.AC_DISC_3);
                     }).build());
 
     public static void register(IEventBus modEventBus) {

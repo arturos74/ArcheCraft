@@ -21,4 +21,10 @@ public class ModSounds {
                     () -> SoundEvent.createVariableRangeEvent(
                             ResourceLocation.fromNamespaceAndPath("archecraft", "solzreed_theme")
                     ));
+
+    public static final DeferredHolder<SoundEvent, SoundEvent> HOUSING_ZONE_THEME_1 =
+            SOUND_EVENTS.register("housing_zone_theme_1",
+                    () -> SoundEvent.createVariableRangeEvent(
+                            ResourceLocation.fromNamespaceAndPath("archecraft", "housing_zone_theme_1")
+                    ));
 }

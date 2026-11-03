@@ -51,7 +51,7 @@ public class ModItems {
 
     public static final DeferredItem<Item> BEAR_FUR = ITEMS.registerSimpleItem("bear_fur");
 
-    public static final DeferredItem<Item> COMBINED_FEED = ITEMS.registerSimpleItem("combine_feed");
+    public static final DeferredItem<Item> COMBINED_FEED = ITEMS.registerSimpleItem("combined_feed");
 
     public static final DeferredItem<Item> CLOVER_SEEDS = ITEMS.registerItem("clover_seeds",
             props -> new ItemNameBlockItem(ModBlocks.CLOVER_CROP.get(), props));
@@ -89,6 +89,22 @@ public class ModItems {
                     new Item.Properties()
                             .stacksTo(1)
                             .jukeboxPlayable(SOLZREED_THEME)
+            );
+
+    public static final ResourceKey<JukeboxSong> HOUSING_ZONE_THEME_1 =
+            ResourceKey.create(
+                    Registries.JUKEBOX_SONG,
+                    ResourceLocation.fromNamespaceAndPath(
+                            ArcheCraft.MODID, "housing_zone_theme_1"
+                    )
+            );
+
+    public static final DeferredItem<Item> AC_DISC_3 =
+            ITEMS.registerSimpleItem(
+                    "ac_disc_3",
+                    new Item.Properties()
+                            .stacksTo(1)
+                            .jukeboxPlayable(HOUSING_ZONE_THEME_1)
             );
 
 

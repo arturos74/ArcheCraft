@@ -14,5 +14,13 @@
         "stream": true
       }
     ]
+  },
+  "housing_zone_theme_1": {
+    "sounds" : [
+      {
+        "name": "archecraft:music/housing_zone_theme_1",
+        "stream": true
+      }
+    ]
   }
 }
