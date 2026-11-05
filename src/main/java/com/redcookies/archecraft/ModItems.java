@@ -23,14 +23,13 @@ public class ModItems {
     public static final DeferredItem<Item> EXAMPLE_ITEM = ITEMS.registerSimpleItem("example_item",
             new Item.Properties().food(new FoodProperties.Builder().alwaysEdible().nutrition(1).saturationModifier(2f).build()));
 
+    // <editor-fold desc="Items">
     public static final DeferredItem<Item> RAW_ARCHEUM = ITEMS.registerSimpleItem("raw_archeum");
+
     public static final DeferredItem<Item> ARCHEUM_INGOT = ITEMS.registerSimpleItem("archeum_ingot");
 
     public static final DeferredItem<BlockItem> ARCHEUM_ORE =
             ITEMS.registerSimpleBlockItem("archeum_ore", ModBlocks.ARCHEUM_ORE);
-
-    public static final DeferredItem<BlockItem> ARCHEUM_BLOCK_ITEM =
-            ITEMS.registerSimpleBlockItem("archeum_block", ModBlocks.ARCHEUM_BLOCK);
 
     public static final DeferredItem<Item> YATA_MEAT = ITEMS.registerSimpleItem("yata_meat",
             new Item.Properties().food(new FoodProperties.Builder().nutrition(1).saturationModifier(2f).build()));
@@ -41,9 +40,6 @@ public class ModItems {
     public static final DeferredItem<Item> YATA_FUR = ITEMS.registerSimpleItem("yata_fur");
 
     public static final DeferredItem<Item> YATA_FERTILIZER = ITEMS.registerSimpleItem("yata_fertilizer");
-
-    public static final DeferredItem<BlockItem> YATA_FERTILIZER_BLOCK_ITEM =
-            ITEMS.registerSimpleBlockItem("yata_fertilizer_block", ModBlocks.YATA_FERTILIZER_BLOCK);
 
     public static final DeferredItem<Item> GOAT_WOOL = ITEMS.registerSimpleItem("goat_wool");
 
@@ -58,6 +54,47 @@ public class ModItems {
 
     public static final DeferredItem<Item> CLOVER = ITEMS.registerSimpleItem("clover");
 
+    public static final DeferredItem<Item> SUNLIGHT_ARCHEUM_MOTES = ITEMS.registerSimpleItem("sunlight_archeum_motes");
+
+    public static final DeferredItem<Item> SUNLIGHT_ARCHEUM_DUST = ITEMS.registerSimpleItem("sunlight_archeum_dust");
+
+    public static final DeferredItem<Item> SUNLIGHT_ARCHEUM_SHARD = ITEMS.registerSimpleItem("sunlight_archeum_shard");
+
+    public static final DeferredItem<Item> SUNLIGHT_ARCHEUM_CRYSTAL = ITEMS.registerSimpleItem("sunlight_archeum_crystal");
+
+    public static final DeferredItem<Item> SUNLIGHT_ARCHEUM_ESSENCE = ITEMS.registerSimpleItem("sunlight_archeum_essence");
+
+    public static final DeferredItem<Item> MOONLIGHT_ARCHEUM_MOTES = ITEMS.registerSimpleItem("moonlight_archeum_motes");
+
+    public static final DeferredItem<Item> MOONLIGHT_ARCHEUM_DUST = ITEMS.registerSimpleItem("moonlight_archeum_dust");
+
+    public static final DeferredItem<Item> MOONLIGHT_ARCHEUM_SHARD = ITEMS.registerSimpleItem("moonlight_archeum_shard");
+
+    public static final DeferredItem<Item> MOONLIGHT_ARCHEUM_CRYSTAL =  ITEMS.registerSimpleItem("moonlight_archeum_crystal");
+
+    public static final DeferredItem<Item> MOONLIGHT_ARCHEUM_ESSENCE =  ITEMS.registerSimpleItem("moonlight_archeum_essence");
+
+    public static final DeferredItem<Item> STARLIGHT_ARCHEUM_MOTES = ITEMS.registerSimpleItem("starlight_archeum_motes");
+
+    public static final DeferredItem<Item> STARLIGHT_ARCHEUM_DUST = ITEMS.registerSimpleItem("starlight_archeum_dust");
+
+    public static final DeferredItem<Item> STARLIGHT_ARCHEUM_SHARD = ITEMS.registerSimpleItem("starlight_archeum_shard");
+
+    public static final DeferredItem<Item> STARLIGHT_ARCHEUM_CRYSTAL =  ITEMS.registerSimpleItem("starlight_archeum_crystal");
+
+    public static final DeferredItem<Item> STARLIGHT_ARCHEUM_ESSENCE =  ITEMS.registerSimpleItem("starlight_archeum_essence");
+
+    // </editor-fold>
+
+    // <editor-fold desc="Block Items">
+    public static final DeferredItem<BlockItem> ARCHEUM_BLOCK_ITEM =
+            ITEMS.registerSimpleBlockItem("archeum_block", ModBlocks.ARCHEUM_BLOCK);
+
+    public static final DeferredItem<BlockItem> YATA_FERTILIZER_BLOCK_ITEM =
+            ITEMS.registerSimpleBlockItem("yata_fertilizer_block", ModBlocks.YATA_FERTILIZER_BLOCK);
+    // </editor-fold>
+
+    // <editor-fold desc="Music Discs">
     public static final ResourceKey<JukeboxSong> ARCHEAGE_THEME =
             ResourceKey.create(
                     Registries.JUKEBOX_SONG,
@@ -106,6 +143,7 @@ public class ModItems {
                             .stacksTo(1)
                             .jukeboxPlayable(HOUSING_ZONE_THEME_1)
             );
+    // </editor-fold>
 
 
     public static void register(IEventBus modEventBus) {
