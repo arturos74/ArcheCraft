@@ -35,6 +35,7 @@ public class ModCreativeTabs {
                         output.accept(ModItems.HANDICRAFT_YARN);
                         output.accept(ModItems.BEAR_FUR);
                         output.accept(ModItems.COMBINED_FEED);
+                        output.accept(ModItems.SUNLIGHT_ARCHEUM_DUST);
                         output.accept(ModItems.AC_DISC_1);
                         output.accept(ModItems.AC_DISC_2);
                         output.accept(ModItems.AC_DISC_3);
