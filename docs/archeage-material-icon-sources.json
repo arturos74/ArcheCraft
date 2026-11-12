@@ -1,0 +1,1520 @@
+{
+  "retrieved_on": "2026-11-12",
+  "notes": "46 crafting materials: 45 database-sourced icons with backgrounds removed, plus one custom Rough Ruby icon. Original downloads remain backed up under build/material-icon-originals. No recipes or machine behavior are defined by these basic item registrations.",
+  "items": [
+    {
+      "item_id": "log",
+      "name": "Log",
+      "category": "Wood (Carpentry)",
+      "database_id": 8017,
+      "page_url": "https://archeagecodex.com/us/item/8017/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0093.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "684972facb0da471ecb1471c48c7a04ac8ff0781f283241cb4f5e171165ac416",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/log.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "sha256": "356e41ba70d7f7e527207629c08fba72881dcd7b526997e171250ab3d4fcea00",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/log.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/log.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Log. Extract the complete single bark-covered log and its cut wooden end. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "lumber",
+      "name": "Lumber",
+      "category": "Wood (Carpentry)",
+      "database_id": 8337,
+      "page_url": "https://archeagecodex.com/us/item/8337/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0041.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "3e37a1ef36235fc84595973a077ea532bf2d64992083a0a4971c59b61d85a05c",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/lumber.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "sha256": "9c0f3f668350498e423e845d9a31c2474bb6cd8d1cea8582ee2600a0a3759134",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/lumber.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/lumber.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Lumber. Extract the complete stack of cut wooden boards. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "fine_lumber",
+      "name": "Fine Lumber",
+      "category": "Wood (Carpentry)",
+      "database_id": 16324,
+      "page_url": "https://archeagecodex.com/us/item/16324/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0346.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "f226df075d98f1ee8c3f8bc68f3f6d17d09221e338f982bdd75d9f4454de2c12",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/fine_lumber.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "7ad5b4e49766e03130964bc778ceba37f6b4dd5b590aa27844db83e86bfc8c86",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/fine_lumber.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/fine_lumber.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Fine Lumber. Extract the complete stack of cut wooden boards with its cyan trim. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "nuri_forest_lumber",
+      "name": "Nuri Forest Lumber",
+      "category": "Wood (Carpentry)",
+      "database_id": 16326,
+      "page_url": "https://archeagecodex.com/us/item/16326/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0348.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "052224e387ae141d7434055fb2e1c11bf4576b970eebdfe83fb7599b01993a08",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/nuri_forest_lumber.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "sha256": "52c54339f75c9870b3674e22d199c878f2de9f0ef75b3d0b055817f10eb161c1",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/nuri_forest_lumber.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/nuri_forest_lumber.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Nuri Forest Lumber. Extract the complete stack of cut wooden boards with its purple trim. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "blazing_nuri_forest_lumber",
+      "name": "Blazing Nuri Forest Lumber",
+      "category": "Wood (Carpentry)",
+      "database_id": 29238,
+      "page_url": "https://archeagecodex.com/us/item/29238/",
+      "image_url": "https://archeagecodex.com/items/icon_item_3210.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "2c43a66644ea21e2889f1c80552013e0ed8842fce9c05a8c08e27308fd1257fc",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/blazing_nuri_forest_lumber.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "sha256": "23bc5387302db73e58c8fe6d011ed4ebb409c0a7c330130377dda20f74bcd7f9",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/blazing_nuri_forest_lumber.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/blazing_nuri_forest_lumber.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Blazing Nuri Forest Lumber. Extract the complete warm orange wooden board stack with the attached red flame effect. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "sunridge_ingot",
+      "name": "Sunridge Ingot",
+      "category": "Metal (Metalwork)",
+      "database_id": 16325,
+      "page_url": "https://archeagecodex.com/us/item/16325/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0280.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "d0b22aebe42401f28e2d482d0a5af5fdcb50fe68e01fc5f0007a3f54d8c977ea",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/sunridge_ingot.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "sha256": "7cf509813b9e5d423f92d25095183f8d52a02af13c690a7e8eebe4a058f61da5",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/sunridge_ingot.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/sunridge_ingot.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Sunridge Ingot. Extract the complete warm copper-orange metal ingot. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "blazing_sunridge_ingot",
+      "name": "Blazing Sunridge Ingot",
+      "category": "Metal (Metalwork)",
+      "database_id": 28969,
+      "page_url": "https://archeagecodex.com/us/item/28969/",
+      "image_url": "https://archeagecodex.com/items/icon_item_1347.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "3e4408e627750948103e0570517301967ec4221a5d38856fe31f40b599e73587",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/blazing_sunridge_ingot.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "b1fed083c9f6d88a0a6a724e9f770fde35101dd2253ef2d8d3a3af9fa1925d25",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/blazing_sunridge_ingot.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/blazing_sunridge_ingot.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Blazing Sunridge Ingot. Extract the complete glowing red metal ingot. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "silver_ore",
+      "name": "Silver Ore",
+      "category": "Metal (Metalwork)",
+      "database_id": 8023,
+      "page_url": "https://archeagecodex.com/us/item/8023/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0156.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "aed8bdd6ff48d1f1f51dd0fe3ed277eec226eb2520f0a50d42a8829596dbce2a",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/silver_ore.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "1ff4d539e2f36a4db90d84ab1f4c0449204f1b778a673b754036928cf5c3d062",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/silver_ore.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/silver_ore.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Silver Ore. Extract the complete silver mineral ore cluster. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "silver_ingot",
+      "name": "Silver Ingot",
+      "category": "Metal (Metalwork)",
+      "database_id": 17774,
+      "page_url": "https://archeagecodex.com/us/item/17774/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0325.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "368493bbba61a90ce96070567682db530938335bb78519b9dbfe6f9c5f46aed3",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/silver_ingot.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "7e0c5929ddfc89fd19a020d61771245073983b99b2d1cb3221f4da66bcdaa400",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/silver_ingot.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/silver_ingot.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Silver Ingot. Extract the complete silver metal ingot. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "starshard_chip",
+      "name": "Starshard Chip",
+      "category": "Metal (Metalwork)",
+      "database_id": 2201,
+      "page_url": "https://archeagecodex.com/us/item/2201/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0854.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "025fdc49d746a879398c06bc22579a25fe6573bca2fde343a331608e1825ff86",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/starshard_chip.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "sha256": "a314a42afc92b9f3c685a8575266b9f731230aaf4414c49af0c01ae8ff7fd259",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/starshard_chip.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/starshard_chip.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Starshard Chip. Extract the complete brown-gold mineral ore pile. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "starshard_ingot",
+      "name": "Starshard Ingot",
+      "category": "Metal (Metalwork)",
+      "database_id": 3332,
+      "page_url": "https://archeagecodex.com/us/item/3332/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0855.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "c89a387bf2bd9188ea3b2fe732fd726f8e720d21e6b22a8e24abff69f40c5efa",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/starshard_ingot.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "sha256": "c83b556b3957d9cab509c0ed19c92d2196fa992873602019e38643ba1a96f097",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/starshard_ingot.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/starshard_ingot.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Starshard Ingot. Extract the complete dark gold-brown metal ingot. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "pelt",
+      "name": "Pelt",
+      "category": "Leather (Leatherwork)",
+      "database_id": 8007,
+      "page_url": "https://archeagecodex.com/us/item/8007/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0095.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "93a252e4f94194f71b23f115f6968984bf6268a8511f8d6a1f9e46808286cf1a",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/pelt.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "7966600b1970eb36611d4aac291d59ac068349674e53c9128c79ba3d4637570a",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/pelt.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/pelt.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Pelt. Extract the complete brown animal pelt. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "leather",
+      "name": "Leather",
+      "category": "Leather (Leatherwork)",
+      "database_id": 16327,
+      "page_url": "https://archeagecodex.com/us/item/16327/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0352.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "c2e37d7b2e0963f04e22b5f7d9db27e48dec4e3978b5100960c59be722849e7e",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/leather.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "sha256": "034a8a8f389652845b66e78d0c1b1e6e54716adffa3746f70f64e017d57e27a2",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/leather.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/leather.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Leather. Extract the complete stack of folded brown leather. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "fine_leather",
+      "name": "Fine Leather",
+      "category": "Leather (Leatherwork)",
+      "database_id": 16328,
+      "page_url": "https://archeagecodex.com/us/item/16328/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0353.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "d9609edc9062e529bc3d178cd8fbbc7247d901317dae9bf8f7fdd966983d68e1",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/fine_leather.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "54461a87c5cf8bda4d0fcfebe56844c50c5f4b8511d67cf689f60db3ce720c7a",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/fine_leather.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/fine_leather.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Fine Leather. Extract the complete folded brown leather stack including its cyan trim. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "wind_spirit_leather",
+      "name": "Wind Spirit Leather",
+      "category": "Leather (Leatherwork)",
+      "database_id": 16330,
+      "page_url": "https://archeagecodex.com/us/item/16330/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0355.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "5d730b33344a40caa758c0966ca191940914e464dfd8744b7aaab903653e56a3",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/wind_spirit_leather.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "aa4e0efe6afd84a013353f3549c68cca3a8c9cb21609b1aa7f8519c1dc3945b5",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/wind_spirit_leather.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/wind_spirit_leather.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Wind Spirit Leather. Extract the complete folded brown leather stack including its purple trim. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "blazing_wind_spirit_leather",
+      "name": "Blazing Wind Spirit Leather",
+      "category": "Leather (Leatherwork)",
+      "database_id": 28970,
+      "page_url": "https://archeagecodex.com/us/item/28970/",
+      "image_url": "https://archeagecodex.com/items/icon_item_1348.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "2c60b204ab130e19223076f569dcfd6d42ae4337b352c5bcc7769780c64d0a9e",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/blazing_wind_spirit_leather.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "sha256": "6d2dc3153b6497b01d9420bea4ab2ef3c6144f6612679b26a0dd5e48aab02b8e",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/blazing_wind_spirit_leather.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/blazing_wind_spirit_leather.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Blazing Wind Spirit Leather. Extract the complete orange folded leather stack and attached flame effect. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "cotton",
+      "name": "Cotton",
+      "category": "Cloth (Tailoring)",
+      "database_id": 8357,
+      "page_url": "https://archeagecodex.com/us/item/8357/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0572.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "7194c3a49f302111713842761d5f97767c43fab3d0b2e8fea9aa1df1396fd985",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/cotton.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "2da88a1677595279c2ed067f36c42b92d43a4493e27847ce08c523ae946b6180",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/cotton.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/cotton.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Cotton. Extract the entire cluster of white cotton bolls with their brown stems. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "fabric",
+      "name": "Fabric",
+      "category": "Cloth (Tailoring)",
+      "database_id": 8256,
+      "page_url": "https://archeagecodex.com/us/item/8256/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0356.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "d5352d03fc088a4ea9d77dfd83c6e1928127825396448053eb5590bf0bbfedc3",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/fabric.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "221625f8b2f5a9ada041ada9d1b50f1daf4825048d8fbec13842b9ab867b6de0",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/fabric.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/fabric.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Fabric. Extract the complete folded white fabric. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "beautifully_colored_fabric",
+      "name": "Beautifully Colored Fabric",
+      "category": "Cloth (Tailoring)",
+      "database_id": 16344,
+      "page_url": "https://archeagecodex.com/us/item/16344/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0357.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "cbaab075a287404634243a9c18035f5d33b6f8fb8330f967f60f410a5d3476bf",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/beautifully_colored_fabric.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "sha256": "c8a223d4304931154ba10b4be466e35f896f09252e3759125e8c80e22071d42a",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/beautifully_colored_fabric.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/beautifully_colored_fabric.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Beautifully Colored Fabric. Extract the complete folded white fabric including its cyan trim. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "cloudspun_fabric",
+      "name": "Cloudspun Fabric",
+      "category": "Cloth (Tailoring)",
+      "database_id": 16346,
+      "page_url": "https://archeagecodex.com/us/item/16346/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0359.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "d6625343e9c3a4226199ba09b862495e50b33ce002a3559845806b68fb35b2a3",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/cloudspun_fabric.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "4b58e86be8504058356c30e197b7faac2fc72da86b5db9c4b15d183c8ab46f4d",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/cloudspun_fabric.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/cloudspun_fabric.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Cloudspun Fabric. Extract the complete folded white fabric including its purple trim. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "blazing_cloudspun_fabric",
+      "name": "Blazing Cloudspun Fabric",
+      "category": "Cloth (Tailoring)",
+      "database_id": 28971,
+      "page_url": "https://archeagecodex.com/us/item/28971/",
+      "image_url": "https://archeagecodex.com/items/icon_item_1346.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "9a6a65db13fb3d5e4e687fb682833240ec46221cafae5c00482e996b55668807",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/blazing_cloudspun_fabric.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "sha256": "0593c0c12d4fd2c42a57a4df08570f7c1cba441fd1ade9c4d3e368b5438f4ef9",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/blazing_cloudspun_fabric.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/blazing_cloudspun_fabric.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Blazing Cloudspun Fabric. Extract the complete warm glowing folded fabric and attached flame effect. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "hereafter_stone",
+      "name": "Hereafter Stone",
+      "category": "Stone (Masonry)",
+      "database_id": 4052,
+      "page_url": "https://archeagecodex.com/us/item/4052/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0418.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "81bab1ec57c7188b51dfdec75a9abcc5e1960bb27b5ec155aba546d34c5200a3",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/hereafter_stone.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "sha256": "aca958a30053c3f4b00e78915033f112b13c2617b110db67faa7767bf229ada5",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/hereafter_stone.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/hereafter_stone.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Hereafter Stone. Extract the green crystal and its small attached circular orange magic ring. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "sturdy_stone",
+      "name": "Sturdy Stone",
+      "category": "Stone (Masonry)",
+      "database_id": 16321,
+      "page_url": "https://archeagecodex.com/us/item/16321/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0349.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "e3f57d7ca06aa4a8c91b1bb38b0199a62e53e7593b31c6ae6167c98664606fba",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/sturdy_stone.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "sha256": "e63f87f316767e584dc3b951498fe1f9910db25359a0df7425506fbc63cdbe53",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/sturdy_stone.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/sturdy_stone.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Sturdy Stone. Extract the entire cubic block of pale masonry stones, including all its edges. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "rising_star_stone",
+      "name": "Rising Star Stone",
+      "category": "Stone (Masonry)",
+      "database_id": 16323,
+      "page_url": "https://archeagecodex.com/us/item/16323/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0351.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "3347936dec07588c910bf715684af1cec11622ad376b416612b57de6a793a599",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/rising_star_stone.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "f5496946b939c9b4fe7cd562dcba242a44a9a98ea926f5fb0d0ba2b38734a78d",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/rising_star_stone.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/rising_star_stone.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Rising Star Stone. Extract the entire cubic block of pale masonry stones with its purple trim. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "rough_ruby",
+      "name": "Rough Ruby",
+      "category": "Gems & Special Catalysts",
+      "source_type": "custom_generated_icon",
+      "notes": "No exact Rough Ruby entry was found in the checked ArcheAge database versions. Custom uncut-ruby icon created to match the database Ruby style.",
+      "reference_page_url": "https://archeagecodex.com/us/item/8077/",
+      "reference_image_url": "https://archeagecodex.com/items/icon_item_0158.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "046d05b34d21612a39c7505c5ed56d8058674d2b8945578a0b18de7fc31c6ed9",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/rough_ruby.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/rough_ruby.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Asset type: transparent 48x48 pixel fantasy MMORPG inventory icon. The supplied Ruby icon is a style and red-color reference only. Create a matching ROUGH RUBY item: a small uncut, irregular red corundum mineral cluster with natural jagged crystal faces, a few muted dark stone inclusions, and rough surfaces. It must be visually distinct from the polished faceted oval ruby in the reference. Match the reference's tiny painted pixel icon style and modest shading. Center it with margins on a square canvas, filling about 75 percent of the width. Output real transparent alpha behind the uncut ruby. No background, border, pedestal, text, labels or checkerboard. Prefer 48x48 output; preserve pixel-art readability."
+      }
+    },
+    {
+      "item_id": "ruby",
+      "name": "Ruby",
+      "category": "Gems & Special Catalysts",
+      "database_id": 8077,
+      "page_url": "https://archeagecodex.com/us/item/8077/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0158.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "1f28637a7af084f8cfb0f8244f04aec1cfcb96e4f718540608d39465029bfabb",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/ruby.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "sha256": "810a4a0d89644e64a55499065d63cef7b66421631bfed814a3eafb7d9e0c3754",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/ruby.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/ruby.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Ruby. Extract the complete faceted red ruby gemstone. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "sapphire",
+      "name": "Sapphire",
+      "category": "Gems & Special Catalysts",
+      "database_id": 8078,
+      "page_url": "https://archeagecodex.com/us/item/8078/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0159.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "56e3aa0be981837266b7462fe49f7db2c712a842cbf40712b50cb1698b8e420e",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/sapphire.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "sha256": "376f4e2065cb7d0e05b597b6aca8adafd77a497b0fb1de5678f20d38e7b24740",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/sapphire.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/sapphire.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Sapphire. Extract the complete faceted blue sapphire gemstone. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "topaz",
+      "name": "Topaz",
+      "category": "Gems & Special Catalysts",
+      "database_id": 8084,
+      "page_url": "https://archeagecodex.com/us/item/8084/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0326.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "c56588e358e7ddb3c743158d0fd0761ae63ceed0d113e35bdca8575ff807849d",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/topaz.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "8b4bb6237dc187e475e4d2902d85fb904516372ebfb34bc0503c9d8f37478d97",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/topaz.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/topaz.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Topaz. Extract the complete faceted golden yellow topaz gemstone. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "mysterious_garden_powder",
+      "name": "Mysterious Garden Powder",
+      "category": "Gems & Special Catalysts",
+      "database_id": 23653,
+      "page_url": "https://archeagecodex.com/us/item/23653/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0289.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "d8bda43a625f7d1ac25a3e68e7c6c9c05fc842f86fea268543db4b7ff66e7f3d",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/mysterious_garden_powder.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "sha256": "d345c3b7d642d234f83a9b8167236496d8d810f918156e13de2b8a41b61f8ae4",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/mysterious_garden_powder.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/mysterious_garden_powder.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Mysterious Garden Powder. Extract the entire small mound of white powder. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "blue_salt_wedge",
+      "name": "Blue Salt Wedge",
+      "category": "Gems & Special Catalysts",
+      "database_id": 8327,
+      "page_url": "https://archeagecodex.com/us/item/8327/",
+      "image_url": "https://archeagecodex.com/items/icon_item_1751.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "ce1e36386811a72b019b106a87494795487d33a302d547bc8571edc8a1dc2514",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/blue_salt_wedge.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "6fd7f1f7351cb4f5cc96478ee1e1ed0f766584b95830a08a98776b1d006ee5eb",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/blue_salt_wedge.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/blue_salt_wedge.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Blue Salt Wedge. Extract the complete silver wedge and its attached small blue sparkles. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "small_seed_oil",
+      "name": "Small Seed Oil",
+      "category": "Alchemy Oils",
+      "database_id": 19449,
+      "page_url": "https://archeagecodex.com/us/item/19449/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0648.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "a55b7e56034614b3f4e94551aef08b7f8c238ab7e8f2d014c8ad5286a5a215f7",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/small_seed_oil.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "sha256": "6cc8c7491ca7bc6bdd2dc250507ea8bdeba40f079c2c99dacc920aab437a20dd",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/small_seed_oil.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/small_seed_oil.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Small Seed Oil. Extract the complete original glass bottle, including its stopper, narrow neck, glass outer silhouette, colored liquid, and all original highlights. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "viscous_glossy_oil",
+      "name": "Viscous Glossy Oil",
+      "category": "Alchemy Oils",
+      "database_id": 19407,
+      "page_url": "https://archeagecodex.com/us/item/19407/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0649.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "a82735a1c8b7693678e38c391a00d8fb06f0a32598d23853f0113f79bbe29093",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/viscous_glossy_oil.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "sha256": "8810777706359ffa0859ca9d477593fe87bd5e190e6f912f68be0c73dec4f871",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/viscous_glossy_oil.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/viscous_glossy_oil.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Viscous Glossy Oil. Extract the complete original glass bottle, including its stopper, narrow neck, glass outer silhouette, colored liquid, and all original highlights. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "emulsified_oil",
+      "name": "Emulsified Oil",
+      "category": "Alchemy Oils",
+      "database_id": 19408,
+      "page_url": "https://archeagecodex.com/us/item/19408/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0650.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "ed2e23bc0dde721a1cad6615f8df75fbca58a22c9b65cae2b09c8261b6dce0e2",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/emulsified_oil.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "78ea33c336fd66dabf5c5d0df814c7c4e40cb189c68a9ecdc425aa2382e25c84",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/emulsified_oil.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/emulsified_oil.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Emulsified Oil. Extract the complete original glass bottle, including its stopper, narrow neck, glass outer silhouette, colored liquid, and all original highlights. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "deeply_colored_oil",
+      "name": "Deeply Colored Oil",
+      "category": "Alchemy Oils",
+      "database_id": 19409,
+      "page_url": "https://archeagecodex.com/us/item/19409/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0651.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "ecc80edec4035918e140b3ee3c8385856ef73b3b9da77d8fcf8eb569c71e8f4e",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/deeply_colored_oil.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "sha256": "b47bf080742ad51066c15854e2b9f18c1b85ce7e60e202a3571af8b13867f7c0",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/deeply_colored_oil.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/deeply_colored_oil.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Deeply Colored Oil. Extract the complete original glass bottle, including its stopper, narrow neck, glass outer silhouette, colored liquid, and all original highlights. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "opaque_polish",
+      "name": "Opaque Polish",
+      "category": "Alchemy Polishes",
+      "database_id": 19450,
+      "page_url": "https://archeagecodex.com/us/item/19450/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0644.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "0d4345ac2df341664d597984799789c41affaef0e38897b40c5a227ff2eb7be2",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/opaque_polish.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "0c4e4d4e659ee08a22a6b7f87423319319e4b5a55ae33f8c485c0ff63c8a3936",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/opaque_polish.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/opaque_polish.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Opaque Polish. Extract the complete original glass bottle, including its stopper, narrow neck, glass outer silhouette, colored liquid, and all original highlights. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "rough_polish",
+      "name": "Rough Polish",
+      "category": "Alchemy Polishes",
+      "database_id": 19410,
+      "page_url": "https://archeagecodex.com/us/item/19410/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0645.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "ad5a6e7e0e9a7d5954aae2e8c1662341f5b8922fd841b90e1f9214c4e9967f05",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/rough_polish.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "sha256": "b3a4bb1b65a3366e7d365a2f1e39ba8ce931fc6ff84f4344b1c5cc54eeacdb2e",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/rough_polish.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/rough_polish.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Rough Polish. Extract the complete original glass bottle, including its stopper, narrow neck, glass outer silhouette, colored liquid, and all original highlights. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "non_stick_polish",
+      "name": "Non-Stick Polish",
+      "category": "Alchemy Polishes",
+      "database_id": 19411,
+      "page_url": "https://archeagecodex.com/us/item/19411/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0646.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "5b8eb30e67656a802460b3be61f428074b7d713f86fbc53d13a744bce51a37c0",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/non_stick_polish.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "e9e303ac88bb77bcc7ea90e6c4a9cc3a06dc72995d51159dfd6f4825b74e36a3",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/non_stick_polish.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/non_stick_polish.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Non-Stick Polish. Extract the complete original glass bottle, including its stopper, narrow neck, glass outer silhouette, colored liquid, and all original highlights. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "rainbow_polish",
+      "name": "Rainbow Polish",
+      "category": "Alchemy Polishes",
+      "database_id": 19412,
+      "page_url": "https://archeagecodex.com/us/item/19412/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0647.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "9a1bc15a2185334152d655109f743e44a35fb55d6b1ef00a86b49bee3d219b37",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/rainbow_polish.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "sha256": "7a3559b18e3e339da12ca1c82b2f3145f176ee11cc4e41910d3ed1a74eb3f426",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/rainbow_polish.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/rainbow_polish.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Rainbow Polish. Extract the complete original glass bottle, including its stopper, narrow neck, glass outer silhouette, colored liquid, and all original highlights. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "small_root_pigment",
+      "name": "Small Root Pigment",
+      "category": "Alchemy Pigments",
+      "database_id": 19448,
+      "page_url": "https://archeagecodex.com/us/item/19448/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0640.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "1f115974a982c8ff8c46fde6ad12f31767a637e92bcbe2b606679f562f3897ab",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/small_root_pigment.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "sha256": "c6e73c5718919a8e8c9e06d4fd1779ef63b631c03d32bb09643ed71fedf458c1",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/small_root_pigment.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/small_root_pigment.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Small Root Pigment. Extract the complete original glass bottle, including its stopper, narrow neck, glass outer silhouette, colored liquid, and all original highlights. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "small_leaf_pigment",
+      "name": "Small Leaf Pigment",
+      "category": "Alchemy Pigments",
+      "database_id": 19402,
+      "page_url": "https://archeagecodex.com/us/item/19402/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0641.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "bbf34a734b54d756c29b76e814e5eeb0d8fef35aea6f3afc7930aa0948213a44",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/small_leaf_pigment.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "sha256": "a7e4babf29ba499d8a6d639b5a4c4a4b2cb2a2be34733ba02ec9fd3f85440899",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/small_leaf_pigment.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/small_leaf_pigment.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Small Leaf Pigment. Extract the complete original glass bottle, including its stopper, narrow neck, glass outer silhouette, colored liquid, and all original highlights. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "soft_stem_pigment",
+      "name": "Soft Stem Pigment",
+      "category": "Alchemy Pigments",
+      "database_id": 19403,
+      "page_url": "https://archeagecodex.com/us/item/19403/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0642.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "5d4e20d420b44333da7993db23355021f74e1fff34fb6637ffaae47b27940fdf",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/soft_stem_pigment.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "ddd1213436af91e8d8a341c045c602eadb1015707da91fe136b8ad5fa8cfd2ba",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/soft_stem_pigment.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/soft_stem_pigment.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Soft Stem Pigment. Extract the complete original glass bottle, including its stopper, narrow neck, glass outer silhouette, colored liquid, and all original highlights. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "scented_petal_pigment",
+      "name": "Scented Petal Pigment",
+      "category": "Alchemy Pigments",
+      "database_id": 19404,
+      "page_url": "https://archeagecodex.com/us/item/19404/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0643.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "5d307ff635cb3c6516eacb11828ff46aa0a0d6a54d261e34f106776082292392",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/scented_petal_pigment.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "sha256": "d0ef846274913f26d155c438d82e56ba658024fd8d3b6630c879ed82622cd831",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/scented_petal_pigment.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/scented_petal_pigment.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Scented Petal Pigment. Extract the complete original glass bottle, including its stopper, narrow neck, glass outer silhouette, colored liquid, and all original highlights. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "charcoal_stabilizer",
+      "name": "Charcoal Stabilizer",
+      "category": "Trade Run Stabilizers",
+      "database_id": 32103,
+      "page_url": "https://aa-classic.com/database/item/32103",
+      "image_url": "https://archeagecodex.com/items/icon_item_1766.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "e5624e402aebe75acfe51de6e8a4ed9ff9c49e39f7b18560a63197afac7b0bfd",
+      "name_verification_url": "https://aa-classic.com/database/item/32103",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/charcoal_stabilizer.png",
+      "notes": "Historical icon filename verified against ArcheAge Classic. The current Codex item entry reuses ID 32103 for Onyx Archeum Essence; the historical icon was downloaded directly by its verified filename.",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "sha256": "d787054b4e71cbbe45f4ed7c76e85ac9fcbe417812f9d120f7db93ad6a224ef0",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/charcoal_stabilizer.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/charcoal_stabilizer.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Charcoal Stabilizer. Extract the complete pile of black charcoal pieces. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "rock_salt_stabilizer",
+      "name": "Rock Salt Stabilizer",
+      "category": "Trade Run Stabilizers",
+      "database_id": 32104,
+      "page_url": "https://archeagecodex.com/us/item/32104/",
+      "image_url": "https://archeagecodex.com/items/icon_item_1757.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "5b11d58c188d8f45163f93ad0d703f08344cc1d303a15263a635d4b9517b18be",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/rock_salt_stabilizer.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "81c5c32dfc8b9fcd120c4937d3044d506a7920e3f1d12b0adf7db13e1c3452c1",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/rock_salt_stabilizer.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/rock_salt_stabilizer.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Rock Salt Stabilizer. Extract the complete small pale green-white mound of rock salt. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "crystal_stabilizer",
+      "name": "Crystal Stabilizer",
+      "category": "Trade Run Stabilizers",
+      "database_id": 32105,
+      "page_url": "https://archeagecodex.com/us/item/32105/",
+      "image_url": "https://archeagecodex.com/items/icon_item_1755.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "33e99e157ee289aa054b66d6a2086d9d1bccf8594e845ed0baa82e7689cae857",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/crystal_stabilizer.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "sha256": "8d84d3561f9322eb8f53c6177c15b0473d745b65d5f996cf18f1d321ff184757",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/crystal_stabilizer.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/crystal_stabilizer.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Crystal Stabilizer. Extract the entire orange translucent hemispherical crystal. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    },
+    {
+      "item_id": "dragon_essence_stabilizer",
+      "name": "Dragon Essence Stabilizer",
+      "category": "Trade Run Stabilizers",
+      "database_id": 32106,
+      "page_url": "https://archeagecodex.com/us/item/32106/",
+      "image_url": "https://archeagecodex.com/items/icon_item_1168.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "original_sha256": "bf0c3f98c08cd3970fd9a1f47b895205ab08a8651373bdb0d6c9093e0a7640eb",
+      "source_type": "database_icon",
+      "original_backup_path": "build/material-icon-originals/dragon_essence_stabilizer.png",
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "sha256": "854ab498c728ed6691bc0b86e6f3c4e003d0ad99f0f6f4aa4a3987959b9272af",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/dragon_essence_stabilizer.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/dragon_essence_stabilizer.json",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Dragon Essence Stabilizer. Extract the complete small round glass vial with purple liquid and its cork. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
+      }
+    }
+  ]
+}

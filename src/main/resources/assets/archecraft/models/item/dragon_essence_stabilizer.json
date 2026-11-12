@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "archecraft:item/dragon_essence_stabilizer"
+  }
+}

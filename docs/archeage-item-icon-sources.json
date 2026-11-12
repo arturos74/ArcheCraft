@@ -1,0 +1,307 @@
+{
+  "source": "ArcheAge Codex",
+  "retrieved_on": "2026-11-12",
+  "notes": "Database icons edited with built-in image_gen to remove backgrounds, then downscaled to 48x48 with transparency preserved. Source URLs and original checksums retained. Original PNG backups are in build/icon-background-originals. Hasla tokens use the corresponding Faded Token icons.",
+  "items": [
+    {
+      "item_id": "hasla_token_courage",
+      "database_id": 26055,
+      "title": "Faded Courage Token - Archeage Codex",
+      "page_url": "https://archeagecodex.com/us/item/26055/",
+      "image_url": "https://archeagecodex.com/items/quest/icon_item_quest193.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "58ab0f2d5ffe8b849090fdfe510d238d3158ed170246a51c320f6b5a1edd0813",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/hasla_token_courage.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/hasla_token_courage.json",
+      "original_sha256": "06038d5f51343a513142c2abdab2ba2b1056407df0c19f1526d7493490f4ae42",
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "background_removal": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to original 48x48 canvas",
+        "prompt": "Use case: background-extraction. Edit target: the supplied 48x48 pixel game item icon, Hasla Courage Token. Remove ONLY its dark gray/purple square background and the background drop shadow. Output one PNG with real transparent alpha behind the complete token. Preserve the existing token's exact silhouette, original small pixel details, beige/brown color, brightness, framing, position, size and orientation. Do not redraw, reinterpret, smooth, sharpen, add detail, add text, add borders, or invent anything. Keep the full original 48x48 canvas and object placement; return at 48x48 pixels if possible. The jagged brown and beige token is the foreground; the square background is removed completely. No checkerboard baked into the image."
+      }
+    },
+    {
+      "item_id": "hasla_token_loyalty",
+      "database_id": 26054,
+      "title": "Faded Loyalty Token - Archeage Codex",
+      "page_url": "https://archeagecodex.com/us/item/26054/",
+      "image_url": "https://archeagecodex.com/items/quest/icon_item_quest192.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "sha256": "65bc8fa0803b98f5f908507e68ea840adc2f5eeaf3a9aee5457cc33b5f633d4c",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/hasla_token_loyalty.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/hasla_token_loyalty.json",
+      "original_sha256": "d715028f575ac2a81ee80154351deb5da7b1ed9840d98fc0fcacbb494a3959f3",
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "background_removal": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to original 48x48 canvas",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 pixel ArcheAge game token icon (hasla_token_loyalty). Remove ONLY the dark square background and background drop shadow; output real transparent PNG alpha behind the complete colored jagged token. Preserve the exact original token artwork, colors, silhouette, internal markings, pixel details, size, orientation and position within the complete original square canvas. No redesign, embellishment, smoothing, sharpening, extra details, labels, borders, checkerboard or replacement background. Keep the original 48x48 resolution if possible. Foreground is the entire jagged token; extract it cleanly."
+      }
+    },
+    {
+      "item_id": "hasla_token_conviction",
+      "database_id": 26056,
+      "title": "Faded Conviction Token - Archeage Codex",
+      "page_url": "https://archeagecodex.com/us/item/26056/",
+      "image_url": "https://archeagecodex.com/items/quest/icon_item_quest194.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "e351fdcf42862dcbaeef4d3ae2a5754eda8624fad29bf1fa8f8ef6a07873ab3f",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/hasla_token_conviction.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/hasla_token_conviction.json",
+      "original_sha256": "bc2f72b4a7f3900b15436cd8b9a5a5b4a7549d800284f5901e89e21cfbbaf6f6",
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "background_removal": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to original 48x48 canvas",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 pixel ArcheAge game token icon (hasla_token_conviction). Remove ONLY the dark square background and background drop shadow; output real transparent PNG alpha behind the complete colored jagged token. Preserve the exact original token artwork, colors, silhouette, internal markings, pixel details, size, orientation and position within the complete original square canvas. No redesign, embellishment, smoothing, sharpening, extra details, labels, borders, checkerboard or replacement background. Keep the original 48x48 resolution if possible. Foreground is the entire jagged token; extract it cleanly."
+      }
+    },
+    {
+      "item_id": "hasla_token_fortitude",
+      "database_id": 26057,
+      "title": "Faded Fortitude Token - Archeage Codex",
+      "page_url": "https://archeagecodex.com/us/item/26057/",
+      "image_url": "https://archeagecodex.com/items/quest/icon_item_quest195.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "sha256": "8cfdfe87cb8ea2befe1858c44c3d4028b56cc452203071a649d7114298b405fc",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/hasla_token_fortitude.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/hasla_token_fortitude.json",
+      "original_sha256": "88e30a880fb255cbfa026ca0b832d015bb8cc7e44b513979ddd57772b445cfef",
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "background_removal": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to original 48x48 canvas",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 pixel ArcheAge game token icon (hasla_token_fortitude). Remove ONLY the dark square background and background drop shadow; output real transparent PNG alpha behind the complete colored jagged token. Preserve the exact original token artwork, colors, silhouette, internal markings, pixel details, size, orientation and position within the complete original square canvas. No redesign, embellishment, smoothing, sharpening, extra details, labels, borders, checkerboard or replacement background. Keep the original 48x48 resolution if possible. Foreground is the entire jagged token; extract it cleanly."
+      }
+    },
+    {
+      "item_id": "hasla_token_honor",
+      "database_id": 26053,
+      "title": "Faded Honor Token - Archeage Codex",
+      "page_url": "https://archeagecodex.com/us/item/26053/",
+      "image_url": "https://archeagecodex.com/items/quest/icon_item_quest191.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "sha256": "539e4cc86e7c7502860e525e4fa7997e384612d4a7e9cf8dfd1ac31e19e87853",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/hasla_token_honor.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/hasla_token_honor.json",
+      "original_sha256": "ce3f74c77bfafe2dd6a1c8766a9382b49f219ce01aabdd0aa6b0058dcb17e071",
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "background_removal": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to original 48x48 canvas",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 pixel ArcheAge game item icon (hasla_token_honor). Extract ONLY the entire jagged gold-beige token with its original dark markings. Remove the dark gray/purple square background and background drop shadow completely. Output genuine transparent PNG alpha, not a checkerboard. Preserve the exact original item artwork, silhouette, original colors and internal pixels, orientation, framing, object scale and position within the full original square canvas. No redraw, redesign, invented detail, text, replacement background, smoothing or sharpening. Keep the original 48x48 output resolution if possible. Change only background to transparency."
+      }
+    },
+    {
+      "item_id": "hasla_token_sacrifice",
+      "database_id": 26058,
+      "title": "Faded Sacrifice Token - Archeage Codex",
+      "page_url": "https://archeagecodex.com/us/item/26058/",
+      "image_url": "https://archeagecodex.com/items/quest/icon_item_quest196.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "sha256": "0abdfff72e8d60d54cf019b77ecceaec4565e673ec821ba775a1588e28088e60",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/hasla_token_sacrifice.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/hasla_token_sacrifice.json",
+      "original_sha256": "e502a2ed08c8491d62c024d130017124d82e79769f84019433636bedcd2ec898",
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "background_removal": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to original 48x48 canvas",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 pixel ArcheAge game item icon (hasla_token_sacrifice). Extract ONLY the entire jagged green token with its original dark markings. Remove the dark gray/purple square background and background drop shadow completely. Output genuine transparent PNG alpha, not a checkerboard. Preserve the exact original item artwork, silhouette, original colors and internal pixels, orientation, framing, object scale and position within the full original square canvas. No redraw, redesign, invented detail, text, replacement background, smoothing or sharpening. Keep the original 48x48 output resolution if possible. Change only background to transparency."
+      }
+    },
+    {
+      "item_id": "hasla_token_compassion",
+      "database_id": 35525,
+      "title": "Faded Compassion Token - Archeage Codex",
+      "page_url": "https://archeagecodex.com/us/item/35525/",
+      "image_url": "https://archeagecodex.com/items/icon_item_2100.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "sha256": "4be679d61b4608a1aa26d55426d9590ce4733cb425ed96bfcf70ad88d6aafd94",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/hasla_token_compassion.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/hasla_token_compassion.json",
+      "original_sha256": "c0269096d55660ce226c74e28906885a0a649689cff6f2a5932312aecf6d5dda",
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "background_removal": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to original 48x48 canvas",
+        "prompt": "Background removal for a tiny fantasy game inventory asset. The input is an existing 48x48 yellow Hasla Compassion Token icon from the ArcheAge database. Keep the supplied item's artwork and placement as-is and replace only the dark square background with transparent alpha. Do not create or change symbols, shapes or colors. Preserve the complete original token silhouette. Return a transparent PNG of just the existing item."
+      }
+    },
+    {
+      "item_id": "rumbling_archeum_tree_sapling",
+      "database_id": 26956,
+      "title": "Rumbling Archeum Tree Sapling - Archeage Codex",
+      "page_url": "https://archeagecodex.com/us/item/26956/",
+      "image_url": "https://archeagecodex.com/items/icon_item_1006.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "sha256": "57562f69794ff3a72e26b2d4175dcf28cfed17f2495c77db0d930c4b10001c2d",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/rumbling_archeum_tree_sapling.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/rumbling_archeum_tree_sapling.json",
+      "original_sha256": "3b6bf983f73bac271e5a35b83e4042f47bb3a8794978390d517f704251b57737",
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "background_removal": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to original 48x48 canvas",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 pixel ArcheAge game item icon (rumbling_archeum_tree_sapling). Extract ONLY the entire green sapling and brown trunk plus the pale blue/violet lightning bolts around it; preserve all leaves, thin twigs, and lightning and make the gaps between branches transparent. Remove the dark gray/purple square background and background drop shadow completely. Output genuine transparent PNG alpha, not a checkerboard. Preserve the exact original item artwork, silhouette, original colors and internal pixels, orientation, framing, object scale and position within the full original square canvas. No redraw, redesign, invented detail, text, replacement background, smoothing or sharpening. Keep the original 48x48 output resolution if possible. Change only background to transparency."
+      }
+    },
+    {
+      "item_id": "gilda_star",
+      "database_id": 23633,
+      "title": "Gilda Star - Archeage Codex",
+      "page_url": "https://archeagecodex.com/us/item/23633/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0476.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "3159e29bc45e25b363db4aa2c15f42c7309b2e864a9be3937505cb2c7dd6ffb3",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/gilda_star.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/gilda_star.json",
+      "original_sha256": "96074f436a96f6d3544c85f2b87e4469bcf196f248453a0e87706fa469eef9e9",
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "background_removal": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to original 48x48 canvas",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 pixel ArcheAge game item icon (gilda_star). Extract ONLY the entire round golden coin including its embossed star and complete gold rim. Remove the dark gray/purple square background and background drop shadow completely. Output genuine transparent PNG alpha, not a checkerboard. Preserve the exact original item artwork, silhouette, original colors and internal pixels, orientation, framing, object scale and position within the full original square canvas. No redraw, redesign, invented detail, text, replacement background, smoothing or sharpening. Keep the original 48x48 output resolution if possible. Change only background to transparency."
+      }
+    },
+    {
+      "item_id": "blue_salt_bond",
+      "database_id": 41488,
+      "title": "Blue Salt Bond - Archeage Codex",
+      "page_url": "https://archeagecodex.com/us/item/41488/",
+      "image_url": "https://archeagecodex.com/items/icon_item_3493.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "sha256": "abb24a61cc8562d3cb78d357443957edc694a2226d86bc7ca2f940d327bd9b09",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/blue_salt_bond.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/blue_salt_bond.json",
+      "original_sha256": "ef50a415d73d7d28df22bebecb7dee7c0f11a1c873c41a61a9557d193b1ba615",
+      "original_alpha_extrema": [
+        255,
+        255
+      ],
+      "background_removal": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to original 48x48 canvas",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 pixel ArcheAge game item icon (blue_salt_bond). Extract ONLY the entire green rectangular paper certificate with yellow outline and yellow center design; the green inside the certificate is foreground and must remain opaque. Remove the dark gray/purple square background and background drop shadow completely. Output genuine transparent PNG alpha, not a checkerboard. Preserve the exact original item artwork, silhouette, original colors and internal pixels, orientation, framing, object scale and position within the full original square canvas. No redraw, redesign, invented detail, text, replacement background, smoothing or sharpening. Keep the original 48x48 output resolution if possible. Change only background to transparency."
+      }
+    }
+  ]
+}
