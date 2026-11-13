@@ -35,7 +35,24 @@ public class ModCreativeTabs {
                         output.accept(ModItems.HANDICRAFT_YARN);
                         output.accept(ModItems.BEAR_FUR);
                         output.accept(ModItems.COMBINED_FEED);
+                        // Sunlight Archeum
+                        output.accept(ModItems.SUNLIGHT_ARCHEUM_MOTES);
                         output.accept(ModItems.SUNLIGHT_ARCHEUM_DUST);
+                        output.accept(ModItems.SUNLIGHT_ARCHEUM_SHARD);
+                        output.accept(ModItems.SUNLIGHT_ARCHEUM_CRYSTAL);
+                        output.accept(ModItems.SUNLIGHT_ARCHEUM_ESSENCE);
+                        // Moonlight Archeum
+                        output.accept(ModItems.MOONLIGHT_ARCHEUM_MOTES);
+                        output.accept(ModItems.MOONLIGHT_ARCHEUM_DUST);
+                        output.accept(ModItems.MOONLIGHT_ARCHEUM_SHARD);
+                        output.accept(ModItems.MOONLIGHT_ARCHEUM_CRYSTAL);
+                        output.accept(ModItems.MOONLIGHT_ARCHEUM_ESSENCE);
+                        // Starlight Archeum
+                        output.accept(ModItems.STARLIGHT_ARCHEUM_MOTES);
+                        output.accept(ModItems.STARLIGHT_ARCHEUM_DUST);
+                        output.accept(ModItems.STARLIGHT_ARCHEUM_SHARD);
+                        output.accept(ModItems.STARLIGHT_ARCHEUM_CRYSTAL);
+                        output.accept(ModItems.STARLIGHT_ARCHEUM_ESSENCE);
                         output.accept(ModItems.HASLA_TOKEN_COURAGE);
                         output.accept(ModItems.HASLA_TOKEN_LOYALTY);
                         output.accept(ModItems.HASLA_TOKEN_CONVICTION);

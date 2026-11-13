@@ -1,0 +1,484 @@
+{
+  "source": "ArcheAge Codex",
+  "retrieved_on": "2026-11-12",
+  "notes": "All 15 Sunlight, Moonlight, and Starlight materials plus Raw Archeum and Archeum Ingot. Backgrounds removed with built-in image_gen; original database URLs, checksums, and edit prompts retained. Prior project textures backed up under build/archeum-prior-textures. Database original PNGs are under build/archeum-icon-originals.",
+  "items": [
+    {
+      "item_id": "sunlight_archeum_motes",
+      "name": "Sunlight Archeum Motes",
+      "database_name": "Sunlight Archeum Motes",
+      "category": "Sunlight Archeum",
+      "database_id": 25798,
+      "page_url": "https://archeagecodex.com/us/item/25798/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0868.png",
+      "original_sha256": "6891c2c8c9cc96b2e08afdcb145df41271d44d286feaaccbb9139b6564ad9c21",
+      "original_path": "build/archeum-icon-originals/sunlight_archeum_motes.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "sha256": "b79b86bffe428ff0f04f585d2ef551ecff297505357e46f82cc51dbd5c3f7279",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/sunlight_archeum_motes.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/sunlight_archeum_motes.json",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving alpha.",
+        "prompt": "Use case: background-extraction. Edit target: supplied original 48x48 ArcheAge icon, Sunlight Archeum Motes. Extract every separate small floating crystal mote; retain ALL the tiny fragments and their close colored rims. Replace only the dark square background and its broad background haze/shadow with genuine transparent PNG alpha. Preserve the foreground's exact original shape, orientation, relative size, position, internal art and pixel details. Keep the red family tint and tight colored glow immediately around the item so its Archeum type remains recognizable. Do not add new shapes, text, watermarks, checkerboards or a replacement backdrop. Do not redesign the object or change its colors. Preserve the full square canvas and original placement. Output at 48x48 if possible."
+      }
+    },
+    {
+      "item_id": "sunlight_archeum_dust",
+      "name": "Sunlight Archeum Dust",
+      "database_name": "Sunlight Archeum Dust",
+      "category": "Sunlight Archeum",
+      "database_id": 16347,
+      "page_url": "https://archeagecodex.com/us/item/16347/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0360.png",
+      "original_sha256": "38ccdc0e40354a33f3a7afdda8513331846efb8a0619bc05ef4a2a9b2d013a48",
+      "original_path": "build/archeum-icon-originals/sunlight_archeum_dust.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "sha256": "08d5e51c15eec0e8220d70e900a5bdb9857d314c8ffe8bd2e9bae02cc09cd5c5",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/sunlight_archeum_dust.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/sunlight_archeum_dust.json",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving alpha.",
+        "prompt": "Use case: background-extraction. Edit target: supplied original 48x48 ArcheAge icon, Sunlight Archeum Dust. Extract the complete little pile of white crystalline powder. Replace only the dark square background and its broad background haze/shadow with genuine transparent PNG alpha. Preserve the foreground's exact original shape, orientation, relative size, position, internal art and pixel details. Keep the red family tint and tight colored glow immediately around the item so its Archeum type remains recognizable. Do not add new shapes, text, watermarks, checkerboards or a replacement backdrop. Do not redesign the object or change its colors. Preserve the full square canvas and original placement. Output at 48x48 if possible."
+      }
+    },
+    {
+      "item_id": "sunlight_archeum_shard",
+      "name": "Sunlight Archeum Shard",
+      "database_name": "Sunlight Archeum Shard",
+      "category": "Sunlight Archeum",
+      "database_id": 16350,
+      "page_url": "https://archeagecodex.com/us/item/16350/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0363.png",
+      "original_sha256": "3e3e37f405baf8c1b03960c73cac227b0c4e47c4545410b2ed30dc5ab23ae0c5",
+      "original_path": "build/archeum-icon-originals/sunlight_archeum_shard.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "sha256": "6393353d7ba4a545aafbb79bf768ad3352509e7f4ac58a510a3650f19a5fe09b",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/sunlight_archeum_shard.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/sunlight_archeum_shard.json",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving alpha.",
+        "prompt": "Use case: background-extraction. Edit target: supplied original 48x48 ArcheAge icon, Sunlight Archeum Shard. Extract the complete long rectangular white crystal shard. Replace only the dark square background and its broad background haze/shadow with genuine transparent PNG alpha. Preserve the foreground's exact original shape, orientation, relative size, position, internal art and pixel details. Keep the red family tint and tight colored glow immediately around the item so its Archeum type remains recognizable. Do not add new shapes, text, watermarks, checkerboards or a replacement backdrop. Do not redesign the object or change its colors. Preserve the full square canvas and original placement. Output at 48x48 if possible."
+      }
+    },
+    {
+      "item_id": "sunlight_archeum_crystal",
+      "name": "Sunlight Archeum Crystal",
+      "database_name": "Sunlight Archeum Crystal",
+      "category": "Sunlight Archeum",
+      "database_id": 16353,
+      "page_url": "https://archeagecodex.com/us/item/16353/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0366.png",
+      "original_sha256": "a71c96f530818e20ed43daf911e73cb83712b719401af0945bc6eb80548ebf60",
+      "original_path": "build/archeum-icon-originals/sunlight_archeum_crystal.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "sha256": "571863dc9c50d55794aa58e2d27b795832f327e5d798e8743be996810fa97507",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/sunlight_archeum_crystal.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/sunlight_archeum_crystal.json",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving alpha.",
+        "prompt": "Use case: background-extraction. Edit target: supplied original 48x48 ArcheAge icon, Sunlight Archeum Crystal. Extract the complete pale cubic crystal. Replace only the dark square background and its broad background haze/shadow with genuine transparent PNG alpha. Preserve the foreground's exact original shape, orientation, relative size, position, internal art and pixel details. Keep the red family tint and tight colored glow immediately around the item so its Archeum type remains recognizable. Do not add new shapes, text, watermarks, checkerboards or a replacement backdrop. Do not redesign the object or change its colors. Preserve the full square canvas and original placement. Output at 48x48 if possible."
+      }
+    },
+    {
+      "item_id": "sunlight_archeum_essence",
+      "name": "Sunlight Archeum Essence",
+      "database_name": "Sunlight Archeum Essence",
+      "category": "Sunlight Archeum",
+      "database_id": 16356,
+      "page_url": "https://archeagecodex.com/us/item/16356/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0369.png",
+      "original_sha256": "1789cb33d56dc222554b0dbdabc259910a872d5303811159be4014c61a96a567",
+      "original_path": "build/archeum-icon-originals/sunlight_archeum_essence.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "sha256": "a273001ffc151a7ad4d6b50715b5a1fe5b1e089d2cc900ac961b04f548605c97",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/sunlight_archeum_essence.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/sunlight_archeum_essence.json",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving alpha.",
+        "prompt": "Use case: background-extraction. Edit target: supplied original 48x48 ArcheAge icon, Sunlight Archeum Essence. Extract the entire original essence flask, including its neck, rim, glass silhouette, white highlights and colored liquid. Replace only the dark square background and its broad background haze/shadow with genuine transparent PNG alpha. Preserve the foreground's exact original shape, orientation, relative size, position, internal art and pixel details. Keep the red family tint and tight colored glow immediately around the item so its Archeum type remains recognizable. Do not add new shapes, text, watermarks, checkerboards or a replacement backdrop. Do not redesign the object or change its colors. Preserve the full square canvas and original placement. Output at 48x48 if possible."
+      }
+    },
+    {
+      "item_id": "moonlight_archeum_motes",
+      "name": "Moonlight Archeum Motes",
+      "database_name": "Moonlight Archeum Motes",
+      "category": "Moonlight Archeum",
+      "database_id": 25799,
+      "page_url": "https://archeagecodex.com/us/item/25799/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0869.png",
+      "original_sha256": "57eccc487955e79618c05ae674c9a70aae522a07d8e0bfb46d6540623f0e066c",
+      "original_path": "build/archeum-icon-originals/moonlight_archeum_motes.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "sha256": "8e354e1252cad5c644384b92fad2b460f6900118f9a12a2e175b640aa4c8b594",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/moonlight_archeum_motes.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/moonlight_archeum_motes.json",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving alpha.",
+        "prompt": "Use case: background-extraction. Edit target: supplied original 48x48 ArcheAge icon, Moonlight Archeum Motes. Extract every separate small floating crystal mote; retain ALL the tiny fragments and their close colored rims. Replace only the dark square background and its broad background haze/shadow with genuine transparent PNG alpha. Preserve the foreground's exact original shape, orientation, relative size, position, internal art and pixel details. Keep the blue family tint and tight colored glow immediately around the item so its Archeum type remains recognizable. Do not add new shapes, text, watermarks, checkerboards or a replacement backdrop. Do not redesign the object or change its colors. Preserve the full square canvas and original placement. Output at 48x48 if possible."
+      }
+    },
+    {
+      "item_id": "moonlight_archeum_dust",
+      "name": "Moonlight Archeum Dust",
+      "database_name": "Moonlight Archeum Dust",
+      "category": "Moonlight Archeum",
+      "database_id": 16348,
+      "page_url": "https://archeagecodex.com/us/item/16348/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0361.png",
+      "original_sha256": "07893f3a932f7451713ef35bbbfcf3cc95fb1d7ce3cde2f95598e99b5e05851d",
+      "original_path": "build/archeum-icon-originals/moonlight_archeum_dust.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "sha256": "4c40f6164d69ef6d2989e651d4869d0f6f6357f1efa57d9adc3d47c2179db54f",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/moonlight_archeum_dust.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/moonlight_archeum_dust.json",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving alpha.",
+        "prompt": "Use case: background-extraction. Edit target: supplied original 48x48 ArcheAge icon, Moonlight Archeum Dust. Extract the complete little pile of white crystalline powder. Replace only the dark square background and its broad background haze/shadow with genuine transparent PNG alpha. Preserve the foreground's exact original shape, orientation, relative size, position, internal art and pixel details. Keep the blue family tint and tight colored glow immediately around the item so its Archeum type remains recognizable. Do not add new shapes, text, watermarks, checkerboards or a replacement backdrop. Do not redesign the object or change its colors. Preserve the full square canvas and original placement. Output at 48x48 if possible."
+      }
+    },
+    {
+      "item_id": "moonlight_archeum_shard",
+      "name": "Moonlight Archeum Shard",
+      "database_name": "Moonlight Archeum Shard",
+      "category": "Moonlight Archeum",
+      "database_id": 16351,
+      "page_url": "https://archeagecodex.com/us/item/16351/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0364.png",
+      "original_sha256": "90342b0c052ca69f17bcb3f415eec1b0143b605c4ea898a1d6885090b7f751f6",
+      "original_path": "build/archeum-icon-originals/moonlight_archeum_shard.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "sha256": "75353c2d74ccc98edfc39da2e6aec2864bde50477ffe571cc9d65e10d8d75536",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/moonlight_archeum_shard.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/moonlight_archeum_shard.json",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving alpha.",
+        "prompt": "Use case: background-extraction. Edit target: supplied original 48x48 ArcheAge icon, Moonlight Archeum Shard. Extract the complete long rectangular white crystal shard. Replace only the dark square background and its broad background haze/shadow with genuine transparent PNG alpha. Preserve the foreground's exact original shape, orientation, relative size, position, internal art and pixel details. Keep the blue family tint and tight colored glow immediately around the item so its Archeum type remains recognizable. Do not add new shapes, text, watermarks, checkerboards or a replacement backdrop. Do not redesign the object or change its colors. Preserve the full square canvas and original placement. Output at 48x48 if possible."
+      }
+    },
+    {
+      "item_id": "moonlight_archeum_crystal",
+      "name": "Moonlight Archeum Crystal",
+      "database_name": "Moonlight Archeum Crystal",
+      "category": "Moonlight Archeum",
+      "database_id": 16354,
+      "page_url": "https://archeagecodex.com/us/item/16354/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0367.png",
+      "original_sha256": "881d2810c0c68f9b03008c1539a702d58269e9cf7305e92e3a3169e3701bf0c6",
+      "original_path": "build/archeum-icon-originals/moonlight_archeum_crystal.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "sha256": "ebb7339003ed0a8cc37835dd43be7c7ff7d45914d682da2a91c24f7ee6841bbd",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/moonlight_archeum_crystal.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/moonlight_archeum_crystal.json",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving alpha.",
+        "prompt": "Use case: background-extraction. Edit target: supplied original 48x48 ArcheAge icon, Moonlight Archeum Crystal. Extract the complete pale cubic crystal. Replace only the dark square background and its broad background haze/shadow with genuine transparent PNG alpha. Preserve the foreground's exact original shape, orientation, relative size, position, internal art and pixel details. Keep the blue family tint and tight colored glow immediately around the item so its Archeum type remains recognizable. Do not add new shapes, text, watermarks, checkerboards or a replacement backdrop. Do not redesign the object or change its colors. Preserve the full square canvas and original placement. Output at 48x48 if possible."
+      }
+    },
+    {
+      "item_id": "moonlight_archeum_essence",
+      "name": "Moonlight Archeum Essence",
+      "database_name": "Moonlight Archeum Essence",
+      "category": "Moonlight Archeum",
+      "database_id": 16357,
+      "page_url": "https://archeagecodex.com/us/item/16357/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0370.png",
+      "original_sha256": "cc63e34b9c145a23f8bce4fb820171e89c8b5be938fe65526ee720e129453378",
+      "original_path": "build/archeum-icon-originals/moonlight_archeum_essence.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "sha256": "d3fec0315c020cbbac89db1c9c26db41b28b063e02ba530aff9a5aa4da77f64f",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/moonlight_archeum_essence.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/moonlight_archeum_essence.json",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving alpha.",
+        "prompt": "Use case: background-extraction. Edit target: supplied original 48x48 ArcheAge icon, Moonlight Archeum Essence. Extract the entire original essence flask, including its neck, rim, glass silhouette, white highlights and colored liquid. Replace only the dark square background and its broad background haze/shadow with genuine transparent PNG alpha. Preserve the foreground's exact original shape, orientation, relative size, position, internal art and pixel details. Keep the blue family tint and tight colored glow immediately around the item so its Archeum type remains recognizable. Do not add new shapes, text, watermarks, checkerboards or a replacement backdrop. Do not redesign the object or change its colors. Preserve the full square canvas and original placement. Output at 48x48 if possible."
+      }
+    },
+    {
+      "item_id": "starlight_archeum_motes",
+      "name": "Starlight Archeum Motes",
+      "database_name": "Starlight Archeum Motes",
+      "category": "Starlight Archeum",
+      "database_id": 25800,
+      "page_url": "https://archeagecodex.com/us/item/25800/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0870.png",
+      "original_sha256": "8cf40f4f6d5b10e0883d32fd706a4b9b99ed7632f53a48743ba00df1f678beac",
+      "original_path": "build/archeum-icon-originals/starlight_archeum_motes.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "sha256": "668928024b19d169d6807e07052bf38aedb3ee6c13fa3d31328c99af61684dcb",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/starlight_archeum_motes.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/starlight_archeum_motes.json",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving alpha.",
+        "prompt": "Background extraction only. Input: original 48x48 Starlight Archeum Motes inventory icon. Keep all SIX separate small white crystal fragments with their tight bright green outlines, at exactly their original positions and sizes. Each crystal fragment must remain opaque and clearly visible. Remove the dark square backdrop AND all broad green or gray fog connecting the fragments. All empty space between the six fragments must be fully transparent alpha=0. Keep only a very narrow green outline around each individual mote. No gray mat, no connected cloudy silhouette, no translucent overlay, no checkerboard, no text, no extra fragments. Do not redesign the original fragments. Output a real transparent PNG, 48x48 if possible."
+      }
+    },
+    {
+      "item_id": "starlight_archeum_dust",
+      "name": "Starlight Archeum Dust",
+      "database_name": "Starlight Archeum Dust",
+      "category": "Starlight Archeum",
+      "database_id": 16349,
+      "page_url": "https://archeagecodex.com/us/item/16349/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0362.png",
+      "original_sha256": "2fee6d07eafa4cb34a392489016deecac444130e44b5a79e5fe42e531289cfae",
+      "original_path": "build/archeum-icon-originals/starlight_archeum_dust.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "sha256": "bafa5e34f7a4d0864d6e59d0a0d3954d50c109fb8b1e77683a212456a74d87ac",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/starlight_archeum_dust.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/starlight_archeum_dust.json",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving alpha.",
+        "prompt": "Use case: background-extraction. Edit target: supplied original 48x48 ArcheAge icon, Starlight Archeum Dust. Extract the complete little pile of white crystalline powder. Replace only the dark square background and its broad background haze/shadow with genuine transparent PNG alpha. Preserve the foreground's exact original shape, orientation, relative size, position, internal art and pixel details. Keep the green family tint and tight colored glow immediately around the item so its Archeum type remains recognizable. Do not add new shapes, text, watermarks, checkerboards or a replacement backdrop. Do not redesign the object or change its colors. Preserve the full square canvas and original placement. Output at 48x48 if possible."
+      }
+    },
+    {
+      "item_id": "starlight_archeum_shard",
+      "name": "Starlight Archeum Shard",
+      "database_name": "Starlight Archeum Shard",
+      "category": "Starlight Archeum",
+      "database_id": 16352,
+      "page_url": "https://archeagecodex.com/us/item/16352/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0365.png",
+      "original_sha256": "663834bfe960edc6a28c90a7afacc4f052a6ff1600cd616fff581b253f828a5b",
+      "original_path": "build/archeum-icon-originals/starlight_archeum_shard.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "sha256": "76d6bde4bd204de64e6652eaf0082127fcafac5db7c7231e18bf580e6a87aa97",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/starlight_archeum_shard.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/starlight_archeum_shard.json",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving alpha.",
+        "prompt": "Use case: background-extraction. Edit target: supplied original 48x48 ArcheAge icon, Starlight Archeum Shard. Extract the complete long rectangular white crystal shard. Replace only the dark square background and its broad background haze/shadow with genuine transparent PNG alpha. Preserve the foreground's exact original shape, orientation, relative size, position, internal art and pixel details. Keep the green family tint and tight colored glow immediately around the item so its Archeum type remains recognizable. Do not add new shapes, text, watermarks, checkerboards or a replacement backdrop. Do not redesign the object or change its colors. Preserve the full square canvas and original placement. Output at 48x48 if possible."
+      }
+    },
+    {
+      "item_id": "starlight_archeum_crystal",
+      "name": "Starlight Archeum Crystal",
+      "database_name": "Starlight Archeum Crystal",
+      "category": "Starlight Archeum",
+      "database_id": 16355,
+      "page_url": "https://archeagecodex.com/us/item/16355/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0368.png",
+      "original_sha256": "db22b5794564ae1a56b5b574d64bdea7d2f587ffe213e4aa471d44f90d8a5678",
+      "original_path": "build/archeum-icon-originals/starlight_archeum_crystal.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "sha256": "8d5b325695410bcf0221ed8a35b9a7908e1550e4e1ba5f0e2b2a318b74457b2c",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/starlight_archeum_crystal.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/starlight_archeum_crystal.json",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving alpha.",
+        "prompt": "Use case: background-extraction. Edit target: supplied original 48x48 ArcheAge icon, Starlight Archeum Crystal. Extract the complete pale cubic crystal. Replace only the dark square background and its broad background haze/shadow with genuine transparent PNG alpha. Preserve the foreground's exact original shape, orientation, relative size, position, internal art and pixel details. Keep the green family tint and tight colored glow immediately around the item so its Archeum type remains recognizable. Do not add new shapes, text, watermarks, checkerboards or a replacement backdrop. Do not redesign the object or change its colors. Preserve the full square canvas and original placement. Output at 48x48 if possible."
+      }
+    },
+    {
+      "item_id": "starlight_archeum_essence",
+      "name": "Starlight Archeum Essence",
+      "database_name": "Starlight Archeum Essence",
+      "category": "Starlight Archeum",
+      "database_id": 16358,
+      "page_url": "https://archeagecodex.com/us/item/16358/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0371.png",
+      "original_sha256": "94ec72c921c2a480e7fcbc537420fc43b6c6e0cc88308fcabd9491d58b368ff9",
+      "original_path": "build/archeum-icon-originals/starlight_archeum_essence.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "sha256": "8dda009d59895e5f0438de60a96c873e0ce7f8b68f6c3bba48de4de74aa55bb5",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/starlight_archeum_essence.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/starlight_archeum_essence.json",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving alpha.",
+        "prompt": "Use case: background-extraction. Edit target: supplied original 48x48 ArcheAge icon, Starlight Archeum Essence. Extract the entire original essence flask, including its neck, rim, glass silhouette, white highlights and colored liquid. Replace only the dark square background and its broad background haze/shadow with genuine transparent PNG alpha. Preserve the foreground's exact original shape, orientation, relative size, position, internal art and pixel details. Keep the green family tint and tight colored glow immediately around the item so its Archeum type remains recognizable. Do not add new shapes, text, watermarks, checkerboards or a replacement backdrop. Do not redesign the object or change its colors. Preserve the full square canvas and original placement. Output at 48x48 if possible."
+      }
+    },
+    {
+      "item_id": "raw_archeum",
+      "name": "Raw Archeum",
+      "database_name": "Archeum Ore",
+      "category": "Archeum",
+      "database_id": 1386,
+      "page_url": "https://archeagecodex.com/us/item/1386/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0286.png",
+      "original_sha256": "4991133be19a1e73dd0d410b4e5a1a4e6d6145aca201c8039d4c68f4dc71be76",
+      "original_path": "build/archeum-icon-originals/raw_archeum.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "sha256": "f51fff73715dcac074f09c0da3b9211dfff51931b156ad2521be54828d787d80",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/raw_archeum.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/raw_archeum.json",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "notes": "The mod Raw Archeum item uses the database Archeum Ore inventory icon.",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving alpha.",
+        "prompt": "Use case: background-extraction. Edit target: supplied original 48x48 ArcheAge icon, Raw Archeum. Extract the complete irregular silver-gray raw ore cluster. Replace only the dark square background and its broad background haze/shadow with genuine transparent PNG alpha. Preserve the foreground's exact original shape, orientation, relative size, position, internal art and pixel details. Keep the original family tint and tight colored glow immediately around the item so its Archeum type remains recognizable. Do not add new shapes, text, watermarks, checkerboards or a replacement backdrop. Do not redesign the object or change its colors. Preserve the full square canvas and original placement. Output at 48x48 if possible."
+      }
+    },
+    {
+      "item_id": "archeum_ingot",
+      "name": "Archeum Ingot",
+      "database_name": "Archeum Ingot",
+      "category": "Archeum",
+      "database_id": 17776,
+      "page_url": "https://archeagecodex.com/us/item/17776/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0282.png",
+      "original_sha256": "8ae3582709cd8cbca31f38230f02ddd0de8225fa4338da81345f127d5431b19d",
+      "original_path": "build/archeum-icon-originals/archeum_ingot.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "sha256": "5454894885f9affe6a384464ad0617c9812a8b87b3089a5764140628dafebb61",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/archeum_ingot.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/archeum_ingot.json",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving alpha.",
+        "prompt": "Use case: background-extraction. Edit target: supplied original 48x48 ArcheAge icon, Archeum Ingot. Extract the entire dark silver-gray Archeum metal ingot. Replace only the dark square background and its broad background haze/shadow with genuine transparent PNG alpha. Preserve the foreground's exact original shape, orientation, relative size, position, internal art and pixel details. Keep the original family tint and tight colored glow immediately around the item so its Archeum type remains recognizable. Do not add new shapes, text, watermarks, checkerboards or a replacement backdrop. Do not redesign the object or change its colors. Preserve the full square canvas and original placement. Output at 48x48 if possible."
+      }
+    }
+  ]
+}
