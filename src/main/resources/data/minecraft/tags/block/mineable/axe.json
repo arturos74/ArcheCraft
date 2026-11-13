@@ -1,4 +1,4 @@
 {
   "replace": false,
-  "values": [ "archecraft:carpenter_workbench" ]
+  "values": [ "archecraft:carpenter_workbench", "archecraft:archeum_workbench", "archecraft:alchemy_workbench" ]
 }

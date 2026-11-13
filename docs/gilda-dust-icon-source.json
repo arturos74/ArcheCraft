@@ -1,0 +1,27 @@
+{
+  "item_id": "gilda_dust",
+  "name": "Gilda Dust",
+  "database_id": 8000026,
+  "page_url": "https://aa-classic.com/database/item/8000026",
+  "image_url": "https://archeagecodex.com/items/icon_item_2045.png",
+  "notes": "Icon filename identified from ArcheAge Classic; corresponding database icon downloaded from ArcheAge Codex. Background removed to match existing mod icons.",
+  "original_backup_path": "build/gilda-dust-icon-original.png",
+  "texture_path": "src/main/resources/assets/archecraft/textures/item/gilda_dust.png",
+  "model_path": "src/main/resources/assets/archecraft/models/item/gilda_dust.json",
+  "dimensions": [
+    48,
+    48
+  ],
+  "alpha_extrema": [
+    0,
+    254
+  ],
+  "original_sha256": "08dabd8e94237a2b8567fd0eee14cf93cc5c93a7c51045a1d43faec5b4ba090a",
+  "sha256": "32f79ea3fcbe0732afc874a02b43405497e6bcaf1767698632160f880b08ba56",
+  "image_processing": {
+    "tool": "built-in image_gen",
+    "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge Gilda Dust inventory PNG. Extract the complete small golden powder pile, including all attached grains and bright powder highlights. Remove ONLY the dark gray/purple square background and its background cast shadow. Preserve the existing powder artwork, golden colors, silhouette, painted pixel style, position, margins and orientation on the full square canvas. Do not redesign, add elements, text, borders, or a checkerboard. Output a PNG with genuine transparent alpha around the pile. Prefer the original 48x48 resolution.",
+    "transparent_background": true,
+    "postprocess": "Nearest-neighbor downscale to 48x48, preserving alpha."
+  }
+}

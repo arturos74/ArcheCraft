@@ -1,6 +1,13 @@
 package com.redcookies.archecraft;
 import com.redcookies.archecraft.ModCustom.StarshardVeinBlock;
 import com.redcookies.archecraft.workbench.WorkbenchBlock;
+import com.redcookies.archecraft.workbench.CarpenterWorkbenchBlock;
+import com.redcookies.archecraft.workbench.ArcheumWorkbenchBlock;
+import com.redcookies.archecraft.workbench.StonemasonWorkbenchBlock;
+import com.redcookies.archecraft.workbench.AlchemyWorkbenchBlock;
+import com.redcookies.archecraft.workbench.SmelterBlock;
+import com.redcookies.archecraft.workbench.AnvilWorkbenchBlock;
+import net.minecraft.world.level.material.PushReaction;
 import net.minecraft.world.level.ItemLike;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
@@ -15,8 +22,32 @@ import net.neoforged.neoforge.registries.DeferredRegister;
 public class ModBlocks {
     public static final DeferredRegister.Blocks BLOCKS = DeferredRegister.createBlocks(ArcheCraft.MODID);
 
-    public static final DeferredBlock<WorkbenchBlock> CARPENTER_WORKBENCH = BLOCKS.register("carpenter_workbench",
-            () -> new WorkbenchBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.CRAFTING_TABLE)));
+    public static final DeferredBlock<AnvilWorkbenchBlock> ANVIL = BLOCKS.register("anvil",
+            () -> new AnvilWorkbenchBlock(BlockBehaviour.Properties.of()
+                    .mapColor(MapColor.METAL).strength(3.5F, 3.5F).sound(SoundType.ANVIL)
+                    .requiresCorrectToolForDrops().noOcclusion().pushReaction(PushReaction.BLOCK)));
+
+    public static final DeferredBlock<SmelterBlock> SMELTER = BLOCKS.register("smelter",
+            () -> new SmelterBlock(BlockBehaviour.Properties.of().mapColor(MapColor.STONE)
+                    .strength(3.5F,3.5F).sound(SoundType.STONE).requiresCorrectToolForDrops()
+                    .noOcclusion().pushReaction(PushReaction.BLOCK)));
+
+    public static final DeferredBlock<CarpenterWorkbenchBlock> CARPENTER_WORKBENCH = BLOCKS.register("carpenter_workbench",
+            () -> new CarpenterWorkbenchBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.CRAFTING_TABLE)
+                    .noOcclusion().pushReaction(PushReaction.BLOCK)));
+
+    public static final DeferredBlock<ArcheumWorkbenchBlock> ARCHEUM_WORKBENCH = BLOCKS.register("archeum_workbench",
+            () -> new ArcheumWorkbenchBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.CRAFTING_TABLE)
+                    .noOcclusion().pushReaction(PushReaction.BLOCK)));
+
+    public static final DeferredBlock<AlchemyWorkbenchBlock> ALCHEMY_WORKBENCH = BLOCKS.register("alchemy_workbench",
+            () -> new AlchemyWorkbenchBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.CRAFTING_TABLE)
+                    .noOcclusion().pushReaction(PushReaction.BLOCK)));
+
+    public static final DeferredBlock<StonemasonWorkbenchBlock> STONEMASON_WORKBENCH = BLOCKS.register("stonemason_workbench",
+            () -> new StonemasonWorkbenchBlock(BlockBehaviour.Properties.of()
+                    .mapColor(MapColor.STONE).strength(3.0F, 3.0F).sound(SoundType.STONE)
+                    .requiresCorrectToolForDrops().noOcclusion().pushReaction(PushReaction.BLOCK)));
 
     public static final DeferredBlock<StarshardVeinBlock> STARSHARD_VEIN = BLOCKS.register("starshard_vein",
             () -> new StarshardVeinBlock(BlockBehaviour.Properties.of()

@@ -4,7 +4,10 @@
     {
       "rolls": 1,
       "entries": [ { "type": "minecraft:item", "name": "archecraft:carpenter_workbench" } ],
-      "conditions": [ { "condition": "minecraft:survives_explosion" } ]
+      "conditions": [
+        { "condition": "minecraft:survives_explosion" },
+        { "condition": "minecraft:block_state_property", "block": "archecraft:carpenter_workbench", "properties": { "part": "left" } }
+      ]
     }
   ]
 }

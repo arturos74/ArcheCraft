@@ -21,13 +21,13 @@ import java.util.Comparator;
 import java.util.List;
 
 public class WorkbenchMenu extends AbstractContainerMenu {
-    public static final int INPUT_COLUMNS = 6;
-    public static final int INPUT_ROWS = 4;
+    public static final int INPUT_COLUMNS = 5;
+    public static final int INPUT_ROWS = 2;
     public static final int INPUT_COUNT = INPUT_COLUMNS * INPUT_ROWS;
     public static final int RESULT_SLOT = INPUT_COUNT;
     public static final int SLOT_COUNT = INPUT_COUNT + 1;
-    public static final int INPUT_X = 144;
-    public static final int INPUT_Y = 36;
+    public static final int INPUT_X = 153;
+    public static final int INPUT_Y = 44;
     public static final int RESULT_X = 286;
     public static final int RESULT_Y = 54;
     public static final int INVENTORY_X = 79;

@@ -1,0 +1,1974 @@
+{
+  "meta": {
+    "format_version": "4.10",
+    "model_format": "java_block",
+    "box_uv": false
+  },
+  "name": "stonemason_workbench",
+  "resolution": {
+    "width": 128,
+    "height": 64
+  },
+  "elements": [
+    {
+      "name": "Hand-hewn foundation",
+      "type": "cube",
+      "uuid": "da5324ec-73be-5bf8-97f5-aae3b6b1f1c5",
+      "from": [
+        1.5,
+        0,
+        1.5
+      ],
+      "to": [
+        14.5,
+        5.5,
+        14.5
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            13.0,
+            5.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            13.0,
+            5.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            13.0,
+            5.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            13.0,
+            5.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            0,
+            45.0,
+            13.0
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            13.0,
+            13.0
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Broken front footing",
+      "type": "cube",
+      "uuid": "90e6e0a0-7de8-524b-b555-e207f96b44eb",
+      "from": [
+        2.5,
+        0,
+        0.5
+      ],
+      "to": [
+        12.5,
+        1.5,
+        1.5
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            10.0,
+            1.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            1.0,
+            1.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            10.0,
+            1.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            1.0,
+            1.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            32,
+            74.0,
+            33.0
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            10.0,
+            1.0
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Left rough edge",
+      "type": "cube",
+      "uuid": "fd960760-5381-56a2-9467-887d40831b83",
+      "from": [
+        0.5,
+        0,
+        4
+      ],
+      "to": [
+        1.5,
+        3.5,
+        12
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            1.0,
+            3.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            8,
+            3.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            1.0,
+            3.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            8,
+            3.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            0,
+            33.0,
+            8
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            1.0,
+            8
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Right rough edge",
+      "type": "cube",
+      "uuid": "661ba2f5-22af-5968-b1f0-6ff10da8e123",
+      "from": [
+        14.5,
+        0,
+        4
+      ],
+      "to": [
+        15.5,
+        2,
+        10
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            1.0,
+            2
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            6,
+            2
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            1.0,
+            2
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            6,
+            2
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            32,
+            65.0,
+            38
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            1.0,
+            6
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Rear footing",
+      "type": "cube",
+      "uuid": "2dab63fc-a03a-5a4a-9171-80759ebe7d2d",
+      "from": [
+        4,
+        0,
+        14.5
+      ],
+      "to": [
+        12.5,
+        1,
+        15.5
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            8.5,
+            1
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            1.0,
+            1
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            8.5,
+            1
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            1.0,
+            1
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            0,
+            40.5,
+            1.0
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            8.5,
+            1.0
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Solid working pedestal",
+      "type": "cube",
+      "uuid": "b7fd3490-320f-5ad2-a75d-1bcdf653dc54",
+      "from": [
+        3,
+        5.5,
+        3
+      ],
+      "to": [
+        13,
+        10,
+        13
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            10,
+            4.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            10,
+            4.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            10,
+            4.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            10,
+            4.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            0,
+            42,
+            10
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            10,
+            10
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Rough front shoulder",
+      "type": "cube",
+      "uuid": "fe4838a4-2299-5a39-8771-e6566e506f41",
+      "from": [
+        4,
+        5.5,
+        2.5
+      ],
+      "to": [
+        11.5,
+        9.5,
+        3
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            7.5,
+            4.0
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            0.5,
+            4.0
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            7.5,
+            4.0
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            0.5,
+            4.0
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            32,
+            71.5,
+            32.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            7.5,
+            0.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Chipped left shoulder",
+      "type": "cube",
+      "uuid": "52e54b66-7f2b-521e-83e4-5dd418afabb3",
+      "from": [
+        2.5,
+        5.5,
+        5
+      ],
+      "to": [
+        3,
+        8.5,
+        12
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            0.5,
+            3.0
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            7,
+            3.0
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            0.5,
+            3.0
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            7,
+            3.0
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            32,
+            64.5,
+            39
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            0.5,
+            7
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Chipped right shoulder",
+      "type": "cube",
+      "uuid": "292bb4f9-af04-5a4e-8a28-b1bd494a669c",
+      "from": [
+        13,
+        5.5,
+        4
+      ],
+      "to": [
+        13.5,
+        8,
+        11
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            0.5,
+            2.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            7,
+            2.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            0.5,
+            2.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            7,
+            2.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            32,
+            64.5,
+            39
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            0.5,
+            7
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Blue mineral workpiece",
+      "type": "cube",
+      "uuid": "2d10306c-9a4b-5f31-8c70-41eb6f9ff76e",
+      "from": [
+        4.175,
+        10,
+        4.175
+      ],
+      "to": [
+        11.825,
+        17.225,
+        11.825
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            0,
+            71.65,
+            7.225000000000001
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            0,
+            71.65,
+            7.225000000000001
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            0,
+            71.65,
+            7.225000000000001
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            0,
+            71.65,
+            7.225000000000001
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            96,
+            0,
+            103.65,
+            7.6499999999999995
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            0,
+            71.65,
+            7.6499999999999995
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Sledgehammer iron head",
+      "type": "cube",
+      "uuid": "7a8e1e8b-c655-5b56-b75a-bb420886275f",
+      "from": [
+        3.25,
+        1.8,
+        14
+      ],
+      "to": [
+        7,
+        4.2,
+        15.8
+      ],
+      "origin": [
+        5.125,
+        3,
+        15
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            35.75,
+            34.4
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            33.8,
+            34.4
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            35.75,
+            34.4
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            33.8,
+            34.4
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            35.75,
+            33.8
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            35.75,
+            33.8
+          ],
+          "texture": 0
+        }
+      },
+      "rotation": [
+        0,
+        0,
+        22.5
+      ]
+    },
+    {
+      "name": "Sledgehammer straight ash handle",
+      "type": "cube",
+      "uuid": "78504940-efff-51ad-87f9-0166bb9fd3a4",
+      "from": [
+        4.75,
+        2.4,
+        14.65
+      ],
+      "to": [
+        5.5,
+        13,
+        15.35
+      ],
+      "origin": [
+        5.125,
+        3,
+        15
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            32,
+            0.75,
+            42.6
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            32,
+            0.6999999999999993,
+            42.6
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            32,
+            0.75,
+            42.6
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            32,
+            0.6999999999999993,
+            42.6
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            32,
+            0.75,
+            32.7
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            32,
+            0.75,
+            32.7
+          ],
+          "texture": 0
+        }
+      },
+      "rotation": [
+        0,
+        0,
+        22.5
+      ]
+    },
+    {
+      "name": "Sledgehammer iron collar",
+      "type": "cube",
+      "uuid": "7a868a0d-37c2-51e5-b226-e82c18dda56e",
+      "from": [
+        4.6,
+        4.2,
+        14.5
+      ],
+      "to": [
+        5.65,
+        4.8,
+        15.5
+      ],
+      "origin": [
+        5.125,
+        3,
+        15
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            96,
+            32,
+            97.05,
+            32.6
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            96,
+            32,
+            97.0,
+            32.6
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            96,
+            32,
+            97.05,
+            32.6
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            96,
+            32,
+            97.0,
+            32.6
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            96,
+            32,
+            97.05,
+            33.0
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            96,
+            32,
+            97.05,
+            33.0
+          ],
+          "texture": 0
+        }
+      },
+      "rotation": [
+        0,
+        0,
+        22.5
+      ]
+    },
+    {
+      "name": "Long chisel wooden grip",
+      "type": "cube",
+      "uuid": "128f50fd-502e-51b6-afa5-c4b002110e5f",
+      "from": [
+        12.75,
+        6,
+        0.85
+      ],
+      "to": [
+        13.55,
+        13,
+        1.65
+      ],
+      "origin": [
+        13.15,
+        3,
+        1.25
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            32,
+            0.8000000000000007,
+            39
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            32,
+            0.7999999999999999,
+            39
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            32,
+            0.8000000000000007,
+            39
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            32,
+            0.7999999999999999,
+            39
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            32,
+            0.8000000000000007,
+            32.8
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            32,
+            0.8000000000000007,
+            32.8
+          ],
+          "texture": 0
+        }
+      },
+      "rotation": [
+        0,
+        0,
+        22.5
+      ]
+    },
+    {
+      "name": "Long chisel iron shaft",
+      "type": "cube",
+      "uuid": "ed8fedb3-2d08-554c-8c28-917f35ca358e",
+      "from": [
+        12.9,
+        3.2,
+        1
+      ],
+      "to": [
+        13.4,
+        6.2,
+        1.5
+      ],
+      "origin": [
+        13.15,
+        3,
+        1.25
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            35.0
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            35.0
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            35.0
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            35.0
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.5
+          ],
+          "texture": 0
+        }
+      },
+      "rotation": [
+        0,
+        0,
+        22.5
+      ]
+    },
+    {
+      "name": "Long chisel cutting edge",
+      "type": "cube",
+      "uuid": "30762918-6448-5106-b331-93f96480c45f",
+      "from": [
+        12.55,
+        2.7,
+        0.85
+      ],
+      "to": [
+        13.75,
+        3.4,
+        1.65
+      ],
+      "origin": [
+        13.15,
+        3,
+        1.25
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            33.2,
+            32.7
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            32.8,
+            32.7
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            33.2,
+            32.7
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            32.8,
+            32.7
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            33.2,
+            32.8
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            33.2,
+            32.8
+          ],
+          "texture": 0
+        }
+      },
+      "rotation": [
+        0,
+        0,
+        22.5
+      ]
+    },
+    {
+      "name": "Small chisel grip on ledge",
+      "type": "cube",
+      "uuid": "2a8004bb-fe78-5b94-a31a-cf82308266c2",
+      "from": [
+        9.5,
+        5.5,
+        13.6
+      ],
+      "to": [
+        11,
+        6.1,
+        14.3
+      ],
+      "origin": [
+        11,
+        5.8,
+        14
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            32,
+            1.5,
+            32.6
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            32,
+            0.7000000000000011,
+            32.6
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            32,
+            1.5,
+            32.6
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            32,
+            0.7000000000000011,
+            32.6
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            32,
+            1.5,
+            32.7
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            32,
+            1.5,
+            32.7
+          ],
+          "texture": 0
+        }
+      },
+      "rotation": [
+        0,
+        22.5,
+        0
+      ]
+    },
+    {
+      "name": "Small chisel blade on ledge",
+      "type": "cube",
+      "uuid": "ee4e9498-cab2-5f03-99db-4fcfb7abec7e",
+      "from": [
+        11,
+        5.6,
+        13.7
+      ],
+      "to": [
+        12.8,
+        5.9,
+        14.2
+      ],
+      "origin": [
+        11,
+        5.8,
+        14
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            33.8,
+            32.3
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.3
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            33.8,
+            32.3
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.3
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            33.8,
+            32.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            33.8,
+            32.5
+          ],
+          "texture": 0
+        }
+      },
+      "rotation": [
+        0,
+        22.5,
+        0
+      ]
+    },
+    {
+      "name": "Loose stone chip left",
+      "type": "cube",
+      "uuid": "a2cf2372-99b1-5736-946f-e525fb71f77d",
+      "from": [
+        0.5,
+        0,
+        13.7
+      ],
+      "to": [
+        1.8,
+        0.7,
+        15.4
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            32,
+            65.3,
+            32.7
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            32,
+            65.7,
+            32.7
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            32,
+            65.3,
+            32.7
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            32,
+            65.7,
+            32.7
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            32,
+            65.3,
+            33.7
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            32,
+            65.3,
+            33.7
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Loose stone chip front",
+      "type": "cube",
+      "uuid": "01e36e6f-5cba-57af-9886-6b68d0de52c4",
+      "from": [
+        12.9,
+        0,
+        0.4
+      ],
+      "to": [
+        14.8,
+        0.6,
+        1.3
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            1.9000000000000004,
+            0.6
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            0.9,
+            0.6
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            1.9000000000000004,
+            0.6
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            0.9,
+            0.6
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            32,
+            65.9,
+            32.9
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            1.9000000000000004,
+            0.9
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Loose stone chip on ledge",
+      "type": "cube",
+      "uuid": "6df5663f-d228-5901-a574-9b5053380e5e",
+      "from": [
+        2,
+        5.5,
+        10.5
+      ],
+      "to": [
+        2.8,
+        6,
+        12
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            32,
+            64.8,
+            32.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            32,
+            65.5,
+            32.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            32,
+            64.8,
+            32.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            32,
+            65.5,
+            32.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            32,
+            64.8,
+            33.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            32,
+            64.8,
+            33.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Loose small flake on ledge",
+      "type": "cube",
+      "uuid": "b6d96a22-c23d-52c6-aa9e-c1f3bbc7cb3c",
+      "from": [
+        8.5,
+        5.5,
+        13.3
+      ],
+      "to": [
+        9.1,
+        5.8,
+        14
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            32,
+            64.6,
+            32.3
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            32,
+            64.7,
+            32.3
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            32,
+            64.6,
+            32.3
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            32,
+            64.7,
+            32.3
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            32,
+            64.6,
+            32.7
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            32,
+            64.6,
+            32.7
+          ],
+          "texture": 0
+        }
+      }
+    }
+  ],
+  "outliner": [
+    {
+      "name": "Foundation",
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "uuid": "0a447830-d4c2-535d-8224-a0c173494358",
+      "children": [
+        "da5324ec-73be-5bf8-97f5-aae3b6b1f1c5",
+        "90e6e0a0-7de8-524b-b555-e207f96b44eb",
+        "fd960760-5381-56a2-9467-887d40831b83",
+        "661ba2f5-22af-5968-b1f0-6ff10da8e123",
+        "2dab63fc-a03a-5a4a-9171-80759ebe7d2d"
+      ]
+    },
+    {
+      "name": "Working stone",
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "uuid": "f69d0bef-9c85-5dfa-bea2-dc6120d579fc",
+      "children": [
+        "b7fd3490-320f-5ad2-a75d-1bcdf653dc54",
+        "fe4838a4-2299-5a39-8771-e6566e506f41",
+        "52e54b66-7f2b-521e-83e4-5dd418afabb3",
+        "292bb4f9-af04-5a4e-8a28-b1bd494a669c"
+      ]
+    },
+    {
+      "name": "Blue workpiece",
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "uuid": "97913a2c-5fe0-53a8-9b2c-7d7c03b5c416",
+      "children": [
+        "2d10306c-9a4b-5f31-8c70-41eb6f9ff76e"
+      ]
+    },
+    {
+      "name": "Sledgehammer",
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "uuid": "8353b06c-7d3d-52d6-b769-a9c31808eb0c",
+      "children": [
+        "7a8e1e8b-c655-5b56-b75a-bb420886275f",
+        "78504940-efff-51ad-87f9-0166bb9fd3a4",
+        "7a868a0d-37c2-51e5-b226-e82c18dda56e"
+      ]
+    },
+    {
+      "name": "Long chisel",
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "uuid": "65ce2f43-29a3-5b71-b64c-050f021b27d4",
+      "children": [
+        "128f50fd-502e-51b6-afa5-c4b002110e5f",
+        "ed8fedb3-2d08-554c-8c28-917f35ca358e",
+        "30762918-6448-5106-b331-93f96480c45f"
+      ]
+    },
+    {
+      "name": "Small chisel",
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "uuid": "02803655-c2e9-5cb3-8f03-0be5c9643cea",
+      "children": [
+        "2a8004bb-fe78-5b94-a31a-cf82308266c2",
+        "ee4e9498-cab2-5f03-99db-4fcfb7abec7e"
+      ]
+    },
+    {
+      "name": "Loose chips",
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "uuid": "c1be6f11-6b25-5229-b7f4-f145884c9ebb",
+      "children": [
+        "a2cf2372-99b1-5736-946f-e525fb71f77d",
+        "01e36e6f-5cba-57af-9886-6b68d0de52c4",
+        "6df5663f-d228-5901-a574-9b5053380e5e",
+        "b6d96a22-c23d-52c6-aa9e-c1f3bbc7cb3c"
+      ]
+    }
+  ],
+  "display": {
+    "gui": {
+      "rotation": [
+        25,
+        225,
+        0
+      ],
+      "translation": [
+        0,
+        -1,
+        0
+      ],
+      "scale": [
+        0.6,
+        0.6,
+        0.6
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    }
+  },
+  "textures": [
+    {
+      "name": "stonemason_workbench.png",
+      "uuid": "0c97aa76-a652-5e29-ae13-427d27999d17",
+      "id": "0",
+      "namespace": "archecraft",
+      "folder": "block",
+      "width": 128,
+      "height": 64,
+      "uv_width": 128,
+      "uv_height": 64,
+      "mode": "bitmap",
+      "saved": true,
+      "source": "data:image/png;base64,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"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "type": "archecraft:workbench",
+  "workstation": "archecraft:smelter",
+  "ingredients": [ { "item": "archecraft:raw_archeum", "count": 3 } ],
+  "result": { "id": "archecraft:archeum_ingot", "count": 1 }
+}

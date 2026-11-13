@@ -12,6 +12,9 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraft.util.Mth;
 
 public class WorkbenchScreen extends AbstractContainerScreen<WorkbenchMenu> {
+    private static final int RECIPE_Y = 32;
+    private static final int RECIPE_HEIGHT = 28;
+    private static final int VISIBLE_RECIPES = 3;
     private Button craft;
     private int firstRecipe;
     private boolean draggingScrollbar;
@@ -41,29 +44,46 @@ public class WorkbenchScreen extends AbstractContainerScreen<WorkbenchMenu> {
         panel(graphics, leftPos, topPos, imageWidth, imageHeight);
         inset(graphics, 8, 29, 124, 91);
         graphics.fill(leftPos + 121, topPos + 31, leftPos + 130, topPos + 118, 0xFF373737);
-        int maxScroll = Math.max(0, menu.getRecipes().size() - 1);
+        int maxScroll = maxScroll();
+        firstRecipe = Mth.clamp(firstRecipe, 0, maxScroll);
         int thumbY = maxScroll == 0 ? 0 : firstRecipe * 66 / maxScroll;
         panel(graphics, leftPos + 122, topPos + 32 + thumbY, 7, 19);
         if (menu.getRecipes().isEmpty()) {
             graphics.drawWordWrap(font, Component.translatable("gui.archecraft.workbench.no_recipes"),
                     leftPos + 15, topPos + 43, 100, 0xFFD0D0D0);
         } else {
-            WorkbenchRecipe recipe = menu.getRecipes().get(firstRecipe).value();
-            boolean selected = firstRecipe == menu.getSelectedRecipeIndex();
-            graphics.fill(leftPos + 11, topPos + 32, leftPos + 119, topPos + 116,
-                    selected ? 0xFF596D44 : 0xFF555555);
-            graphics.renderItem(recipe.result(), leftPos + 15, topPos + 36);
-            graphics.renderItemDecorations(font, recipe.result(), leftPos + 15, topPos + 36);
-            graphics.drawString(font, font.plainSubstrByWidth(recipe.result().getHoverName().getString(), 81),
-                    leftPos + 34, topPos + 40, 0xFFFFFFFF, false);
-            // The full ingredient list is also available in the recipe tooltip.
-            for (int i = 0; i < Math.min(3, recipe.materials().size()); i++) {
-                WorkbenchRecipe.Material material = recipe.materials().get(i);
-                int y = topPos + 57 + i * 19;
-                graphics.renderItem(new ItemStack(material.item()), leftPos + 15, y);
-                int color = menu.countInput(material.item()) >= recipe.requiredCounts().get(material.item()) ? 0xFFB4EF92 : 0xFFFFBBBB;
-                String text = material.count() + " " + material.item().getDescription().getString();
-                graphics.drawString(font, font.plainSubstrByWidth(text, 81), leftPos + 34, y + 4, color, false);
+            for (int row = 0; row < VISIBLE_RECIPES && firstRecipe + row < menu.getRecipes().size(); row++) {
+                int index = firstRecipe + row;
+                WorkbenchRecipe recipe = menu.getRecipes().get(index).value();
+                int y = topPos + RECIPE_Y + row * RECIPE_HEIGHT;
+                boolean selected = index == menu.getSelectedRecipeIndex();
+                boolean hovered = hoveredRecipe(mouseX, mouseY) == index;
+                graphics.fill(leftPos + 11, y, leftPos + 119, y + RECIPE_HEIGHT - 2,
+                        selected ? 0xFF596D44 : hovered ? 0xFF666666 : 0xFF555555);
+                graphics.renderItem(recipe.result(), leftPos + 15, y + 5);
+                graphics.renderItemDecorations(font, recipe.result(), leftPos + 15, y + 5);
+                graphics.drawString(font, font.plainSubstrByWidth(recipe.getDisplayName().getString(), 81),
+                        leftPos + 34, y + 3, 0xFFFFFFFF, false);
+                int x = leftPos + 34;
+                // Compact ingredient icons and counts; hover for the complete ingredient names.
+                for (int i = 0; i < Math.min(2, recipe.materials().size()); i++) {
+                    WorkbenchRecipe.Material material = recipe.materials().get(i);
+                    int color = menu.countInput(material.item()) >= recipe.requiredCounts().get(material.item()) ? 0xFFB4EF92 : 0xFFFFBBBB;
+                    if (i > 0) {
+                        graphics.drawString(font, "+", x, y + 15, 0xFFD0D0D0, false);
+                        x += 8;
+                    }
+                    String count = String.valueOf(material.count());
+                    graphics.drawString(font, count, x, y + 15, color, false);
+                    x += font.width(count) + 1;
+                    graphics.pose().pushPose();
+                    graphics.pose().translate(x, y + 13, 0);
+                    graphics.pose().scale(0.6875F, 0.6875F, 1);
+                    graphics.renderItem(new ItemStack(material.item()), 0, 0);
+                    graphics.pose().popPose();
+                    x += 13;
+                }
+                if (recipe.materials().size() > 2) graphics.drawString(font, "...", x, y + 15, 0xFFD0D0D0, false);
             }
         }
         graphics.fill(leftPos + 8, topPos + 124, leftPos + 312, topPos + 125, 0xFF777777);
@@ -84,7 +104,8 @@ public class WorkbenchScreen extends AbstractContainerScreen<WorkbenchMenu> {
     protected void renderLabels(GuiGraphics graphics, int mouseX, int mouseY) {
         super.renderLabels(graphics, mouseX, mouseY);
         graphics.drawString(font, Component.translatable("gui.archecraft.workbench.recipes"), 8, 19, 0x404040, false);
-        graphics.drawString(font, Component.translatable("gui.archecraft.workbench.ingredients"), 144, 23, 0x404040, false);
+        graphics.drawString(font, Component.translatable("gui.archecraft.workbench.ingredients"),
+                WorkbenchMenu.INPUT_X, WorkbenchMenu.INPUT_Y - 13, 0x404040, false);
         graphics.drawString(font, Component.translatable("gui.archecraft.workbench.result"), 278, 39, 0x404040, false);
     }
 
@@ -95,10 +116,12 @@ public class WorkbenchScreen extends AbstractContainerScreen<WorkbenchMenu> {
                 ? "gui.archecraft.workbench.crafting" : "gui.archecraft.workbench.craft"));
         super.render(graphics, mouseX, mouseY, partialTick);
         renderTooltip(graphics, mouseX, mouseY);
-        if (!menu.getRecipes().isEmpty() && insideRecipe(mouseX, mouseY)) {
-            WorkbenchRecipe recipe = menu.getRecipes().get(firstRecipe).value();
+        int hovered = hoveredRecipe(mouseX, mouseY);
+        if (hovered >= 0) {
+            WorkbenchRecipe recipe = menu.getRecipes().get(hovered).value();
             java.util.List<Component> lines = new java.util.ArrayList<>();
-            lines.add(recipe.result().getHoverName());
+            lines.add(recipe.getDisplayName());
+            lines.add(Component.literal(recipe.result().getCount() + " x ").append(recipe.result().getHoverName()));
             for (WorkbenchRecipe.Material material : recipe.materials()) {
                 lines.add(Component.literal(material.count() + " x ").append(material.item().getDescription()));
             }
@@ -106,17 +129,26 @@ public class WorkbenchScreen extends AbstractContainerScreen<WorkbenchMenu> {
         }
     }
 
-    private boolean insideRecipe(double x, double y) {
-        return x >= leftPos + 11 && x < leftPos + 119 && y >= topPos + 32 && y < topPos + 116;
+    private int maxScroll() {
+        return Math.max(0, menu.getRecipes().size() - VISIBLE_RECIPES);
+    }
+
+    private int hoveredRecipe(double x, double y) {
+        double offsetY = y - topPos - RECIPE_Y;
+        if (x < leftPos + 11 || x >= leftPos + 119 || offsetY < 0 || offsetY >= VISIBLE_RECIPES * RECIPE_HEIGHT) return -1;
+        if (offsetY % RECIPE_HEIGHT >= RECIPE_HEIGHT - 2) return -1;
+        int index = firstRecipe + (int) (offsetY / RECIPE_HEIGHT);
+        return index < menu.getRecipes().size() ? index : -1;
     }
 
     @Override
     public boolean mouseClicked(double x, double y, int button) {
-        if (button == 0 && !menu.getRecipes().isEmpty() && insideRecipe(x, y)) {
-            sendButton(firstRecipe);
+        int hovered = hoveredRecipe(x, y);
+        if (button == 0 && hovered >= 0) {
+            sendButton(hovered);
             return true;
         }
-        if (button == 0 && menu.getRecipes().size() > 1 && x >= leftPos + 121 && x < leftPos + 131
+        if (button == 0 && maxScroll() > 0 && x >= leftPos + 121 && x < leftPos + 131
                 && y >= topPos + 31 && y < topPos + 118) {
             draggingScrollbar = true;
             scrollTo(y);
@@ -127,7 +159,7 @@ public class WorkbenchScreen extends AbstractContainerScreen<WorkbenchMenu> {
 
     private void scrollTo(double y) {
         double fraction = Mth.clamp((y - topPos - 41) / 66.0, 0, 1);
-        firstRecipe = (int) Math.round(fraction * Math.max(0, menu.getRecipes().size() - 1));
+        firstRecipe = (int) Math.round(fraction * maxScroll());
     }
 
     @Override
@@ -148,7 +180,7 @@ public class WorkbenchScreen extends AbstractContainerScreen<WorkbenchMenu> {
     @Override
     public boolean mouseScrolled(double x, double y, double scrollX, double scrollY) {
         if (x >= leftPos + 8 && x < leftPos + 132 && y >= topPos + 29 && y < topPos + 120) {
-            firstRecipe = Mth.clamp(firstRecipe - (int) Math.signum(scrollY), 0, Math.max(0, menu.getRecipes().size() - 1));
+            firstRecipe = Mth.clamp(firstRecipe - (int) Math.signum(scrollY), 0, maxScroll());
             return true;
         }
         return super.mouseScrolled(x, y, scrollX, scrollY);

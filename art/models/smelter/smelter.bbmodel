@@ -1,0 +1,4329 @@
+{
+  "meta": {
+    "format_version": "4.10",
+    "model_format": "java_block",
+    "box_uv": false
+  },
+  "name": "smelter",
+  "resolution": {
+    "width": 128,
+    "height": 128
+  },
+  "elements": [
+    {
+      "name": "Low foundation step",
+      "type": "cube",
+      "uuid": "76c8ce16-099f-582a-8551-be5ab98e4190",
+      "from": [
+        1,
+        0,
+        1
+      ],
+      "to": [
+        31,
+        1.5,
+        25
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            0,
+            62,
+            1.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            0,
+            56,
+            1.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            0,
+            62,
+            1.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            0,
+            56,
+            1.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            0,
+            62,
+            24
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            0,
+            62,
+            24
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Stone plinth",
+      "type": "cube",
+      "uuid": "963e563f-fec1-5bd5-a3a8-6c49a63b8df9",
+      "from": [
+        1.5,
+        1.5,
+        1.5
+      ],
+      "to": [
+        30.5,
+        4,
+        24.5
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            29.0,
+            2.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            23.0,
+            2.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            29.0,
+            2.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            23.0,
+            2.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            96,
+            29.0,
+            119.0
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            29.0,
+            23.0
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Lower masonry course center",
+      "type": "cube",
+      "uuid": "14c69b6f-d8d5-51ad-aab8-c12bd9439ca9",
+      "from": [
+        6,
+        4,
+        2
+      ],
+      "to": [
+        26,
+        11,
+        21
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            20,
+            7
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            19,
+            7
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            20,
+            7
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            19,
+            7
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            20,
+            19
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            20,
+            19
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Lower masonry course left shoulder",
+      "type": "cube",
+      "uuid": "c693ffb4-3793-5cff-afaa-fcbf54c8b4f4",
+      "from": [
+        3,
+        4,
+        5
+      ],
+      "to": [
+        6,
+        11,
+        18
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            3,
+            7
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            13,
+            7
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            3,
+            7
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            13,
+            7
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            3,
+            13
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            3,
+            13
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Lower masonry course right shoulder",
+      "type": "cube",
+      "uuid": "799ec822-fe06-54bb-af54-13f07df327fa",
+      "from": [
+        26,
+        4,
+        5
+      ],
+      "to": [
+        29,
+        11,
+        18
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            3,
+            7
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            13,
+            7
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            3,
+            7
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            13,
+            7
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            3,
+            13
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            3,
+            13
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Middle masonry course center",
+      "type": "cube",
+      "uuid": "3c9378d1-b0b3-5f17-affc-0cd4cb499ede",
+      "from": [
+        7,
+        11,
+        3
+      ],
+      "to": [
+        25,
+        16,
+        20
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            96,
+            18,
+            101
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            96,
+            17,
+            101
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            96,
+            18,
+            101
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            96,
+            17,
+            101
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            96,
+            18,
+            113
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            96,
+            18,
+            113
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Middle masonry course left shoulder",
+      "type": "cube",
+      "uuid": "6be3e6a8-57a7-514c-8924-e339b53dfe0d",
+      "from": [
+        4,
+        11,
+        6
+      ],
+      "to": [
+        7,
+        16,
+        17
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            96,
+            3,
+            101
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            96,
+            11,
+            101
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            96,
+            3,
+            101
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            96,
+            11,
+            101
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            96,
+            3,
+            107
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            96,
+            3,
+            107
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Middle masonry course right shoulder",
+      "type": "cube",
+      "uuid": "a01c53ad-7bd3-5f4a-90fc-08128370dee5",
+      "from": [
+        25,
+        11,
+        6
+      ],
+      "to": [
+        28,
+        16,
+        17
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            96,
+            3,
+            101
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            96,
+            11,
+            101
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            96,
+            3,
+            101
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            96,
+            11,
+            101
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            96,
+            3,
+            107
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            96,
+            3,
+            107
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Upper masonry course center",
+      "type": "cube",
+      "uuid": "37a63ef7-4237-5e5f-afb8-101f7f4ecee3",
+      "from": [
+        9,
+        16,
+        4
+      ],
+      "to": [
+        23,
+        20,
+        19
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            96,
+            78,
+            100
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            96,
+            79,
+            100
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            96,
+            78,
+            100
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            96,
+            79,
+            100
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            96,
+            78,
+            111
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            96,
+            78,
+            111
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Upper masonry course left shoulder",
+      "type": "cube",
+      "uuid": "5dd49889-e549-50ba-8353-d1ba59a8504c",
+      "from": [
+        6,
+        16,
+        7
+      ],
+      "to": [
+        9,
+        20,
+        16
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            96,
+            67,
+            100
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            96,
+            73,
+            100
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            96,
+            67,
+            100
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            96,
+            73,
+            100
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            96,
+            67,
+            105
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            96,
+            67,
+            105
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Upper masonry course right shoulder",
+      "type": "cube",
+      "uuid": "3462aa80-813e-59c9-986b-13b1fe4fcda5",
+      "from": [
+        23,
+        16,
+        7
+      ],
+      "to": [
+        26,
+        20,
+        16
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            96,
+            67,
+            100
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            96,
+            73,
+            100
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            96,
+            67,
+            100
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            96,
+            73,
+            100
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            96,
+            67,
+            105
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            96,
+            67,
+            105
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Dome crown center",
+      "type": "cube",
+      "uuid": "d1ab7af7-b4f8-573a-b605-1d1872bcf4e9",
+      "from": [
+        11,
+        20,
+        6
+      ],
+      "to": [
+        21,
+        23,
+        17
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            10,
+            3
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            11,
+            3
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            10,
+            3
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            11,
+            3
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            10,
+            11
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            10,
+            11
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Dome crown left shoulder",
+      "type": "cube",
+      "uuid": "51010aa0-b540-5a9a-afe0-55e0ba4aa44d",
+      "from": [
+        9,
+        20,
+        8
+      ],
+      "to": [
+        11,
+        23,
+        15
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            2,
+            3
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            7,
+            3
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            2,
+            3
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            7,
+            3
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            2,
+            7
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            2,
+            7
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Dome crown right shoulder",
+      "type": "cube",
+      "uuid": "d6f01ace-d5d4-5945-8624-78d8dffd59ec",
+      "from": [
+        21,
+        20,
+        8
+      ],
+      "to": [
+        23,
+        23,
+        15
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            2,
+            3
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            7,
+            3
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            2,
+            3
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            7,
+            3
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            2,
+            7
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            2,
+            7
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Flat crown cap",
+      "type": "cube",
+      "uuid": "0c36e41a-0747-520a-9af1-afd4e55966d3",
+      "from": [
+        12,
+        23,
+        8
+      ],
+      "to": [
+        20,
+        24.5,
+        15
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            96,
+            72,
+            97.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            96,
+            71,
+            97.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            96,
+            72,
+            97.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            96,
+            71,
+            97.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            96,
+            8,
+            103
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            96,
+            72,
+            103
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Soot-dark lower throat",
+      "type": "cube",
+      "uuid": "94ad71f1-e975-53b0-a60e-4f6abd144ca2",
+      "from": [
+        13,
+        4.1,
+        21.02
+      ],
+      "to": [
+        19,
+        11.5,
+        21.2
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            96,
+            0,
+            102,
+            7.4
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            96,
+            0,
+            96.18,
+            7.4
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            96,
+            0,
+            102,
+            7.4
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            96,
+            0,
+            96.18,
+            7.4
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            96,
+            0,
+            102,
+            0.17999999999999972
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            96,
+            0,
+            102,
+            0.17999999999999972
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Soot-dark upper throat",
+      "type": "cube",
+      "uuid": "c28bf1fb-10ec-558f-a285-3c60bfab5f60",
+      "from": [
+        14,
+        11.5,
+        20.02
+      ],
+      "to": [
+        18,
+        13.1,
+        20.2
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            96,
+            0,
+            100,
+            1.5999999999999996
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            96,
+            0,
+            96.18,
+            1.5999999999999996
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            96,
+            0,
+            100,
+            1.5999999999999996
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            96,
+            0,
+            96.18,
+            1.5999999999999996
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            96,
+            0,
+            100,
+            0.17999999999999972
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            96,
+            0,
+            100,
+            0.17999999999999972
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Firebox floor",
+      "type": "cube",
+      "uuid": "1dbb306d-3949-53ef-bba7-45e0abf929b0",
+      "from": [
+        13,
+        4.05,
+        21
+      ],
+      "to": [
+        19,
+        4.35,
+        24
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            64,
+            38,
+            64.3
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            64,
+            35,
+            64.3
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            64,
+            38,
+            64.3
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            64,
+            35,
+            64.3
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            64,
+            38,
+            67
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            64,
+            38,
+            67
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Banked coals",
+      "type": "cube",
+      "uuid": "aaee0f86-a761-5781-8ce2-0782ad36f819",
+      "from": [
+        14,
+        4.35,
+        21.3
+      ],
+      "to": [
+        18,
+        4.6,
+        22.4
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            64,
+            4,
+            64.25
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            64,
+            1.0999999999999979,
+            64.25
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            64,
+            4,
+            64.25
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            64,
+            1.0999999999999979,
+            64.25
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            64,
+            4,
+            65.1
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            64,
+            4,
+            65.1
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Left arch upright",
+      "type": "cube",
+      "uuid": "fddfe045-ffb9-5962-b905-e1cd4164c7bf",
+      "from": [
+        11,
+        4,
+        19
+      ],
+      "to": [
+        13,
+        11.5,
+        25
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            64,
+            66,
+            71.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            64,
+            70,
+            71.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            64,
+            66,
+            71.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            64,
+            70,
+            71.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            0,
+            66,
+            6
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            64,
+            66,
+            70
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Right arch upright",
+      "type": "cube",
+      "uuid": "1d24da57-b7ee-533a-9eaf-6f42b64663e7",
+      "from": [
+        19,
+        4,
+        19
+      ],
+      "to": [
+        21,
+        11.5,
+        25
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            64,
+            66,
+            71.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            64,
+            70,
+            71.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            64,
+            66,
+            71.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            64,
+            70,
+            71.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            0,
+            66,
+            6
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            64,
+            66,
+            70
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Left arch haunch",
+      "type": "cube",
+      "uuid": "cca559c8-7dc3-5bfe-bafc-0c1aea19735b",
+      "from": [
+        12,
+        11.5,
+        19
+      ],
+      "to": [
+        14,
+        13,
+        25
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            0,
+            66,
+            1.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            0,
+            70,
+            1.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            0,
+            66,
+            1.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            0,
+            70,
+            1.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            0,
+            66,
+            6
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            0,
+            66,
+            6
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Right arch haunch",
+      "type": "cube",
+      "uuid": "72f2c48f-0c15-5bd2-8453-af8c598dc14d",
+      "from": [
+        18,
+        11.5,
+        19
+      ],
+      "to": [
+        20,
+        13,
+        25
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            0,
+            66,
+            1.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            0,
+            70,
+            1.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            0,
+            66,
+            1.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            0,
+            70,
+            1.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            0,
+            66,
+            6
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            0,
+            66,
+            6
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Arch keystone",
+      "type": "cube",
+      "uuid": "0a037e9c-9fde-546c-aca3-4df31c1163b4",
+      "from": [
+        14,
+        13,
+        19
+      ],
+      "to": [
+        18,
+        14.5,
+        25
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            0,
+            68,
+            1.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            0,
+            70,
+            1.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            0,
+            68,
+            1.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            0,
+            70,
+            1.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            0,
+            68,
+            6
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            0,
+            68,
+            6
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Arch top cap",
+      "type": "cube",
+      "uuid": "b4ef272b-2582-538c-b8b4-ce9b22590db9",
+      "from": [
+        13,
+        14.5,
+        19
+      ],
+      "to": [
+        19,
+        15.3,
+        24.8
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            64,
+            70,
+            64.8
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            64,
+            69.8,
+            64.8
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            64,
+            70,
+            64.8
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            64,
+            69.8,
+            64.8
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            64,
+            70,
+            69.8
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            64,
+            70,
+            69.8
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Sloped pouring channel",
+      "type": "cube",
+      "uuid": "50b09a1d-21a1-5e43-952d-8cc535832806",
+      "from": [
+        13.5,
+        2,
+        22
+      ],
+      "to": [
+        18.5,
+        2.6,
+        31
+      ],
+      "origin": [
+        16,
+        2,
+        31
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            0,
+            69.0,
+            0.6000000000000001
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            0,
+            73,
+            0.6000000000000001
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            0,
+            69.0,
+            0.6000000000000001
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            0,
+            73,
+            0.6000000000000001
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            0,
+            69.0,
+            9
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            0,
+            69.0,
+            9
+          ],
+          "texture": 0
+        }
+      },
+      "rotation": [
+        22.5,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Channel left wall",
+      "type": "cube",
+      "uuid": "e4023d7f-c330-5f9a-a24f-6020ac144b26",
+      "from": [
+        12.5,
+        2,
+        22
+      ],
+      "to": [
+        13.5,
+        4,
+        31
+      ],
+      "origin": [
+        16,
+        2,
+        31
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            64,
+            65.0,
+            66
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            64,
+            73,
+            66
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            64,
+            65.0,
+            66
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            64,
+            73,
+            66
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            9
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            64,
+            65.0,
+            73
+          ],
+          "texture": 0
+        }
+      },
+      "rotation": [
+        22.5,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Channel right wall",
+      "type": "cube",
+      "uuid": "bd358e00-d560-58e3-9658-ef2ef0099ef3",
+      "from": [
+        18.5,
+        2,
+        22
+      ],
+      "to": [
+        19.5,
+        4,
+        31
+      ],
+      "origin": [
+        16,
+        2,
+        31
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            64,
+            65.0,
+            66
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            64,
+            73,
+            66
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            64,
+            65.0,
+            66
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            64,
+            73,
+            66
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            9
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            64,
+            65.0,
+            73
+          ],
+          "texture": 0
+        }
+      },
+      "rotation": [
+        22.5,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Iron stirring rod",
+      "type": "cube",
+      "uuid": "82d9ba14-884e-58b0-9ee5-48c0dd426c0b",
+      "from": [
+        15.7,
+        4.2,
+        19.5
+      ],
+      "to": [
+        16.3,
+        4.5,
+        29
+      ],
+      "origin": [
+        16,
+        2,
+        31
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            32,
+            64.6,
+            32.3
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            32,
+            73.5,
+            32.3
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            32,
+            64.6,
+            32.3
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            32,
+            73.5,
+            32.3
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            32,
+            64.6,
+            41.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            32,
+            64.6,
+            41.5
+          ],
+          "texture": 0
+        }
+      },
+      "rotation": [
+        22.5,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Wooden rod grip",
+      "type": "cube",
+      "uuid": "c5e114f2-8de8-59fe-807d-cdddd732851a",
+      "from": [
+        15.4,
+        4,
+        29
+      ],
+      "to": [
+        16.6,
+        4.8,
+        30.5
+      ],
+      "origin": [
+        16,
+        2,
+        31
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            32,
+            1.200000000000001,
+            32.8
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            32,
+            1.5,
+            32.8
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            32,
+            1.200000000000001,
+            32.8
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            32,
+            1.5,
+            32.8
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            32,
+            1.200000000000001,
+            33.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            32,
+            1.200000000000001,
+            33.5
+          ],
+          "texture": 0
+        }
+      },
+      "rotation": [
+        22.5,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Left mold bottom",
+      "type": "cube",
+      "uuid": "2dd8ee83-12d9-57a5-bb7b-015b2e87fdfa",
+      "from": [
+        3,
+        0.15,
+        26
+      ],
+      "to": [
+        9,
+        0.5,
+        31
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            38,
+            32.35
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            37,
+            32.35
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            38,
+            32.35
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            37,
+            32.35
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            38,
+            37
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            38,
+            37
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Left mold front rim",
+      "type": "cube",
+      "uuid": "bd72ec92-5e72-50d8-a7e4-0b7c322e1001",
+      "from": [
+        3,
+        0.5,
+        30.5
+      ],
+      "to": [
+        9,
+        1.1,
+        31
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            38,
+            32.6
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.6
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            38,
+            32.6
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.6
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            38,
+            32.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            38,
+            32.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Left mold back rim",
+      "type": "cube",
+      "uuid": "272dffaa-5fa2-595d-8953-04dd8257760e",
+      "from": [
+        3,
+        0.5,
+        26
+      ],
+      "to": [
+        9,
+        1.1,
+        26.5
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            38,
+            32.6
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.6
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            38,
+            32.6
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.6
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            38,
+            32.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            38,
+            32.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Left mold left rim",
+      "type": "cube",
+      "uuid": "e22ac9bc-10f3-5e73-aa6e-424cdd67eebf",
+      "from": [
+        3,
+        0.5,
+        26.5
+      ],
+      "to": [
+        3.5,
+        1.1,
+        30.5
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.6
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            36.0,
+            32.6
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.6
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            36.0,
+            32.6
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            36.0
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            36.0
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Left mold right rim",
+      "type": "cube",
+      "uuid": "a6dd201e-cf98-51e3-bb82-22386f1d3bde",
+      "from": [
+        8.5,
+        0.5,
+        26.5
+      ],
+      "to": [
+        9,
+        1.1,
+        30.5
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.6
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            36.0,
+            32.6
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.6
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            36.0,
+            32.6
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            36.0
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            36.0
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Left cooling archeum ingot",
+      "type": "cube",
+      "uuid": "d8d739c7-dfa7-5ee6-b087-848a0ab56f92",
+      "from": [
+        4.2,
+        0.5,
+        27.1
+      ],
+      "to": [
+        7.8,
+        1,
+        29.9
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            96,
+            32,
+            99.6,
+            32.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            96,
+            32,
+            98.8,
+            32.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            96,
+            32,
+            99.6,
+            32.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            96,
+            32,
+            98.8,
+            32.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            96,
+            32,
+            99.6,
+            34.8
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            96,
+            32,
+            99.6,
+            34.8
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Right mold bottom",
+      "type": "cube",
+      "uuid": "aa9037ad-dd47-5ecd-963e-0024a7bfb7ac",
+      "from": [
+        22,
+        0.15,
+        26
+      ],
+      "to": [
+        28,
+        0.5,
+        31
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            38,
+            32.35
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            37,
+            32.35
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            38,
+            32.35
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            37,
+            32.35
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            38,
+            37
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            38,
+            37
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Right mold front rim",
+      "type": "cube",
+      "uuid": "1b6b6e2a-c51a-5b33-9905-80fa0b97cdc7",
+      "from": [
+        22,
+        0.5,
+        30.5
+      ],
+      "to": [
+        28,
+        1.1,
+        31
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            38,
+            32.6
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.6
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            38,
+            32.6
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.6
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            38,
+            32.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            38,
+            32.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Right mold back rim",
+      "type": "cube",
+      "uuid": "647bcda0-65a4-573f-9b7b-ecfb106e17f2",
+      "from": [
+        22,
+        0.5,
+        26
+      ],
+      "to": [
+        28,
+        1.1,
+        26.5
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            38,
+            32.6
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.6
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            38,
+            32.6
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.6
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            38,
+            32.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            38,
+            32.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Right mold left rim",
+      "type": "cube",
+      "uuid": "7f8e0ccb-afd5-53b9-81c5-19ba100f11b9",
+      "from": [
+        22,
+        0.5,
+        26.5
+      ],
+      "to": [
+        22.5,
+        1.1,
+        30.5
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.6
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            36.0,
+            32.6
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.6
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            36.0,
+            32.6
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            36.0
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            36.0
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Right mold right rim",
+      "type": "cube",
+      "uuid": "12435d6d-848f-51b7-a7fb-744c7caba651",
+      "from": [
+        27.5,
+        0.5,
+        26.5
+      ],
+      "to": [
+        28,
+        1.1,
+        30.5
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.6
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            36.0,
+            32.6
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.6
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            36.0,
+            32.6
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            36.0
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            36.0
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Right cooling archeum ingot",
+      "type": "cube",
+      "uuid": "a69e15e9-ccdb-5606-95fd-bc21295e3788",
+      "from": [
+        23.2,
+        0.5,
+        27.1
+      ],
+      "to": [
+        26.8,
+        1,
+        29.9
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            96,
+            32,
+            99.6,
+            32.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            96,
+            32,
+            98.8,
+            32.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            96,
+            32,
+            99.6,
+            32.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            96,
+            32,
+            98.8,
+            32.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            96,
+            32,
+            99.6,
+            34.8
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            96,
+            32,
+            99.6,
+            34.8
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Side air pipe",
+      "type": "cube",
+      "uuid": "9eb3a92f-2c60-53ca-8ddf-76b57ec8487a",
+      "from": [
+        28,
+        11.5,
+        10.5
+      ],
+      "to": [
+        31,
+        14,
+        13
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            96,
+            64,
+            99,
+            66.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            96,
+            64,
+            98.5,
+            66.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            96,
+            64,
+            99,
+            66.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            96,
+            64,
+            98.5,
+            66.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            96,
+            64,
+            99,
+            66.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            96,
+            64,
+            99,
+            66.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Pipe end collar",
+      "type": "cube",
+      "uuid": "c08bef9a-b586-5ac2-b9ee-aa1b6740c0ca",
+      "from": [
+        30.4,
+        11.2,
+        10.2
+      ],
+      "to": [
+        31.5,
+        14.3,
+        13.3
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            0,
+            65.1,
+            3.1000000000000014
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            0,
+            67.1,
+            3.1000000000000014
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            0,
+            65.1,
+            3.1000000000000014
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            0,
+            67.1,
+            3.1000000000000014
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            0,
+            65.1,
+            3.1000000000000014
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            0,
+            65.1,
+            3.1000000000000014
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Dark pipe bore",
+      "type": "cube",
+      "uuid": "d7f0c54b-6ce4-554a-bd69-2fd5307dddc4",
+      "from": [
+        31.51,
+        11.8,
+        10.8
+      ],
+      "to": [
+        31.56,
+        13.7,
+        12.7
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            96,
+            0,
+            96.05,
+            1.8999999999999986
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            96,
+            0,
+            97.9,
+            1.8999999999999986
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            96,
+            0,
+            96.05,
+            1.8999999999999986
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            96,
+            0,
+            97.9,
+            1.8999999999999986
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            96,
+            0,
+            96.05,
+            1.8999999999999986
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            96,
+            0,
+            96.05,
+            1.8999999999999986
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Rear flue base",
+      "type": "cube",
+      "uuid": "a859fb64-0cdf-5901-b645-34e90004b1e8",
+      "from": [
+        22.5,
+        16,
+        3.5
+      ],
+      "to": [
+        26.5,
+        19,
+        7.5
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            0,
+            36.0,
+            3
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            0,
+            36.0,
+            3
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            0,
+            36.0,
+            3
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            0,
+            36.0,
+            3
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            0,
+            36.0,
+            4.0
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            0,
+            36.0,
+            4.0
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Rear iron flue",
+      "type": "cube",
+      "uuid": "532a207e-35f5-5d7e-8b1a-b3a688f1a4d4",
+      "from": [
+        23,
+        19,
+        4
+      ],
+      "to": [
+        26,
+        28.5,
+        7
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            96,
+            64,
+            99,
+            73.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            96,
+            64,
+            99,
+            73.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            96,
+            64,
+            99,
+            73.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            96,
+            64,
+            99,
+            73.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            96,
+            64,
+            99,
+            67
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            96,
+            64,
+            99,
+            67
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Flue rim front",
+      "type": "cube",
+      "uuid": "97ad911d-b53c-5f14-be8f-e8fc8a65d89b",
+      "from": [
+        22.5,
+        28.5,
+        7
+      ],
+      "to": [
+        26.5,
+        29.5,
+        7.5
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            32,
+            68.0,
+            33.0
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            32,
+            64.5,
+            33.0
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            32,
+            68.0,
+            33.0
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            32,
+            64.5,
+            33.0
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            32,
+            68.0,
+            32.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            32,
+            68.0,
+            32.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Flue rim back",
+      "type": "cube",
+      "uuid": "76d5a70d-0bf7-5cb4-8b80-afad8abb459b",
+      "from": [
+        22.5,
+        28.5,
+        3.5
+      ],
+      "to": [
+        26.5,
+        29.5,
+        4
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            32,
+            68.0,
+            33.0
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            32,
+            64.5,
+            33.0
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            32,
+            68.0,
+            33.0
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            32,
+            64.5,
+            33.0
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            32,
+            68.0,
+            32.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            32,
+            68.0,
+            32.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Flue rim left",
+      "type": "cube",
+      "uuid": "73ca3961-383b-5aac-898b-85f39729e45b",
+      "from": [
+        22.5,
+        28.5,
+        4
+      ],
+      "to": [
+        23,
+        29.5,
+        7
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            32,
+            64.5,
+            33.0
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            32,
+            67,
+            33.0
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            32,
+            64.5,
+            33.0
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            32,
+            67,
+            33.0
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            32,
+            64.5,
+            35
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            32,
+            64.5,
+            35
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Flue rim right",
+      "type": "cube",
+      "uuid": "b763f448-4f9d-5aca-8dce-d979cab4c387",
+      "from": [
+        26,
+        28.5,
+        4
+      ],
+      "to": [
+        26.5,
+        29.5,
+        7
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            32,
+            64.5,
+            33.0
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            32,
+            67,
+            33.0
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            32,
+            64.5,
+            33.0
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            32,
+            67,
+            33.0
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            32,
+            64.5,
+            35
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            32,
+            64.5,
+            35
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Flue dark interior",
+      "type": "cube",
+      "uuid": "d837ec82-5cc7-52b5-a6b4-bec2215b4af9",
+      "from": [
+        23,
+        28.3,
+        4
+      ],
+      "to": [
+        26,
+        28.4,
+        7
+      ],
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            96,
+            0,
+            99,
+            0.09999999999999787
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            96,
+            0,
+            99,
+            0.09999999999999787
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            96,
+            0,
+            99,
+            0.09999999999999787
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            96,
+            0,
+            99,
+            0.09999999999999787
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            96,
+            0,
+            99,
+            3
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            96,
+            0,
+            99,
+            3
+          ],
+          "texture": 0
+        }
+      }
+    }
+  ],
+  "outliner": [
+    {
+      "name": "Foundation",
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "uuid": "d24dd6ae-c3f3-55cd-9428-f4c0df0e299a",
+      "children": [
+        "76c8ce16-099f-582a-8551-be5ab98e4190",
+        "963e563f-fec1-5bd5-a3a8-6c49a63b8df9"
+      ]
+    },
+    {
+      "name": "Stone oven",
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "uuid": "0573b0f0-5133-536d-9910-2be885c82e49",
+      "children": [
+        "14c69b6f-d8d5-51ad-aab8-c12bd9439ca9",
+        "c693ffb4-3793-5cff-afaa-fcbf54c8b4f4",
+        "799ec822-fe06-54bb-af54-13f07df327fa",
+        "3c9378d1-b0b3-5f17-affc-0cd4cb499ede",
+        "6be3e6a8-57a7-514c-8924-e339b53dfe0d",
+        "a01c53ad-7bd3-5f4a-90fc-08128370dee5",
+        "37a63ef7-4237-5e5f-afb8-101f7f4ecee3",
+        "5dd49889-e549-50ba-8353-d1ba59a8504c",
+        "3462aa80-813e-59c9-986b-13b1fe4fcda5",
+        "d1ab7af7-b4f8-573a-b605-1d1872bcf4e9",
+        "51010aa0-b540-5a9a-afe0-55e0ba4aa44d",
+        "d6f01ace-d5d4-5945-8624-78d8dffd59ec",
+        "0c36e41a-0747-520a-9af1-afd4e55966d3"
+      ]
+    },
+    {
+      "name": "Furnace opening",
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "uuid": "43389dfe-252e-53f8-a3f8-686d28657451",
+      "children": [
+        "94ad71f1-e975-53b0-a60e-4f6abd144ca2",
+        "c28bf1fb-10ec-558f-a285-3c60bfab5f60",
+        "1dbb306d-3949-53ef-bba7-45e0abf929b0",
+        "aaee0f86-a761-5781-8ce2-0782ad36f819",
+        "fddfe045-ffb9-5962-b905-e1cd4164c7bf",
+        "1d24da57-b7ee-533a-9eaf-6f42b64663e7",
+        "cca559c8-7dc3-5bfe-bafc-0c1aea19735b",
+        "72f2c48f-0c15-5bd2-8453-af8c598dc14d",
+        "0a037e9c-9fde-546c-aca3-4df31c1163b4",
+        "b4ef272b-2582-538c-b8b4-ce9b22590db9"
+      ]
+    },
+    {
+      "name": "Pouring channel",
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "uuid": "ac188c30-1e1f-5753-8e9e-b9ded7415f6f",
+      "children": [
+        "50b09a1d-21a1-5e43-952d-8cc535832806",
+        "e4023d7f-c330-5f9a-a24f-6020ac144b26",
+        "bd358e00-d560-58e3-9658-ef2ef0099ef3"
+      ]
+    },
+    {
+      "name": "Stirring tool",
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "uuid": "e43a442f-2f06-5f60-84ae-800f5a0ebe6b",
+      "children": [
+        "82d9ba14-884e-58b0-9ee5-48c0dd426c0b",
+        "c5e114f2-8de8-59fe-807d-cdddd732851a"
+      ]
+    },
+    {
+      "name": "Ingot molds",
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "uuid": "aa829a08-17ac-5948-b6b2-0a2756b4d34b",
+      "children": [
+        "2dd8ee83-12d9-57a5-bb7b-015b2e87fdfa",
+        "bd72ec92-5e72-50d8-a7e4-0b7c322e1001",
+        "272dffaa-5fa2-595d-8953-04dd8257760e",
+        "e22ac9bc-10f3-5e73-aa6e-424cdd67eebf",
+        "a6dd201e-cf98-51e3-bb82-22386f1d3bde",
+        "d8d739c7-dfa7-5ee6-b087-848a0ab56f92",
+        "aa9037ad-dd47-5ecd-963e-0024a7bfb7ac",
+        "1b6b6e2a-c51a-5b33-9905-80fa0b97cdc7",
+        "647bcda0-65a4-573f-9b7b-ecfb106e17f2",
+        "7f8e0ccb-afd5-53b9-81c5-19ba100f11b9",
+        "12435d6d-848f-51b7-a7fb-744c7caba651",
+        "a69e15e9-ccdb-5606-95fd-bc21295e3788"
+      ]
+    },
+    {
+      "name": "Air pipe and flue",
+      "origin": [
+        16,
+        0,
+        16
+      ],
+      "uuid": "c5e63af7-89dd-5e0b-9fe2-fb32c4ba7a32",
+      "children": [
+        "9eb3a92f-2c60-53ca-8ddf-76b57ec8487a",
+        "c08bef9a-b586-5ac2-b9ee-aa1b6740c0ca",
+        "d7f0c54b-6ce4-554a-bd69-2fd5307dddc4",
+        "a859fb64-0cdf-5901-b645-34e90004b1e8",
+        "532a207e-35f5-5d7e-8b1a-b3a688f1a4d4",
+        "97ad911d-b53c-5f14-be8f-e8fc8a65d89b",
+        "76d5a70d-0bf7-5cb4-8b80-afad8abb459b",
+        "73ca3961-383b-5aac-898b-85f39729e45b",
+        "b763f448-4f9d-5aca-8dce-d979cab4c387",
+        "d837ec82-5cc7-52b5-a6b4-bec2215b4af9"
+      ]
+    }
+  ],
+  "display": {
+    "gui": {
+      "rotation": [
+        25,
+        225,
+        0
+      ],
+      "translation": [
+        0,
+        -1,
+        0
+      ],
+      "scale": [
+        0.34,
+        0.34,
+        0.34
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.18,
+        0.18,
+        0.18
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ]
+    }
+  },
+  "textures": [
+    {
+      "name": "smelter.png",
+      "uuid": "dcd19d46-294c-5735-b3f4-6d9cfc3d35df",
+      "id": "0",
+      "namespace": "archecraft",
+      "folder": "block",
+      "width": 128,
+      "height": 128,
+      "uv_width": 128,
+      "uv_height": 128,
+      "mode": "bitmap",
+      "saved": true,
+      "source": "data:image/png;base64,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"
+    }
+  ]
+}

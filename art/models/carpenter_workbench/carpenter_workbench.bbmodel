@@ -1,0 +1,5636 @@
+{
+  "meta": {
+    "format_version": "4.10",
+    "model_format": "java_block",
+    "box_uv": false
+  },
+  "name": "carpenter_workbench",
+  "resolution": {
+    "width": 128,
+    "height": 64
+  },
+  "elements": [
+    {
+      "name": "left back leg",
+      "type": "cube",
+      "uuid": "dfb2c795-0d7e-5add-a3b0-341a65ede348",
+      "from": [
+        2,
+        0,
+        2
+      ],
+      "to": [
+        4.5,
+        12,
+        4.5
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            0,
+            34.5,
+            12
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            0,
+            34.5,
+            12
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            0,
+            34.5,
+            12
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            0,
+            34.5,
+            12
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            0,
+            34.5,
+            2.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            96,
+            0,
+            98.5,
+            2.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "left back foot",
+      "type": "cube",
+      "uuid": "61f0107c-3086-5c69-a12b-e91e8967962d",
+      "from": [
+        1.7,
+        0,
+        1.7
+      ],
+      "to": [
+        4.8,
+        1.5,
+        4.8
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            0,
+            67.1,
+            1.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            0,
+            67.1,
+            1.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            0,
+            67.1,
+            1.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            0,
+            67.1,
+            1.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            0,
+            67.1,
+            3.0999999999999996
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            96,
+            0,
+            99.1,
+            3.0999999999999996
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "left front leg",
+      "type": "cube",
+      "uuid": "65b575a3-24b3-584f-8aeb-b872fde60143",
+      "from": [
+        2,
+        0,
+        11.5
+      ],
+      "to": [
+        4.5,
+        12,
+        14.0
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            0,
+            34.5,
+            12
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            0,
+            34.5,
+            12
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            0,
+            34.5,
+            12
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            0,
+            34.5,
+            12
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            0,
+            34.5,
+            2.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            96,
+            0,
+            98.5,
+            2.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "left front foot",
+      "type": "cube",
+      "uuid": "df244d43-aa5f-533e-b686-9dd48f30cfd9",
+      "from": [
+        1.7,
+        0,
+        11.2
+      ],
+      "to": [
+        4.8,
+        1.5,
+        14.3
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            0,
+            67.1,
+            1.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            0,
+            67.1,
+            1.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            0,
+            67.1,
+            1.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            0,
+            67.1,
+            1.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            0,
+            67.1,
+            3.1000000000000014
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            96,
+            0,
+            99.1,
+            3.1000000000000014
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "right back leg",
+      "type": "cube",
+      "uuid": "df7d400e-ea84-5cff-9efa-b040c76a3ffc",
+      "from": [
+        27.5,
+        0,
+        2
+      ],
+      "to": [
+        30.0,
+        12,
+        4.5
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            0,
+            34.5,
+            12
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            0,
+            34.5,
+            12
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            0,
+            34.5,
+            12
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            0,
+            34.5,
+            12
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            0,
+            34.5,
+            2.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            96,
+            0,
+            98.5,
+            2.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "right back foot",
+      "type": "cube",
+      "uuid": "81811197-aa41-54e7-acce-87553085d9a6",
+      "from": [
+        27.2,
+        0,
+        1.7
+      ],
+      "to": [
+        30.3,
+        1.5,
+        4.8
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            0,
+            67.1,
+            1.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            0,
+            67.1,
+            1.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            0,
+            67.1,
+            1.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            0,
+            67.1,
+            1.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            0,
+            67.1,
+            3.0999999999999996
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            96,
+            0,
+            99.1,
+            3.0999999999999996
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "right front leg",
+      "type": "cube",
+      "uuid": "679a2920-7461-5d1b-86b8-e1a7c1b3a380",
+      "from": [
+        27.5,
+        0,
+        11.5
+      ],
+      "to": [
+        30.0,
+        12,
+        14.0
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            0,
+            34.5,
+            12
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            0,
+            34.5,
+            12
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            0,
+            34.5,
+            12
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            0,
+            34.5,
+            12
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            0,
+            34.5,
+            2.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            96,
+            0,
+            98.5,
+            2.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "right front foot",
+      "type": "cube",
+      "uuid": "ab4c5d9d-33a0-5f7c-b2aa-00d50b09aa18",
+      "from": [
+        27.2,
+        0,
+        11.2
+      ],
+      "to": [
+        30.3,
+        1.5,
+        14.3
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            0,
+            67.1,
+            1.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            0,
+            67.1,
+            1.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            0,
+            67.1,
+            1.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            0,
+            67.1,
+            1.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            0,
+            67.1,
+            3.1000000000000014
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            96,
+            0,
+            99.1,
+            3.1000000000000014
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Front apron",
+      "type": "cube",
+      "uuid": "ed7aca25-882d-5b3f-8787-d35ecc4a6aa4",
+      "from": [
+        1,
+        10,
+        12
+      ],
+      "to": [
+        31,
+        12.5,
+        14
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            0,
+            62,
+            2.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            0,
+            34,
+            2.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            0,
+            62,
+            2.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            0,
+            34,
+            2.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            0,
+            62,
+            2
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            96,
+            0,
+            126,
+            2
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Back apron",
+      "type": "cube",
+      "uuid": "9071731a-efa9-512d-8284-bc36600db6f9",
+      "from": [
+        1,
+        10,
+        2
+      ],
+      "to": [
+        31,
+        12.5,
+        4
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            0,
+            62,
+            2.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            0,
+            34,
+            2.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            0,
+            62,
+            2.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            0,
+            34,
+            2.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            0,
+            62,
+            2
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            96,
+            0,
+            126,
+            2
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Left apron",
+      "type": "cube",
+      "uuid": "4bcaf15f-9ff1-5072-b9da-dd5d15fef253",
+      "from": [
+        2,
+        10,
+        3
+      ],
+      "to": [
+        4,
+        12.5,
+        13
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            0,
+            34,
+            2.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            0,
+            42,
+            2.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            0,
+            34,
+            2.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            0,
+            42,
+            2.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            0,
+            34,
+            10
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            96,
+            0,
+            98,
+            10
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Right apron",
+      "type": "cube",
+      "uuid": "35ad8291-de07-5b43-bc05-4e0f60895fdc",
+      "from": [
+        28,
+        10,
+        3
+      ],
+      "to": [
+        30,
+        12.5,
+        13
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            0,
+            34,
+            2.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            0,
+            42,
+            2.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            0,
+            34,
+            2.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            0,
+            42,
+            2.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            0,
+            34,
+            10
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            96,
+            0,
+            98,
+            10
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Lower shelf plank",
+      "type": "cube",
+      "uuid": "fa020417-43b9-5d6f-b408-b5a4ffb17fbf",
+      "from": [
+        3,
+        2,
+        2.7
+      ],
+      "to": [
+        29,
+        3.5,
+        5.2
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            26,
+            1.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            2.5,
+            1.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            26,
+            1.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            2.5,
+            1.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            26,
+            2.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            26,
+            2.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Lower shelf plank",
+      "type": "cube",
+      "uuid": "a3b80d13-d4db-544f-9b27-134db661994a",
+      "from": [
+        3,
+        2,
+        5.3
+      ],
+      "to": [
+        29,
+        3.5,
+        7.8
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            26,
+            1.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            2.5,
+            1.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            26,
+            1.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            2.5,
+            1.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            26,
+            2.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            26,
+            2.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Lower shelf plank",
+      "type": "cube",
+      "uuid": "4ac59c74-ab71-5bdd-a97e-4cf89a09c898",
+      "from": [
+        3,
+        2,
+        7.9
+      ],
+      "to": [
+        29,
+        3.5,
+        10.4
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            26,
+            1.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            2.5,
+            1.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            26,
+            1.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            2.5,
+            1.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            26,
+            2.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            26,
+            2.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Lower shelf plank",
+      "type": "cube",
+      "uuid": "2c7d7263-9c46-5685-9920-8d1a3a0cf642",
+      "from": [
+        3,
+        2,
+        10.5
+      ],
+      "to": [
+        29,
+        3.5,
+        13.0
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            26,
+            1.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            2.5,
+            1.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            26,
+            1.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            2.5,
+            1.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            26,
+            2.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            26,
+            2.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Shelf front lip",
+      "type": "cube",
+      "uuid": "3cb4dd47-fe8c-521d-a861-c3bc3e460db8",
+      "from": [
+        3,
+        2,
+        13
+      ],
+      "to": [
+        29,
+        4.5,
+        14
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            0,
+            90,
+            2.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            0,
+            65,
+            2.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            0,
+            90,
+            2.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            0,
+            65,
+            2.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            0,
+            90,
+            1
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            0,
+            90,
+            1
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Shelf left support",
+      "type": "cube",
+      "uuid": "2a2181bc-cb7d-5152-897f-4e68f7101f46",
+      "from": [
+        3,
+        1.5,
+        3
+      ],
+      "to": [
+        5,
+        2,
+        14
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            0,
+            34,
+            0.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            0,
+            43,
+            0.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            0,
+            34,
+            0.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            0,
+            43,
+            0.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            0,
+            34,
+            11
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            0,
+            34,
+            11
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Shelf right support",
+      "type": "cube",
+      "uuid": "900cbcde-3449-5515-be9a-6330bd26cc8c",
+      "from": [
+        27,
+        1.5,
+        3
+      ],
+      "to": [
+        29,
+        2,
+        14
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            0,
+            34,
+            0.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            0,
+            43,
+            0.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            0,
+            34,
+            0.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            0,
+            43,
+            0.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            0,
+            34,
+            11
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            0,
+            34,
+            11
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Tabletop plank 1",
+      "type": "cube",
+      "uuid": "9c8ff009-1e50-5cc2-9c49-0d5c56d7fc48",
+      "from": [
+        0.5,
+        12.5,
+        0.5
+      ],
+      "to": [
+        31.5,
+        14,
+        3.4
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            0,
+            95.0,
+            1.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            0,
+            66.9,
+            1.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            0,
+            95.0,
+            1.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            0,
+            66.9,
+            1.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            0,
+            95.0,
+            2.9
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            0,
+            95.0,
+            2.9
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Tabletop plank 2",
+      "type": "cube",
+      "uuid": "d5f13b89-6b2a-5436-9097-10ddf4ae96a7",
+      "from": [
+        0.5,
+        12.5,
+        3.5
+      ],
+      "to": [
+        31.5,
+        14,
+        6.4
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            31.0,
+            1.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            2.9000000000000004,
+            1.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            31.0,
+            1.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            2.9000000000000004,
+            1.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            31.0,
+            2.9000000000000004
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            31.0,
+            2.9000000000000004
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Tabletop plank 3",
+      "type": "cube",
+      "uuid": "bddb17d9-46d5-5c62-b211-139e34cbae06",
+      "from": [
+        0.5,
+        12.5,
+        6.5
+      ],
+      "to": [
+        31.5,
+        14,
+        9.4
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            0,
+            95.0,
+            1.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            0,
+            66.9,
+            1.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            0,
+            95.0,
+            1.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            0,
+            66.9,
+            1.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            0,
+            95.0,
+            2.9000000000000004
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            0,
+            95.0,
+            2.9000000000000004
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Tabletop plank 4",
+      "type": "cube",
+      "uuid": "b280ac76-fc41-5cbb-9351-9e122899d618",
+      "from": [
+        0.5,
+        12.5,
+        9.5
+      ],
+      "to": [
+        31.5,
+        14,
+        12.4
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            31.0,
+            1.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            2.9000000000000004,
+            1.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            31.0,
+            1.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            2.9000000000000004,
+            1.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            31.0,
+            2.9000000000000004
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            31.0,
+            2.9000000000000004
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Tabletop plank 5",
+      "type": "cube",
+      "uuid": "19ff555b-e369-51ae-b894-8af0af2ce718",
+      "from": [
+        0.5,
+        12.5,
+        12.5
+      ],
+      "to": [
+        31.5,
+        14,
+        15.4
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            0,
+            95.0,
+            1.5
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            0,
+            66.9,
+            1.5
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            0,
+            95.0,
+            1.5
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            0,
+            66.9,
+            1.5
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            0,
+            95.0,
+            2.9000000000000004
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            0,
+            95.0,
+            2.9000000000000004
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Left end cap",
+      "type": "cube",
+      "uuid": "204e470e-b4d2-5f86-87be-95c75931a381",
+      "from": [
+        0,
+        12,
+        0.5
+      ],
+      "to": [
+        1,
+        14,
+        15.4
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            0,
+            33,
+            2
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            0,
+            46.9,
+            2
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            0,
+            33,
+            2
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            0,
+            46.9,
+            2
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            0,
+            33,
+            14.9
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            0,
+            33,
+            14.9
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Right end cap",
+      "type": "cube",
+      "uuid": "3a8316f1-6172-53c2-b62e-eea25c84abca",
+      "from": [
+        31,
+        12,
+        0.5
+      ],
+      "to": [
+        32,
+        14,
+        15.4
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            0,
+            33,
+            2
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            0,
+            46.9,
+            2
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            0,
+            33,
+            2
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            0,
+            46.9,
+            2
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            0,
+            33,
+            14.9
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            0,
+            33,
+            14.9
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Iron nail",
+      "type": "cube",
+      "uuid": "44c60882-c042-5b0e-83ce-e4fc745adc7d",
+      "from": [
+        2,
+        14,
+        2
+      ],
+      "to": [
+        2.5,
+        14.1,
+        2.5
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.1
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.1
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.1
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.1
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Iron nail",
+      "type": "cube",
+      "uuid": "27d55bcc-5b76-5c57-b1d5-674098b7afc0",
+      "from": [
+        2,
+        14,
+        12.5
+      ],
+      "to": [
+        2.5,
+        14.1,
+        13.0
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.1
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.1
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.1
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.1
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Iron nail",
+      "type": "cube",
+      "uuid": "763fe9f9-daba-5fac-abf1-a63b7968b174",
+      "from": [
+        29,
+        14,
+        2
+      ],
+      "to": [
+        29.5,
+        14.1,
+        2.5
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.1
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.1
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.1
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.1
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Iron nail",
+      "type": "cube",
+      "uuid": "404dfb90-b62c-5171-9ea9-b8f392be90b3",
+      "from": [
+        29,
+        14,
+        12.5
+      ],
+      "to": [
+        29.5,
+        14.1,
+        13.0
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.1
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.1
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.1
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.1
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Stool wooden foot",
+      "type": "cube",
+      "uuid": "5be3370c-cac9-5291-96f3-20bbad63b839",
+      "from": [
+        15.5,
+        14,
+        3.5
+      ],
+      "to": [
+        16.5,
+        16,
+        4.5
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            2
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            2
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            2
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            2
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            1.0
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            1.0
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Stool painted leg",
+      "type": "cube",
+      "uuid": "9f057c22-ca92-56c1-866d-659da3e4eb4d",
+      "from": [
+        15.5,
+        16,
+        3.5
+      ],
+      "to": [
+        16.5,
+        21,
+        4.5
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            37
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            37
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            37
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            37
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            33.0
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            33.0
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Stool wooden foot",
+      "type": "cube",
+      "uuid": "25899268-3e98-5e8a-950b-45ac1e35b47c",
+      "from": [
+        15.5,
+        14,
+        9.5
+      ],
+      "to": [
+        16.5,
+        16,
+        10.5
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            2
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            2
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            2
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            2
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            1.0
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            1.0
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Stool painted leg",
+      "type": "cube",
+      "uuid": "1f9a5269-ace4-50c9-8131-ea3a18627dec",
+      "from": [
+        15.5,
+        16,
+        9.5
+      ],
+      "to": [
+        16.5,
+        21,
+        10.5
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            37
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            37
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            37
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            37
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            33.0
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            33.0
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Stool wooden foot",
+      "type": "cube",
+      "uuid": "2092838a-94e0-5b93-9807-5edde56e2785",
+      "from": [
+        21.5,
+        14,
+        3.5
+      ],
+      "to": [
+        22.5,
+        16,
+        4.5
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            2
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            2
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            2
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            2
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            1.0
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            1.0
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Stool painted leg",
+      "type": "cube",
+      "uuid": "76006118-b46a-530f-aded-ed71e866cbfe",
+      "from": [
+        21.5,
+        16,
+        3.5
+      ],
+      "to": [
+        22.5,
+        21,
+        4.5
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            37
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            37
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            37
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            37
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            33.0
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            33.0
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Stool wooden foot",
+      "type": "cube",
+      "uuid": "88c7cf24-cd86-59d0-a3c1-749f9739e803",
+      "from": [
+        21.5,
+        14,
+        9.5
+      ],
+      "to": [
+        22.5,
+        16,
+        10.5
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            2
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            2
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            2
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            2
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            1.0
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            0,
+            65.0,
+            1.0
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Stool painted leg",
+      "type": "cube",
+      "uuid": "116561ff-ca73-5714-a3d4-92b176fa4d09",
+      "from": [
+        21.5,
+        16,
+        9.5
+      ],
+      "to": [
+        22.5,
+        21,
+        10.5
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            37
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            37
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            37
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            37
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            33.0
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            33.0
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Stool left rail",
+      "type": "cube",
+      "uuid": "10b36eb2-3582-55fe-98dc-d5b53f33fc0f",
+      "from": [
+        15.5,
+        17,
+        4.5
+      ],
+      "to": [
+        16.5,
+        17.8,
+        9.5
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            32.8
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            32,
+            5.0,
+            32.8
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            32.8
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            32,
+            5.0,
+            32.8
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            37.0
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            37.0
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Stool right rail",
+      "type": "cube",
+      "uuid": "34b6b4b0-04e9-5488-bc62-0457d8b3651e",
+      "from": [
+        21.5,
+        17,
+        4.5
+      ],
+      "to": [
+        22.5,
+        17.8,
+        9.5
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            32.8
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            32,
+            5.0,
+            32.8
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            32.8
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            32,
+            5.0,
+            32.8
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            37.0
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            37.0
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Stool front rail",
+      "type": "cube",
+      "uuid": "d991740f-7ec1-5314-8d89-c9fe30d48eb2",
+      "from": [
+        16.5,
+        18,
+        9.5
+      ],
+      "to": [
+        21.5,
+        18.8,
+        10.5
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            32,
+            5.0,
+            32.8
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            32.8
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            32,
+            5.0,
+            32.8
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            32,
+            1.0,
+            32.8
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            32,
+            5.0,
+            33.0
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            32,
+            5.0,
+            33.0
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Stool seat left",
+      "type": "cube",
+      "uuid": "c2725224-6634-5d49-9568-4375773c36dd",
+      "from": [
+        15,
+        21,
+        3
+      ],
+      "to": [
+        19,
+        22,
+        11
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            32,
+            4,
+            33
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            32,
+            8,
+            33
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            32,
+            4,
+            33
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            32,
+            8,
+            33
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            32,
+            4,
+            40
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            32,
+            4,
+            40
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Stool seat right",
+      "type": "cube",
+      "uuid": "3b68c8d0-7d6f-5994-bc4e-dc00735566cc",
+      "from": [
+        19.1,
+        21,
+        3
+      ],
+      "to": [
+        23,
+        22,
+        11
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            32,
+            3.8999999999999986,
+            33
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            32,
+            8,
+            33
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            32,
+            3.8999999999999986,
+            33
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            32,
+            8,
+            33
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            32,
+            3.8999999999999986,
+            40
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            32,
+            3.8999999999999986,
+            40
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Plane body",
+      "type": "cube",
+      "uuid": "267a99de-c50e-561c-a399-d01f719f2cdd",
+      "from": [
+        3,
+        14,
+        3
+      ],
+      "to": [
+        9,
+        15.1,
+        6
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            6,
+            1.0999999999999996
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            3,
+            1.0999999999999996
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            6,
+            1.0999999999999996
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            3,
+            1.0999999999999996
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            6,
+            3
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            6,
+            3
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Plane sole",
+      "type": "cube",
+      "uuid": "eb19f0e2-e20b-58be-874a-d00d5abe459e",
+      "from": [
+        3,
+        14,
+        3
+      ],
+      "to": [
+        9,
+        14.2,
+        6
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            38,
+            32.2
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            35,
+            32.2
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            38,
+            32.2
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            35,
+            32.2
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            38,
+            35
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            38,
+            35
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Plane blade",
+      "type": "cube",
+      "uuid": "97f2c2bd-ee54-5103-a482-d0db44975404",
+      "from": [
+        5.5,
+        15.1,
+        3.5
+      ],
+      "to": [
+        6.2,
+        16.3,
+        5.5
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            32.7,
+            33.2
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            34.0,
+            33.2
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            32.7,
+            33.2
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            34.0,
+            33.2
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            32.7,
+            34.0
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            32.7,
+            34.0
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Plane rear handle",
+      "type": "cube",
+      "uuid": "7bc4047b-8d3b-5a0f-9053-3d42dcdfbc4c",
+      "from": [
+        7,
+        15.1,
+        3.8
+      ],
+      "to": [
+        8,
+        16.5,
+        5.2
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            0,
+            33,
+            1.4000000000000004
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            0,
+            33.4,
+            1.4000000000000004
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            0,
+            33,
+            1.4000000000000004
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            0,
+            33.4,
+            1.4000000000000004
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            0,
+            33,
+            1.4000000000000004
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            0,
+            33,
+            1.4000000000000004
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Hammer handle",
+      "type": "cube",
+      "uuid": "65cc783e-9b75-5b2a-9672-7ffd65720782",
+      "from": [
+        8,
+        14,
+        10
+      ],
+      "to": [
+        15,
+        14.6,
+        10.7
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            32,
+            71,
+            32.6
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            32,
+            64.7,
+            32.6
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            32,
+            71,
+            32.6
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            32,
+            64.7,
+            32.6
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            32,
+            71,
+            32.7
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            32,
+            71,
+            32.7
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Hammer iron head",
+      "type": "cube",
+      "uuid": "f32d0ae1-bc69-54ef-a794-2f3549c4d670",
+      "from": [
+        8,
+        14,
+        9
+      ],
+      "to": [
+        9.5,
+        15.2,
+        12
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            33.5,
+            33.2
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            35,
+            33.2
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            33.5,
+            33.2
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            35,
+            33.2
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            33.5,
+            35
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            33.5,
+            35
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Saw blade",
+      "type": "cube",
+      "uuid": "f6e89f61-5ddb-56fa-89b9-1e8987de8716",
+      "from": [
+        23,
+        14,
+        7
+      ],
+      "to": [
+        29,
+        14.35,
+        9
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            38,
+            32.35
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            34,
+            32.35
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            38,
+            32.35
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            34,
+            32.35
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            38,
+            34
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            38,
+            34
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Saw tooth",
+      "type": "cube",
+      "uuid": "bb710913-0a01-572e-8c25-2cafd3f1a7e5",
+      "from": [
+        23,
+        14,
+        9
+      ],
+      "to": [
+        23.5,
+        14.35,
+        9.5
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.35
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.35
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.35
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.35
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Saw tooth",
+      "type": "cube",
+      "uuid": "04030f73-231a-515b-baaf-1921f25db4e6",
+      "from": [
+        24,
+        14,
+        9
+      ],
+      "to": [
+        24.5,
+        14.35,
+        9.5
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.35
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.35
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.35
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.35
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Saw tooth",
+      "type": "cube",
+      "uuid": "caa7119d-888d-545e-a929-21c18667b156",
+      "from": [
+        25,
+        14,
+        9
+      ],
+      "to": [
+        25.5,
+        14.35,
+        9.5
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.35
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.35
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.35
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.35
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Saw tooth",
+      "type": "cube",
+      "uuid": "32aa0bf5-7942-5f1d-950b-4834da5035ac",
+      "from": [
+        26,
+        14,
+        9
+      ],
+      "to": [
+        26.5,
+        14.35,
+        9.5
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.35
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.35
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.35
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.35
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Saw tooth",
+      "type": "cube",
+      "uuid": "5312873d-1211-5f85-a7fa-0ba8873de69c",
+      "from": [
+        27,
+        14,
+        9
+      ],
+      "to": [
+        27.5,
+        14.35,
+        9.5
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.35
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.35
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.35
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.35
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Saw tooth",
+      "type": "cube",
+      "uuid": "5235e6a9-10bc-50e1-ab4f-81351a018a41",
+      "from": [
+        28,
+        14,
+        9
+      ],
+      "to": [
+        28.5,
+        14.35,
+        9.5
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.35
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.35
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.35
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.35
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            32.5,
+            32.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Saw grip top",
+      "type": "cube",
+      "uuid": "5e12e39f-416f-5f3e-b52c-3585987169d2",
+      "from": [
+        29,
+        14,
+        7
+      ],
+      "to": [
+        31,
+        15,
+        7.5
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            32,
+            66,
+            33
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            32,
+            64.5,
+            33
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            32,
+            66,
+            33
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            32,
+            64.5,
+            33
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            32,
+            66,
+            32.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            32,
+            66,
+            32.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Saw grip bottom",
+      "type": "cube",
+      "uuid": "7f52aadb-3780-5a15-80e0-aa98e8fd323d",
+      "from": [
+        29,
+        14,
+        9
+      ],
+      "to": [
+        31,
+        15,
+        9.5
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            32,
+            66,
+            33
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            32,
+            64.5,
+            33
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            32,
+            66,
+            33
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            32,
+            64.5,
+            33
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            32,
+            66,
+            32.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            32,
+            66,
+            32.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Saw grip end",
+      "type": "cube",
+      "uuid": "4647cc57-3fc7-58e6-b38b-6359f575a520",
+      "from": [
+        30.5,
+        14,
+        7.5
+      ],
+      "to": [
+        31,
+        15,
+        9
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            32,
+            64.5,
+            33
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            32,
+            65.5,
+            33
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            32,
+            64.5,
+            33
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            32,
+            65.5,
+            33
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            32,
+            64.5,
+            33.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            32,
+            64.5,
+            33.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Chisel grip",
+      "type": "cube",
+      "uuid": "b0709eeb-38aa-5aff-97a4-c352ce825d0f",
+      "from": [
+        11,
+        14,
+        4
+      ],
+      "to": [
+        13.5,
+        14.8,
+        4.8
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            0,
+            34.5,
+            0.8000000000000007
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            0,
+            32.8,
+            0.8000000000000007
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            0,
+            34.5,
+            0.8000000000000007
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            0,
+            32.8,
+            0.8000000000000007
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            0,
+            34.5,
+            0.7999999999999998
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            0,
+            34.5,
+            0.7999999999999998
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Chisel blade",
+      "type": "cube",
+      "uuid": "fb01730b-4887-5d99-8c78-516633678c97",
+      "from": [
+        13.5,
+        14,
+        4.1
+      ],
+      "to": [
+        15,
+        14.4,
+        4.7
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            33.5,
+            32.4
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            32.6,
+            32.4
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            33.5,
+            32.4
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            32.6,
+            32.4
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            33.5,
+            32.6
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            33.5,
+            32.6
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Top loose board",
+      "type": "cube",
+      "uuid": "11ea7563-c2fa-51f1-ae23-dc5e4b73d8e0",
+      "from": [
+        19,
+        14,
+        12
+      ],
+      "to": [
+        28,
+        14.8,
+        14
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            32,
+            73,
+            32.8
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            32,
+            66,
+            32.8
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            32,
+            73,
+            32.8
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            32,
+            66,
+            32.8
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            32,
+            73,
+            34
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            32,
+            73,
+            34
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Top short offcut",
+      "type": "cube",
+      "uuid": "f949c1d7-d35d-5b7f-9051-8d7bf6e011e7",
+      "from": [
+        23,
+        14.8,
+        12.4
+      ],
+      "to": [
+        28,
+        15.4,
+        13.8
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            5,
+            0.5999999999999996
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            1.4000000000000004,
+            0.5999999999999996
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            5,
+            0.5999999999999996
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            1.4000000000000004,
+            0.5999999999999996
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            5,
+            1.4000000000000004
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            5,
+            1.4000000000000004
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Shelf board one",
+      "type": "cube",
+      "uuid": "33411839-81de-5e12-a060-60f1ef537c46",
+      "from": [
+        7,
+        3.5,
+        6
+      ],
+      "to": [
+        21,
+        4.2,
+        8
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            32,
+            78,
+            32.7
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            32,
+            66,
+            32.7
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            32,
+            78,
+            32.7
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            32,
+            66,
+            32.7
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            32,
+            78,
+            34
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            32,
+            78,
+            34
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Shelf board two",
+      "type": "cube",
+      "uuid": "f0c0d30e-d1cb-5fbb-bbb5-2e6e5b6ee85c",
+      "from": [
+        11,
+        4.2,
+        7
+      ],
+      "to": [
+        26,
+        5,
+        9
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            0,
+            79,
+            0.7999999999999998
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            0,
+            66,
+            0.7999999999999998
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            0,
+            79,
+            0.7999999999999998
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            0,
+            66,
+            0.7999999999999998
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            0,
+            79,
+            2
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            0,
+            79,
+            2
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Shelf short offcut",
+      "type": "cube",
+      "uuid": "1a8cc9df-4df0-5405-a10d-c60db6022125",
+      "from": [
+        5,
+        3.5,
+        10
+      ],
+      "to": [
+        13,
+        4.5,
+        12
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            8,
+            1.0
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            2,
+            1.0
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            8,
+            1.0
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            2,
+            1.0
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            8,
+            2
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            8,
+            2
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Vise fixed jaw",
+      "type": "cube",
+      "uuid": "4c6b72a3-3eb0-5758-b692-dd32927925c3",
+      "from": [
+        0,
+        11,
+        5
+      ],
+      "to": [
+        2,
+        15.4,
+        8
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            0,
+            34,
+            4.4
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            0,
+            35,
+            4.4
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            0,
+            34,
+            4.4
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            0,
+            35,
+            4.4
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            0,
+            34,
+            3
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            0,
+            34,
+            3
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Vise outer jaw",
+      "type": "cube",
+      "uuid": "854911e9-92d6-53ba-ad3d-bc0631509d2a",
+      "from": [
+        0,
+        10,
+        8.5
+      ],
+      "to": [
+        2,
+        14.8,
+        10
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            64,
+            0,
+            66,
+            4.800000000000001
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            64,
+            0,
+            65.5,
+            4.800000000000001
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            64,
+            0,
+            66,
+            4.800000000000001
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            64,
+            0,
+            65.5,
+            4.800000000000001
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            64,
+            0,
+            66,
+            1.5
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            64,
+            0,
+            66,
+            1.5
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Vise iron screw",
+      "type": "cube",
+      "uuid": "e86b7691-61d2-5310-a732-ef29805dc456",
+      "from": [
+        0.5,
+        11.5,
+        7
+      ],
+      "to": [
+        1.2,
+        12.2,
+        11
+      ],
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            32,
+            32.7,
+            32.7
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            32,
+            36,
+            32.7
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            32,
+            32.7,
+            32.7
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            32,
+            36,
+            32.7
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            32,
+            32.7,
+            36
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            32,
+            32.7,
+            36
+          ],
+          "texture": 0
+        }
+      }
+    }
+  ],
+  "outliner": [
+    {
+      "name": "Frame",
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "uuid": "1c0b5f13-3467-5320-9b1e-0fc0b0d71721",
+      "children": [
+        "dfb2c795-0d7e-5add-a3b0-341a65ede348",
+        "61f0107c-3086-5c69-a12b-e91e8967962d",
+        "65b575a3-24b3-584f-8aeb-b872fde60143",
+        "df244d43-aa5f-533e-b686-9dd48f30cfd9",
+        "df7d400e-ea84-5cff-9efa-b040c76a3ffc",
+        "81811197-aa41-54e7-acce-87553085d9a6",
+        "679a2920-7461-5d1b-86b8-e1a7c1b3a380",
+        "ab4c5d9d-33a0-5f7c-b2aa-00d50b09aa18",
+        "ed7aca25-882d-5b3f-8787-d35ecc4a6aa4",
+        "9071731a-efa9-512d-8284-bc36600db6f9",
+        "4bcaf15f-9ff1-5072-b9da-dd5d15fef253",
+        "35ad8291-de07-5b43-bc05-4e0f60895fdc"
+      ]
+    },
+    {
+      "name": "Shelf",
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "uuid": "d71d4cea-e873-5334-ba2e-67a99160d273",
+      "children": [
+        "fa020417-43b9-5d6f-b408-b5a4ffb17fbf",
+        "a3b80d13-d4db-544f-9b27-134db661994a",
+        "4ac59c74-ab71-5bdd-a97e-4cf89a09c898",
+        "2c7d7263-9c46-5685-9920-8d1a3a0cf642",
+        "3cb4dd47-fe8c-521d-a861-c3bc3e460db8",
+        "2a2181bc-cb7d-5152-897f-4e68f7101f46",
+        "900cbcde-3449-5515-be9a-6330bd26cc8c"
+      ]
+    },
+    {
+      "name": "Tabletop",
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "uuid": "c92c3efb-732a-5b2f-aac9-329048098a2b",
+      "children": [
+        "9c8ff009-1e50-5cc2-9c49-0d5c56d7fc48",
+        "d5f13b89-6b2a-5436-9097-10ddf4ae96a7",
+        "bddb17d9-46d5-5c62-b211-139e34cbae06",
+        "b280ac76-fc41-5cbb-9351-9e122899d618",
+        "19ff555b-e369-51ae-b894-8af0af2ce718",
+        "204e470e-b4d2-5f86-87be-95c75931a381",
+        "3a8316f1-6172-53c2-b62e-eea25c84abca",
+        "44c60882-c042-5b0e-83ce-e4fc745adc7d",
+        "27d55bcc-5b76-5c57-b1d5-674098b7afc0",
+        "763fe9f9-daba-5fac-abf1-a63b7968b174",
+        "404dfb90-b62c-5171-9ea9-b8f392be90b3"
+      ]
+    },
+    {
+      "name": "Blue stool",
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "uuid": "4f24b338-b805-52e1-b87a-5431323ae6e7",
+      "children": [
+        "5be3370c-cac9-5291-96f3-20bbad63b839",
+        "9f057c22-ca92-56c1-866d-659da3e4eb4d",
+        "25899268-3e98-5e8a-950b-45ac1e35b47c",
+        "1f9a5269-ace4-50c9-8131-ea3a18627dec",
+        "2092838a-94e0-5b93-9807-5edde56e2785",
+        "76006118-b46a-530f-aded-ed71e866cbfe",
+        "88c7cf24-cd86-59d0-a3c1-749f9739e803",
+        "116561ff-ca73-5714-a3d4-92b176fa4d09",
+        "10b36eb2-3582-55fe-98dc-d5b53f33fc0f",
+        "34b6b4b0-04e9-5488-bc62-0457d8b3651e",
+        "d991740f-7ec1-5314-8d89-c9fe30d48eb2",
+        "c2725224-6634-5d49-9568-4375773c36dd",
+        "3b68c8d0-7d6f-5994-bc4e-dc00735566cc"
+      ]
+    },
+    {
+      "name": "Tools",
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "uuid": "35ef385a-0911-5001-82ba-d56b4ad83801",
+      "children": [
+        "267a99de-c50e-561c-a399-d01f719f2cdd",
+        "eb19f0e2-e20b-58be-874a-d00d5abe459e",
+        "97f2c2bd-ee54-5103-a482-d0db44975404",
+        "7bc4047b-8d3b-5a0f-9053-3d42dcdfbc4c",
+        "65cc783e-9b75-5b2a-9672-7ffd65720782",
+        "f32d0ae1-bc69-54ef-a794-2f3549c4d670",
+        "f6e89f61-5ddb-56fa-89b9-1e8987de8716",
+        "bb710913-0a01-572e-8c25-2cafd3f1a7e5",
+        "04030f73-231a-515b-baaf-1921f25db4e6",
+        "caa7119d-888d-545e-a929-21c18667b156",
+        "32aa0bf5-7942-5f1d-950b-4834da5035ac",
+        "5312873d-1211-5f85-a7fa-0ba8873de69c",
+        "5235e6a9-10bc-50e1-ab4f-81351a018a41",
+        "5e12e39f-416f-5f3e-b52c-3585987169d2",
+        "7f52aadb-3780-5a15-80e0-aa98e8fd323d",
+        "4647cc57-3fc7-58e6-b38b-6359f575a520",
+        "b0709eeb-38aa-5aff-97a4-c352ce825d0f",
+        "fb01730b-4887-5d99-8c78-516633678c97",
+        "4c6b72a3-3eb0-5758-b692-dd32927925c3",
+        "854911e9-92d6-53ba-ad3d-bc0631509d2a",
+        "e86b7691-61d2-5310-a732-ef29805dc456"
+      ]
+    },
+    {
+      "name": "Loose boards",
+      "origin": [
+        16,
+        0,
+        8
+      ],
+      "uuid": "e838db9e-c4ad-5de1-8682-67a818a80957",
+      "children": [
+        "11ea7563-c2fa-51f1-ae23-dc5e4b73d8e0",
+        "f949c1d7-d35d-5b7f-9051-8d7bf6e011e7",
+        "33411839-81de-5e12-a060-60f1ef537c46",
+        "f0c0d30e-d1cb-5fbb-bbb5-2e6e5b6ee85c",
+        "1a8cc9df-4df0-5405-a10d-c60db6022125"
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "carpenter_workbench.png",
+      "uuid": "03810827-d88a-57e1-98ee-9769bee78706",
+      "id": "0",
+      "namespace": "archecraft",
+      "folder": "block",
+      "width": 128,
+      "height": 64,
+      "uv_width": 128,
+      "uv_height": 64,
+      "mode": "bitmap",
+      "saved": true,
+      "source": "data:image/png;base64,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"
+    }
+  ],
+  "display": {
+    "gui": {
+      "rotation": [
+        25,
+        225,
+        0
+      ],
+      "translation": [
+        0,
+        -1,
+        0
+      ],
+      "scale": [
+        0.48,
+        0.48,
+        0.48
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.2,
+        0.2,
+        0.2
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.35,
+        0.35,
+        0.35
+      ]
+    }
+  }
+}

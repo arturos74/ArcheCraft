@@ -24,7 +24,7 @@ public class WorkbenchBlock extends BaseEntityBlock {
     }
 
     @Override
-    public MapCodec<WorkbenchBlock> codec() {
+    public MapCodec<? extends WorkbenchBlock> codec() {
         return CODEC;
     }
 
@@ -54,6 +54,9 @@ public class WorkbenchBlock extends BaseEntityBlock {
 
     @Override
     protected void onRemove(BlockState state, Level level, BlockPos pos, BlockState newState, boolean moving) {
+        if (!state.is(newState.getBlock()) && level.getBlockEntity(pos) instanceof WorkbenchBlockEntity bench) {
+            bench.dropOverflowItems();
+        }
         Containers.dropContentsOnDestroy(state, newState, level, pos);
         super.onRemove(state, level, pos, newState, moving);
     }

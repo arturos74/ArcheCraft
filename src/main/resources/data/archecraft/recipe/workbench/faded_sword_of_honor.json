@@ -1,0 +1,8 @@
+{
+  "type": "archecraft:workbench",
+  "workstation": "archecraft:anvil",
+  "ingredients": [
+    { "item": "archecraft:hasla_token_honor", "count": 64 }
+  ],
+  "result": { "id": "archecraft:faded_sword_of_honor", "count": 1 }
+}

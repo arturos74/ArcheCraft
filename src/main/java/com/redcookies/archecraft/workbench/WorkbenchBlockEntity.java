@@ -6,6 +6,8 @@ import net.minecraft.core.BlockPos;
 import net.minecraft.core.HolderLookup;
 import net.minecraft.core.NonNullList;
 import net.minecraft.nbt.CompoundTag;
+import net.minecraft.nbt.ListTag;
+import net.minecraft.world.Containers;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.ContainerHelper;
 import net.minecraft.world.entity.player.Inventory;
@@ -17,12 +19,16 @@ import net.minecraft.world.level.Level;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.level.block.entity.BaseContainerBlockEntity;
 import net.minecraft.world.level.block.state.BlockState;
+import java.util.ArrayList;
+import java.util.List;
 
 public class WorkbenchBlockEntity extends BaseContainerBlockEntity {
     public static final int CRAFT_DURATION = 60;
     private NonNullList<ItemStack> items = NonNullList.withSize(WorkbenchMenu.SLOT_COUNT, ItemStack.EMPTY);
+    private final List<ItemStack> overflowItems = new ArrayList<>();
     private ResourceLocation activeRecipeId;
     private int craftTicks;
+    private boolean legacyFootprintChecked;
     private final ContainerData craftData = new ContainerData() {
         @Override
         public int get(int index) {
@@ -63,6 +69,13 @@ public class WorkbenchBlockEntity extends BaseContainerBlockEntity {
     }
 
     public static void serverTick(Level level, BlockPos pos, BlockState state, WorkbenchBlockEntity bench) {
+        if (!bench.legacyFootprintChecked) {
+            if (state.getBlock() instanceof StonemasonWorkbenchBlock) {
+                StonemasonWorkbenchBlock.removeLegacyPartner(level, pos, state);
+            }
+            bench.legacyFootprintChecked = true;
+        }
+        bench.dropOverflowItems();
         if (bench.activeRecipeId == null) return;
         var holder = level.getRecipeManager().byKey(bench.activeRecipeId).orElse(null);
         if (holder == null || !(holder.value() instanceof WorkbenchRecipe recipe)
@@ -86,6 +99,41 @@ public class WorkbenchBlockEntity extends BaseContainerBlockEntity {
         activeRecipeId = null;
         craftTicks = 0;
         setChanged();
+    }
+
+    public void dropOverflowItems() {
+        if (level == null || level.isClientSide || overflowItems.isEmpty()) return;
+        for (ItemStack stack : overflowItems) {
+            Containers.dropItemStack(level, worldPosition.getX() + 0.5, worldPosition.getY() + 0.5,
+                    worldPosition.getZ() + 0.5, stack);
+        }
+        overflowItems.clear();
+        setChanged();
+    }
+
+    private void recoverLegacyInventory(NonNullList<ItemStack> oldItems) {
+        // The old layout had 24 inputs and its result at slot 24.
+        items.set(WorkbenchMenu.RESULT_SLOT, oldItems.get(24));
+        for (int oldSlot = 0; oldSlot < 24; oldSlot++) {
+            ItemStack remaining = oldItems.get(oldSlot).copy();
+            if (remaining.isEmpty()) continue;
+            for (int slot = 0; slot < WorkbenchMenu.INPUT_COUNT && !remaining.isEmpty(); slot++) {
+                ItemStack target = items.get(slot);
+                if (!target.isEmpty() && ItemStack.isSameItemSameComponents(target, remaining)) {
+                    int amount = Math.min(remaining.getCount(), Math.min(target.getMaxStackSize(), getMaxStackSize(target)) - target.getCount());
+                    if (amount > 0) {
+                        target.grow(amount);
+                        remaining.shrink(amount);
+                    }
+                }
+            }
+            for (int slot = 0; slot < WorkbenchMenu.INPUT_COUNT && !remaining.isEmpty(); slot++) {
+                if (items.get(slot).isEmpty()) {
+                    items.set(slot, remaining.split(Math.min(remaining.getMaxStackSize(), getMaxStackSize(remaining))));
+                }
+            }
+            if (!remaining.isEmpty()) overflowItems.add(remaining);
+        }
     }
 
     @Override
@@ -116,7 +164,11 @@ public class WorkbenchBlockEntity extends BaseContainerBlockEntity {
     @Override
     protected void saveAdditional(CompoundTag tag, HolderLookup.Provider registries) {
         super.saveAdditional(tag, registries);
+        tag.putInt("InventoryVersion", 2);
         ContainerHelper.saveAllItems(tag, items, registries);
+        ListTag overflow = new ListTag();
+        for (ItemStack stack : overflowItems) overflow.add(stack.save(registries));
+        tag.put("OverflowItems", overflow);
         if (activeRecipeId != null) {
             tag.putString("ActiveRecipe", activeRecipeId.toString());
             tag.putInt("CraftTicks", craftTicks);
@@ -126,8 +178,21 @@ public class WorkbenchBlockEntity extends BaseContainerBlockEntity {
     @Override
     protected void loadAdditional(CompoundTag tag, HolderLookup.Provider registries) {
         super.loadAdditional(tag, registries);
+        legacyFootprintChecked = false;
         items = NonNullList.withSize(getContainerSize(), ItemStack.EMPTY);
-        ContainerHelper.loadAllItems(tag, items, registries);
+        overflowItems.clear();
+        if (tag.getInt("InventoryVersion") < 2) {
+            NonNullList<ItemStack> oldItems = NonNullList.withSize(25, ItemStack.EMPTY);
+            ContainerHelper.loadAllItems(tag, oldItems, registries);
+            recoverLegacyInventory(oldItems);
+        } else {
+            ContainerHelper.loadAllItems(tag, items, registries);
+        }
+        ListTag overflow = tag.getList("OverflowItems", 10);
+        for (int i = 0; i < overflow.size(); i++) {
+            ItemStack stack = ItemStack.parseOptional(registries, overflow.getCompound(i));
+            if (!stack.isEmpty()) overflowItems.add(stack);
+        }
         activeRecipeId = ResourceLocation.tryParse(tag.getString("ActiveRecipe"));
         craftTicks = activeRecipeId == null ? 0 : Math.clamp(tag.getInt("CraftTicks"), 0, CRAFT_DURATION - 1);
     }

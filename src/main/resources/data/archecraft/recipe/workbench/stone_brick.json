@@ -1,0 +1,6 @@
+{
+  "type": "archecraft:workbench",
+  "workstation": "archecraft:stonemason_workbench",
+  "ingredients": [ { "item": "archecraft:raw_stone", "count": 3 } ],
+  "result": { "id": "archecraft:stone_brick", "count": 1 }
+}

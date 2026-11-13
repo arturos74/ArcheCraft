@@ -2,6 +2,9 @@
   "replace": false,
   "values": [
     "archecraft:archeum_ore",
-    "archecraft:starshard_vein"
+    "archecraft:starshard_vein",
+    "archecraft:stonemason_workbench",
+    "archecraft:smelter",
+    "archecraft:anvil"
   ]
 }

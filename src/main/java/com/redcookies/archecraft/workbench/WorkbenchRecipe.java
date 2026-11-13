@@ -11,6 +11,7 @@ import net.minecraft.network.RegistryFriendlyByteBuf;
 import net.minecraft.network.codec.ByteBufCodecs;
 import net.minecraft.network.codec.StreamCodec;
 import net.minecraft.resources.ResourceLocation;
+import net.minecraft.network.chat.Component;
 import net.minecraft.world.Container;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
@@ -23,8 +24,11 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public record WorkbenchRecipe(ResourceLocation workstation, List<Material> materials, ItemStack result)
+public record WorkbenchRecipe(ResourceLocation workstation, List<Material> materials, ItemStack result, String name)
         implements Recipe<WorkbenchRecipe.Input> {
+    public Component getDisplayName() {
+        return name.isEmpty() ? result.getHoverName() : Component.translatable(name);
+    }
     public record Material(Item item, int count) {
         public static final Codec<Material> CODEC = RecordCodecBuilder.create(instance -> instance.group(
                 BuiltInRegistries.ITEM.byNameCodec().fieldOf("item").forGetter(Material::item),
@@ -132,12 +136,14 @@ public record WorkbenchRecipe(ResourceLocation workstation, List<Material> mater
         private static final MapCodec<WorkbenchRecipe> CODEC = RecordCodecBuilder.mapCodec(instance -> instance.group(
                 ResourceLocation.CODEC.fieldOf("workstation").forGetter(WorkbenchRecipe::workstation),
                 Material.CODEC.listOf(1, 24).fieldOf("ingredients").forGetter(WorkbenchRecipe::materials),
-                ItemStack.STRICT_CODEC.fieldOf("result").forGetter(WorkbenchRecipe::result)
+                ItemStack.STRICT_CODEC.fieldOf("result").forGetter(WorkbenchRecipe::result),
+                Codec.STRING.optionalFieldOf("name", "").forGetter(WorkbenchRecipe::name)
         ).apply(instance, WorkbenchRecipe::new));
         private static final StreamCodec<RegistryFriendlyByteBuf, WorkbenchRecipe> STREAM_CODEC = StreamCodec.composite(
                 ResourceLocation.STREAM_CODEC, WorkbenchRecipe::workstation,
                 Material.STREAM_CODEC.apply(ByteBufCodecs.list()), WorkbenchRecipe::materials,
-                ItemStack.STREAM_CODEC, WorkbenchRecipe::result, WorkbenchRecipe::new);
+                ItemStack.STREAM_CODEC, WorkbenchRecipe::result,
+                ByteBufCodecs.STRING_UTF8, WorkbenchRecipe::name, WorkbenchRecipe::new);
 
         @Override
         public MapCodec<WorkbenchRecipe> codec() {

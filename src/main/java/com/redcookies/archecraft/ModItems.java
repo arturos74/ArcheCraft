@@ -92,9 +92,13 @@ public class ModItems {
     public static final DeferredItem<Item> HASLA_TOKEN_SACRIFICE = ITEMS.registerSimpleItem("hasla_token_sacrifice");
     public static final DeferredItem<Item> HASLA_TOKEN_COMPASSION = ITEMS.registerSimpleItem("hasla_token_compassion");
 
+    public static final DeferredItem<Item> FADED_SWORD_OF_HONOR =
+            ITEMS.registerSimpleItem("faded_sword_of_honor", new Item.Properties().stacksTo(1));
+
     public static final DeferredItem<Item> RUMBLING_ARCHEUM_TREE_SAPLING = ITEMS.registerSimpleItem("rumbling_archeum_tree_sapling");
 
     public static final DeferredItem<Item> GILDA_STAR = ITEMS.registerSimpleItem("gilda_star");
+    public static final DeferredItem<Item> GILDA_DUST = ITEMS.registerSimpleItem("gilda_dust");
     public static final DeferredItem<Item> BLUE_SALT_BOND = ITEMS.registerSimpleItem("blue_salt_bond");
 
     // Wood (Carpentry)
@@ -126,6 +130,8 @@ public class ModItems {
     public static final DeferredItem<Item> BLAZING_CLOUDSPUN_FABRIC = ITEMS.registerSimpleItem("blazing_cloudspun_fabric");
 
     // Stone (Masonry)
+    public static final DeferredItem<Item> RAW_STONE = ITEMS.registerSimpleItem("raw_stone");
+    public static final DeferredItem<Item> STONE_BRICK = ITEMS.registerSimpleItem("stone_brick");
     public static final DeferredItem<Item> HEREAFTER_STONE = ITEMS.registerSimpleItem("hereafter_stone");
     public static final DeferredItem<Item> STURDY_STONE = ITEMS.registerSimpleItem("sturdy_stone");
     public static final DeferredItem<Item> RISING_STAR_STONE = ITEMS.registerSimpleItem("rising_star_stone");
@@ -164,6 +170,21 @@ public class ModItems {
     // </editor-fold>
 
     // <editor-fold desc="Block Items">
+    public static final DeferredItem<BlockItem> ANVIL =
+            ITEMS.registerSimpleBlockItem("anvil", ModBlocks.ANVIL);
+
+    public static final DeferredItem<BlockItem> SMELTER =
+            ITEMS.registerSimpleBlockItem("smelter", ModBlocks.SMELTER);
+
+    public static final DeferredItem<BlockItem> ALCHEMY_WORKBENCH =
+            ITEMS.registerSimpleBlockItem("alchemy_workbench", ModBlocks.ALCHEMY_WORKBENCH);
+
+    public static final DeferredItem<BlockItem> STONEMASON_WORKBENCH =
+            ITEMS.registerSimpleBlockItem("stonemason_workbench", ModBlocks.STONEMASON_WORKBENCH);
+
+    public static final DeferredItem<BlockItem> ARCHEUM_WORKBENCH =
+            ITEMS.registerSimpleBlockItem("archeum_workbench", ModBlocks.ARCHEUM_WORKBENCH);
+
     public static final DeferredItem<BlockItem> CARPENTER_WORKBENCH =
             ITEMS.registerSimpleBlockItem("carpenter_workbench", ModBlocks.CARPENTER_WORKBENCH);
 

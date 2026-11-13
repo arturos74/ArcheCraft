@@ -1,5 +1,36 @@
 {
   "variants": {
-    "": { "model": "minecraft:block/crafting_table" }
+    "facing=north,part=left": {
+      "model": "archecraft:block/carpenter_workbench_right",
+      "y": 180
+    },
+    "facing=north,part=right": {
+      "model": "archecraft:block/carpenter_workbench_left",
+      "y": 180
+    },
+    "facing=east,part=left": {
+      "model": "archecraft:block/carpenter_workbench_right",
+      "y": 270
+    },
+    "facing=east,part=right": {
+      "model": "archecraft:block/carpenter_workbench_left",
+      "y": 270
+    },
+    "facing=south,part=left": {
+      "model": "archecraft:block/carpenter_workbench_right",
+      "y": 0
+    },
+    "facing=south,part=right": {
+      "model": "archecraft:block/carpenter_workbench_left",
+      "y": 0
+    },
+    "facing=west,part=left": {
+      "model": "archecraft:block/carpenter_workbench_right",
+      "y": 90
+    },
+    "facing=west,part=right": {
+      "model": "archecraft:block/carpenter_workbench_left",
+      "y": 90
+    }
   }
 }

@@ -1,0 +1,56 @@
+{
+  "items": [
+    {
+      "name": "Raw Stone",
+      "item_id": "raw_stone",
+      "database_id": 5194,
+      "image_url": "https://archeagecodex.com/items/icon_item_0047.png",
+      "page_url": "https://archeagecodex.com/us/item/5194/",
+      "original_path": "build/stonemason-icon-originals/raw_stone.png",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/raw_stone.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/raw_stone.json",
+      "dimensions": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "original_sha256": "87884c4449b8bbc2de634df048e13356f26be4d6a378495657c5a73e71ac474b",
+      "sha256": "6a8b19a32a14ef047d4819bf33d22ceb2d44d207aea47b8ac58aff08b6f6eb29",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Raw Stone. Extract the single rough gray-green stone chunk. Remove ONLY the dark gray/purple square backdrop and its background cast shadow. Preserve the object's existing artwork, colors, silhouette, internal details, pixel style, orientation, position and margins on the square canvas. Keep internal dark gaps between parts of the object. Do not redesign, invent elements, add text, add a frame, or paint a checkerboard. Output a PNG with genuine transparent alpha around the complete item. Prefer the original 48x48 resolution.",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving alpha."
+      }
+    },
+    {
+      "name": "Stone Brick",
+      "item_id": "stone_brick",
+      "database_id": 8343,
+      "image_url": "https://archeagecodex.com/items/icon_item_0283.png",
+      "page_url": "https://archeagecodex.com/us/item/8343/",
+      "original_path": "build/stonemason-icon-originals/stone_brick.png",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/stone_brick.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/stone_brick.json",
+      "dimensions": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "original_sha256": "9e0d9d9ff396ab52dcf008c884f26c6662883d9588ea2b2def7a784c84eadb5f",
+      "sha256": "453cf52454266ce438a148c8bcd3aafe39f59d3e6fc48f07be4054603d404254",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Stone Brick. Extract the complete stack of pale gray cut stone bricks. Remove ONLY the dark gray/purple square backdrop and its background cast shadow. Preserve the object's existing artwork, colors, silhouette, internal details, pixel style, orientation, position and margins on the square canvas. Keep internal dark gaps between parts of the object. Do not redesign, invent elements, add text, add a frame, or paint a checkerboard. Output a PNG with genuine transparent alpha around the complete item. Prefer the original 48x48 resolution.",
+        "transparent_background": true,
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving alpha."
+      }
+    }
+  ]
+}

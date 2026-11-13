@@ -24,6 +24,11 @@ public class ModCreativeTabs {
                         output.accept(ModItems.ARCHEUM_INGOT.get());
                         output.accept(ModItems.ARCHEUM_BLOCK_ITEM.get());
                         output.accept(ModItems.CARPENTER_WORKBENCH);
+                        output.accept(ModItems.ARCHEUM_WORKBENCH);
+                        output.accept(ModItems.ALCHEMY_WORKBENCH);
+                        output.accept(ModItems.SMELTER);
+                        output.accept(ModItems.ANVIL);
+                        output.accept(ModItems.STONEMASON_WORKBENCH);
                         output.accept(ModItems.YATA_MEAT.get());
                         output.accept(ModItems.COOKED_YATA_MEAT.get());
                         output.accept(ModItems.YATA_FUR);
@@ -59,10 +64,12 @@ public class ModCreativeTabs {
                         output.accept(ModItems.HASLA_TOKEN_CONVICTION);
                         output.accept(ModItems.HASLA_TOKEN_FORTITUDE);
                         output.accept(ModItems.HASLA_TOKEN_HONOR);
+                        output.accept(ModItems.FADED_SWORD_OF_HONOR);
                         output.accept(ModItems.HASLA_TOKEN_SACRIFICE);
                         output.accept(ModItems.HASLA_TOKEN_COMPASSION);
                         output.accept(ModItems.RUMBLING_ARCHEUM_TREE_SAPLING);
                         output.accept(ModItems.GILDA_STAR);
+                        output.accept(ModItems.GILDA_DUST);
                         output.accept(ModItems.BLUE_SALT_BOND);
                         // Wood (Carpentry)
                         output.accept(ModItems.LUMBER);
@@ -90,6 +97,8 @@ public class ModCreativeTabs {
                         output.accept(ModItems.CLOUDSPUN_FABRIC);
                         output.accept(ModItems.BLAZING_CLOUDSPUN_FABRIC);
                         // Stone (Masonry)
+                        output.accept(ModItems.RAW_STONE);
+                        output.accept(ModItems.STONE_BRICK);
                         output.accept(ModItems.HEREAFTER_STONE);
                         output.accept(ModItems.STURDY_STONE);
                         output.accept(ModItems.RISING_STAR_STONE);

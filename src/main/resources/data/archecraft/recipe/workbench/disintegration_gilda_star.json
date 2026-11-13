@@ -1,0 +1,7 @@
+{
+  "type": "archecraft:workbench",
+  "workstation": "archecraft:archeum_workbench",
+  "name": "recipe.archecraft.disintegration_gilda_star",
+  "ingredients": [ { "item": "archecraft:gilda_star", "count": 1 } ],
+  "result": { "id": "archecraft:gilda_dust", "count": 4 }
+}

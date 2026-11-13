@@ -1,0 +1,10 @@
+{
+  "type": "archecraft:workbench",
+  "workstation": "archecraft:alchemy_workbench",
+  "ingredients": [
+    { "item": "archecraft:charcoal_stabilizer", "count": 3 },
+    { "item": "archecraft:clover", "count": 20 },
+    { "item": "minecraft:poppy", "count": 20 }
+  ],
+  "result": { "id": "archecraft:small_root_pigment", "count": 1 }
+}
