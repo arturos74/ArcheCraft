@@ -1,40 +1,7 @@
 {
   "retrieved_on": "2026-11-12",
-  "notes": "46 crafting materials: 45 database-sourced icons with backgrounds removed, plus one custom Rough Ruby icon. Original downloads remain backed up under build/material-icon-originals. No recipes or machine behavior are defined by these basic item registrations.",
+  "notes": "44 crafting materials with database-sourced icons and backgrounds removed. Original downloads remain backed up under build/material-icon-originals. No recipes or machine behavior are defined by these basic item registrations.",
   "items": [
-    {
-      "item_id": "log",
-      "name": "Log",
-      "category": "Wood (Carpentry)",
-      "database_id": 8017,
-      "page_url": "https://archeagecodex.com/us/item/8017/",
-      "image_url": "https://archeagecodex.com/items/icon_item_0093.png",
-      "dimensions": [
-        48,
-        48
-      ],
-      "original_alpha_extrema": [
-        255,
-        255
-      ],
-      "original_sha256": "684972facb0da471ecb1471c48c7a04ac8ff0781f283241cb4f5e171165ac416",
-      "source_type": "database_icon",
-      "original_backup_path": "build/material-icon-originals/log.png",
-      "mode": "RGBA",
-      "alpha_extrema": [
-        0,
-        254
-      ],
-      "sha256": "356e41ba70d7f7e527207629c08fba72881dcd7b526997e171250ab3d4fcea00",
-      "texture_path": "src/main/resources/assets/archecraft/textures/item/log.png",
-      "model_path": "src/main/resources/assets/archecraft/models/item/log.json",
-      "image_processing": {
-        "tool": "built-in image_gen",
-        "transparent_background": true,
-        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
-        "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Log. Extract the complete single bark-covered log and its cut wooden end. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
-      }
-    },
     {
       "item_id": "lumber",
       "name": "Lumber",
@@ -792,33 +759,6 @@
         "transparent_background": true,
         "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
         "prompt": "Use case: background-extraction. Edit target: supplied 48x48 ArcheAge inventory PNG for Rising Star Stone. Extract the entire cubic block of pale masonry stones with its purple trim. Remove ONLY the dark gray/purple/green square backdrop and its background cast shadow. Keep the item itself and any specifically attached magic/flame effects. Preserve original object artwork, colors, geometry, internal details, pixel style, orientation, size, margins, and position on the full square canvas. This is a cutout of the existing icon, not a redesign. Do not add or invent elements. Do not retain the square backdrop or paint a checkerboard. Output a PNG with genuine transparent alpha around the item, at the original 48x48 resolution if possible. No text or watermark."
-      }
-    },
-    {
-      "item_id": "rough_ruby",
-      "name": "Rough Ruby",
-      "category": "Gems & Special Catalysts",
-      "source_type": "custom_generated_icon",
-      "notes": "No exact Rough Ruby entry was found in the checked ArcheAge database versions. Custom uncut-ruby icon created to match the database Ruby style.",
-      "reference_page_url": "https://archeagecodex.com/us/item/8077/",
-      "reference_image_url": "https://archeagecodex.com/items/icon_item_0158.png",
-      "dimensions": [
-        48,
-        48
-      ],
-      "mode": "RGBA",
-      "alpha_extrema": [
-        0,
-        255
-      ],
-      "sha256": "046d05b34d21612a39c7505c5ed56d8058674d2b8945578a0b18de7fc31c6ed9",
-      "texture_path": "src/main/resources/assets/archecraft/textures/item/rough_ruby.png",
-      "model_path": "src/main/resources/assets/archecraft/models/item/rough_ruby.json",
-      "image_processing": {
-        "tool": "built-in image_gen",
-        "transparent_background": true,
-        "postprocess": "Nearest-neighbor downscale to 48x48 with transparency preserved.",
-        "prompt": "Asset type: transparent 48x48 pixel fantasy MMORPG inventory icon. The supplied Ruby icon is a style and red-color reference only. Create a matching ROUGH RUBY item: a small uncut, irregular red corundum mineral cluster with natural jagged crystal faces, a few muted dark stone inclusions, and rough surfaces. It must be visually distinct from the polished faceted oval ruby in the reference. Match the reference's tiny painted pixel icon style and modest shading. Center it with margins on a square canvas, filling about 75 percent of the width. Output real transparent alpha behind the uncut ruby. No background, border, pedestal, text, labels or checkerboard. Prefer 48x48 output; preserve pixel-art readability."
       }
     },
     {

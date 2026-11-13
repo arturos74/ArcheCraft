@@ -1,0 +1,9 @@
+{
+  "type": "archecraft:workbench",
+  "workstation": "archecraft:carpenter_workbench",
+  "ingredients": [
+    { "item": "archecraft:lumber", "count": 10 },
+    { "item": "archecraft:small_seed_oil", "count": 1 }
+  ],
+  "result": { "id": "archecraft:fine_lumber", "count": 1 }
+}

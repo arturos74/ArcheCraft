@@ -98,7 +98,6 @@ public class ModItems {
     public static final DeferredItem<Item> BLUE_SALT_BOND = ITEMS.registerSimpleItem("blue_salt_bond");
 
     // Wood (Carpentry)
-    public static final DeferredItem<Item> LOG = ITEMS.registerSimpleItem("log");
     public static final DeferredItem<Item> LUMBER = ITEMS.registerSimpleItem("lumber");
     public static final DeferredItem<Item> FINE_LUMBER = ITEMS.registerSimpleItem("fine_lumber");
     public static final DeferredItem<Item> NURI_FOREST_LUMBER = ITEMS.registerSimpleItem("nuri_forest_lumber");
@@ -132,7 +131,6 @@ public class ModItems {
     public static final DeferredItem<Item> RISING_STAR_STONE = ITEMS.registerSimpleItem("rising_star_stone");
 
     // Gems & Special Catalysts
-    public static final DeferredItem<Item> ROUGH_RUBY = ITEMS.registerSimpleItem("rough_ruby");
     public static final DeferredItem<Item> RUBY = ITEMS.registerSimpleItem("ruby");
     public static final DeferredItem<Item> SAPPHIRE = ITEMS.registerSimpleItem("sapphire");
     public static final DeferredItem<Item> TOPAZ = ITEMS.registerSimpleItem("topaz");
@@ -166,6 +164,12 @@ public class ModItems {
     // </editor-fold>
 
     // <editor-fold desc="Block Items">
+    public static final DeferredItem<BlockItem> CARPENTER_WORKBENCH =
+            ITEMS.registerSimpleBlockItem("carpenter_workbench", ModBlocks.CARPENTER_WORKBENCH);
+
+    public static final DeferredItem<BlockItem> STARSHARD_VEIN =
+            ITEMS.registerSimpleBlockItem("starshard_vein", ModBlocks.STARSHARD_VEIN);
+
     public static final DeferredItem<BlockItem> ARCHEUM_BLOCK_ITEM =
             ITEMS.registerSimpleBlockItem("archeum_block", ModBlocks.ARCHEUM_BLOCK);
 

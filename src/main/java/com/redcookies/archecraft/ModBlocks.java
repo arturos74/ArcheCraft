@@ -1,4 +1,6 @@
 package com.redcookies.archecraft;
+import com.redcookies.archecraft.ModCustom.StarshardVeinBlock;
+import com.redcookies.archecraft.workbench.WorkbenchBlock;
 import net.minecraft.world.level.ItemLike;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
@@ -12,6 +14,15 @@ import net.neoforged.neoforge.registries.DeferredRegister;
 
 public class ModBlocks {
     public static final DeferredRegister.Blocks BLOCKS = DeferredRegister.createBlocks(ArcheCraft.MODID);
+
+    public static final DeferredBlock<WorkbenchBlock> CARPENTER_WORKBENCH = BLOCKS.register("carpenter_workbench",
+            () -> new WorkbenchBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.CRAFTING_TABLE)));
+
+    public static final DeferredBlock<StarshardVeinBlock> STARSHARD_VEIN = BLOCKS.register("starshard_vein",
+            () -> new StarshardVeinBlock(BlockBehaviour.Properties.of()
+                    .mapColor(MapColor.STONE).strength(3.0F, 3.0F)
+                    .requiresCorrectToolForDrops().sound(SoundType.STONE)
+                    .lightLevel(state -> 3).noOcclusion()));
 
     public static final DeferredBlock<Block> EXAMPLE_BLOCK = BLOCKS.registerSimpleBlock("example_block",
             BlockBehaviour.Properties.of().mapColor(MapColor.STONE));

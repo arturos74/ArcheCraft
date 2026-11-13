@@ -1,0 +1,1821 @@
+{
+  "meta": {
+    "format_version": "4.10",
+    "model_format": "java_block",
+    "box_uv": false
+  },
+  "name": "starshard_vein",
+  "model_identifier": "archecraft:starshard_vein",
+  "resolution": {
+    "width": 64,
+    "height": 32
+  },
+  "elements": [
+    {
+      "name": "Foot - main slab",
+      "type": "cube",
+      "uuid": "6c1f6bd5-87d9-57ad-b907-92fd3956c19c",
+      "from": [
+        2,
+        0,
+        2
+      ],
+      "to": [
+        14,
+        2,
+        14
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            16,
+            0,
+            32,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            0,
+            48,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            48,
+            0,
+            64,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            16,
+            0,
+            32,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Foot - left broken edge",
+      "type": "cube",
+      "uuid": "3371ddd6-35a0-5814-aaec-e279c234621b",
+      "from": [
+        0,
+        0,
+        5
+      ],
+      "to": [
+        3,
+        2,
+        11
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 1,
+      "faces": {
+        "north": {
+          "uv": [
+            16,
+            0,
+            32,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            0,
+            48,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            48,
+            0,
+            64,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            16,
+            0,
+            32,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            0,
+            48,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Foot - right broken edge",
+      "type": "cube",
+      "uuid": "9f49bf15-e1fc-5334-b41e-74cd68ad1872",
+      "from": [
+        13,
+        0,
+        4
+      ],
+      "to": [
+        16,
+        1.5,
+        10
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            0,
+            48,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            48,
+            0,
+            64,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            16,
+            0,
+            32,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            0,
+            48,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            48,
+            0,
+            64,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Foot - front chip",
+      "type": "cube",
+      "uuid": "e51b7ab0-0857-59ea-84ec-7b4d0770b855",
+      "from": [
+        5,
+        0,
+        0
+      ],
+      "to": [
+        11,
+        1.5,
+        3
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "faces": {
+        "north": {
+          "uv": [
+            48,
+            0,
+            64,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            16,
+            0,
+            32,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            0,
+            48,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            48,
+            0,
+            64,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Lower ledge - core",
+      "type": "cube",
+      "uuid": "e739b266-fece-5022-8187-5974c19cbb95",
+      "from": [
+        3,
+        2,
+        3
+      ],
+      "to": [
+        13,
+        5,
+        13
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 4,
+      "faces": {
+        "north": {
+          "uv": [
+            16,
+            0,
+            32,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            0,
+            48,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            48,
+            0,
+            64,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            16,
+            0,
+            32,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            0,
+            48,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Lower ledge - front step",
+      "type": "cube",
+      "uuid": "4dbc14a9-071b-5d35-b89d-4176fd9c1b38",
+      "from": [
+        4,
+        1.5,
+        1
+      ],
+      "to": [
+        10,
+        4,
+        4
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 5,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            16,
+            0,
+            32,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            0,
+            48,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            48,
+            0,
+            64,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            16,
+            0,
+            32,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Lower ledge - left shoulder",
+      "type": "cube",
+      "uuid": "e45ec9ca-9d47-5a86-9863-886a195fb49e",
+      "from": [
+        1,
+        2,
+        6
+      ],
+      "to": [
+        4,
+        4,
+        11
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 6,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            0,
+            48,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            48,
+            0,
+            64,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            16,
+            0,
+            32,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            0,
+            48,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            48,
+            0,
+            64,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Lower ledge - right shoulder",
+      "type": "cube",
+      "uuid": "25a42602-a555-5360-a1e6-427fd10bc569",
+      "from": [
+        12,
+        1.5,
+        5
+      ],
+      "to": [
+        15,
+        4,
+        11
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 7,
+      "faces": {
+        "north": {
+          "uv": [
+            48,
+            0,
+            64,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            16,
+            0,
+            32,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            0,
+            48,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            48,
+            0,
+            64,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Middle - mineral band",
+      "type": "cube",
+      "uuid": "85768e9a-7c02-5c78-b3ab-53181fc2aefc",
+      "from": [
+        4,
+        5,
+        4
+      ],
+      "to": [
+        12,
+        6,
+        12
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            16,
+            16,
+            32
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            16,
+            16,
+            32
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            16,
+            16,
+            32
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            16,
+            16,
+            32
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            16,
+            16,
+            32
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            16,
+            16,
+            32
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Middle - broad shelf",
+      "type": "cube",
+      "uuid": "2befc032-c501-5246-a14d-fa611c541c6b",
+      "from": [
+        3,
+        6,
+        5
+      ],
+      "to": [
+        12,
+        8.5,
+        12
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 1,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            0,
+            48,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            48,
+            0,
+            64,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            16,
+            0,
+            32,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            0,
+            48,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            48,
+            0,
+            64,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Middle - front broken face",
+      "type": "cube",
+      "uuid": "9e36c4c6-705d-590a-a821-a894160c334f",
+      "from": [
+        5,
+        4,
+        2
+      ],
+      "to": [
+        11,
+        7,
+        5
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "faces": {
+        "north": {
+          "uv": [
+            16,
+            16,
+            32,
+            32
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            16,
+            16,
+            32,
+            32
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            16,
+            16,
+            32,
+            32
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            16,
+            16,
+            32,
+            32
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            16,
+            16,
+            32,
+            32
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            16,
+            16,
+            32,
+            32
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Middle - right buttress",
+      "type": "cube",
+      "uuid": "990c9583-b6fd-5852-a92a-56d0403e2119",
+      "from": [
+        11,
+        4,
+        7
+      ],
+      "to": [
+        14,
+        7,
+        11
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            16,
+            0,
+            32,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            0,
+            48,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            48,
+            0,
+            64,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            16,
+            0,
+            32,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Upper - mineral band",
+      "type": "cube",
+      "uuid": "e1ddec13-974b-53aa-b58e-fd4d685dd762",
+      "from": [
+        5,
+        8.5,
+        6
+      ],
+      "to": [
+        11,
+        9.5,
+        11
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 4,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            16,
+            48,
+            32
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            16,
+            48,
+            32
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            16,
+            48,
+            32
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            16,
+            48,
+            32
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            16,
+            48,
+            32
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            16,
+            48,
+            32
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Upper - offset shelf",
+      "type": "cube",
+      "uuid": "6dcc94e9-d784-5eb0-a0d6-57e60685abf9",
+      "from": [
+        5,
+        9.5,
+        5
+      ],
+      "to": [
+        11,
+        12,
+        11
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 5,
+      "faces": {
+        "north": {
+          "uv": [
+            16,
+            0,
+            32,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            0,
+            48,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            48,
+            0,
+            64,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            16,
+            0,
+            32,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            0,
+            48,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Upper - left fractured lip",
+      "type": "cube",
+      "uuid": "671ece63-9e02-5393-bf47-653a695073ee",
+      "from": [
+        4,
+        8.5,
+        7
+      ],
+      "to": [
+        6,
+        10.5,
+        10
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 6,
+      "faces": {
+        "north": {
+          "uv": [
+            48,
+            0,
+            64,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            16,
+            0,
+            32,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            0,
+            48,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            48,
+            0,
+            64,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Crown - mineral edge",
+      "type": "cube",
+      "uuid": "ae9a422d-b9a3-5d36-a03b-2bb2efe9904a",
+      "from": [
+        6,
+        12,
+        6
+      ],
+      "to": [
+        10,
+        12.75,
+        10
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 7,
+      "faces": {
+        "north": {
+          "uv": [
+            48,
+            16,
+            64,
+            32
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            48,
+            16,
+            64,
+            32
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            48,
+            16,
+            64,
+            32
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            48,
+            16,
+            64,
+            32
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            48,
+            16,
+            64,
+            32
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            48,
+            16,
+            64,
+            32
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Crown - tall block",
+      "type": "cube",
+      "uuid": "9dbd9698-e3a8-5938-b569-23653cee45dd",
+      "from": [
+        6,
+        12.75,
+        7
+      ],
+      "to": [
+        10,
+        15,
+        10
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 0,
+      "faces": {
+        "north": {
+          "uv": [
+            32,
+            0,
+            48,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            48,
+            0,
+            64,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            16,
+            0,
+            32,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            32,
+            0,
+            48,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            48,
+            0,
+            64,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Crown - broken tip",
+      "type": "cube",
+      "uuid": "b77792f0-abc8-5289-98f9-1f309024af97",
+      "from": [
+        7,
+        15,
+        7
+      ],
+      "to": [
+        9,
+        16,
+        9
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 1,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            16,
+            0,
+            32,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            32,
+            0,
+            48,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            48,
+            0,
+            64,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            16,
+            0,
+            32,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Loose fragment - front right",
+      "type": "cube",
+      "uuid": "777d3310-3a79-5daf-8c2d-a0212124b7b9",
+      "from": [
+        12,
+        0,
+        1
+      ],
+      "to": [
+        15,
+        2,
+        3
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 2,
+      "faces": {
+        "north": {
+          "uv": [
+            16,
+            0,
+            32,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            32,
+            0,
+            48,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            48,
+            0,
+            64,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            16,
+            0,
+            32,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            32,
+            0,
+            48,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "name": "Loose fragment - back left",
+      "type": "cube",
+      "uuid": "42a5c596-dfaf-5c46-83a4-024f37b86389",
+      "from": [
+        0,
+        0,
+        13
+      ],
+      "to": [
+        2,
+        1,
+        15
+      ],
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "box_uv": false,
+      "autouv": 0,
+      "color": 3,
+      "faces": {
+        "north": {
+          "uv": [
+            48,
+            0,
+            64,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            16,
+            0,
+            32,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            32,
+            0,
+            48,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            48,
+            0,
+            64,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    }
+  ],
+  "outliner": [
+    "6c1f6bd5-87d9-57ad-b907-92fd3956c19c",
+    "3371ddd6-35a0-5814-aaec-e279c234621b",
+    "9f49bf15-e1fc-5334-b41e-74cd68ad1872",
+    "e51b7ab0-0857-59ea-84ec-7b4d0770b855",
+    "e739b266-fece-5022-8187-5974c19cbb95",
+    "4dbc14a9-071b-5d35-b89d-4176fd9c1b38",
+    "e45ec9ca-9d47-5a86-9863-886a195fb49e",
+    "25a42602-a555-5360-a1e6-427fd10bc569",
+    "85768e9a-7c02-5c78-b3ab-53181fc2aefc",
+    "2befc032-c501-5246-a14d-fa611c541c6b",
+    "9e36c4c6-705d-590a-a821-a894160c334f",
+    "990c9583-b6fd-5852-a92a-56d0403e2119",
+    "e1ddec13-974b-53aa-b58e-fd4d685dd762",
+    "6dcc94e9-d784-5eb0-a0d6-57e60685abf9",
+    "671ece63-9e02-5393-bf47-653a695073ee",
+    "ae9a422d-b9a3-5d36-a03b-2bb2efe9904a",
+    "9dbd9698-e3a8-5938-b569-23653cee45dd",
+    "b77792f0-abc8-5289-98f9-1f309024af97",
+    "777d3310-3a79-5daf-8c2d-a0212124b7b9",
+    "42a5c596-dfaf-5c46-83a4-024f37b86389"
+  ],
+  "textures": [
+    {
+      "name": "starshard_vein.png",
+      "uuid": "db7598ab-178d-5517-8a35-22dd0f900f45",
+      "id": "0",
+      "namespace": "archecraft",
+      "folder": "block",
+      "particle": true,
+      "width": 64,
+      "height": 32,
+      "uv_width": 64,
+      "uv_height": 32,
+      "mode": "bitmap",
+      "saved": true,
+      "source": "data:image/png;base64,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"
+    }
+  ],
+  "display": {
+    "gui": {
+      "rotation": [
+        30,
+        225,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    }
+  }
+}

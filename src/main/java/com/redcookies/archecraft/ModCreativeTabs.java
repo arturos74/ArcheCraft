@@ -23,6 +23,7 @@ public class ModCreativeTabs {
                         output.accept(ModItems.RAW_ARCHEUM.get());
                         output.accept(ModItems.ARCHEUM_INGOT.get());
                         output.accept(ModItems.ARCHEUM_BLOCK_ITEM.get());
+                        output.accept(ModItems.CARPENTER_WORKBENCH);
                         output.accept(ModItems.YATA_MEAT.get());
                         output.accept(ModItems.COOKED_YATA_MEAT.get());
                         output.accept(ModItems.YATA_FUR);
@@ -64,7 +65,6 @@ public class ModCreativeTabs {
                         output.accept(ModItems.GILDA_STAR);
                         output.accept(ModItems.BLUE_SALT_BOND);
                         // Wood (Carpentry)
-                        output.accept(ModItems.LOG);
                         output.accept(ModItems.LUMBER);
                         output.accept(ModItems.FINE_LUMBER);
                         output.accept(ModItems.NURI_FOREST_LUMBER);
@@ -75,6 +75,7 @@ public class ModCreativeTabs {
                         output.accept(ModItems.SILVER_ORE);
                         output.accept(ModItems.SILVER_INGOT);
                         output.accept(ModItems.STARSHARD_CHIP);
+                        output.accept(ModItems.STARSHARD_VEIN);
                         output.accept(ModItems.STARSHARD_INGOT);
                         // Leather (Leatherwork)
                         output.accept(ModItems.PELT);
@@ -93,7 +94,6 @@ public class ModCreativeTabs {
                         output.accept(ModItems.STURDY_STONE);
                         output.accept(ModItems.RISING_STAR_STONE);
                         // Gems & Special Catalysts
-                        output.accept(ModItems.ROUGH_RUBY);
                         output.accept(ModItems.RUBY);
                         output.accept(ModItems.SAPPHIRE);
                         output.accept(ModItems.TOPAZ);

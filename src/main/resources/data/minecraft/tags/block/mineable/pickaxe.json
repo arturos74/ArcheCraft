@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "archecraft:archeum_ore"
+    "archecraft:archeum_ore",
+    "archecraft:starshard_vein"
   ]
 }
