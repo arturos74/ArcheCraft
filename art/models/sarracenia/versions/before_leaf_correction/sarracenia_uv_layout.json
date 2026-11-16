@@ -1,0 +1,7592 @@
+[
+  {
+    "cube": "bulb_belly",
+    "face": "up",
+    "material": "bulb",
+    "uv": [
+      1,
+      1,
+      28,
+      22
+    ]
+  },
+  {
+    "cube": "bulb_belly",
+    "face": "down",
+    "material": "bulb",
+    "uv": [
+      30,
+      1,
+      57,
+      22
+    ]
+  },
+  {
+    "cube": "hood_center_vein",
+    "face": "north",
+    "material": "gold_vein",
+    "uv": [
+      59,
+      1,
+      60,
+      22
+    ]
+  },
+  {
+    "cube": "hood_center_vein",
+    "face": "south",
+    "material": "gold_vein",
+    "uv": [
+      62,
+      1,
+      63,
+      22
+    ]
+  },
+  {
+    "cube": "hood_center_vein",
+    "face": "east",
+    "material": "gold_vein",
+    "uv": [
+      65,
+      1,
+      66,
+      22
+    ]
+  },
+  {
+    "cube": "hood_center_vein",
+    "face": "west",
+    "material": "gold_vein",
+    "uv": [
+      68,
+      1,
+      69,
+      22
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_midrib",
+    "face": "north",
+    "material": "gold_vein",
+    "uv": [
+      71,
+      1,
+      72,
+      21
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_midrib",
+    "face": "south",
+    "material": "gold_vein",
+    "uv": [
+      74,
+      1,
+      75,
+      21
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_midrib",
+    "face": "east",
+    "material": "gold_vein",
+    "uv": [
+      77,
+      1,
+      78,
+      21
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_midrib",
+    "face": "west",
+    "material": "gold_vein",
+    "uv": [
+      80,
+      1,
+      81,
+      21
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_midrib",
+    "face": "north",
+    "material": "gold_vein",
+    "uv": [
+      83,
+      1,
+      84,
+      21
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_midrib",
+    "face": "south",
+    "material": "gold_vein",
+    "uv": [
+      86,
+      1,
+      87,
+      21
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_midrib",
+    "face": "east",
+    "material": "gold_vein",
+    "uv": [
+      89,
+      1,
+      90,
+      21
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_midrib",
+    "face": "west",
+    "material": "gold_vein",
+    "uv": [
+      92,
+      1,
+      93,
+      21
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_midrib",
+    "face": "north",
+    "material": "gold_vein",
+    "uv": [
+      95,
+      1,
+      96,
+      20
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_midrib",
+    "face": "south",
+    "material": "gold_vein",
+    "uv": [
+      98,
+      1,
+      99,
+      20
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_midrib",
+    "face": "east",
+    "material": "gold_vein",
+    "uv": [
+      101,
+      1,
+      102,
+      20
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_midrib",
+    "face": "west",
+    "material": "gold_vein",
+    "uv": [
+      104,
+      1,
+      105,
+      20
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_midrib",
+    "face": "north",
+    "material": "gold_vein",
+    "uv": [
+      107,
+      1,
+      108,
+      20
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_midrib",
+    "face": "south",
+    "material": "gold_vein",
+    "uv": [
+      110,
+      1,
+      111,
+      20
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_midrib",
+    "face": "east",
+    "material": "gold_vein",
+    "uv": [
+      113,
+      1,
+      114,
+      20
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_midrib",
+    "face": "west",
+    "material": "gold_vein",
+    "uv": [
+      116,
+      1,
+      117,
+      20
+    ]
+  },
+  {
+    "cube": "bulb_shoulders",
+    "face": "up",
+    "material": "bulb",
+    "uv": [
+      119,
+      1,
+      142,
+      19
+    ]
+  },
+  {
+    "cube": "bulb_shoulders",
+    "face": "down",
+    "material": "bulb",
+    "uv": [
+      144,
+      1,
+      167,
+      19
+    ]
+  },
+  {
+    "cube": "bulb_lower",
+    "face": "up",
+    "material": "bulb",
+    "uv": [
+      169,
+      1,
+      190,
+      19
+    ]
+  },
+  {
+    "cube": "bulb_lower",
+    "face": "down",
+    "material": "bulb",
+    "uv": [
+      192,
+      1,
+      213,
+      19
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_segment_1",
+    "face": "north",
+    "material": "stem",
+    "uv": [
+      215,
+      1,
+      218,
+      19
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_segment_1",
+    "face": "south",
+    "material": "stem",
+    "uv": [
+      220,
+      1,
+      223,
+      19
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_segment_1",
+    "face": "east",
+    "material": "stem",
+    "uv": [
+      225,
+      1,
+      228,
+      19
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_segment_1",
+    "face": "west",
+    "material": "stem",
+    "uv": [
+      230,
+      1,
+      233,
+      19
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_segment_1",
+    "face": "north",
+    "material": "stem",
+    "uv": [
+      235,
+      1,
+      238,
+      19
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_segment_1",
+    "face": "south",
+    "material": "stem",
+    "uv": [
+      240,
+      1,
+      243,
+      19
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_segment_1",
+    "face": "east",
+    "material": "stem",
+    "uv": [
+      245,
+      1,
+      248,
+      19
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_segment_1",
+    "face": "west",
+    "material": "stem",
+    "uv": [
+      250,
+      1,
+      253,
+      19
+    ]
+  },
+  {
+    "cube": "mouth_left_wall",
+    "face": "up",
+    "material": "neck",
+    "uv": [
+      1,
+      24,
+      3,
+      42
+    ]
+  },
+  {
+    "cube": "mouth_left_wall",
+    "face": "down",
+    "material": "neck",
+    "uv": [
+      5,
+      24,
+      7,
+      42
+    ]
+  },
+  {
+    "cube": "mouth_right_wall",
+    "face": "up",
+    "material": "neck",
+    "uv": [
+      9,
+      24,
+      11,
+      42
+    ]
+  },
+  {
+    "cube": "mouth_right_wall",
+    "face": "down",
+    "material": "neck",
+    "uv": [
+      13,
+      24,
+      15,
+      42
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_segment_1",
+    "face": "north",
+    "material": "stem",
+    "uv": [
+      17,
+      24,
+      20,
+      41
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_segment_1",
+    "face": "south",
+    "material": "stem",
+    "uv": [
+      22,
+      24,
+      25,
+      41
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_segment_1",
+    "face": "east",
+    "material": "stem",
+    "uv": [
+      27,
+      24,
+      30,
+      41
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_segment_1",
+    "face": "west",
+    "material": "stem",
+    "uv": [
+      32,
+      24,
+      35,
+      41
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_segment_1",
+    "face": "north",
+    "material": "stem",
+    "uv": [
+      37,
+      24,
+      40,
+      40
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_segment_1",
+    "face": "south",
+    "material": "stem",
+    "uv": [
+      42,
+      24,
+      45,
+      40
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_segment_1",
+    "face": "east",
+    "material": "stem",
+    "uv": [
+      47,
+      24,
+      50,
+      40
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_segment_1",
+    "face": "west",
+    "material": "stem",
+    "uv": [
+      52,
+      24,
+      55,
+      40
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_segment_3",
+    "face": "north",
+    "material": "stem",
+    "uv": [
+      57,
+      24,
+      59,
+      39
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_segment_3",
+    "face": "south",
+    "material": "stem",
+    "uv": [
+      61,
+      24,
+      63,
+      39
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_segment_3",
+    "face": "east",
+    "material": "stem",
+    "uv": [
+      65,
+      24,
+      67,
+      39
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_segment_3",
+    "face": "west",
+    "material": "stem",
+    "uv": [
+      69,
+      24,
+      71,
+      39
+    ]
+  },
+  {
+    "cube": "narrow_pitcher_neck",
+    "face": "up",
+    "material": "bulb",
+    "uv": [
+      73,
+      24,
+      91,
+      38
+    ]
+  },
+  {
+    "cube": "narrow_pitcher_neck",
+    "face": "down",
+    "material": "bulb",
+    "uv": [
+      93,
+      24,
+      111,
+      38
+    ]
+  },
+  {
+    "cube": "mouth_cavity_floor",
+    "face": "up",
+    "material": "inner",
+    "uv": [
+      113,
+      24,
+      131,
+      38
+    ]
+  },
+  {
+    "cube": "mouth_cavity_floor",
+    "face": "down",
+    "material": "inner",
+    "uv": [
+      133,
+      24,
+      151,
+      38
+    ]
+  },
+  {
+    "cube": "left_bulb_facet",
+    "face": "up",
+    "material": "bulb",
+    "uv": [
+      153,
+      24,
+      156,
+      38
+    ]
+  },
+  {
+    "cube": "left_bulb_facet",
+    "face": "down",
+    "material": "bulb",
+    "uv": [
+      158,
+      24,
+      161,
+      38
+    ]
+  },
+  {
+    "cube": "right_bulb_facet",
+    "face": "up",
+    "material": "bulb",
+    "uv": [
+      163,
+      24,
+      166,
+      38
+    ]
+  },
+  {
+    "cube": "right_bulb_facet",
+    "face": "down",
+    "material": "bulb",
+    "uv": [
+      168,
+      24,
+      171,
+      38
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_segment_3",
+    "face": "north",
+    "material": "stem",
+    "uv": [
+      173,
+      24,
+      175,
+      38
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_segment_3",
+    "face": "south",
+    "material": "stem",
+    "uv": [
+      177,
+      24,
+      179,
+      38
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_segment_3",
+    "face": "east",
+    "material": "stem",
+    "uv": [
+      181,
+      24,
+      183,
+      38
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_segment_3",
+    "face": "west",
+    "material": "stem",
+    "uv": [
+      185,
+      24,
+      187,
+      38
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_segment_2",
+    "face": "north",
+    "material": "stem",
+    "uv": [
+      189,
+      24,
+      191,
+      37
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_segment_2",
+    "face": "south",
+    "material": "stem",
+    "uv": [
+      193,
+      24,
+      195,
+      37
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_segment_2",
+    "face": "east",
+    "material": "stem",
+    "uv": [
+      197,
+      24,
+      199,
+      37
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_segment_2",
+    "face": "west",
+    "material": "stem",
+    "uv": [
+      201,
+      24,
+      203,
+      37
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_segment_2",
+    "face": "north",
+    "material": "stem",
+    "uv": [
+      205,
+      24,
+      207,
+      37
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_segment_2",
+    "face": "south",
+    "material": "stem",
+    "uv": [
+      209,
+      24,
+      211,
+      37
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_segment_2",
+    "face": "east",
+    "material": "stem",
+    "uv": [
+      213,
+      24,
+      215,
+      37
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_segment_2",
+    "face": "west",
+    "material": "stem",
+    "uv": [
+      217,
+      24,
+      219,
+      37
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_segment_2",
+    "face": "north",
+    "material": "stem",
+    "uv": [
+      221,
+      24,
+      223,
+      37
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_segment_2",
+    "face": "south",
+    "material": "stem",
+    "uv": [
+      225,
+      24,
+      227,
+      37
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_segment_2",
+    "face": "east",
+    "material": "stem",
+    "uv": [
+      229,
+      24,
+      231,
+      37
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_segment_2",
+    "face": "west",
+    "material": "stem",
+    "uv": [
+      233,
+      24,
+      235,
+      37
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_segment_2",
+    "face": "north",
+    "material": "stem",
+    "uv": [
+      237,
+      24,
+      239,
+      37
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_segment_2",
+    "face": "south",
+    "material": "stem",
+    "uv": [
+      241,
+      24,
+      243,
+      37
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_segment_2",
+    "face": "east",
+    "material": "stem",
+    "uv": [
+      245,
+      24,
+      247,
+      37
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_segment_2",
+    "face": "west",
+    "material": "stem",
+    "uv": [
+      249,
+      24,
+      251,
+      37
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_segment_3",
+    "face": "north",
+    "material": "stem",
+    "uv": [
+      253,
+      24,
+      255,
+      37
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_segment_3",
+    "face": "south",
+    "material": "stem",
+    "uv": [
+      1,
+      44,
+      3,
+      57
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_segment_3",
+    "face": "east",
+    "material": "stem",
+    "uv": [
+      5,
+      44,
+      7,
+      57
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_segment_3",
+    "face": "west",
+    "material": "stem",
+    "uv": [
+      9,
+      44,
+      11,
+      57
+    ]
+  },
+  {
+    "cube": "bulb_bottom",
+    "face": "up",
+    "material": "bulb",
+    "uv": [
+      13,
+      44,
+      28,
+      56
+    ]
+  },
+  {
+    "cube": "bulb_bottom",
+    "face": "down",
+    "material": "bulb",
+    "uv": [
+      30,
+      44,
+      45,
+      56
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_segment_3",
+    "face": "north",
+    "material": "stem",
+    "uv": [
+      47,
+      44,
+      49,
+      56
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_segment_3",
+    "face": "south",
+    "material": "stem",
+    "uv": [
+      51,
+      44,
+      53,
+      56
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_segment_3",
+    "face": "east",
+    "material": "stem",
+    "uv": [
+      55,
+      44,
+      57,
+      56
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_segment_3",
+    "face": "west",
+    "material": "stem",
+    "uv": [
+      59,
+      44,
+      61,
+      56
+    ]
+  },
+  {
+    "cube": "bulb_belly",
+    "face": "north",
+    "material": "bulb",
+    "uv": [
+      63,
+      44,
+      90,
+      55
+    ]
+  },
+  {
+    "cube": "bulb_belly",
+    "face": "south",
+    "material": "bulb",
+    "uv": [
+      92,
+      44,
+      119,
+      55
+    ]
+  },
+  {
+    "cube": "bulb_belly",
+    "face": "east",
+    "material": "bulb",
+    "uv": [
+      121,
+      44,
+      142,
+      55
+    ]
+  },
+  {
+    "cube": "bulb_belly",
+    "face": "west",
+    "material": "bulb",
+    "uv": [
+      144,
+      44,
+      165,
+      55
+    ]
+  },
+  {
+    "cube": "hood_petiole",
+    "face": "north",
+    "material": "stem",
+    "uv": [
+      167,
+      44,
+      170,
+      55
+    ]
+  },
+  {
+    "cube": "hood_petiole",
+    "face": "south",
+    "material": "stem",
+    "uv": [
+      172,
+      44,
+      175,
+      55
+    ]
+  },
+  {
+    "cube": "hood_petiole",
+    "face": "east",
+    "material": "stem",
+    "uv": [
+      177,
+      44,
+      180,
+      55
+    ]
+  },
+  {
+    "cube": "hood_petiole",
+    "face": "west",
+    "material": "stem",
+    "uv": [
+      182,
+      44,
+      185,
+      55
+    ]
+  },
+  {
+    "cube": "hood_leaf_panel_2",
+    "face": "north",
+    "material": "hood",
+    "uv": [
+      187,
+      44,
+      211,
+      53
+    ]
+  },
+  {
+    "cube": "hood_leaf_panel_2",
+    "face": "south",
+    "material": "leaf_back",
+    "uv": [
+      213,
+      44,
+      237,
+      53
+    ]
+  },
+  {
+    "cube": "hood_leaf_panel_2",
+    "face": "east",
+    "material": "hood",
+    "uv": [
+      239,
+      44,
+      241,
+      53
+    ]
+  },
+  {
+    "cube": "hood_leaf_panel_2",
+    "face": "west",
+    "material": "hood",
+    "uv": [
+      243,
+      44,
+      245,
+      53
+    ]
+  },
+  {
+    "cube": "mouth_left_wall",
+    "face": "east",
+    "material": "inner",
+    "uv": [
+      1,
+      59,
+      19,
+      67
+    ]
+  },
+  {
+    "cube": "mouth_left_wall",
+    "face": "west",
+    "material": "neck",
+    "uv": [
+      21,
+      59,
+      39,
+      67
+    ]
+  },
+  {
+    "cube": "mouth_right_wall",
+    "face": "east",
+    "material": "neck",
+    "uv": [
+      41,
+      59,
+      59,
+      67
+    ]
+  },
+  {
+    "cube": "mouth_right_wall",
+    "face": "west",
+    "material": "inner",
+    "uv": [
+      61,
+      59,
+      79,
+      67
+    ]
+  },
+  {
+    "cube": "mouth_front_wall",
+    "face": "north",
+    "material": "neck",
+    "uv": [
+      81,
+      59,
+      99,
+      67
+    ]
+  },
+  {
+    "cube": "mouth_front_wall",
+    "face": "south",
+    "material": "inner",
+    "uv": [
+      101,
+      59,
+      119,
+      67
+    ]
+  },
+  {
+    "cube": "mouth_back_wall",
+    "face": "north",
+    "material": "inner",
+    "uv": [
+      121,
+      59,
+      139,
+      67
+    ]
+  },
+  {
+    "cube": "mouth_back_wall",
+    "face": "south",
+    "material": "neck",
+    "uv": [
+      141,
+      59,
+      159,
+      67
+    ]
+  },
+  {
+    "cube": "left_bulb_facet",
+    "face": "east",
+    "material": "bulb",
+    "uv": [
+      161,
+      59,
+      175,
+      67
+    ]
+  },
+  {
+    "cube": "left_bulb_facet",
+    "face": "west",
+    "material": "bulb",
+    "uv": [
+      177,
+      59,
+      191,
+      67
+    ]
+  },
+  {
+    "cube": "right_bulb_facet",
+    "face": "east",
+    "material": "bulb",
+    "uv": [
+      193,
+      59,
+      207,
+      67
+    ]
+  },
+  {
+    "cube": "right_bulb_facet",
+    "face": "west",
+    "material": "bulb",
+    "uv": [
+      209,
+      59,
+      223,
+      67
+    ]
+  },
+  {
+    "cube": "left_bulb_facet",
+    "face": "north",
+    "material": "bulb",
+    "uv": [
+      225,
+      59,
+      228,
+      67
+    ]
+  },
+  {
+    "cube": "left_bulb_facet",
+    "face": "south",
+    "material": "bulb",
+    "uv": [
+      230,
+      59,
+      233,
+      67
+    ]
+  },
+  {
+    "cube": "right_bulb_facet",
+    "face": "north",
+    "material": "bulb",
+    "uv": [
+      235,
+      59,
+      238,
+      67
+    ]
+  },
+  {
+    "cube": "right_bulb_facet",
+    "face": "south",
+    "material": "bulb",
+    "uv": [
+      240,
+      59,
+      243,
+      67
+    ]
+  },
+  {
+    "cube": "mouth_left_wall",
+    "face": "north",
+    "material": "neck",
+    "uv": [
+      245,
+      59,
+      247,
+      67
+    ]
+  },
+  {
+    "cube": "mouth_left_wall",
+    "face": "south",
+    "material": "neck",
+    "uv": [
+      249,
+      59,
+      251,
+      67
+    ]
+  },
+  {
+    "cube": "mouth_right_wall",
+    "face": "north",
+    "material": "neck",
+    "uv": [
+      253,
+      59,
+      255,
+      67
+    ]
+  },
+  {
+    "cube": "mouth_right_wall",
+    "face": "south",
+    "material": "neck",
+    "uv": [
+      1,
+      69,
+      3,
+      77
+    ]
+  },
+  {
+    "cube": "mouth_front_wall",
+    "face": "east",
+    "material": "neck",
+    "uv": [
+      5,
+      69,
+      7,
+      77
+    ]
+  },
+  {
+    "cube": "mouth_front_wall",
+    "face": "west",
+    "material": "neck",
+    "uv": [
+      9,
+      69,
+      11,
+      77
+    ]
+  },
+  {
+    "cube": "mouth_back_wall",
+    "face": "east",
+    "material": "neck",
+    "uv": [
+      13,
+      69,
+      15,
+      77
+    ]
+  },
+  {
+    "cube": "mouth_back_wall",
+    "face": "west",
+    "material": "neck",
+    "uv": [
+      17,
+      69,
+      19,
+      77
+    ]
+  },
+  {
+    "cube": "root_1_upper",
+    "face": "north",
+    "material": "root",
+    "uv": [
+      21,
+      69,
+      24,
+      76
+    ]
+  },
+  {
+    "cube": "root_1_upper",
+    "face": "south",
+    "material": "root",
+    "uv": [
+      26,
+      69,
+      29,
+      76
+    ]
+  },
+  {
+    "cube": "root_1_upper",
+    "face": "east",
+    "material": "root",
+    "uv": [
+      31,
+      69,
+      34,
+      76
+    ]
+  },
+  {
+    "cube": "root_1_upper",
+    "face": "west",
+    "material": "root",
+    "uv": [
+      36,
+      69,
+      39,
+      76
+    ]
+  },
+  {
+    "cube": "root_2_upper",
+    "face": "north",
+    "material": "root",
+    "uv": [
+      41,
+      69,
+      44,
+      76
+    ]
+  },
+  {
+    "cube": "root_2_upper",
+    "face": "south",
+    "material": "root",
+    "uv": [
+      46,
+      69,
+      49,
+      76
+    ]
+  },
+  {
+    "cube": "root_2_upper",
+    "face": "east",
+    "material": "root",
+    "uv": [
+      51,
+      69,
+      54,
+      76
+    ]
+  },
+  {
+    "cube": "root_2_upper",
+    "face": "west",
+    "material": "root",
+    "uv": [
+      56,
+      69,
+      59,
+      76
+    ]
+  },
+  {
+    "cube": "root_3_upper",
+    "face": "north",
+    "material": "root",
+    "uv": [
+      61,
+      69,
+      64,
+      76
+    ]
+  },
+  {
+    "cube": "root_3_upper",
+    "face": "south",
+    "material": "root",
+    "uv": [
+      66,
+      69,
+      69,
+      76
+    ]
+  },
+  {
+    "cube": "root_3_upper",
+    "face": "east",
+    "material": "root",
+    "uv": [
+      71,
+      69,
+      74,
+      76
+    ]
+  },
+  {
+    "cube": "root_3_upper",
+    "face": "west",
+    "material": "root",
+    "uv": [
+      76,
+      69,
+      79,
+      76
+    ]
+  },
+  {
+    "cube": "root_4_upper",
+    "face": "north",
+    "material": "root",
+    "uv": [
+      81,
+      69,
+      84,
+      76
+    ]
+  },
+  {
+    "cube": "root_4_upper",
+    "face": "south",
+    "material": "root",
+    "uv": [
+      86,
+      69,
+      89,
+      76
+    ]
+  },
+  {
+    "cube": "root_4_upper",
+    "face": "east",
+    "material": "root",
+    "uv": [
+      91,
+      69,
+      94,
+      76
+    ]
+  },
+  {
+    "cube": "root_4_upper",
+    "face": "west",
+    "material": "root",
+    "uv": [
+      96,
+      69,
+      99,
+      76
+    ]
+  },
+  {
+    "cube": "root_5_upper",
+    "face": "north",
+    "material": "root",
+    "uv": [
+      101,
+      69,
+      104,
+      76
+    ]
+  },
+  {
+    "cube": "root_5_upper",
+    "face": "south",
+    "material": "root",
+    "uv": [
+      106,
+      69,
+      109,
+      76
+    ]
+  },
+  {
+    "cube": "root_5_upper",
+    "face": "east",
+    "material": "root",
+    "uv": [
+      111,
+      69,
+      114,
+      76
+    ]
+  },
+  {
+    "cube": "root_5_upper",
+    "face": "west",
+    "material": "root",
+    "uv": [
+      116,
+      69,
+      119,
+      76
+    ]
+  },
+  {
+    "cube": "bulb_shoulders",
+    "face": "north",
+    "material": "bulb",
+    "uv": [
+      121,
+      69,
+      144,
+      75
+    ]
+  },
+  {
+    "cube": "bulb_shoulders",
+    "face": "south",
+    "material": "bulb",
+    "uv": [
+      146,
+      69,
+      169,
+      75
+    ]
+  },
+  {
+    "cube": "bulb_lower",
+    "face": "north",
+    "material": "bulb",
+    "uv": [
+      171,
+      69,
+      192,
+      75
+    ]
+  },
+  {
+    "cube": "bulb_lower",
+    "face": "south",
+    "material": "bulb",
+    "uv": [
+      194,
+      69,
+      215,
+      75
+    ]
+  },
+  {
+    "cube": "bulb_lower",
+    "face": "east",
+    "material": "bulb",
+    "uv": [
+      217,
+      69,
+      235,
+      75
+    ]
+  },
+  {
+    "cube": "bulb_lower",
+    "face": "west",
+    "material": "bulb",
+    "uv": [
+      237,
+      69,
+      255,
+      75
+    ]
+  },
+  {
+    "cube": "bulb_shoulders",
+    "face": "east",
+    "material": "bulb",
+    "uv": [
+      1,
+      79,
+      19,
+      85
+    ]
+  },
+  {
+    "cube": "bulb_shoulders",
+    "face": "west",
+    "material": "bulb",
+    "uv": [
+      21,
+      79,
+      39,
+      85
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_3",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      41,
+      79,
+      51,
+      85
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_3",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      53,
+      79,
+      63,
+      85
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_3",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      65,
+      79,
+      75,
+      85
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_3",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      77,
+      79,
+      87,
+      85
+    ]
+  },
+  {
+    "cube": "left_lip_ridge_1",
+    "face": "up",
+    "material": "rim",
+    "uv": [
+      89,
+      79,
+      92,
+      85
+    ]
+  },
+  {
+    "cube": "left_lip_ridge_1",
+    "face": "down",
+    "material": "rim",
+    "uv": [
+      94,
+      79,
+      97,
+      85
+    ]
+  },
+  {
+    "cube": "left_lip_ridge_2",
+    "face": "up",
+    "material": "rim",
+    "uv": [
+      99,
+      79,
+      102,
+      85
+    ]
+  },
+  {
+    "cube": "left_lip_ridge_2",
+    "face": "down",
+    "material": "rim",
+    "uv": [
+      104,
+      79,
+      107,
+      85
+    ]
+  },
+  {
+    "cube": "left_lip_ridge_3",
+    "face": "up",
+    "material": "rim",
+    "uv": [
+      109,
+      79,
+      112,
+      85
+    ]
+  },
+  {
+    "cube": "left_lip_ridge_3",
+    "face": "down",
+    "material": "rim",
+    "uv": [
+      114,
+      79,
+      117,
+      85
+    ]
+  },
+  {
+    "cube": "right_lip_ridge_1",
+    "face": "up",
+    "material": "rim",
+    "uv": [
+      119,
+      79,
+      122,
+      85
+    ]
+  },
+  {
+    "cube": "right_lip_ridge_1",
+    "face": "down",
+    "material": "rim",
+    "uv": [
+      124,
+      79,
+      127,
+      85
+    ]
+  },
+  {
+    "cube": "right_lip_ridge_2",
+    "face": "up",
+    "material": "rim",
+    "uv": [
+      129,
+      79,
+      132,
+      85
+    ]
+  },
+  {
+    "cube": "right_lip_ridge_2",
+    "face": "down",
+    "material": "rim",
+    "uv": [
+      134,
+      79,
+      137,
+      85
+    ]
+  },
+  {
+    "cube": "right_lip_ridge_3",
+    "face": "up",
+    "material": "rim",
+    "uv": [
+      139,
+      79,
+      142,
+      85
+    ]
+  },
+  {
+    "cube": "right_lip_ridge_3",
+    "face": "down",
+    "material": "rim",
+    "uv": [
+      144,
+      79,
+      147,
+      85
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_3",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      149,
+      79,
+      151,
+      85
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_3",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      153,
+      79,
+      155,
+      85
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_3",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      157,
+      79,
+      159,
+      85
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_3",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      161,
+      79,
+      163,
+      85
+    ]
+  },
+  {
+    "cube": "hood_leaf_panel_3",
+    "face": "north",
+    "material": "hood",
+    "uv": [
+      165,
+      79,
+      186,
+      84
+    ]
+  },
+  {
+    "cube": "hood_leaf_panel_3",
+    "face": "south",
+    "material": "leaf_back",
+    "uv": [
+      188,
+      79,
+      209,
+      84
+    ]
+  },
+  {
+    "cube": "hood_leaf_panel_1",
+    "face": "north",
+    "material": "hood",
+    "uv": [
+      211,
+      79,
+      229,
+      84
+    ]
+  },
+  {
+    "cube": "hood_leaf_panel_1",
+    "face": "south",
+    "material": "leaf_back",
+    "uv": [
+      231,
+      79,
+      249,
+      84
+    ]
+  },
+  {
+    "cube": "bulb_bottom",
+    "face": "north",
+    "material": "bulb",
+    "uv": [
+      1,
+      87,
+      16,
+      92
+    ]
+  },
+  {
+    "cube": "bulb_bottom",
+    "face": "south",
+    "material": "bulb",
+    "uv": [
+      18,
+      87,
+      33,
+      92
+    ]
+  },
+  {
+    "cube": "bulb_bottom",
+    "face": "east",
+    "material": "bulb",
+    "uv": [
+      35,
+      87,
+      47,
+      92
+    ]
+  },
+  {
+    "cube": "bulb_bottom",
+    "face": "west",
+    "material": "bulb",
+    "uv": [
+      49,
+      87,
+      61,
+      92
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_3",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      63,
+      87,
+      73,
+      92
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_3",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      75,
+      87,
+      85,
+      92
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_3",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      87,
+      87,
+      97,
+      92
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_3",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      99,
+      87,
+      109,
+      92
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_4",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      111,
+      87,
+      119,
+      92
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_4",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      121,
+      87,
+      129,
+      92
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_4",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      131,
+      87,
+      139,
+      92
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_4",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      141,
+      87,
+      149,
+      92
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_4",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      151,
+      87,
+      159,
+      92
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_4",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      161,
+      87,
+      169,
+      92
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_4",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      171,
+      87,
+      179,
+      92
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_4",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      181,
+      87,
+      189,
+      92
+    ]
+  },
+  {
+    "cube": "hood_leaf_panel_1",
+    "face": "east",
+    "material": "hood",
+    "uv": [
+      191,
+      87,
+      193,
+      92
+    ]
+  },
+  {
+    "cube": "hood_leaf_panel_1",
+    "face": "west",
+    "material": "hood",
+    "uv": [
+      195,
+      87,
+      197,
+      92
+    ]
+  },
+  {
+    "cube": "hood_leaf_panel_3",
+    "face": "east",
+    "material": "hood",
+    "uv": [
+      199,
+      87,
+      201,
+      92
+    ]
+  },
+  {
+    "cube": "hood_leaf_panel_3",
+    "face": "west",
+    "material": "hood",
+    "uv": [
+      203,
+      87,
+      205,
+      92
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_4",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      207,
+      87,
+      209,
+      92
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_4",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      211,
+      87,
+      213,
+      92
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_4",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      215,
+      87,
+      217,
+      92
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_4",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      219,
+      87,
+      221,
+      92
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_3",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      223,
+      87,
+      225,
+      92
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_3",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      227,
+      87,
+      229,
+      92
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_4",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      231,
+      87,
+      233,
+      92
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_4",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      235,
+      87,
+      237,
+      92
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_3",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      239,
+      87,
+      241,
+      92
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_3",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      243,
+      87,
+      245,
+      92
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_4",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      247,
+      87,
+      249,
+      92
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_4",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      251,
+      87,
+      253,
+      92
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_2",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      1,
+      94,
+      8,
+      98
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_2",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      10,
+      94,
+      17,
+      98
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_2",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      19,
+      94,
+      26,
+      98
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_2",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      28,
+      94,
+      35,
+      98
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_2",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      37,
+      94,
+      44,
+      98
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_2",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      46,
+      94,
+      53,
+      98
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_2",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      55,
+      94,
+      62,
+      98
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_2",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      64,
+      94,
+      71,
+      98
+    ]
+  },
+  {
+    "cube": "left_lip_ridge_2",
+    "face": "east",
+    "material": "rim",
+    "uv": [
+      73,
+      94,
+      79,
+      98
+    ]
+  },
+  {
+    "cube": "left_lip_ridge_2",
+    "face": "west",
+    "material": "rim",
+    "uv": [
+      81,
+      94,
+      87,
+      98
+    ]
+  },
+  {
+    "cube": "right_lip_ridge_2",
+    "face": "east",
+    "material": "rim",
+    "uv": [
+      89,
+      94,
+      95,
+      98
+    ]
+  },
+  {
+    "cube": "right_lip_ridge_2",
+    "face": "west",
+    "material": "rim",
+    "uv": [
+      97,
+      94,
+      103,
+      98
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_2",
+    "face": "north",
+    "material": "rim",
+    "uv": [
+      105,
+      94,
+      110,
+      98
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_2",
+    "face": "south",
+    "material": "rim",
+    "uv": [
+      112,
+      94,
+      117,
+      98
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_4",
+    "face": "north",
+    "material": "rim",
+    "uv": [
+      119,
+      94,
+      124,
+      98
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_4",
+    "face": "south",
+    "material": "rim",
+    "uv": [
+      126,
+      94,
+      131,
+      98
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_5",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      133,
+      94,
+      138,
+      98
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_5",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      140,
+      94,
+      145,
+      98
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_5",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      147,
+      94,
+      152,
+      98
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_5",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      154,
+      94,
+      159,
+      98
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_5",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      161,
+      94,
+      166,
+      98
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_5",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      168,
+      94,
+      173,
+      98
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_5",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      175,
+      94,
+      180,
+      98
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_5",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      182,
+      94,
+      187,
+      98
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_2",
+    "face": "east",
+    "material": "rim",
+    "uv": [
+      189,
+      94,
+      192,
+      98
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_2",
+    "face": "west",
+    "material": "rim",
+    "uv": [
+      194,
+      94,
+      197,
+      98
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_4",
+    "face": "east",
+    "material": "rim",
+    "uv": [
+      199,
+      94,
+      202,
+      98
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_4",
+    "face": "west",
+    "material": "rim",
+    "uv": [
+      204,
+      94,
+      207,
+      98
+    ]
+  },
+  {
+    "cube": "left_lip_ridge_2",
+    "face": "north",
+    "material": "rim",
+    "uv": [
+      209,
+      94,
+      212,
+      98
+    ]
+  },
+  {
+    "cube": "left_lip_ridge_2",
+    "face": "south",
+    "material": "rim",
+    "uv": [
+      214,
+      94,
+      217,
+      98
+    ]
+  },
+  {
+    "cube": "right_lip_ridge_2",
+    "face": "north",
+    "material": "rim",
+    "uv": [
+      219,
+      94,
+      222,
+      98
+    ]
+  },
+  {
+    "cube": "right_lip_ridge_2",
+    "face": "south",
+    "material": "rim",
+    "uv": [
+      224,
+      94,
+      227,
+      98
+    ]
+  },
+  {
+    "cube": "thorn_1_base",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      229,
+      94,
+      231,
+      98
+    ]
+  },
+  {
+    "cube": "thorn_1_base",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      233,
+      94,
+      235,
+      98
+    ]
+  },
+  {
+    "cube": "thorn_1_base",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      237,
+      94,
+      239,
+      98
+    ]
+  },
+  {
+    "cube": "thorn_1_base",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      241,
+      94,
+      243,
+      98
+    ]
+  },
+  {
+    "cube": "thorn_2_base",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      245,
+      94,
+      247,
+      98
+    ]
+  },
+  {
+    "cube": "thorn_2_base",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      249,
+      94,
+      251,
+      98
+    ]
+  },
+  {
+    "cube": "thorn_2_base",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      253,
+      94,
+      255,
+      98
+    ]
+  },
+  {
+    "cube": "thorn_2_base",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      1,
+      100,
+      3,
+      104
+    ]
+  },
+  {
+    "cube": "thorn_3_base",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      5,
+      100,
+      7,
+      104
+    ]
+  },
+  {
+    "cube": "thorn_3_base",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      9,
+      100,
+      11,
+      104
+    ]
+  },
+  {
+    "cube": "thorn_3_base",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      13,
+      100,
+      15,
+      104
+    ]
+  },
+  {
+    "cube": "thorn_3_base",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      17,
+      100,
+      19,
+      104
+    ]
+  },
+  {
+    "cube": "thorn_4_base",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      21,
+      100,
+      23,
+      104
+    ]
+  },
+  {
+    "cube": "thorn_4_base",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      25,
+      100,
+      27,
+      104
+    ]
+  },
+  {
+    "cube": "thorn_4_base",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      29,
+      100,
+      31,
+      104
+    ]
+  },
+  {
+    "cube": "thorn_4_base",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      33,
+      100,
+      35,
+      104
+    ]
+  },
+  {
+    "cube": "thorn_5_base",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      37,
+      100,
+      39,
+      104
+    ]
+  },
+  {
+    "cube": "thorn_5_base",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      41,
+      100,
+      43,
+      104
+    ]
+  },
+  {
+    "cube": "thorn_5_base",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      45,
+      100,
+      47,
+      104
+    ]
+  },
+  {
+    "cube": "thorn_5_base",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      49,
+      100,
+      51,
+      104
+    ]
+  },
+  {
+    "cube": "thorn_6_base",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      53,
+      100,
+      55,
+      104
+    ]
+  },
+  {
+    "cube": "thorn_6_base",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      57,
+      100,
+      59,
+      104
+    ]
+  },
+  {
+    "cube": "thorn_6_base",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      61,
+      100,
+      63,
+      104
+    ]
+  },
+  {
+    "cube": "thorn_6_base",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      65,
+      100,
+      67,
+      104
+    ]
+  },
+  {
+    "cube": "thorn_7_base",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      69,
+      100,
+      71,
+      104
+    ]
+  },
+  {
+    "cube": "thorn_7_base",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      73,
+      100,
+      75,
+      104
+    ]
+  },
+  {
+    "cube": "thorn_7_base",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      77,
+      100,
+      79,
+      104
+    ]
+  },
+  {
+    "cube": "thorn_7_base",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      81,
+      100,
+      83,
+      104
+    ]
+  },
+  {
+    "cube": "thorn_8_base",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      85,
+      100,
+      87,
+      104
+    ]
+  },
+  {
+    "cube": "thorn_8_base",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      89,
+      100,
+      91,
+      104
+    ]
+  },
+  {
+    "cube": "thorn_8_base",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      93,
+      100,
+      95,
+      104
+    ]
+  },
+  {
+    "cube": "thorn_8_base",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      97,
+      100,
+      99,
+      104
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_2",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      101,
+      100,
+      103,
+      104
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_2",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      105,
+      100,
+      107,
+      104
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_5",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      109,
+      100,
+      111,
+      104
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_5",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      113,
+      100,
+      115,
+      104
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_2",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      117,
+      100,
+      119,
+      104
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_2",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      121,
+      100,
+      123,
+      104
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_5",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      125,
+      100,
+      127,
+      104
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_5",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      129,
+      100,
+      131,
+      104
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_2",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      133,
+      100,
+      135,
+      104
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_2",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      137,
+      100,
+      139,
+      104
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_5",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      141,
+      100,
+      143,
+      104
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_5",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      145,
+      100,
+      147,
+      104
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_2",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      149,
+      100,
+      151,
+      104
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_2",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      153,
+      100,
+      155,
+      104
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_5",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      157,
+      100,
+      159,
+      104
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_5",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      161,
+      100,
+      163,
+      104
+    ]
+  },
+  {
+    "cube": "narrow_pitcher_neck",
+    "face": "north",
+    "material": "bulb",
+    "uv": [
+      165,
+      100,
+      183,
+      103
+    ]
+  },
+  {
+    "cube": "narrow_pitcher_neck",
+    "face": "south",
+    "material": "bulb",
+    "uv": [
+      185,
+      100,
+      203,
+      103
+    ]
+  },
+  {
+    "cube": "narrow_pitcher_neck",
+    "face": "east",
+    "material": "bulb",
+    "uv": [
+      205,
+      100,
+      219,
+      103
+    ]
+  },
+  {
+    "cube": "narrow_pitcher_neck",
+    "face": "west",
+    "material": "bulb",
+    "uv": [
+      221,
+      100,
+      235,
+      103
+    ]
+  },
+  {
+    "cube": "hood_leaf_panel_4",
+    "face": "north",
+    "material": "hood",
+    "uv": [
+      237,
+      100,
+      249,
+      103
+    ]
+  },
+  {
+    "cube": "hood_leaf_panel_4",
+    "face": "south",
+    "material": "leaf_back",
+    "uv": [
+      1,
+      106,
+      13,
+      109
+    ]
+  },
+  {
+    "cube": "back_lip_ridge_1",
+    "face": "north",
+    "material": "rim",
+    "uv": [
+      15,
+      106,
+      21,
+      109
+    ]
+  },
+  {
+    "cube": "back_lip_ridge_1",
+    "face": "south",
+    "material": "rim",
+    "uv": [
+      23,
+      106,
+      29,
+      109
+    ]
+  },
+  {
+    "cube": "back_lip_ridge_1",
+    "face": "up",
+    "material": "rim",
+    "uv": [
+      31,
+      106,
+      37,
+      109
+    ]
+  },
+  {
+    "cube": "back_lip_ridge_1",
+    "face": "down",
+    "material": "rim",
+    "uv": [
+      39,
+      106,
+      45,
+      109
+    ]
+  },
+  {
+    "cube": "back_lip_ridge_2",
+    "face": "north",
+    "material": "rim",
+    "uv": [
+      47,
+      106,
+      53,
+      109
+    ]
+  },
+  {
+    "cube": "back_lip_ridge_2",
+    "face": "south",
+    "material": "rim",
+    "uv": [
+      55,
+      106,
+      61,
+      109
+    ]
+  },
+  {
+    "cube": "back_lip_ridge_2",
+    "face": "up",
+    "material": "rim",
+    "uv": [
+      63,
+      106,
+      69,
+      109
+    ]
+  },
+  {
+    "cube": "back_lip_ridge_2",
+    "face": "down",
+    "material": "rim",
+    "uv": [
+      71,
+      106,
+      77,
+      109
+    ]
+  },
+  {
+    "cube": "back_lip_ridge_3",
+    "face": "north",
+    "material": "rim",
+    "uv": [
+      79,
+      106,
+      85,
+      109
+    ]
+  },
+  {
+    "cube": "back_lip_ridge_3",
+    "face": "south",
+    "material": "rim",
+    "uv": [
+      87,
+      106,
+      93,
+      109
+    ]
+  },
+  {
+    "cube": "back_lip_ridge_3",
+    "face": "up",
+    "material": "rim",
+    "uv": [
+      95,
+      106,
+      101,
+      109
+    ]
+  },
+  {
+    "cube": "back_lip_ridge_3",
+    "face": "down",
+    "material": "rim",
+    "uv": [
+      103,
+      106,
+      109,
+      109
+    ]
+  },
+  {
+    "cube": "back_lip_ridge_4",
+    "face": "north",
+    "material": "rim",
+    "uv": [
+      111,
+      106,
+      117,
+      109
+    ]
+  },
+  {
+    "cube": "back_lip_ridge_4",
+    "face": "south",
+    "material": "rim",
+    "uv": [
+      119,
+      106,
+      125,
+      109
+    ]
+  },
+  {
+    "cube": "back_lip_ridge_4",
+    "face": "up",
+    "material": "rim",
+    "uv": [
+      127,
+      106,
+      133,
+      109
+    ]
+  },
+  {
+    "cube": "back_lip_ridge_4",
+    "face": "down",
+    "material": "rim",
+    "uv": [
+      135,
+      106,
+      141,
+      109
+    ]
+  },
+  {
+    "cube": "left_lip_ridge_1",
+    "face": "east",
+    "material": "rim",
+    "uv": [
+      143,
+      106,
+      149,
+      109
+    ]
+  },
+  {
+    "cube": "left_lip_ridge_1",
+    "face": "west",
+    "material": "rim",
+    "uv": [
+      151,
+      106,
+      157,
+      109
+    ]
+  },
+  {
+    "cube": "left_lip_ridge_3",
+    "face": "east",
+    "material": "rim",
+    "uv": [
+      159,
+      106,
+      165,
+      109
+    ]
+  },
+  {
+    "cube": "left_lip_ridge_3",
+    "face": "west",
+    "material": "rim",
+    "uv": [
+      167,
+      106,
+      173,
+      109
+    ]
+  },
+  {
+    "cube": "right_lip_ridge_1",
+    "face": "east",
+    "material": "rim",
+    "uv": [
+      175,
+      106,
+      181,
+      109
+    ]
+  },
+  {
+    "cube": "right_lip_ridge_1",
+    "face": "west",
+    "material": "rim",
+    "uv": [
+      183,
+      106,
+      189,
+      109
+    ]
+  },
+  {
+    "cube": "right_lip_ridge_3",
+    "face": "east",
+    "material": "rim",
+    "uv": [
+      191,
+      106,
+      197,
+      109
+    ]
+  },
+  {
+    "cube": "right_lip_ridge_3",
+    "face": "west",
+    "material": "rim",
+    "uv": [
+      199,
+      106,
+      205,
+      109
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_1",
+    "face": "north",
+    "material": "rim",
+    "uv": [
+      207,
+      106,
+      212,
+      109
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_1",
+    "face": "south",
+    "material": "rim",
+    "uv": [
+      214,
+      106,
+      219,
+      109
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_1",
+    "face": "up",
+    "material": "rim",
+    "uv": [
+      221,
+      106,
+      226,
+      109
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_1",
+    "face": "down",
+    "material": "rim",
+    "uv": [
+      228,
+      106,
+      233,
+      109
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_2",
+    "face": "up",
+    "material": "rim",
+    "uv": [
+      235,
+      106,
+      240,
+      109
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_2",
+    "face": "down",
+    "material": "rim",
+    "uv": [
+      242,
+      106,
+      247,
+      109
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_3",
+    "face": "north",
+    "material": "rim",
+    "uv": [
+      249,
+      106,
+      254,
+      109
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_3",
+    "face": "south",
+    "material": "rim",
+    "uv": [
+      1,
+      111,
+      6,
+      114
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_3",
+    "face": "up",
+    "material": "rim",
+    "uv": [
+      8,
+      111,
+      13,
+      114
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_3",
+    "face": "down",
+    "material": "rim",
+    "uv": [
+      15,
+      111,
+      20,
+      114
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_4",
+    "face": "up",
+    "material": "rim",
+    "uv": [
+      22,
+      111,
+      27,
+      114
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_4",
+    "face": "down",
+    "material": "rim",
+    "uv": [
+      29,
+      111,
+      34,
+      114
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_5",
+    "face": "north",
+    "material": "rim",
+    "uv": [
+      36,
+      111,
+      41,
+      114
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_5",
+    "face": "south",
+    "material": "rim",
+    "uv": [
+      43,
+      111,
+      48,
+      114
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_5",
+    "face": "up",
+    "material": "rim",
+    "uv": [
+      50,
+      111,
+      55,
+      114
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_5",
+    "face": "down",
+    "material": "rim",
+    "uv": [
+      57,
+      111,
+      62,
+      114
+    ]
+  },
+  {
+    "cube": "root_1_upper",
+    "face": "up",
+    "material": "root",
+    "uv": [
+      64,
+      111,
+      67,
+      114
+    ]
+  },
+  {
+    "cube": "root_1_upper",
+    "face": "down",
+    "material": "root",
+    "uv": [
+      69,
+      111,
+      72,
+      114
+    ]
+  },
+  {
+    "cube": "root_1_toe",
+    "face": "up",
+    "material": "root",
+    "uv": [
+      74,
+      111,
+      77,
+      114
+    ]
+  },
+  {
+    "cube": "root_1_toe",
+    "face": "down",
+    "material": "root",
+    "uv": [
+      79,
+      111,
+      82,
+      114
+    ]
+  },
+  {
+    "cube": "root_2_upper",
+    "face": "up",
+    "material": "root",
+    "uv": [
+      84,
+      111,
+      87,
+      114
+    ]
+  },
+  {
+    "cube": "root_2_upper",
+    "face": "down",
+    "material": "root",
+    "uv": [
+      89,
+      111,
+      92,
+      114
+    ]
+  },
+  {
+    "cube": "root_2_toe",
+    "face": "up",
+    "material": "root",
+    "uv": [
+      94,
+      111,
+      97,
+      114
+    ]
+  },
+  {
+    "cube": "root_2_toe",
+    "face": "down",
+    "material": "root",
+    "uv": [
+      99,
+      111,
+      102,
+      114
+    ]
+  },
+  {
+    "cube": "root_3_upper",
+    "face": "up",
+    "material": "root",
+    "uv": [
+      104,
+      111,
+      107,
+      114
+    ]
+  },
+  {
+    "cube": "root_3_upper",
+    "face": "down",
+    "material": "root",
+    "uv": [
+      109,
+      111,
+      112,
+      114
+    ]
+  },
+  {
+    "cube": "root_3_toe",
+    "face": "up",
+    "material": "root",
+    "uv": [
+      114,
+      111,
+      117,
+      114
+    ]
+  },
+  {
+    "cube": "root_3_toe",
+    "face": "down",
+    "material": "root",
+    "uv": [
+      119,
+      111,
+      122,
+      114
+    ]
+  },
+  {
+    "cube": "root_4_upper",
+    "face": "up",
+    "material": "root",
+    "uv": [
+      124,
+      111,
+      127,
+      114
+    ]
+  },
+  {
+    "cube": "root_4_upper",
+    "face": "down",
+    "material": "root",
+    "uv": [
+      129,
+      111,
+      132,
+      114
+    ]
+  },
+  {
+    "cube": "root_4_toe",
+    "face": "up",
+    "material": "root",
+    "uv": [
+      134,
+      111,
+      137,
+      114
+    ]
+  },
+  {
+    "cube": "root_4_toe",
+    "face": "down",
+    "material": "root",
+    "uv": [
+      139,
+      111,
+      142,
+      114
+    ]
+  },
+  {
+    "cube": "root_5_upper",
+    "face": "up",
+    "material": "root",
+    "uv": [
+      144,
+      111,
+      147,
+      114
+    ]
+  },
+  {
+    "cube": "root_5_upper",
+    "face": "down",
+    "material": "root",
+    "uv": [
+      149,
+      111,
+      152,
+      114
+    ]
+  },
+  {
+    "cube": "root_5_toe",
+    "face": "up",
+    "material": "root",
+    "uv": [
+      154,
+      111,
+      157,
+      114
+    ]
+  },
+  {
+    "cube": "root_5_toe",
+    "face": "down",
+    "material": "root",
+    "uv": [
+      159,
+      111,
+      162,
+      114
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_1",
+    "face": "east",
+    "material": "rim",
+    "uv": [
+      164,
+      111,
+      167,
+      114
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_1",
+    "face": "west",
+    "material": "rim",
+    "uv": [
+      169,
+      111,
+      172,
+      114
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_3",
+    "face": "east",
+    "material": "rim",
+    "uv": [
+      174,
+      111,
+      177,
+      114
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_3",
+    "face": "west",
+    "material": "rim",
+    "uv": [
+      179,
+      111,
+      182,
+      114
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_5",
+    "face": "east",
+    "material": "rim",
+    "uv": [
+      184,
+      111,
+      187,
+      114
+    ]
+  },
+  {
+    "cube": "front_lip_ridge_5",
+    "face": "west",
+    "material": "rim",
+    "uv": [
+      189,
+      111,
+      192,
+      114
+    ]
+  },
+  {
+    "cube": "back_lip_ridge_1",
+    "face": "east",
+    "material": "rim",
+    "uv": [
+      194,
+      111,
+      197,
+      114
+    ]
+  },
+  {
+    "cube": "back_lip_ridge_1",
+    "face": "west",
+    "material": "rim",
+    "uv": [
+      199,
+      111,
+      202,
+      114
+    ]
+  },
+  {
+    "cube": "back_lip_ridge_2",
+    "face": "east",
+    "material": "rim",
+    "uv": [
+      204,
+      111,
+      207,
+      114
+    ]
+  },
+  {
+    "cube": "back_lip_ridge_2",
+    "face": "west",
+    "material": "rim",
+    "uv": [
+      209,
+      111,
+      212,
+      114
+    ]
+  },
+  {
+    "cube": "back_lip_ridge_3",
+    "face": "east",
+    "material": "rim",
+    "uv": [
+      214,
+      111,
+      217,
+      114
+    ]
+  },
+  {
+    "cube": "back_lip_ridge_3",
+    "face": "west",
+    "material": "rim",
+    "uv": [
+      219,
+      111,
+      222,
+      114
+    ]
+  },
+  {
+    "cube": "back_lip_ridge_4",
+    "face": "east",
+    "material": "rim",
+    "uv": [
+      224,
+      111,
+      227,
+      114
+    ]
+  },
+  {
+    "cube": "back_lip_ridge_4",
+    "face": "west",
+    "material": "rim",
+    "uv": [
+      229,
+      111,
+      232,
+      114
+    ]
+  },
+  {
+    "cube": "left_lip_ridge_1",
+    "face": "north",
+    "material": "rim",
+    "uv": [
+      234,
+      111,
+      237,
+      114
+    ]
+  },
+  {
+    "cube": "left_lip_ridge_1",
+    "face": "south",
+    "material": "rim",
+    "uv": [
+      239,
+      111,
+      242,
+      114
+    ]
+  },
+  {
+    "cube": "left_lip_ridge_3",
+    "face": "north",
+    "material": "rim",
+    "uv": [
+      244,
+      111,
+      247,
+      114
+    ]
+  },
+  {
+    "cube": "left_lip_ridge_3",
+    "face": "south",
+    "material": "rim",
+    "uv": [
+      249,
+      111,
+      252,
+      114
+    ]
+  },
+  {
+    "cube": "right_lip_ridge_1",
+    "face": "north",
+    "material": "rim",
+    "uv": [
+      1,
+      116,
+      4,
+      119
+    ]
+  },
+  {
+    "cube": "right_lip_ridge_1",
+    "face": "south",
+    "material": "rim",
+    "uv": [
+      6,
+      116,
+      9,
+      119
+    ]
+  },
+  {
+    "cube": "right_lip_ridge_3",
+    "face": "north",
+    "material": "rim",
+    "uv": [
+      11,
+      116,
+      14,
+      119
+    ]
+  },
+  {
+    "cube": "right_lip_ridge_3",
+    "face": "south",
+    "material": "rim",
+    "uv": [
+      16,
+      116,
+      19,
+      119
+    ]
+  },
+  {
+    "cube": "hood_petiole",
+    "face": "up",
+    "material": "stem",
+    "uv": [
+      21,
+      116,
+      24,
+      119
+    ]
+  },
+  {
+    "cube": "hood_petiole",
+    "face": "down",
+    "material": "stem",
+    "uv": [
+      26,
+      116,
+      29,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_segment_1",
+    "face": "up",
+    "material": "stem",
+    "uv": [
+      31,
+      116,
+      34,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_segment_1",
+    "face": "down",
+    "material": "stem",
+    "uv": [
+      36,
+      116,
+      39,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_node_1",
+    "face": "north",
+    "material": "node",
+    "uv": [
+      41,
+      116,
+      44,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_node_1",
+    "face": "south",
+    "material": "node",
+    "uv": [
+      46,
+      116,
+      49,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_node_1",
+    "face": "east",
+    "material": "node",
+    "uv": [
+      51,
+      116,
+      54,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_node_1",
+    "face": "west",
+    "material": "node",
+    "uv": [
+      56,
+      116,
+      59,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_node_1",
+    "face": "up",
+    "material": "node",
+    "uv": [
+      61,
+      116,
+      64,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_node_1",
+    "face": "down",
+    "material": "node",
+    "uv": [
+      66,
+      116,
+      69,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_node_2",
+    "face": "north",
+    "material": "node",
+    "uv": [
+      71,
+      116,
+      74,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_node_2",
+    "face": "south",
+    "material": "node",
+    "uv": [
+      76,
+      116,
+      79,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_node_2",
+    "face": "east",
+    "material": "node",
+    "uv": [
+      81,
+      116,
+      84,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_node_2",
+    "face": "west",
+    "material": "node",
+    "uv": [
+      86,
+      116,
+      89,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_node_2",
+    "face": "up",
+    "material": "node",
+    "uv": [
+      91,
+      116,
+      94,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_node_2",
+    "face": "down",
+    "material": "node",
+    "uv": [
+      96,
+      116,
+      99,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_1",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      101,
+      116,
+      104,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_1",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      106,
+      116,
+      109,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_lobe_-1",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      111,
+      116,
+      114,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_lobe_-1",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      116,
+      116,
+      119,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_lobe_1",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      121,
+      116,
+      124,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_lobe_1",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      126,
+      116,
+      129,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_segment_1",
+    "face": "up",
+    "material": "stem",
+    "uv": [
+      131,
+      116,
+      134,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_segment_1",
+    "face": "down",
+    "material": "stem",
+    "uv": [
+      136,
+      116,
+      139,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_node_1",
+    "face": "north",
+    "material": "node",
+    "uv": [
+      141,
+      116,
+      144,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_node_1",
+    "face": "south",
+    "material": "node",
+    "uv": [
+      146,
+      116,
+      149,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_node_1",
+    "face": "east",
+    "material": "node",
+    "uv": [
+      151,
+      116,
+      154,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_node_1",
+    "face": "west",
+    "material": "node",
+    "uv": [
+      156,
+      116,
+      159,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_node_1",
+    "face": "up",
+    "material": "node",
+    "uv": [
+      161,
+      116,
+      164,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_node_1",
+    "face": "down",
+    "material": "node",
+    "uv": [
+      166,
+      116,
+      169,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_node_2",
+    "face": "north",
+    "material": "node",
+    "uv": [
+      171,
+      116,
+      174,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_node_2",
+    "face": "south",
+    "material": "node",
+    "uv": [
+      176,
+      116,
+      179,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_node_2",
+    "face": "east",
+    "material": "node",
+    "uv": [
+      181,
+      116,
+      184,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_node_2",
+    "face": "west",
+    "material": "node",
+    "uv": [
+      186,
+      116,
+      189,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_node_2",
+    "face": "up",
+    "material": "node",
+    "uv": [
+      191,
+      116,
+      194,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_node_2",
+    "face": "down",
+    "material": "node",
+    "uv": [
+      196,
+      116,
+      199,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_1",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      201,
+      116,
+      204,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_1",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      206,
+      116,
+      209,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_lobe_-1",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      211,
+      116,
+      214,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_lobe_-1",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      216,
+      116,
+      219,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_lobe_1",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      221,
+      116,
+      224,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_lobe_1",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      226,
+      116,
+      229,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_segment_1",
+    "face": "up",
+    "material": "stem",
+    "uv": [
+      231,
+      116,
+      234,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_segment_1",
+    "face": "down",
+    "material": "stem",
+    "uv": [
+      236,
+      116,
+      239,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_node_1",
+    "face": "north",
+    "material": "node",
+    "uv": [
+      241,
+      116,
+      244,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_node_1",
+    "face": "south",
+    "material": "node",
+    "uv": [
+      246,
+      116,
+      249,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_node_1",
+    "face": "east",
+    "material": "node",
+    "uv": [
+      251,
+      116,
+      254,
+      119
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_node_1",
+    "face": "west",
+    "material": "node",
+    "uv": [
+      1,
+      121,
+      4,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_node_1",
+    "face": "up",
+    "material": "node",
+    "uv": [
+      6,
+      121,
+      9,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_node_1",
+    "face": "down",
+    "material": "node",
+    "uv": [
+      11,
+      121,
+      14,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_node_2",
+    "face": "north",
+    "material": "node",
+    "uv": [
+      16,
+      121,
+      19,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_node_2",
+    "face": "south",
+    "material": "node",
+    "uv": [
+      21,
+      121,
+      24,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_node_2",
+    "face": "east",
+    "material": "node",
+    "uv": [
+      26,
+      121,
+      29,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_node_2",
+    "face": "west",
+    "material": "node",
+    "uv": [
+      31,
+      121,
+      34,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_node_2",
+    "face": "up",
+    "material": "node",
+    "uv": [
+      36,
+      121,
+      39,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_node_2",
+    "face": "down",
+    "material": "node",
+    "uv": [
+      41,
+      121,
+      44,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_1",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      46,
+      121,
+      49,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_1",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      51,
+      121,
+      54,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_segment_1",
+    "face": "up",
+    "material": "stem",
+    "uv": [
+      56,
+      121,
+      59,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_segment_1",
+    "face": "down",
+    "material": "stem",
+    "uv": [
+      61,
+      121,
+      64,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_node_1",
+    "face": "north",
+    "material": "node",
+    "uv": [
+      66,
+      121,
+      69,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_node_1",
+    "face": "south",
+    "material": "node",
+    "uv": [
+      71,
+      121,
+      74,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_node_1",
+    "face": "east",
+    "material": "node",
+    "uv": [
+      76,
+      121,
+      79,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_node_1",
+    "face": "west",
+    "material": "node",
+    "uv": [
+      81,
+      121,
+      84,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_node_1",
+    "face": "up",
+    "material": "node",
+    "uv": [
+      86,
+      121,
+      89,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_node_1",
+    "face": "down",
+    "material": "node",
+    "uv": [
+      91,
+      121,
+      94,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_node_2",
+    "face": "north",
+    "material": "node",
+    "uv": [
+      96,
+      121,
+      99,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_node_2",
+    "face": "south",
+    "material": "node",
+    "uv": [
+      101,
+      121,
+      104,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_node_2",
+    "face": "east",
+    "material": "node",
+    "uv": [
+      106,
+      121,
+      109,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_node_2",
+    "face": "west",
+    "material": "node",
+    "uv": [
+      111,
+      121,
+      114,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_node_2",
+    "face": "up",
+    "material": "node",
+    "uv": [
+      116,
+      121,
+      119,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_node_2",
+    "face": "down",
+    "material": "node",
+    "uv": [
+      121,
+      121,
+      124,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_1",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      126,
+      121,
+      129,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_1",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      131,
+      121,
+      134,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_lobe_-1",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      136,
+      121,
+      139,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_lobe_-1",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      141,
+      121,
+      144,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_lobe_1",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      146,
+      121,
+      149,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_lobe_1",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      151,
+      121,
+      154,
+      124
+    ]
+  },
+  {
+    "cube": "hood_leaf_panel_4",
+    "face": "east",
+    "material": "hood",
+    "uv": [
+      156,
+      121,
+      158,
+      124
+    ]
+  },
+  {
+    "cube": "hood_leaf_panel_4",
+    "face": "west",
+    "material": "hood",
+    "uv": [
+      160,
+      121,
+      162,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_1",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      164,
+      121,
+      166,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_1",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      168,
+      121,
+      170,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_6",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      172,
+      121,
+      174,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_6",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      176,
+      121,
+      178,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_6",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      180,
+      121,
+      182,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_6",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      184,
+      121,
+      186,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_lobe_-1",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      188,
+      121,
+      190,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_lobe_-1",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      192,
+      121,
+      194,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_lobe_1",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      196,
+      121,
+      198,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_lobe_1",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      200,
+      121,
+      202,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_1",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      204,
+      121,
+      206,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_1",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      208,
+      121,
+      210,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_lobe_-1",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      212,
+      121,
+      214,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_lobe_-1",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      216,
+      121,
+      218,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_lobe_1",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      220,
+      121,
+      222,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_lobe_1",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      224,
+      121,
+      226,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_1",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      228,
+      121,
+      230,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_1",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      232,
+      121,
+      234,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_1",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      236,
+      121,
+      238,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_1",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      240,
+      121,
+      242,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_lobe_-1",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      244,
+      121,
+      246,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_lobe_-1",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      248,
+      121,
+      250,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_lobe_1",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      252,
+      121,
+      254,
+      124
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_lobe_1",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      1,
+      126,
+      3,
+      129
+    ]
+  },
+  {
+    "cube": "hood_leaf_panel_2",
+    "face": "up",
+    "material": "hood",
+    "uv": [
+      5,
+      126,
+      29,
+      128
+    ]
+  },
+  {
+    "cube": "hood_leaf_panel_2",
+    "face": "down",
+    "material": "hood",
+    "uv": [
+      31,
+      126,
+      55,
+      128
+    ]
+  },
+  {
+    "cube": "hood_leaf_panel_3",
+    "face": "up",
+    "material": "hood",
+    "uv": [
+      57,
+      126,
+      78,
+      128
+    ]
+  },
+  {
+    "cube": "hood_leaf_panel_3",
+    "face": "down",
+    "material": "hood",
+    "uv": [
+      80,
+      126,
+      101,
+      128
+    ]
+  },
+  {
+    "cube": "mouth_front_wall",
+    "face": "up",
+    "material": "neck",
+    "uv": [
+      103,
+      126,
+      121,
+      128
+    ]
+  },
+  {
+    "cube": "mouth_front_wall",
+    "face": "down",
+    "material": "neck",
+    "uv": [
+      123,
+      126,
+      141,
+      128
+    ]
+  },
+  {
+    "cube": "mouth_back_wall",
+    "face": "up",
+    "material": "neck",
+    "uv": [
+      143,
+      126,
+      161,
+      128
+    ]
+  },
+  {
+    "cube": "mouth_back_wall",
+    "face": "down",
+    "material": "neck",
+    "uv": [
+      163,
+      126,
+      181,
+      128
+    ]
+  },
+  {
+    "cube": "hood_leaf_panel_1",
+    "face": "up",
+    "material": "hood",
+    "uv": [
+      183,
+      126,
+      201,
+      128
+    ]
+  },
+  {
+    "cube": "hood_leaf_panel_1",
+    "face": "down",
+    "material": "hood",
+    "uv": [
+      203,
+      126,
+      221,
+      128
+    ]
+  },
+  {
+    "cube": "hood_leaf_panel_4",
+    "face": "up",
+    "material": "hood",
+    "uv": [
+      223,
+      126,
+      235,
+      128
+    ]
+  },
+  {
+    "cube": "hood_leaf_panel_4",
+    "face": "down",
+    "material": "hood",
+    "uv": [
+      237,
+      126,
+      249,
+      128
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_3",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      1,
+      131,
+      11,
+      133
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_3",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      13,
+      131,
+      23,
+      133
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_3",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      25,
+      131,
+      35,
+      133
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_3",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      37,
+      131,
+      47,
+      133
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_3",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      49,
+      131,
+      59,
+      133
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_3",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      61,
+      131,
+      71,
+      133
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_3",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      73,
+      131,
+      83,
+      133
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_3",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      85,
+      131,
+      95,
+      133
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_4",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      97,
+      131,
+      105,
+      133
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_4",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      107,
+      131,
+      115,
+      133
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_4",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      117,
+      131,
+      125,
+      133
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_4",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      127,
+      131,
+      135,
+      133
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_4",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      137,
+      131,
+      145,
+      133
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_4",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      147,
+      131,
+      155,
+      133
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_4",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      157,
+      131,
+      165,
+      133
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_4",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      167,
+      131,
+      175,
+      133
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_2",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      177,
+      131,
+      184,
+      133
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_2",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      186,
+      131,
+      193,
+      133
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_2",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      195,
+      131,
+      202,
+      133
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_2",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      204,
+      131,
+      211,
+      133
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_2",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      213,
+      131,
+      220,
+      133
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_2",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      222,
+      131,
+      229,
+      133
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_2",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      231,
+      131,
+      238,
+      133
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_2",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      240,
+      131,
+      247,
+      133
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_5",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      249,
+      131,
+      254,
+      133
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_5",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      1,
+      135,
+      6,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_5",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      8,
+      135,
+      13,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_5",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      15,
+      135,
+      20,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_5",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      22,
+      135,
+      27,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_5",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      29,
+      135,
+      34,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_5",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      36,
+      135,
+      41,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_5",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      43,
+      135,
+      48,
+      137
+    ]
+  },
+  {
+    "cube": "root_1_toe",
+    "face": "north",
+    "material": "root",
+    "uv": [
+      50,
+      135,
+      53,
+      137
+    ]
+  },
+  {
+    "cube": "root_1_toe",
+    "face": "south",
+    "material": "root",
+    "uv": [
+      55,
+      135,
+      58,
+      137
+    ]
+  },
+  {
+    "cube": "root_1_toe",
+    "face": "east",
+    "material": "root",
+    "uv": [
+      60,
+      135,
+      63,
+      137
+    ]
+  },
+  {
+    "cube": "root_1_toe",
+    "face": "west",
+    "material": "root",
+    "uv": [
+      65,
+      135,
+      68,
+      137
+    ]
+  },
+  {
+    "cube": "root_2_toe",
+    "face": "north",
+    "material": "root",
+    "uv": [
+      70,
+      135,
+      73,
+      137
+    ]
+  },
+  {
+    "cube": "root_2_toe",
+    "face": "south",
+    "material": "root",
+    "uv": [
+      75,
+      135,
+      78,
+      137
+    ]
+  },
+  {
+    "cube": "root_2_toe",
+    "face": "east",
+    "material": "root",
+    "uv": [
+      80,
+      135,
+      83,
+      137
+    ]
+  },
+  {
+    "cube": "root_2_toe",
+    "face": "west",
+    "material": "root",
+    "uv": [
+      85,
+      135,
+      88,
+      137
+    ]
+  },
+  {
+    "cube": "root_3_toe",
+    "face": "north",
+    "material": "root",
+    "uv": [
+      90,
+      135,
+      93,
+      137
+    ]
+  },
+  {
+    "cube": "root_3_toe",
+    "face": "south",
+    "material": "root",
+    "uv": [
+      95,
+      135,
+      98,
+      137
+    ]
+  },
+  {
+    "cube": "root_3_toe",
+    "face": "east",
+    "material": "root",
+    "uv": [
+      100,
+      135,
+      103,
+      137
+    ]
+  },
+  {
+    "cube": "root_3_toe",
+    "face": "west",
+    "material": "root",
+    "uv": [
+      105,
+      135,
+      108,
+      137
+    ]
+  },
+  {
+    "cube": "root_4_toe",
+    "face": "north",
+    "material": "root",
+    "uv": [
+      110,
+      135,
+      113,
+      137
+    ]
+  },
+  {
+    "cube": "root_4_toe",
+    "face": "south",
+    "material": "root",
+    "uv": [
+      115,
+      135,
+      118,
+      137
+    ]
+  },
+  {
+    "cube": "root_4_toe",
+    "face": "east",
+    "material": "root",
+    "uv": [
+      120,
+      135,
+      123,
+      137
+    ]
+  },
+  {
+    "cube": "root_4_toe",
+    "face": "west",
+    "material": "root",
+    "uv": [
+      125,
+      135,
+      128,
+      137
+    ]
+  },
+  {
+    "cube": "root_5_toe",
+    "face": "north",
+    "material": "root",
+    "uv": [
+      130,
+      135,
+      133,
+      137
+    ]
+  },
+  {
+    "cube": "root_5_toe",
+    "face": "south",
+    "material": "root",
+    "uv": [
+      135,
+      135,
+      138,
+      137
+    ]
+  },
+  {
+    "cube": "root_5_toe",
+    "face": "east",
+    "material": "root",
+    "uv": [
+      140,
+      135,
+      143,
+      137
+    ]
+  },
+  {
+    "cube": "root_5_toe",
+    "face": "west",
+    "material": "root",
+    "uv": [
+      145,
+      135,
+      148,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_1",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      150,
+      135,
+      153,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_1",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      155,
+      135,
+      158,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_lobe_-1",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      160,
+      135,
+      163,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_lobe_-1",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      165,
+      135,
+      168,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_lobe_1",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      170,
+      135,
+      173,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_lobe_1",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      175,
+      135,
+      178,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_1",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      180,
+      135,
+      183,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_1",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      185,
+      135,
+      188,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_lobe_-1",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      190,
+      135,
+      193,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_lobe_-1",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      195,
+      135,
+      198,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_lobe_1",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      200,
+      135,
+      203,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_lobe_1",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      205,
+      135,
+      208,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_1",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      210,
+      135,
+      213,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_1",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      215,
+      135,
+      218,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_lobe_-1",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      220,
+      135,
+      223,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_lobe_-1",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      225,
+      135,
+      228,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_lobe_-1",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      230,
+      135,
+      233,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_lobe_-1",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      235,
+      135,
+      238,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_lobe_1",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      240,
+      135,
+      243,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_lobe_1",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      245,
+      135,
+      248,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_lobe_1",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      250,
+      135,
+      253,
+      137
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_lobe_1",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      1,
+      139,
+      4,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_1",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      6,
+      139,
+      9,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_1",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      11,
+      139,
+      14,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_lobe_-1",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      16,
+      139,
+      19,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_lobe_-1",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      21,
+      139,
+      24,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_lobe_1",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      26,
+      139,
+      29,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_lobe_1",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      31,
+      139,
+      34,
+      141
+    ]
+  },
+  {
+    "cube": "thorn_1_base",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      36,
+      139,
+      38,
+      141
+    ]
+  },
+  {
+    "cube": "thorn_1_base",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      40,
+      139,
+      42,
+      141
+    ]
+  },
+  {
+    "cube": "thorn_2_base",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      44,
+      139,
+      46,
+      141
+    ]
+  },
+  {
+    "cube": "thorn_2_base",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      48,
+      139,
+      50,
+      141
+    ]
+  },
+  {
+    "cube": "thorn_3_base",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      52,
+      139,
+      54,
+      141
+    ]
+  },
+  {
+    "cube": "thorn_3_base",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      56,
+      139,
+      58,
+      141
+    ]
+  },
+  {
+    "cube": "thorn_4_base",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      60,
+      139,
+      62,
+      141
+    ]
+  },
+  {
+    "cube": "thorn_4_base",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      64,
+      139,
+      66,
+      141
+    ]
+  },
+  {
+    "cube": "thorn_5_base",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      68,
+      139,
+      70,
+      141
+    ]
+  },
+  {
+    "cube": "thorn_5_base",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      72,
+      139,
+      74,
+      141
+    ]
+  },
+  {
+    "cube": "thorn_6_base",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      76,
+      139,
+      78,
+      141
+    ]
+  },
+  {
+    "cube": "thorn_6_base",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      80,
+      139,
+      82,
+      141
+    ]
+  },
+  {
+    "cube": "thorn_7_base",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      84,
+      139,
+      86,
+      141
+    ]
+  },
+  {
+    "cube": "thorn_7_base",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      88,
+      139,
+      90,
+      141
+    ]
+  },
+  {
+    "cube": "thorn_8_base",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      92,
+      139,
+      94,
+      141
+    ]
+  },
+  {
+    "cube": "thorn_8_base",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      96,
+      139,
+      98,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_segment_2",
+    "face": "up",
+    "material": "stem",
+    "uv": [
+      100,
+      139,
+      102,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_segment_2",
+    "face": "down",
+    "material": "stem",
+    "uv": [
+      104,
+      139,
+      106,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_segment_3",
+    "face": "up",
+    "material": "stem",
+    "uv": [
+      108,
+      139,
+      110,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_segment_3",
+    "face": "down",
+    "material": "stem",
+    "uv": [
+      112,
+      139,
+      114,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_6",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      116,
+      139,
+      118,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_panel_6",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      120,
+      139,
+      122,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_segment_2",
+    "face": "up",
+    "material": "stem",
+    "uv": [
+      124,
+      139,
+      126,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_segment_2",
+    "face": "down",
+    "material": "stem",
+    "uv": [
+      128,
+      139,
+      130,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_segment_3",
+    "face": "up",
+    "material": "stem",
+    "uv": [
+      132,
+      139,
+      134,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_segment_3",
+    "face": "down",
+    "material": "stem",
+    "uv": [
+      136,
+      139,
+      138,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_6",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      140,
+      139,
+      142,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_6",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      144,
+      139,
+      146,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_6",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      148,
+      139,
+      150,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_6",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      152,
+      139,
+      154,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_6",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      156,
+      139,
+      158,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_panel_6",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      160,
+      139,
+      162,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_segment_2",
+    "face": "up",
+    "material": "stem",
+    "uv": [
+      164,
+      139,
+      166,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_segment_2",
+    "face": "down",
+    "material": "stem",
+    "uv": [
+      168,
+      139,
+      170,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_segment_3",
+    "face": "up",
+    "material": "stem",
+    "uv": [
+      172,
+      139,
+      174,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_segment_3",
+    "face": "down",
+    "material": "stem",
+    "uv": [
+      176,
+      139,
+      178,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_6",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      180,
+      139,
+      182,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_6",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      184,
+      139,
+      186,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_6",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      188,
+      139,
+      190,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_6",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      192,
+      139,
+      194,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_6",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      196,
+      139,
+      198,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_panel_6",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      200,
+      139,
+      202,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_lobe_-1",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      204,
+      139,
+      206,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_lobe_-1",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      208,
+      139,
+      210,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_lobe_1",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      212,
+      139,
+      214,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_lobe_1",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      216,
+      139,
+      218,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_segment_2",
+    "face": "up",
+    "material": "stem",
+    "uv": [
+      220,
+      139,
+      222,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_segment_2",
+    "face": "down",
+    "material": "stem",
+    "uv": [
+      224,
+      139,
+      226,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_segment_3",
+    "face": "up",
+    "material": "stem",
+    "uv": [
+      228,
+      139,
+      230,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_segment_3",
+    "face": "down",
+    "material": "stem",
+    "uv": [
+      232,
+      139,
+      234,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_6",
+    "face": "north",
+    "material": "leaf",
+    "uv": [
+      236,
+      139,
+      238,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_6",
+    "face": "south",
+    "material": "leaf",
+    "uv": [
+      240,
+      139,
+      242,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_6",
+    "face": "east",
+    "material": "leaf",
+    "uv": [
+      244,
+      139,
+      246,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_6",
+    "face": "west",
+    "material": "leaf",
+    "uv": [
+      248,
+      139,
+      250,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_6",
+    "face": "up",
+    "material": "leaf",
+    "uv": [
+      252,
+      139,
+      254,
+      141
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_panel_6",
+    "face": "down",
+    "material": "leaf",
+    "uv": [
+      1,
+      143,
+      3,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_1_tip",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      5,
+      143,
+      6,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_1_tip",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      8,
+      143,
+      9,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_1_tip",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      11,
+      143,
+      12,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_1_tip",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      14,
+      143,
+      15,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_2_tip",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      17,
+      143,
+      18,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_2_tip",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      20,
+      143,
+      21,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_2_tip",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      23,
+      143,
+      24,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_2_tip",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      26,
+      143,
+      27,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_3_tip",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      29,
+      143,
+      30,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_3_tip",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      32,
+      143,
+      33,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_3_tip",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      35,
+      143,
+      36,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_3_tip",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      38,
+      143,
+      39,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_4_tip",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      41,
+      143,
+      42,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_4_tip",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      44,
+      143,
+      45,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_4_tip",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      47,
+      143,
+      48,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_4_tip",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      50,
+      143,
+      51,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_5_tip",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      53,
+      143,
+      54,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_5_tip",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      56,
+      143,
+      57,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_5_tip",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      59,
+      143,
+      60,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_5_tip",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      62,
+      143,
+      63,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_6_tip",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      65,
+      143,
+      66,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_6_tip",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      68,
+      143,
+      69,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_6_tip",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      71,
+      143,
+      72,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_6_tip",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      74,
+      143,
+      75,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_7_tip",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      77,
+      143,
+      78,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_7_tip",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      80,
+      143,
+      81,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_7_tip",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      83,
+      143,
+      84,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_7_tip",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      86,
+      143,
+      87,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_8_tip",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      89,
+      143,
+      90,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_8_tip",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      92,
+      143,
+      93,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_8_tip",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      95,
+      143,
+      96,
+      145
+    ]
+  },
+  {
+    "cube": "thorn_8_tip",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      98,
+      143,
+      99,
+      145
+    ]
+  },
+  {
+    "cube": "mouth_cavity_floor",
+    "face": "north",
+    "material": "inner",
+    "uv": [
+      101,
+      143,
+      119,
+      144
+    ]
+  },
+  {
+    "cube": "mouth_cavity_floor",
+    "face": "south",
+    "material": "inner",
+    "uv": [
+      121,
+      143,
+      139,
+      144
+    ]
+  },
+  {
+    "cube": "mouth_cavity_floor",
+    "face": "east",
+    "material": "inner",
+    "uv": [
+      141,
+      143,
+      155,
+      144
+    ]
+  },
+  {
+    "cube": "mouth_cavity_floor",
+    "face": "west",
+    "material": "inner",
+    "uv": [
+      157,
+      143,
+      171,
+      144
+    ]
+  },
+  {
+    "cube": "thorn_1_tip",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      173,
+      143,
+      174,
+      144
+    ]
+  },
+  {
+    "cube": "thorn_1_tip",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      176,
+      143,
+      177,
+      144
+    ]
+  },
+  {
+    "cube": "thorn_2_tip",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      179,
+      143,
+      180,
+      144
+    ]
+  },
+  {
+    "cube": "thorn_2_tip",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      182,
+      143,
+      183,
+      144
+    ]
+  },
+  {
+    "cube": "thorn_3_tip",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      185,
+      143,
+      186,
+      144
+    ]
+  },
+  {
+    "cube": "thorn_3_tip",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      188,
+      143,
+      189,
+      144
+    ]
+  },
+  {
+    "cube": "thorn_4_tip",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      191,
+      143,
+      192,
+      144
+    ]
+  },
+  {
+    "cube": "thorn_4_tip",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      194,
+      143,
+      195,
+      144
+    ]
+  },
+  {
+    "cube": "thorn_5_tip",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      197,
+      143,
+      198,
+      144
+    ]
+  },
+  {
+    "cube": "thorn_5_tip",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      200,
+      143,
+      201,
+      144
+    ]
+  },
+  {
+    "cube": "thorn_6_tip",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      203,
+      143,
+      204,
+      144
+    ]
+  },
+  {
+    "cube": "thorn_6_tip",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      206,
+      143,
+      207,
+      144
+    ]
+  },
+  {
+    "cube": "thorn_7_tip",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      209,
+      143,
+      210,
+      144
+    ]
+  },
+  {
+    "cube": "thorn_7_tip",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      212,
+      143,
+      213,
+      144
+    ]
+  },
+  {
+    "cube": "thorn_8_tip",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      215,
+      143,
+      216,
+      144
+    ]
+  },
+  {
+    "cube": "thorn_8_tip",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      218,
+      143,
+      219,
+      144
+    ]
+  },
+  {
+    "cube": "hood_center_vein",
+    "face": "up",
+    "material": "gold_vein",
+    "uv": [
+      221,
+      143,
+      222,
+      144
+    ]
+  },
+  {
+    "cube": "hood_center_vein",
+    "face": "down",
+    "material": "gold_vein",
+    "uv": [
+      224,
+      143,
+      225,
+      144
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_midrib",
+    "face": "up",
+    "material": "gold_vein",
+    "uv": [
+      227,
+      143,
+      228,
+      144
+    ]
+  },
+  {
+    "cube": "back_stem_left_outer_leaf_midrib",
+    "face": "down",
+    "material": "gold_vein",
+    "uv": [
+      230,
+      143,
+      231,
+      144
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_midrib",
+    "face": "up",
+    "material": "gold_vein",
+    "uv": [
+      233,
+      143,
+      234,
+      144
+    ]
+  },
+  {
+    "cube": "back_stem_right_outer_leaf_midrib",
+    "face": "down",
+    "material": "gold_vein",
+    "uv": [
+      236,
+      143,
+      237,
+      144
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_midrib",
+    "face": "up",
+    "material": "gold_vein",
+    "uv": [
+      239,
+      143,
+      240,
+      144
+    ]
+  },
+  {
+    "cube": "back_stem_left_inner_leaf_midrib",
+    "face": "down",
+    "material": "gold_vein",
+    "uv": [
+      242,
+      143,
+      243,
+      144
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_midrib",
+    "face": "up",
+    "material": "gold_vein",
+    "uv": [
+      245,
+      143,
+      246,
+      144
+    ]
+  },
+  {
+    "cube": "back_stem_right_inner_leaf_midrib",
+    "face": "down",
+    "material": "gold_vein",
+    "uv": [
+      248,
+      143,
+      249,
+      144
+    ]
+  }
+]

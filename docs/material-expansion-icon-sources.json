@@ -1,0 +1,630 @@
+{
+  "retrieved_on": "2026-11-13",
+  "notes": "22 material items. Sturdy Ingot excluded. 16 database cutouts and 6 original generated icons. Items and seeds are inventory materials only; recipes, planting and growth are deferred. Thunderstruck Log uses the global database icon named Thunderstruck Tree.",
+  "items": [
+    {
+      "id": "cotton_seeds",
+      "name": "Cotton Seeds",
+      "category": "Plants and crops",
+      "database_name": "Cotton Seed",
+      "database_id": 4904,
+      "page_url": "https://archeagecodex.com/us/item/4904/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0572.png",
+      "original_path": "build/material-expansion-originals/cotton_seeds.png",
+      "original_sha256": "7194c3a49f302111713842761d5f97767c43fab3d0b2e8fea9aa1df1396fd985",
+      "source_type": "database_icon",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/cotton_seeds.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/cotton_seeds.json",
+      "dimensions": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "1db9c5c888f1327d9a42937ab4bff745b3fbe1b0973cbf32ef3503059be3cde8",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "prompt": "Use case: background-extraction. Edit target: the supplied original 48x48 ArcheAge inventory icon for Cotton Seeds (database name Cotton Seed). Extract the complete foreground inventory item, including all separate fragments and attached close magical accents if present. Remove ONLY the dark square background, broad backdrop haze and cast shadow; replace with genuine transparent PNG alpha. Preserve the original object artwork, colors, silhouette, internal details, pixel style, orientation, relative size, position and margins on its square canvas. This is a cutout, not a redesign. No added shapes, text, frame, checkerboard, replacement background or watermark. Output original 48x48 if possible.",
+        "transparent_background": true,
+        "master_backup_path": "build/material-expansion-masters/cotton_seeds.png",
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving generated alpha."
+      }
+    },
+    {
+      "id": "azalea",
+      "name": "Azalea",
+      "category": "Plants and crops",
+      "database_name": "Azalea",
+      "database_id": 3684,
+      "page_url": "https://archeagecodex.com/us/item/3684/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0030.png",
+      "original_path": "build/material-expansion-originals/azalea.png",
+      "original_sha256": "79e137ac526438c94510ab085bea52709db67b227c95e8b92a71d0c43da0db2b",
+      "source_type": "database_icon",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/azalea.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/azalea.json",
+      "dimensions": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "cd311805bc3142ba74b956981dafc8d431dce25d1a811dce4708cf2743bbf574",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "prompt": "Use case: background-extraction. Edit target: the supplied original 48x48 ArcheAge inventory icon for Azalea (database name Azalea). Extract the complete foreground inventory item, including all separate fragments and attached close magical accents if present. Remove ONLY the dark square background, broad backdrop haze and cast shadow; replace with genuine transparent PNG alpha. Preserve the original object artwork, colors, silhouette, internal details, pixel style, orientation, relative size, position and margins on its square canvas. This is a cutout, not a redesign. No added shapes, text, frame, checkerboard, replacement background or watermark. Output original 48x48 if possible.",
+        "transparent_background": true,
+        "master_backup_path": "build/material-expansion-masters/azalea.png",
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving generated alpha."
+      }
+    },
+    {
+      "id": "narcissus",
+      "name": "Narcissus",
+      "category": "Plants and crops",
+      "database_name": "Narcissus",
+      "database_id": 3667,
+      "page_url": "https://archeagecodex.com/us/item/3667/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0582.png",
+      "original_path": "build/material-expansion-originals/narcissus.png",
+      "original_sha256": "83d4e45951e5ae8934390fcc42c2d4df91d6e2a09bad5ecb900f26e122e79402",
+      "source_type": "database_icon",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/narcissus.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/narcissus.json",
+      "dimensions": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "cea641f6abfaaf1fb66116d141630b9c18bf194a786093afe8a1fbe7de2d8433",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "prompt": "Use case: background-extraction. Edit target: the supplied original 48x48 ArcheAge inventory icon for Narcissus (database name Narcissus). Extract the complete foreground inventory item, including all separate fragments and attached close magical accents if present. Remove ONLY the dark square background, broad backdrop haze and cast shadow; replace with genuine transparent PNG alpha. Preserve the original object artwork, colors, silhouette, internal details, pixel style, orientation, relative size, position and margins on its square canvas. This is a cutout, not a redesign. No added shapes, text, frame, checkerboard, replacement background or watermark. Output original 48x48 if possible.",
+        "transparent_background": true,
+        "master_backup_path": "build/material-expansion-masters/narcissus.png",
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving generated alpha."
+      }
+    },
+    {
+      "id": "lily",
+      "name": "Lily",
+      "category": "Plants and crops",
+      "database_name": "Lily",
+      "database_id": 3564,
+      "page_url": "https://archeagecodex.com/us/item/3564/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0575.png",
+      "original_path": "build/material-expansion-originals/lily.png",
+      "original_sha256": "b56686036bed97a4463d133bd9e4c20d1a0d7ba213f74046b4e28d4ae273ab0e",
+      "source_type": "database_icon",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/lily.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/lily.json",
+      "dimensions": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "74488f44954de8250195accb8818374ce250d095c0aff8f4282d0a8478197de1",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "prompt": "Use case: background-extraction. Edit target: the supplied original 48x48 ArcheAge inventory icon for Lily (database name Lily). Extract the complete foreground inventory item, including all separate fragments and attached close magical accents if present. Remove ONLY the dark square background, broad backdrop haze and cast shadow; replace with genuine transparent PNG alpha. Preserve the original object artwork, colors, silhouette, internal details, pixel style, orientation, relative size, position and margins on its square canvas. This is a cutout, not a redesign. No added shapes, text, frame, checkerboard, replacement background or watermark. Output original 48x48 if possible.",
+        "transparent_background": true,
+        "master_backup_path": "build/material-expansion-masters/lily.png",
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving generated alpha."
+      }
+    },
+    {
+      "id": "lotus",
+      "name": "Lotus",
+      "category": "Plants and crops",
+      "database_name": "Lotus",
+      "database_id": 3671,
+      "page_url": "https://archeagecodex.com/us/item/3671/",
+      "image_url": "https://archeagecodex.com/items/quest/icon_item_quest168.png",
+      "original_path": "build/material-expansion-originals/lotus.png",
+      "original_sha256": "c51dce7fe42817d966c4d81ac666c3ccb7105d2e4e39c8a4cba25e4749df1036",
+      "source_type": "database_icon",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/lotus.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/lotus.json",
+      "dimensions": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "sha256": "4f13b0003c578abf20fe7f91f44c9fe2f1eff407db29903b38b98e80518a36de",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "prompt": "Use case: background-extraction. Edit target: the supplied original 48x48 ArcheAge inventory icon for Lotus (database name Lotus). Extract the complete foreground inventory item, including all separate fragments and attached close magical accents if present. Remove ONLY the dark square background, broad backdrop haze and cast shadow; replace with genuine transparent PNG alpha. Preserve the original object artwork, colors, silhouette, internal details, pixel style, orientation, relative size, position and margins on its square canvas. This is a cutout, not a redesign. No added shapes, text, frame, checkerboard, replacement background or watermark. Output original 48x48 if possible.",
+        "transparent_background": true,
+        "master_backup_path": "build/material-expansion-masters/lotus.png",
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving generated alpha."
+      }
+    },
+    {
+      "id": "lavender",
+      "name": "Lavender",
+      "category": "Plants and crops",
+      "database_name": "Lavender",
+      "database_id": 3627,
+      "page_url": "https://archeagecodex.com/us/item/3627/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0148.png",
+      "original_path": "build/material-expansion-originals/lavender.png",
+      "original_sha256": "5f85f7f8eb15d92e520582dd9435c62f06c898ca7fc8857933496d54ace7ad26",
+      "source_type": "database_icon",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/lavender.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/lavender.json",
+      "dimensions": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "8c68f16c942c04d61cc73863719bc22a1548a7b3d08e52641e9b9cbef0872a3e",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "prompt": "Use case: background-extraction. Edit target: the supplied original 48x48 ArcheAge inventory icon for Lavender (database name Lavender). Extract the complete foreground inventory item, including all separate fragments and attached close magical accents if present. Remove ONLY the dark square background, broad backdrop haze and cast shadow; replace with genuine transparent PNG alpha. Preserve the original object artwork, colors, silhouette, internal details, pixel style, orientation, relative size, position and margins on its square canvas. This is a cutout, not a redesign. No added shapes, text, frame, checkerboard, replacement background or watermark. Output original 48x48 if possible.",
+        "transparent_background": true,
+        "master_backup_path": "build/material-expansion-masters/lavender.png",
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving generated alpha."
+      }
+    },
+    {
+      "id": "rice",
+      "name": "Rice",
+      "category": "Plants and crops",
+      "database_name": "Rice",
+      "database_id": 784,
+      "page_url": "https://archeagecodex.com/us/item/784/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0115.png",
+      "original_path": "build/material-expansion-originals/rice.png",
+      "original_sha256": "3ae31d44e109314ddb8299d9ed938eccde76461d3d4f5f65e25124294afe4f25",
+      "source_type": "database_icon",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/rice.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/rice.json",
+      "dimensions": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "f70441e3122a02d789b6e71f4082cbbcc4f5c1867a848dbd8cf5a894706d8d14",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "prompt": "Use case: background-extraction. Edit target: the supplied original 48x48 ArcheAge inventory icon for Rice (database name Rice). Extract the complete foreground inventory item, including all separate fragments and attached close magical accents if present. Remove ONLY the dark square background, broad backdrop haze and cast shadow; replace with genuine transparent PNG alpha. Preserve the original object artwork, colors, silhouette, internal details, pixel style, orientation, relative size, position and margins on its square canvas. This is a cutout, not a redesign. No added shapes, text, frame, checkerboard, replacement background or watermark. Output original 48x48 if possible.",
+        "transparent_background": true,
+        "master_backup_path": "build/material-expansion-masters/rice.png",
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving generated alpha."
+      }
+    },
+    {
+      "id": "rice_seeds",
+      "name": "Rice Seeds",
+      "category": "Plants and crops",
+      "database_name": "Rice Seed",
+      "database_id": 15646,
+      "page_url": "https://archeagecodex.com/us/item/15646/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0115.png",
+      "original_path": "build/material-expansion-originals/rice_seeds.png",
+      "original_sha256": "3ae31d44e109314ddb8299d9ed938eccde76461d3d4f5f65e25124294afe4f25",
+      "source_type": "database_icon",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/rice_seeds.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/rice_seeds.json",
+      "dimensions": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "f90c867b93e87c26ac5366429c8bfe1ca77e09acac68fe770235cd504465fc05",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "prompt": "Use case: background-extraction. Edit target: the supplied original 48x48 ArcheAge inventory icon for Rice Seeds (database name Rice Seed). Extract the complete foreground inventory item, including all separate fragments and attached close magical accents if present. Remove ONLY the dark square background, broad backdrop haze and cast shadow; replace with genuine transparent PNG alpha. Preserve the original object artwork, colors, silhouette, internal details, pixel style, orientation, relative size, position and margins on its square canvas. This is a cutout, not a redesign. No added shapes, text, frame, checkerboard, replacement background or watermark. Output original 48x48 if possible.",
+        "transparent_background": true,
+        "master_backup_path": "build/material-expansion-masters/rice_seeds.png",
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving generated alpha."
+      }
+    },
+    {
+      "id": "corn",
+      "name": "Corn",
+      "category": "Plants and crops",
+      "database_name": "Corn",
+      "database_id": 8013,
+      "page_url": "https://archeagecodex.com/us/item/8013/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0120.png",
+      "original_path": "build/material-expansion-originals/corn.png",
+      "original_sha256": "cb59450a5eb2e5a48311f77081995cbe1c2ec7c1767fc8eb3bf634c26e936e6b",
+      "source_type": "database_icon",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/corn.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/corn.json",
+      "dimensions": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "449de3b960ab7eec81630cdfddc15e125834b96509090a071477352a01b4df29",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "prompt": "Use case: background-extraction. Edit target: the supplied original 48x48 ArcheAge inventory icon for Corn (database name Corn). Extract the complete foreground inventory item, including all separate fragments and attached close magical accents if present. Remove ONLY the dark square background, broad backdrop haze and cast shadow; replace with genuine transparent PNG alpha. Preserve the original object artwork, colors, silhouette, internal details, pixel style, orientation, relative size, position and margins on its square canvas. This is a cutout, not a redesign. No added shapes, text, frame, checkerboard, replacement background or watermark. Output original 48x48 if possible.",
+        "transparent_background": true,
+        "master_backup_path": "build/material-expansion-masters/corn.png",
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving generated alpha."
+      }
+    },
+    {
+      "id": "corn_seeds",
+      "name": "Corn Seeds",
+      "category": "Plants and crops",
+      "database_name": "Corn Seed",
+      "database_id": 15653,
+      "page_url": "https://archeagecodex.com/us/item/15653/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0120.png",
+      "original_path": "build/material-expansion-originals/corn_seeds.png",
+      "original_sha256": "cb59450a5eb2e5a48311f77081995cbe1c2ec7c1767fc8eb3bf634c26e936e6b",
+      "source_type": "database_icon",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/corn_seeds.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/corn_seeds.json",
+      "dimensions": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "2acd31adb3b4a571eea9f5a2c9e2bd58fcc3894f4ad47232ffbecd0ffab97b5c",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "prompt": "Use case: background-extraction. Edit target: the supplied original 48x48 ArcheAge inventory icon for Corn Seeds (database name Corn Seed). Extract the complete foreground inventory item, including all separate fragments and attached close magical accents if present. Remove ONLY the dark square background, broad backdrop haze and cast shadow; replace with genuine transparent PNG alpha. Preserve the original object artwork, colors, silhouette, internal details, pixel style, orientation, relative size, position and margins on its square canvas. This is a cutout, not a redesign. No added shapes, text, frame, checkerboard, replacement background or watermark. Output original 48x48 if possible.",
+        "transparent_background": true,
+        "master_backup_path": "build/material-expansion-masters/corn_seeds.png",
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving generated alpha."
+      }
+    },
+    {
+      "id": "barley",
+      "name": "Barley",
+      "category": "Plants and crops",
+      "database_name": "Barley",
+      "database_id": 8005,
+      "page_url": "https://archeagecodex.com/us/item/8005/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0117.png",
+      "original_path": "build/material-expansion-originals/barley.png",
+      "original_sha256": "4928d4e23bc67a9f15317aed6e93453c715763b44972f4c0b60ff911159352cc",
+      "source_type": "database_icon",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/barley.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/barley.json",
+      "dimensions": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "sha256": "508a74ccc4bcbf76f9e530d5f9cdec58274c147349f6a3b66d715b34a2abac7f",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "prompt": "Use case: background-extraction. Edit target: the supplied original 48x48 ArcheAge inventory icon for Barley (database name Barley). Extract the complete foreground inventory item, including all separate fragments and attached close magical accents if present. Remove ONLY the dark square background, broad backdrop haze and cast shadow; replace with genuine transparent PNG alpha. Preserve the original object artwork, colors, silhouette, internal details, pixel style, orientation, relative size, position and margins on its square canvas. This is a cutout, not a redesign. No added shapes, text, frame, checkerboard, replacement background or watermark. Output original 48x48 if possible.",
+        "transparent_background": true,
+        "master_backup_path": "build/material-expansion-masters/barley.png",
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving generated alpha."
+      }
+    },
+    {
+      "id": "barley_seeds",
+      "name": "Barley Seeds",
+      "category": "Plants and crops",
+      "database_name": "Barley Seed",
+      "database_id": 15652,
+      "page_url": "https://archeagecodex.com/us/item/15652/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0117.png",
+      "original_path": "build/material-expansion-originals/barley_seeds.png",
+      "original_sha256": "4928d4e23bc67a9f15317aed6e93453c715763b44972f4c0b60ff911159352cc",
+      "source_type": "database_icon",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/barley_seeds.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/barley_seeds.json",
+      "dimensions": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "sha256": "f3994a464e19eea67f765b803247acdd40a72a3b1d1d9e86b6af8675fba185c5",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "prompt": "Use case: background-extraction. Edit target: the supplied original 48x48 ArcheAge inventory icon for Barley Seeds (database name Barley Seed). Extract the complete foreground inventory item, including all separate fragments and attached close magical accents if present. Remove ONLY the dark square background, broad backdrop haze and cast shadow; replace with genuine transparent PNG alpha. Preserve the original object artwork, colors, silhouette, internal details, pixel style, orientation, relative size, position and margins on its square canvas. This is a cutout, not a redesign. No added shapes, text, frame, checkerboard, replacement background or watermark. Output original 48x48 if possible.",
+        "transparent_background": true,
+        "master_backup_path": "build/material-expansion-masters/barley_seeds.png",
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving generated alpha."
+      }
+    },
+    {
+      "id": "thunderstruck_log",
+      "name": "Thunderstruck Log",
+      "category": "Special materials",
+      "database_name": "Thunderstruck Tree",
+      "database_id": 15709,
+      "page_url": "https://archeagecodex.com/us/item/15709/",
+      "image_url": "https://archeagecodex.com/items/icon_item_0856.png",
+      "original_path": "build/material-expansion-originals/thunderstruck_log.png",
+      "original_sha256": "c2e8c3c293e6428d6f29df7cf06264ff28e4e9e606c48fec476e4c64b4fcbae4",
+      "source_type": "database_icon",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/thunderstruck_log.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/thunderstruck_log.json",
+      "dimensions": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "sha256": "9d34eb11c318ae7377c0d91d1ae9590e9c2d2f603e5218bd42cdd93de1a4b35a",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "prompt": "Use case: background-extraction. Edit target: the supplied original 48x48 ArcheAge inventory icon for Thunderstruck Log (database name Thunderstruck Tree). Extract the complete foreground inventory item, including all separate fragments and attached close magical accents if present. Remove ONLY the dark square background, broad backdrop haze and cast shadow; replace with genuine transparent PNG alpha. Preserve the original object artwork, colors, silhouette, internal details, pixel style, orientation, relative size, position and margins on its square canvas. This is a cutout, not a redesign. No added shapes, text, frame, checkerboard, replacement background or watermark. Output original 48x48 if possible.",
+        "transparent_background": true,
+        "master_backup_path": "build/material-expansion-masters/thunderstruck_log.png",
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving generated alpha."
+      }
+    },
+    {
+      "id": "onyx_archeum_essence",
+      "name": "Onyx Archeum Essence",
+      "category": "Special materials",
+      "database_name": "Onyx Archeum Essence",
+      "database_id": 32103,
+      "page_url": "https://archeagecodex.com/us/item/32103/",
+      "image_url": "https://archeagecodex.com/items/icon_item_4457.png",
+      "original_path": "build/material-expansion-originals/onyx_archeum_essence.png",
+      "original_sha256": "e39b659c000531d9516fd9de15348eafb0345268c91fe47a18338e145c816d11",
+      "source_type": "database_icon",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/onyx_archeum_essence.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/onyx_archeum_essence.json",
+      "dimensions": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "sha256": "1f568667c626a85d5d8af6c23280591c370750a7ecdd7981ceab073b860fa265",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "prompt": "Use case: background-extraction. Edit target: the supplied original 48x48 ArcheAge inventory icon for Onyx Archeum Essence (database name Onyx Archeum Essence). Extract the complete foreground inventory item, including all separate fragments and attached close magical accents if present. Remove ONLY the dark square background, broad backdrop haze and cast shadow; replace with genuine transparent PNG alpha. Preserve the original object artwork, colors, silhouette, internal details, pixel style, orientation, relative size, position and margins on its square canvas. This is a cutout, not a redesign. No added shapes, text, frame, checkerboard, replacement background or watermark. Output original 48x48 if possible.",
+        "transparent_background": true,
+        "master_backup_path": "build/material-expansion-masters/onyx_archeum_essence.png",
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving generated alpha."
+      }
+    },
+    {
+      "id": "dawn_lake_light_essence",
+      "name": "Dawn Lake Light Essence",
+      "category": "Special materials",
+      "database_name": "Dawn Lake Light Essence",
+      "database_id": 28175,
+      "page_url": "https://archeagecodex.com/us/item/28175/",
+      "image_url": "https://archeagecodex.com/items/icon_item_1237.png",
+      "original_path": "build/material-expansion-originals/dawn_lake_light_essence.png",
+      "original_sha256": "6a925e787a5a8d54e93667464af069fbb03a45199ae9ccc316848df8368f0944",
+      "source_type": "database_icon",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/dawn_lake_light_essence.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/dawn_lake_light_essence.json",
+      "dimensions": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "afc772ce9944ae4ecd9ec19db50e3ef6510ec91b2ea800ff7489854621eade8b",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "prompt": "Use case: background-extraction. Edit target: the supplied original 48x48 ArcheAge inventory icon for Dawn Lake Light Essence (database name Dawn Lake Light Essence). Extract the complete foreground inventory item, including all separate fragments and attached close magical accents if present. Remove ONLY the dark square background, broad backdrop haze and cast shadow; replace with genuine transparent PNG alpha. Preserve the original object artwork, colors, silhouette, internal details, pixel style, orientation, relative size, position and margins on its square canvas. This is a cutout, not a redesign. No added shapes, text, frame, checkerboard, replacement background or watermark. Output original 48x48 if possible.",
+        "transparent_background": true,
+        "master_backup_path": "build/material-expansion-masters/dawn_lake_light_essence.png",
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving generated alpha."
+      }
+    },
+    {
+      "id": "wooden_handle",
+      "name": "Wooden Handle",
+      "category": "Equipment components",
+      "source_type": "original_generated_icon",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/wooden_handle.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/wooden_handle.json",
+      "dimensions": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "sha256": "3ce1fd7db4a06272ca0cb4e2cd85e88df12d133a3fd3ef827834f55293bcb91d",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "prompt": "Use case: game-asset. Create one inventory sprite for the Minecraft mod ArcheCraft: Wooden Handle. Subject: one short smoothly carved warm brown wooden tool handle with a shaped grip, diagonal from lower left to upper right. Style: old-school fantasy RPG inventory artwork, a compact hand-painted 48x48 pixel icon with crisp pixel clusters, muted natural colors, subtle upper-left highlights and dark readable outlines, matching classic ArcheAge crafting-material icons. One complete isolated item only, centered on a square canvas with a small even transparent margin, readable at 48x48. If rendered on a larger canvas, keep the artwork at an effective 48x48 pixel grid with sharp pixel edges. Genuine transparent PNG background, no scene, square backing, cast shadow outside the object, text, border, checkerboard or watermark.",
+        "transparent_background": true,
+        "master_backup_path": "build/material-expansion-masters/wooden_handle.png",
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving generated alpha."
+      }
+    },
+    {
+      "id": "wooden_shaft",
+      "name": "Wooden Shaft",
+      "category": "Equipment components",
+      "source_type": "original_generated_icon",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/wooden_shaft.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/wooden_shaft.json",
+      "dimensions": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "c0f1383ce4d9652e506c0d8572dcb5425bcc4217f29306ccde7e7614e24bc812",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "prompt": "Use case: game-asset. Create one inventory sprite for the Minecraft mod ArcheCraft: Wooden Shaft. Subject: one long slender straight pale brown wooden shaft with rounded ends, diagonal from lower left to upper right; clearly thinner and longer than a tool grip. Style: old-school fantasy RPG inventory artwork, a compact hand-painted 48x48 pixel icon with crisp pixel clusters, muted natural colors, subtle upper-left highlights and dark readable outlines, matching classic ArcheAge crafting-material icons. One complete isolated item only, centered on a square canvas with a small even transparent margin, readable at 48x48. If rendered on a larger canvas, keep the artwork at an effective 48x48 pixel grid with sharp pixel edges. Genuine transparent PNG background, no scene, square backing, cast shadow outside the object, text, border, checkerboard or watermark.",
+        "transparent_background": true,
+        "master_backup_path": "build/material-expansion-masters/wooden_shaft.png",
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving generated alpha."
+      }
+    },
+    {
+      "id": "leather_strip",
+      "name": "Leather Strip",
+      "category": "Equipment components",
+      "source_type": "original_generated_icon",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/leather_strip.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/leather_strip.json",
+      "dimensions": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "d78eb10c69951189b1b1e71cb5ee34f1a6afcecfe89320080fd496bf39a5dde6",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "prompt": "Use case: game-asset. Create one inventory sprite for the Minecraft mod ArcheCraft: Leather Strip. Subject: one narrow reddish brown leather strap curled into a loose S shape, visible cut leather edges. Style: old-school fantasy RPG inventory artwork, a compact hand-painted 48x48 pixel icon with crisp pixel clusters, muted natural colors, subtle upper-left highlights and dark readable outlines, matching classic ArcheAge crafting-material icons. One complete isolated item only, centered on a square canvas with a small even transparent margin, readable at 48x48. If rendered on a larger canvas, keep the artwork at an effective 48x48 pixel grid with sharp pixel edges. Genuine transparent PNG background, no scene, square backing, cast shadow outside the object, text, border, checkerboard or watermark.",
+        "transparent_background": true,
+        "master_backup_path": "build/material-expansion-masters/leather_strip.png",
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving generated alpha."
+      }
+    },
+    {
+      "id": "cloth_padding",
+      "name": "Cloth Padding",
+      "category": "Equipment components",
+      "source_type": "original_generated_icon",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/cloth_padding.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/cloth_padding.json",
+      "dimensions": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "sha256": "1c547dd2ce97736a7968dde05845e7ad9c6961a85930b6f8cd312cedfb6758fc",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "prompt": "Use case: game-asset. Create one inventory sprite for the Minecraft mod ArcheCraft: Cloth Padding. Subject: one small folded square of thick cream quilted cloth padding, stitched border, soft layered edges. Style: old-school fantasy RPG inventory artwork, a compact hand-painted 48x48 pixel icon with crisp pixel clusters, muted natural colors, subtle upper-left highlights and dark readable outlines, matching classic ArcheAge crafting-material icons. One complete isolated item only, centered on a square canvas with a small even transparent margin, readable at 48x48. If rendered on a larger canvas, keep the artwork at an effective 48x48 pixel grid with sharp pixel edges. Genuine transparent PNG background, no scene, square backing, cast shadow outside the object, text, border, checkerboard or watermark.",
+        "transparent_background": true,
+        "master_backup_path": "build/material-expansion-masters/cloth_padding.png",
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving generated alpha."
+      }
+    },
+    {
+      "id": "rope",
+      "name": "Rope",
+      "category": "Equipment components",
+      "database_name": "Rope",
+      "database_id": 5086,
+      "page_url": "https://archeagecodex.com/us/item/5086/",
+      "image_url": "https://archeagecodex.com/items/quest/icon_item_quest067.png",
+      "original_path": "build/material-expansion-originals/rope.png",
+      "original_sha256": "4ca16338afe2fa003ad48e0d63b5911295c57fa755380242b0eb77423f1773be",
+      "source_type": "database_icon",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/rope.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/rope.json",
+      "dimensions": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "sha256": "3bbf150d339e893571909e9b0cabbe4eb6ca7f9133f92531b7852e106203a936",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "prompt": "Use case: background-extraction. Edit target: the supplied original 48x48 ArcheAge inventory icon for Rope (database name Rope). Extract the complete foreground inventory item, including all separate fragments and attached close magical accents if present. Remove ONLY the dark square background, broad backdrop haze and cast shadow; replace with genuine transparent PNG alpha. Preserve the original object artwork, colors, silhouette, internal details, pixel style, orientation, relative size, position and margins on its square canvas. This is a cutout, not a redesign. No added shapes, text, frame, checkerboard, replacement background or watermark. Output original 48x48 if possible.",
+        "transparent_background": true,
+        "master_backup_path": "build/material-expansion-masters/rope.png",
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving generated alpha."
+      }
+    },
+    {
+      "id": "metal_plate",
+      "name": "Metal Plate",
+      "category": "Equipment components",
+      "source_type": "original_generated_icon",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/metal_plate.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/metal_plate.json",
+      "dimensions": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "sha256": "5d7f32e3b31c47168eb9ee12e9122cb0d2d170b60c31a391b34051df07a0cb53",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "prompt": "Use case: game-asset. Create one inventory sprite for the Minecraft mod ArcheCraft: Metal Plate. Subject: one rectangular dull silver steel plate viewed at a slight angle, beveled corners and subtle worn highlights. Style: old-school fantasy RPG inventory artwork, a compact hand-painted 48x48 pixel icon with crisp pixel clusters, muted natural colors, subtle upper-left highlights and dark readable outlines, matching classic ArcheAge crafting-material icons. One complete isolated item only, centered on a square canvas with a small even transparent margin, readable at 48x48. If rendered on a larger canvas, keep the artwork at an effective 48x48 pixel grid with sharp pixel edges. Genuine transparent PNG background, no scene, square backing, cast shadow outside the object, text, border, checkerboard or watermark.",
+        "transparent_background": true,
+        "master_backup_path": "build/material-expansion-masters/metal_plate.png",
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving generated alpha."
+      }
+    },
+    {
+      "id": "rivet",
+      "name": "Rivet",
+      "category": "Equipment components",
+      "source_type": "original_generated_icon",
+      "texture_path": "src/main/resources/assets/archecraft/textures/item/rivet.png",
+      "model_path": "src/main/resources/assets/archecraft/models/item/rivet.json",
+      "dimensions": [
+        48,
+        48
+      ],
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "sha256": "f43e78f8c207d990000f13723d1b8fc69350ce352196717fee4110f055ba7383",
+      "image_processing": {
+        "tool": "built-in image_gen",
+        "prompt": "Use case: game-asset. Create one inventory sprite for the Minecraft mod ArcheCraft: Rivet. Subject: one short dark steel rivet with a rounded mushroom head and a narrow shaft, viewed diagonally. Style: old-school fantasy RPG inventory artwork, a compact hand-painted 48x48 pixel icon with crisp pixel clusters, muted natural colors, subtle upper-left highlights and dark readable outlines, matching classic ArcheAge crafting-material icons. One complete isolated item only, centered on a square canvas with a small even transparent margin, readable at 48x48. If rendered on a larger canvas, keep the artwork at an effective 48x48 pixel grid with sharp pixel edges. Genuine transparent PNG background, no scene, square backing, cast shadow outside the object, text, border, checkerboard or watermark.",
+        "transparent_background": true,
+        "master_backup_path": "build/material-expansion-masters/rivet.png",
+        "postprocess": "Nearest-neighbor downscale to 48x48, preserving generated alpha."
+      }
+    }
+  ]
+}

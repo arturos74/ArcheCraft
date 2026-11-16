@@ -1,0 +1,12 @@
+{
+  "female_source": "art/models/yata/yata.bbmodel",
+  "female_source_sha256": "520d61da71d5268bba15a70a57b30fac2fb4dc5b16335efa422aeb078934b1eb",
+  "male_only": true,
+  "variant": "black",
+  "variant_scale": 1.3,
+  "cuboids": 92,
+  "bones": 29,
+  "source_sha256": "f8f6616b4f2a0482ffa67d2960f283fb41c161b6eb1acd6a5948144e87df4e15",
+  "texture_sha256": "94e64eaf521ca11023fc0d814ee4664cf30d3befff2f177298889b968303ffbb",
+  "notes": "Shared canonical runtime rig with variant scale 1.3. Dark charcoal fur with soft light-gray markings, ears, muzzle, forepaws and tail tuft."
+}

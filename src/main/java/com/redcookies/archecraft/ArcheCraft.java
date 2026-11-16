@@ -29,10 +29,12 @@ public class ArcheCraft {
 
         // Initialize Mod Registries
         ModBlocks.register(modEventBus);
+        ModEntities.register(modEventBus);
         ModItems.register(modEventBus);
         ModBlockEntities.register(modEventBus);
         ModMenus.register(modEventBus);
         ModRecipes.register(modEventBus);
+        ModStructures.register(modEventBus);
         ModCreativeTabs.register(modEventBus);
         ModSounds.SOUND_EVENTS.register(modEventBus);
 

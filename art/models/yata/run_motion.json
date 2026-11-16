@@ -1,0 +1,11 @@
+{
+  "duration_seconds": 0.66,
+  "reference": "Yata Run.mp4",
+  "reference_sha256": "855ab6d82e56638b507e6825c2213a59185a229df77c756679e79d94bad31657",
+  "reference_playback_speed": 0.2,
+  "reference_cycle_seconds": [
+    1,
+    4.3
+  ],
+  "notes": "Approximate repeating stride, restored to normal speed (5x). Staggered hind-leg push/tuck/reach, forward lean, swept ears and delayed tail. Artist model and idle unchanged."
+}

@@ -1,0 +1,14 @@
+{
+  "duration_seconds": 4.8,
+  "samples_per_second": 20,
+  "reference": "2026-11-14 20-31-33.mp4",
+  "reference_sha256": "cf48f43faa14bce104654a032b35b5dfbeb3a61c36179bc7423755d2a4431dbf",
+  "notes": "Hand-authored approximation of the reference: gentle initial sway, then asymmetric upward stem sweeps, trailing leaves, body rock and lid bobs; settle to seamless rest.",
+  "event_seconds": {
+    "wind_up": 2.5,
+    "left_lift": 2.95,
+    "low_sweep": 3.4,
+    "right_lift": 3.67,
+    "settle": 4.45
+  }
+}

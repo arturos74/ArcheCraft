@@ -1,0 +1,283 @@
+{
+  "bone": "body",
+  "boxes": [
+    {
+      "name": "Saddle blanket",
+      "from_": [
+        -5.12,
+        21.1,
+        0.6
+      ],
+      "to": [
+        5.12,
+        21.4,
+        8.3
+      ],
+      "material": "blanket"
+    },
+    {
+      "name": "Leather seat",
+      "from_": [
+        -3.5,
+        21.4,
+        2
+      ],
+      "to": [
+        3.5,
+        22.1,
+        6.8
+      ],
+      "material": "leather"
+    },
+    {
+      "name": "Front pommel",
+      "from_": [
+        -3.6,
+        22.05,
+        1.4
+      ],
+      "to": [
+        3.6,
+        22.75,
+        2.3
+      ],
+      "material": "edge"
+    },
+    {
+      "name": "Rear cantle",
+      "from_": [
+        -3.6,
+        22,
+        6.7
+      ],
+      "to": [
+        3.6,
+        22.95,
+        7.6
+      ],
+      "material": "edge"
+    },
+    {
+      "name": "left blanket side",
+      "from_": [
+        -5.28,
+        18.6,
+        0.7
+      ],
+      "to": [
+        -4.8,
+        21.35,
+        8.2
+      ],
+      "material": "blanket"
+    },
+    {
+      "name": "left stirrup leather",
+      "from_": [
+        -5.52,
+        14.8,
+        3.3
+      ],
+      "to": [
+        -5.3,
+        21.4,
+        4.05
+      ],
+      "material": "leather"
+    },
+    {
+      "name": "left buckle",
+      "from_": [
+        -5.64,
+        18.1,
+        3.16
+      ],
+      "to": [
+        -5.5,
+        18.85,
+        4.17
+      ],
+      "material": "metal"
+    },
+    {
+      "name": "left stirrup top",
+      "from_": [
+        -5.62,
+        15.7,
+        2.8
+      ],
+      "to": [
+        -5.32,
+        15.92,
+        4.6
+      ],
+      "material": "metal"
+    },
+    {
+      "name": "left stirrup base",
+      "from_": [
+        -5.62,
+        14.1,
+        2.8
+      ],
+      "to": [
+        -5.32,
+        14.35,
+        4.6
+      ],
+      "material": "metal"
+    },
+    {
+      "name": "left stirrup front",
+      "from_": [
+        -5.62,
+        14.3,
+        2.8
+      ],
+      "to": [
+        -5.32,
+        15.7,
+        3.03
+      ],
+      "material": "metal"
+    },
+    {
+      "name": "left stirrup back",
+      "from_": [
+        -5.62,
+        14.3,
+        4.37
+      ],
+      "to": [
+        -5.32,
+        15.7,
+        4.6
+      ],
+      "material": "metal"
+    },
+    {
+      "name": "right blanket side",
+      "from_": [
+        4.8,
+        18.6,
+        0.7
+      ],
+      "to": [
+        5.28,
+        21.35,
+        8.2
+      ],
+      "material": "blanket"
+    },
+    {
+      "name": "right stirrup leather",
+      "from_": [
+        5.3,
+        14.8,
+        3.3
+      ],
+      "to": [
+        5.52,
+        21.4,
+        4.05
+      ],
+      "material": "leather"
+    },
+    {
+      "name": "right buckle",
+      "from_": [
+        5.5,
+        18.1,
+        3.16
+      ],
+      "to": [
+        5.64,
+        18.85,
+        4.17
+      ],
+      "material": "metal"
+    },
+    {
+      "name": "right stirrup top",
+      "from_": [
+        5.32,
+        15.7,
+        2.8
+      ],
+      "to": [
+        5.62,
+        15.92,
+        4.6
+      ],
+      "material": "metal"
+    },
+    {
+      "name": "right stirrup base",
+      "from_": [
+        5.32,
+        14.1,
+        2.8
+      ],
+      "to": [
+        5.62,
+        14.35,
+        4.6
+      ],
+      "material": "metal"
+    },
+    {
+      "name": "right stirrup front",
+      "from_": [
+        5.32,
+        14.3,
+        2.8
+      ],
+      "to": [
+        5.62,
+        15.7,
+        3.03
+      ],
+      "material": "metal"
+    },
+    {
+      "name": "right stirrup back",
+      "from_": [
+        5.32,
+        14.3,
+        4.37
+      ],
+      "to": [
+        5.62,
+        15.7,
+        4.6
+      ],
+      "material": "metal"
+    }
+  ],
+  "materials": {
+    "leather": [
+      0,
+      0,
+      16,
+      16
+    ],
+    "edge": [
+      16,
+      0,
+      32,
+      16
+    ],
+    "metal": [
+      0,
+      16,
+      16,
+      32
+    ],
+    "blanket": [
+      16,
+      16,
+      32,
+      32
+    ]
+  }
+}

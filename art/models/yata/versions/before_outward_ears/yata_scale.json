@@ -1,0 +1,35 @@
+{
+  "model_units_per_block": 16,
+  "model_bounds_units": {
+    "min": [
+      -9.207380675740827,
+      -0.16565659190314364,
+      -17.2125
+    ],
+    "max": [
+      9.207380675740827,
+      43.62650625732345,
+      35.005654886137506
+    ]
+  },
+  "visual_size_blocks": {
+    "width": 1.1509225844676034,
+    "height": 2.737010178076662,
+    "length": 3.263634680383594
+  },
+  "rider_seat_model_units": [
+    0.0,
+    22.35486,
+    4.25
+  ],
+  "rider_seat_blocks": [
+    0.0,
+    1.39717875,
+    0.265625
+  ],
+  "suggested_entity_hitbox_blocks": {
+    "width": 1.3964844,
+    "height": 1.6
+  },
+  "note": "Visual bounds include ears and tail. Riding guide only; no runtime mount behavior."
+}

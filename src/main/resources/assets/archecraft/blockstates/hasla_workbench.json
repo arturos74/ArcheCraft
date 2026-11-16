@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "archecraft:block/hasla_workbench",
+      "y": 0
+    },
+    "facing=west": {
+      "model": "archecraft:block/hasla_workbench",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "archecraft:block/hasla_workbench",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "archecraft:block/hasla_workbench",
+      "y": 270
+    }
+  }
+}

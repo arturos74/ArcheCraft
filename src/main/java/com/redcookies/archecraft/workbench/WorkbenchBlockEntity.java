@@ -193,7 +193,8 @@ public class WorkbenchBlockEntity extends BaseContainerBlockEntity {
             ItemStack stack = ItemStack.parseOptional(registries, overflow.getCompound(i));
             if (!stack.isEmpty()) overflowItems.add(stack);
         }
-        activeRecipeId = ResourceLocation.tryParse(tag.getString("ActiveRecipe"));
+        String savedRecipe = tag.getString("ActiveRecipe");
+        activeRecipeId = savedRecipe.isBlank() ? null : ResourceLocation.tryParse(savedRecipe);
         craftTicks = activeRecipeId == null ? 0 : Math.clamp(tag.getInt("CraftTicks"), 0, CRAFT_DURATION - 1);
     }
 }

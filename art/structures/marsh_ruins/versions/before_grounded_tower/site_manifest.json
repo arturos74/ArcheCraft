@@ -1,0 +1,58 @@
+{
+  "size": [
+    96,
+    36,
+    96
+  ],
+  "section_size": [
+    48,
+    36,
+    48
+  ],
+  "hub_offset": [
+    48,
+    48
+  ],
+  "hub_sha256": "5896fb4f682b54e6cc85f2457a4eb9f35e4068087b8d8c0facd0da479399e3b9",
+  "sections": [
+    {
+      "name": "sunken_court",
+      "offset": [
+        0,
+        48
+      ],
+      "seed": 731205,
+      "sha256": "075641a3c3a86b23d52c75cf31def6edcda495366786aad98505c1a5fb72585c",
+      "water_columns": 250,
+      "ruins": 2,
+      "pond_depth_blocks": 0.5
+    },
+    {
+      "name": "broken_arch",
+      "offset": [
+        48,
+        0
+      ],
+      "seed": 731206,
+      "sha256": "55d11ae0661e6bcbe44b9374e50858f076117aaf9275332fdd7ae56f8fe8002c",
+      "water_columns": 261,
+      "ruins": 2,
+      "pond_depth_blocks": 0.5
+    },
+    {
+      "name": "fallen_walls",
+      "offset": [
+        0,
+        0
+      ],
+      "seed": 731207,
+      "sha256": "816bb9b212c5971e9384892d4cf84bc38a91d3461dfcce2ff728b2b298e78009",
+      "water_columns": 300,
+      "ruins": 2,
+      "pond_depth_blocks": 0.5
+    }
+  ],
+  "assembled_template": "archecraft:hasla_swamp",
+  "sha256": "0713a23c758ae52a0dcb3d6e5922e18f3e329eb6e08079b56ffbda0f75ac24c6",
+  "notes": "Saved crafting hub preserved during assembly. Three vanilla swamp habitat sections with varied trees, supported vines, tall grasses and irregular shallow puddles; two broken masonry ruins each. No mob spawns or new crafting station added."
+}

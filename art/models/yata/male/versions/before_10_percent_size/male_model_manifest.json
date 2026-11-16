@@ -1,0 +1,10 @@
+{
+  "female_source": "art/models/yata/yata.bbmodel",
+  "female_source_sha256": "63afc4132893f503b8f4b406ee55cd303bab718aa60e02ddac830c4678918692",
+  "male_scale": 1.2,
+  "cuboids": 92,
+  "bones": 29,
+  "runtime": "Shared rig with sex scale via getAgeScale; male pixel atlas selected by synced sex. Saddle scales with the renderer.",
+  "male_source_sha256": "9032f1b771e4c04f75cc4cc23618d277cdcb742d655f23cd3dce9af2ef679628",
+  "texture_sha256": "40eac7b6b0e0705371b59ed3253a34bd3b442aa928a59d35eec70ac0dc4e7a0c"
+}

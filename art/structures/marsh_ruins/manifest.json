@@ -1,0 +1,119 @@
+{
+  "name": "archecraft:abandoned_drill_camp",
+  "size": [
+    48,
+    36,
+    48
+  ],
+  "seed": 731204,
+  "source": "art/structures/marsh_ruins/build_structure.py",
+  "template": "src/main/resources/data/archecraft/structure/marsh_ruins.nbt",
+  "sha256": "dd3e03ebe447a77112fee7d8492f99b413f8983316e7b405672ffef9c42a10e1",
+  "palette_states": 51,
+  "non_air_blocks": 20901,
+  "block_counts": {
+    "archecraft:hasla_workbench": 1,
+    "minecraft:andesite": 41,
+    "minecraft:blue_orchid": 23,
+    "minecraft:chiseled_stone_bricks": 9,
+    "minecraft:coarse_dirt": 80,
+    "minecraft:cracked_stone_bricks": 117,
+    "minecraft:dark_oak_log": 88,
+    "minecraft:dark_oak_stairs": 2,
+    "minecraft:deepslate_tile_slab": 36,
+    "minecraft:deepslate_tile_stairs": 246,
+    "minecraft:dirt": 6597,
+    "minecraft:fern": 131,
+    "minecraft:grass_block": 1348,
+    "minecraft:gravel": 36,
+    "minecraft:lantern": 2,
+    "minecraft:large_fern": 176,
+    "minecraft:lily_pad": 23,
+    "minecraft:mangrove_leaves": 200,
+    "minecraft:mangrove_log": 20,
+    "minecraft:moss_block": 145,
+    "minecraft:mossy_cobblestone": 249,
+    "minecraft:mossy_cobblestone_slab": 13,
+    "minecraft:mossy_stone_brick_slab": 30,
+    "minecraft:mossy_stone_brick_stairs": 48,
+    "minecraft:mossy_stone_bricks": 452,
+    "minecraft:mud": 475,
+    "minecraft:mud_brick_slab": 182,
+    "minecraft:oak_leaves": 612,
+    "minecraft:oak_log": 50,
+    "minecraft:rooted_dirt": 4,
+    "minecraft:short_grass": 294,
+    "minecraft:spruce_planks": 152,
+    "minecraft:stone": 8206,
+    "minecraft:stone_brick_slab": 13,
+    "minecraft:stone_brick_stairs": 16,
+    "minecraft:stone_bricks": 169,
+    "minecraft:sugar_cane": 14,
+    "minecraft:tall_grass": 476,
+    "minecraft:vine": 125
+  },
+  "water_level": 5,
+  "house_floor": 15,
+  "entrance": [
+    35,
+    16,
+    32
+  ],
+  "water_columns": 182,
+  "pond_depth_blocks": 0.5,
+  "notes": "Hasla Workbench added to the saved open pavilion; all terrain, tower, trees, roof and remaining floor blocks preserved.",
+  "trees": [
+    {
+      "position": [
+        5,
+        5,
+        29
+      ],
+      "shape": "willow",
+      "leaf_type": "oak_leaves",
+      "vine_columns": 13
+    },
+    {
+      "position": [
+        23,
+        6,
+        33
+      ],
+      "shape": "umbrella",
+      "leaf_type": "oak_leaves",
+      "vine_columns": 5
+    },
+    {
+      "position": [
+        8,
+        6,
+        42
+      ],
+      "shape": "squat",
+      "leaf_type": "oak_leaves",
+      "vine_columns": 8
+    },
+    {
+      "position": [
+        43,
+        5,
+        13
+      ],
+      "shape": "forked",
+      "leaf_type": "mangrove_leaves",
+      "vine_columns": 6
+    }
+  ],
+  "ecology": "Irregular half-block puddles, muddy/mossy grass, four tree shapes, supported vines and two-block grasses.",
+  "tower_grounded": true,
+  "pavilion_interior": "Clear wood floor with one Hasla Workbench",
+  "workstation": {
+    "id": "archecraft:hasla_workbench",
+    "position": [
+      35,
+      16,
+      38
+    ],
+    "facing": "north"
+  }
+}

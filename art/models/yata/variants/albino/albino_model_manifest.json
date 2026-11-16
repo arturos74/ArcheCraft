@@ -1,0 +1,13 @@
+{
+  "female_source": "art/models/yata/yata.bbmodel",
+  "female_source_sha256": "520d61da71d5268bba15a70a57b30fac2fb4dc5b16335efa422aeb078934b1eb",
+  "male_only": false,
+  "female_only": true,
+  "variant": "albino",
+  "variant_scale": 1.3,
+  "cuboids": 92,
+  "bones": 29,
+  "source_sha256": "3a2c378e157e0e00ac9402f4c85690ecd1c1cee68af7bfbe6c312209fa31e355",
+  "texture_sha256": "ea4772b12ea9f4c44b72b4c74ec7e5d1f2c9ba31bc289e9f389945bd9b6e66f9",
+  "notes": "Shared wingless canonical rig at 1.3 scale. White fur, pale feet, black hand/foot claws, white inner ears and a soft pink nose. Female only; same size as black/palomino."
+}

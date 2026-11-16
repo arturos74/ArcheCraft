@@ -1,0 +1,58 @@
+{
+  "size": [
+    96,
+    36,
+    96
+  ],
+  "section_size": [
+    48,
+    36,
+    48
+  ],
+  "hub_offset": [
+    48,
+    48
+  ],
+  "hub_sha256": "d0d44a83ae179a1b0f4feb2d8e7cdad22201b13b7efac52957400f20dfef7ce2",
+  "sections": [
+    {
+      "name": "sunken_court",
+      "offset": [
+        0,
+        48
+      ],
+      "seed": 731205,
+      "sha256": "19d1e966e15e3a02fc25548b80e7d45e8b0397511c968964fb2a19a35cb692a1",
+      "water_columns": 355,
+      "ruins": 2,
+      "pond_depth_blocks": 0.5
+    },
+    {
+      "name": "broken_arch",
+      "offset": [
+        48,
+        0
+      ],
+      "seed": 731206,
+      "sha256": "a65928024105077c860580bb637609ebfdc168e09bd5c897046445411405118b",
+      "water_columns": 398,
+      "ruins": 2,
+      "pond_depth_blocks": 0.5
+    },
+    {
+      "name": "fallen_walls",
+      "offset": [
+        0,
+        0
+      ],
+      "seed": 731207,
+      "sha256": "f4cc6e6907778604a3329657ad0502c45ccf5f9fcde7c4332277e62694ee02b3",
+      "water_columns": 444,
+      "ruins": 2,
+      "pond_depth_blocks": 0.5
+    }
+  ],
+  "assembled_template": "archecraft:hasla_swamp",
+  "sha256": "63b2c27ea77226365547baefc827fd77237ebbfc59146a52dca079be90968e00",
+  "notes": "Original crafting section preserved byte-for-byte. Three vanilla shallow-swamp habitat sections; two broken masonry ruins each. No mob spawns or new crafting station added."
+}

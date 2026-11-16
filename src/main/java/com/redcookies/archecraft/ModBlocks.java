@@ -7,6 +7,7 @@ import com.redcookies.archecraft.workbench.StonemasonWorkbenchBlock;
 import com.redcookies.archecraft.workbench.AlchemyWorkbenchBlock;
 import com.redcookies.archecraft.workbench.SmelterBlock;
 import com.redcookies.archecraft.workbench.AnvilWorkbenchBlock;
+import com.redcookies.archecraft.workbench.HaslaWorkbenchBlock;
 import net.minecraft.world.level.material.PushReaction;
 import net.minecraft.world.level.ItemLike;
 import net.minecraft.world.level.block.Block;
@@ -21,6 +22,11 @@ import net.neoforged.neoforge.registries.DeferredRegister;
 
 public class ModBlocks {
     public static final DeferredRegister.Blocks BLOCKS = DeferredRegister.createBlocks(ArcheCraft.MODID);
+
+    public static final DeferredBlock<HaslaWorkbenchBlock> HASLA_WORKBENCH = BLOCKS.register("hasla_workbench",
+            () -> new HaslaWorkbenchBlock(BlockBehaviour.Properties.of()
+                    .mapColor(MapColor.COLOR_CYAN).strength(3.5F, 3.5F).sound(SoundType.STONE)
+                    .requiresCorrectToolForDrops().noOcclusion().pushReaction(PushReaction.BLOCK)));
 
     public static final DeferredBlock<AnvilWorkbenchBlock> ANVIL = BLOCKS.register("anvil",
             () -> new AnvilWorkbenchBlock(BlockBehaviour.Properties.of()

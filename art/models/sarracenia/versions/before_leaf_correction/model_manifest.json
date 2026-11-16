@@ -1,0 +1,38 @@
+{
+  "model": "sarracenia.bbmodel",
+  "model_sha256": "dc601ebde5e0eb8bfdc1e9f4a80f65dc9175dd47777ba545aecdf559dec0a2dc",
+  "texture": "sarracenia.png",
+  "texture_sha256": "c909dee15c7c5be30e7ae83e7ea3e2c20a1aa9dbf2384527ab0834a23df8f0d8",
+  "cuboids": 115,
+  "bones": 21,
+  "back_stems": 4,
+  "animations": 1,
+  "texture_size": [
+    256,
+    256
+  ],
+  "units_per_block": 16,
+  "bounds_units": {
+    "min": [
+      -26.23131927258715,
+      0.0,
+      -8.812847861146166
+    ],
+    "max": [
+      26.224586784494246,
+      39.15824389603971,
+      20.427243617195757
+    ]
+  },
+  "size_blocks": [
+    3.278494128567587,
+    2.4473902435024817,
+    1.8275057173963702
+  ],
+  "front": "-Z",
+  "references": [
+    "ScreenShot0055.jpg (back)",
+    "ScreenShot0056.jpg (front)",
+    "ScreenShot0053.jpg (front)"
+  ]
+}

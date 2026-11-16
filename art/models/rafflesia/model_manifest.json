@@ -1,0 +1,37 @@
+{
+  "model": "rafflesia.bbmodel",
+  "model_sha256": "9b96dd6ec8ed5adb2c3e8f6ea6b3456b0507e85b9f35ec4070a42a9079f6e838",
+  "texture": "rafflesia.png",
+  "texture_sha256": "d7b8985bc01f0ddec072837197b5d32c436339891a0bf6f6cb346d15c2f80b73",
+  "cuboids": 124,
+  "bones": 30,
+  "texture_size": [
+    256,
+    256
+  ],
+  "units_per_block": 16,
+  "front": "-Z",
+  "bounds_units": {
+    "min": [
+      -11.95,
+      0.0,
+      -20.56316182772076
+    ],
+    "max": [
+      11.95,
+      35.11198205440723,
+      25.032084887795662
+    ]
+  },
+  "size_blocks": [
+    1.49375,
+    2.1944988784004518,
+    2.8497029197197765
+  ],
+  "reference": "ScreenShot0057.jpg",
+  "reference_notes": "Corrected anatomy: two pulling arms, no legs; rear abdomen rests on the floor.",
+  "locomotion": "Grounded abdomen dragged by two planted leaf arms",
+  "arms": 2,
+  "legs": 0,
+  "animation_status": "Four empty named templates; no animation or in-game entity registration."
+}

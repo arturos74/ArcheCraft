@@ -1,0 +1,15 @@
+{
+  "source": "art/models/sarracenia/sarracenia.bbmodel",
+  "source_sha256": "b9cb10b4acfe4cea67df54dced0f3150dbe3aaf07106b30145445d46a493f214",
+  "cuboids": 110,
+  "bones": 19,
+  "quads": 660,
+  "texture_dimensions": [
+    256,
+    256
+  ],
+  "texture_sha256": "c77b04700a8a79ad50d00cda9922e95126ccb71852dec13ce3de75a6674623fe",
+  "idle_seconds": 4.8,
+  "walk_seconds": 0.92,
+  "notes": "Bone-local mesh and additive idle/walk tracks. Re-export after saving Blockbench changes; exporter never modifies the authoring project."
+}

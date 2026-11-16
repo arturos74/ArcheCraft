@@ -1,0 +1,324 @@
+[
+  {
+    "id": "cotton_seeds",
+    "name": "Cotton Seeds",
+    "category": "Plants and crops",
+    "search": [
+      "Cotton Seed",
+      "Cotton Seeds"
+    ],
+    "description": "a few small oval brown cotton seeds",
+    "database_name": "Cotton Seed",
+    "database_id": 4904,
+    "page_url": "https://archeagecodex.com/us/item/4904/",
+    "image_url": "https://archeagecodex.com/items/icon_item_0572.png",
+    "original_path": "build/material-expansion-originals/cotton_seeds.png",
+    "original_sha256": "7194c3a49f302111713842761d5f97767c43fab3d0b2e8fea9aa1df1396fd985",
+    "source_type": "database_icon"
+  },
+  {
+    "id": "azalea",
+    "name": "Azalea",
+    "category": "Plants and crops",
+    "search": [
+      "Azalea",
+      "Royal Azalea"
+    ],
+    "description": "a small sprig of vivid pink azalea blossoms with green leaves",
+    "database_name": "Azalea",
+    "database_id": 3684,
+    "page_url": "https://archeagecodex.com/us/item/3684/",
+    "image_url": "https://archeagecodex.com/items/icon_item_0030.png",
+    "original_path": "build/material-expansion-originals/azalea.png",
+    "original_sha256": "79e137ac526438c94510ab085bea52709db67b227c95e8b92a71d0c43da0db2b",
+    "source_type": "database_icon"
+  },
+  {
+    "id": "narcissus",
+    "name": "Narcissus",
+    "category": "Plants and crops",
+    "search": [
+      "Narcissus"
+    ],
+    "description": "a white narcissus flower with a yellow trumpet and slender green leaves",
+    "database_name": "Narcissus",
+    "database_id": 3667,
+    "page_url": "https://archeagecodex.com/us/item/3667/",
+    "image_url": "https://archeagecodex.com/items/icon_item_0582.png",
+    "original_path": "build/material-expansion-originals/narcissus.png",
+    "original_sha256": "83d4e45951e5ae8934390fcc42c2d4df91d6e2a09bad5ecb900f26e122e79402",
+    "source_type": "database_icon"
+  },
+  {
+    "id": "lily",
+    "name": "Lily",
+    "category": "Plants and crops",
+    "search": [
+      "Lily"
+    ],
+    "description": "a white lily blossom with a green stem",
+    "database_name": "Lily",
+    "database_id": 3564,
+    "page_url": "https://archeagecodex.com/us/item/3564/",
+    "image_url": "https://archeagecodex.com/items/icon_item_0575.png",
+    "original_path": "build/material-expansion-originals/lily.png",
+    "original_sha256": "b56686036bed97a4463d133bd9e4c20d1a0d7ba213f74046b4e28d4ae273ab0e",
+    "source_type": "database_icon"
+  },
+  {
+    "id": "lotus",
+    "name": "Lotus",
+    "category": "Plants and crops",
+    "search": [
+      "Lotus"
+    ],
+    "description": "a pink lotus flower with layered petals and a small green leaf",
+    "database_name": "Lotus",
+    "database_id": 3671,
+    "page_url": "https://archeagecodex.com/us/item/3671/",
+    "image_url": "https://archeagecodex.com/items/quest/icon_item_quest168.png",
+    "original_path": "build/material-expansion-originals/lotus.png",
+    "original_sha256": "c51dce7fe42817d966c4d81ac666c3ccb7105d2e4e39c8a4cba25e4749df1036",
+    "source_type": "database_icon"
+  },
+  {
+    "id": "lavender",
+    "name": "Lavender",
+    "category": "Plants and crops",
+    "search": [
+      "Lavender"
+    ],
+    "description": "a few purple lavender flower spikes on slender green stems",
+    "database_name": "Lavender",
+    "database_id": 3627,
+    "page_url": "https://archeagecodex.com/us/item/3627/",
+    "image_url": "https://archeagecodex.com/items/icon_item_0148.png",
+    "original_path": "build/material-expansion-originals/lavender.png",
+    "original_sha256": "5f85f7f8eb15d92e520582dd9435c62f06c898ca7fc8857933496d54ace7ad26",
+    "source_type": "database_icon"
+  },
+  {
+    "id": "rice",
+    "name": "Rice",
+    "category": "Plants and crops",
+    "search": [
+      "Rice"
+    ],
+    "description": "a small tied bundle of ripe pale golden rice stalks",
+    "database_name": "Rice",
+    "database_id": 784,
+    "page_url": "https://archeagecodex.com/us/item/784/",
+    "image_url": "https://archeagecodex.com/items/icon_item_0115.png",
+    "original_path": "build/material-expansion-originals/rice.png",
+    "original_sha256": "3ae31d44e109314ddb8299d9ed938eccde76461d3d4f5f65e25124294afe4f25",
+    "source_type": "database_icon"
+  },
+  {
+    "id": "rice_seeds",
+    "name": "Rice Seeds",
+    "category": "Plants and crops",
+    "search": [
+      "Rice Seed",
+      "Rice Seeds"
+    ],
+    "description": "a small handful of pale golden unhusked rice seeds",
+    "database_name": "Rice Seed",
+    "database_id": 15646,
+    "page_url": "https://archeagecodex.com/us/item/15646/",
+    "image_url": "https://archeagecodex.com/items/icon_item_0115.png",
+    "original_path": "build/material-expansion-originals/rice_seeds.png",
+    "original_sha256": "3ae31d44e109314ddb8299d9ed938eccde76461d3d4f5f65e25124294afe4f25",
+    "source_type": "database_icon"
+  },
+  {
+    "id": "corn",
+    "name": "Corn",
+    "category": "Plants and crops",
+    "search": [
+      "Corn"
+    ],
+    "description": "a ripe yellow corn cob with partially peeled green husk",
+    "database_name": "Corn",
+    "database_id": 8013,
+    "page_url": "https://archeagecodex.com/us/item/8013/",
+    "image_url": "https://archeagecodex.com/items/icon_item_0120.png",
+    "original_path": "build/material-expansion-originals/corn.png",
+    "original_sha256": "cb59450a5eb2e5a48311f77081995cbe1c2ec7c1767fc8eb3bf634c26e936e6b",
+    "source_type": "database_icon"
+  },
+  {
+    "id": "corn_seeds",
+    "name": "Corn Seeds",
+    "category": "Plants and crops",
+    "search": [
+      "Corn Seed",
+      "Corn Seeds"
+    ],
+    "description": "a small cluster of golden yellow corn kernels",
+    "database_name": "Corn Seed",
+    "database_id": 15653,
+    "page_url": "https://archeagecodex.com/us/item/15653/",
+    "image_url": "https://archeagecodex.com/items/icon_item_0120.png",
+    "original_path": "build/material-expansion-originals/corn_seeds.png",
+    "original_sha256": "cb59450a5eb2e5a48311f77081995cbe1c2ec7c1767fc8eb3bf634c26e936e6b",
+    "source_type": "database_icon"
+  },
+  {
+    "id": "barley",
+    "name": "Barley",
+    "category": "Plants and crops",
+    "search": [
+      "Barley"
+    ],
+    "description": "a small tied bundle of ripe golden barley ears with long awns",
+    "database_name": "Barley",
+    "database_id": 8005,
+    "page_url": "https://archeagecodex.com/us/item/8005/",
+    "image_url": "https://archeagecodex.com/items/icon_item_0117.png",
+    "original_path": "build/material-expansion-originals/barley.png",
+    "original_sha256": "4928d4e23bc67a9f15317aed6e93453c715763b44972f4c0b60ff911159352cc",
+    "source_type": "database_icon"
+  },
+  {
+    "id": "barley_seeds",
+    "name": "Barley Seeds",
+    "category": "Plants and crops",
+    "search": [
+      "Barley Seed",
+      "Barley Seeds"
+    ],
+    "description": "a small handful of tan elongated barley seeds",
+    "database_name": "Barley Seed",
+    "database_id": 15652,
+    "page_url": "https://archeagecodex.com/us/item/15652/",
+    "image_url": "https://archeagecodex.com/items/icon_item_0117.png",
+    "original_path": "build/material-expansion-originals/barley_seeds.png",
+    "original_sha256": "4928d4e23bc67a9f15317aed6e93453c715763b44972f4c0b60ff911159352cc",
+    "source_type": "database_icon"
+  },
+  {
+    "id": "thunderstruck_log",
+    "name": "Thunderstruck Log",
+    "category": "Special materials",
+    "search": [
+      "Thunderstruck Log",
+      "Thunderstruck Tree"
+    ],
+    "description": "a dark lightning-split log with a scorched crack and a faint blue electric accent",
+    "database_name": "Thunderstruck Tree",
+    "database_id": 15709,
+    "page_url": "https://archeagecodex.com/us/item/15709/",
+    "image_url": "https://archeagecodex.com/items/icon_item_0856.png",
+    "original_path": "build/material-expansion-originals/thunderstruck_log.png",
+    "original_sha256": "c2e8c3c293e6428d6f29df7cf06264ff28e4e9e606c48fec476e4c64b4fcbae4",
+    "source_type": "database_icon"
+  },
+  {
+    "id": "onyx_archeum_essence",
+    "name": "Onyx Archeum Essence",
+    "category": "Special materials",
+    "search": [
+      "Onyx Archeum Essence"
+    ],
+    "description": "a small cluster of dark purple onyx magical crystals with close violet highlights",
+    "database_name": "Onyx Archeum Essence",
+    "database_id": 32103,
+    "page_url": "https://archeagecodex.com/us/item/32103/",
+    "image_url": "https://archeagecodex.com/items/icon_item_4457.png",
+    "original_path": "build/material-expansion-originals/onyx_archeum_essence.png",
+    "original_sha256": "e39b659c000531d9516fd9de15348eafb0345268c91fe47a18338e145c816d11",
+    "source_type": "database_icon"
+  },
+  {
+    "id": "dawn_lake_light_essence",
+    "name": "Dawn Lake Light Essence",
+    "category": "Special materials",
+    "search": [
+      "Dawn Lake Light Essence"
+    ],
+    "description": "a small pearlescent aqua alchemical essence in a clear stoppered bottle",
+    "database_name": "Dawn Lake Light Essence",
+    "database_id": 28175,
+    "page_url": "https://archeagecodex.com/us/item/28175/",
+    "image_url": "https://archeagecodex.com/items/icon_item_1237.png",
+    "original_path": "build/material-expansion-originals/dawn_lake_light_essence.png",
+    "original_sha256": "6a925e787a5a8d54e93667464af069fbb03a45199ae9ccc316848df8368f0944",
+    "source_type": "database_icon"
+  },
+  {
+    "id": "wooden_handle",
+    "name": "Wooden Handle",
+    "category": "Equipment components",
+    "search": [
+      "Wooden Handle"
+    ],
+    "description": "one short smoothly carved warm brown wooden tool handle with a shaped grip, diagonal from lower left to upper right",
+    "source_type": "original_generated_icon"
+  },
+  {
+    "id": "wooden_shaft",
+    "name": "Wooden Shaft",
+    "category": "Equipment components",
+    "search": [
+      "Wooden Shaft"
+    ],
+    "description": "one long slender straight pale brown wooden shaft with rounded ends, diagonal from lower left to upper right; clearly thinner and longer than a tool grip",
+    "source_type": "original_generated_icon"
+  },
+  {
+    "id": "leather_strip",
+    "name": "Leather Strip",
+    "category": "Equipment components",
+    "search": [
+      "Leather Strip"
+    ],
+    "description": "one narrow reddish brown leather strap curled into a loose S shape, visible cut leather edges",
+    "source_type": "original_generated_icon"
+  },
+  {
+    "id": "cloth_padding",
+    "name": "Cloth Padding",
+    "category": "Equipment components",
+    "search": [
+      "Cloth Padding"
+    ],
+    "description": "one small folded square of thick cream quilted cloth padding, stitched border, soft layered edges",
+    "source_type": "original_generated_icon"
+  },
+  {
+    "id": "rope",
+    "name": "Rope",
+    "category": "Equipment components",
+    "search": [
+      "Rope"
+    ],
+    "description": "one compact coil of tan braided hemp rope with a short loose end",
+    "database_name": "Rope",
+    "database_id": 5086,
+    "page_url": "https://archeagecodex.com/us/item/5086/",
+    "image_url": "https://archeagecodex.com/items/quest/icon_item_quest067.png",
+    "original_path": "build/material-expansion-originals/rope.png",
+    "original_sha256": "4ca16338afe2fa003ad48e0d63b5911295c57fa755380242b0eb77423f1773be",
+    "source_type": "database_icon"
+  },
+  {
+    "id": "metal_plate",
+    "name": "Metal Plate",
+    "category": "Equipment components",
+    "search": [
+      "Metal Plate"
+    ],
+    "description": "one rectangular dull silver steel plate viewed at a slight angle, beveled corners and subtle worn highlights",
+    "source_type": "original_generated_icon"
+  },
+  {
+    "id": "rivet",
+    "name": "Rivet",
+    "category": "Equipment components",
+    "search": [
+      "Rivet"
+    ],
+    "description": "one short dark steel rivet with a rounded mushroom head and a narrow shaft, viewed diagonally",
+    "source_type": "original_generated_icon"
+  }
+]

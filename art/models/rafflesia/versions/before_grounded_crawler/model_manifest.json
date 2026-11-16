@@ -1,0 +1,34 @@
+{
+  "model": "rafflesia.bbmodel",
+  "model_sha256": "bb710b97eb42c5f91b570a6b8a958ea3700b5dae2eadd651869caf128add051a",
+  "texture": "rafflesia.png",
+  "texture_sha256": "d7b8985bc01f0ddec072837197b5d32c436339891a0bf6f6cb346d15c2f80b73",
+  "cuboids": 150,
+  "bones": 36,
+  "texture_size": [
+    256,
+    256
+  ],
+  "units_per_block": 16,
+  "front": "-Z",
+  "bounds_units": {
+    "min": [
+      -12.718341598129765,
+      -0.07649386527613267,
+      -20.56316182772076
+    ],
+    "max": [
+      12.718341598129765,
+      42.11198205440723,
+      25.141720332208358
+    ]
+  },
+  "size_blocks": [
+    1.5897926997662206,
+    2.63677974498021,
+    2.8565551349955696
+  ],
+  "reference": "ScreenShot0057.jpg",
+  "reference_notes": "Single screenshot: front/side and rear individuals; obscured details interpreted as a blocky base.",
+  "animation_status": "Four empty named templates; no animation or in-game entity registration."
+}

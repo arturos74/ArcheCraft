@@ -1,0 +1,8 @@
+{
+  "source_clip": "animation.yata.walk",
+  "duration_seconds": 0.64,
+  "playback_rate": 1.5,
+  "notes": "Independent 1.5x-cadence ridden walk with a gentle .45-unit (0.028-block) added root hop, twice per stride. Cycle timing, movement speed, artist geometry and all other animations preserved.",
+  "bounce_peak_model_units": 0.45,
+  "bounce_beats_per_cycle": 2
+}

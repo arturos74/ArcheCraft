@@ -10,8 +10,12 @@ This project is also a hands-on learning experience in Java and Minecraft mod de
 - Interactive blocks and gameplay systems
 - Yatas and other creatures
 - Functional gliders
+- Party-based instanced dungeons, beginning with Greater Howling Abyss
+- A shared, persistent Ayanad Library dungeon dimension
 
 These are project goals, not a list of currently implemented features. ArcheCraft is in early development.
+
+See the [todo list](TODO.md) for the dungeon architecture and implementation checklist.
 
 ## Development setup
 

@@ -1,0 +1,8186 @@
+[
+  {
+    "cube": "woody_heart",
+    "face": "north",
+    "material": "bark",
+    "uv": [
+      49,
+      1,
+      57,
+      11
+    ]
+  },
+  {
+    "cube": "woody_heart",
+    "face": "south",
+    "material": "bark",
+    "uv": [
+      59,
+      1,
+      67,
+      11
+    ]
+  },
+  {
+    "cube": "woody_heart",
+    "face": "east",
+    "material": "bark",
+    "uv": [
+      69,
+      1,
+      76,
+      11
+    ]
+  },
+  {
+    "cube": "woody_heart",
+    "face": "west",
+    "material": "bark",
+    "uv": [
+      78,
+      1,
+      85,
+      11
+    ]
+  },
+  {
+    "cube": "woody_heart",
+    "face": "up",
+    "material": "bark",
+    "uv": [
+      239,
+      14,
+      247,
+      21
+    ]
+  },
+  {
+    "cube": "woody_heart",
+    "face": "down",
+    "material": "bark",
+    "uv": [
+      1,
+      24,
+      9,
+      31
+    ]
+  },
+  {
+    "cube": "waist_node",
+    "face": "up",
+    "material": "calyx",
+    "uv": [
+      25,
+      33,
+      33,
+      39
+    ]
+  },
+  {
+    "cube": "waist_node",
+    "face": "down",
+    "material": "calyx",
+    "uv": [
+      35,
+      33,
+      43,
+      39
+    ]
+  },
+  {
+    "cube": "waist_node",
+    "face": "north",
+    "material": "calyx",
+    "uv": [
+      69,
+      41,
+      77,
+      46
+    ]
+  },
+  {
+    "cube": "waist_node",
+    "face": "south",
+    "material": "calyx",
+    "uv": [
+      79,
+      41,
+      87,
+      46
+    ]
+  },
+  {
+    "cube": "waist_node",
+    "face": "east",
+    "material": "calyx",
+    "uv": [
+      125,
+      41,
+      131,
+      46
+    ]
+  },
+  {
+    "cube": "waist_node",
+    "face": "west",
+    "material": "calyx",
+    "uv": [
+      133,
+      41,
+      139,
+      46
+    ]
+  },
+  {
+    "cube": "left_chest_vine",
+    "face": "north",
+    "material": "vein",
+    "uv": [
+      1,
+      1,
+      3,
+      12
+    ]
+  },
+  {
+    "cube": "left_chest_vine",
+    "face": "south",
+    "material": "vein",
+    "uv": [
+      5,
+      1,
+      7,
+      12
+    ]
+  },
+  {
+    "cube": "left_chest_vine",
+    "face": "east",
+    "material": "vein",
+    "uv": [
+      9,
+      1,
+      11,
+      12
+    ]
+  },
+  {
+    "cube": "left_chest_vine",
+    "face": "west",
+    "material": "vein",
+    "uv": [
+      13,
+      1,
+      15,
+      12
+    ]
+  },
+  {
+    "cube": "left_chest_vine",
+    "face": "up",
+    "material": "vein",
+    "uv": [
+      97,
+      88,
+      99,
+      90
+    ]
+  },
+  {
+    "cube": "left_chest_vine",
+    "face": "down",
+    "material": "vein",
+    "uv": [
+      101,
+      88,
+      103,
+      90
+    ]
+  },
+  {
+    "cube": "right_chest_vine",
+    "face": "north",
+    "material": "vein",
+    "uv": [
+      17,
+      1,
+      19,
+      12
+    ]
+  },
+  {
+    "cube": "right_chest_vine",
+    "face": "south",
+    "material": "vein",
+    "uv": [
+      21,
+      1,
+      23,
+      12
+    ]
+  },
+  {
+    "cube": "right_chest_vine",
+    "face": "east",
+    "material": "vein",
+    "uv": [
+      25,
+      1,
+      27,
+      12
+    ]
+  },
+  {
+    "cube": "right_chest_vine",
+    "face": "west",
+    "material": "vein",
+    "uv": [
+      29,
+      1,
+      31,
+      12
+    ]
+  },
+  {
+    "cube": "right_chest_vine",
+    "face": "up",
+    "material": "vein",
+    "uv": [
+      105,
+      88,
+      107,
+      90
+    ]
+  },
+  {
+    "cube": "right_chest_vine",
+    "face": "down",
+    "material": "vein",
+    "uv": [
+      109,
+      88,
+      111,
+      90
+    ]
+  },
+  {
+    "cube": "crossing_chest_vine",
+    "face": "north",
+    "material": "stem",
+    "uv": [
+      33,
+      1,
+      35,
+      12
+    ]
+  },
+  {
+    "cube": "crossing_chest_vine",
+    "face": "south",
+    "material": "stem",
+    "uv": [
+      37,
+      1,
+      39,
+      12
+    ]
+  },
+  {
+    "cube": "crossing_chest_vine",
+    "face": "east",
+    "material": "stem",
+    "uv": [
+      41,
+      1,
+      43,
+      12
+    ]
+  },
+  {
+    "cube": "crossing_chest_vine",
+    "face": "west",
+    "material": "stem",
+    "uv": [
+      45,
+      1,
+      47,
+      12
+    ]
+  },
+  {
+    "cube": "crossing_chest_vine",
+    "face": "up",
+    "material": "stem",
+    "uv": [
+      113,
+      88,
+      115,
+      90
+    ]
+  },
+  {
+    "cube": "crossing_chest_vine",
+    "face": "down",
+    "material": "stem",
+    "uv": [
+      117,
+      88,
+      119,
+      90
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_panel_1",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      7,
+      88,
+      10,
+      90
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_panel_1",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      12,
+      88,
+      15,
+      90
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_panel_1",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      25,
+      96,
+      26,
+      98
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_panel_1",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      28,
+      96,
+      29,
+      98
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_panel_1",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      103,
+      103,
+      106,
+      104
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_panel_1",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      108,
+      103,
+      111,
+      104
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_panel_2",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      57,
+      61,
+      62,
+      64
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_panel_2",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      64,
+      61,
+      69,
+      64
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_panel_2",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      41,
+      71,
+      42,
+      74
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_panel_2",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      44,
+      71,
+      45,
+      74
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_panel_2",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      41,
+      100,
+      46,
+      101
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_panel_2",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      48,
+      100,
+      53,
+      101
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_panel_3",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      99,
+      66,
+      103,
+      69
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_panel_3",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      105,
+      66,
+      109,
+      69
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_panel_3",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      47,
+      71,
+      48,
+      74
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_panel_3",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      50,
+      71,
+      51,
+      74
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_panel_3",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      223,
+      100,
+      227,
+      101
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_panel_3",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      229,
+      100,
+      233,
+      101
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_panel_4",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      121,
+      88,
+      123,
+      90
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_panel_4",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      125,
+      88,
+      127,
+      90
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_panel_4",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      31,
+      96,
+      32,
+      98
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_panel_4",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      34,
+      96,
+      35,
+      98
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_panel_4",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      193,
+      103,
+      195,
+      104
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_panel_4",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      197,
+      103,
+      199,
+      104
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_vein",
+    "face": "north",
+    "material": "vein",
+    "uv": [
+      165,
+      24,
+      166,
+      31
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_vein",
+    "face": "south",
+    "material": "vein",
+    "uv": [
+      168,
+      24,
+      169,
+      31
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_vein",
+    "face": "east",
+    "material": "vein",
+    "uv": [
+      171,
+      24,
+      172,
+      31
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_vein",
+    "face": "west",
+    "material": "vein",
+    "uv": [
+      174,
+      24,
+      175,
+      31
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_vein",
+    "face": "up",
+    "material": "vein",
+    "uv": [
+      25,
+      106,
+      26,
+      107
+    ]
+  },
+  {
+    "cube": "collar_sepal_1_vein",
+    "face": "down",
+    "material": "vein",
+    "uv": [
+      28,
+      106,
+      29,
+      107
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_panel_1",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      17,
+      88,
+      20,
+      90
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_panel_1",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      22,
+      88,
+      25,
+      90
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_panel_1",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      37,
+      96,
+      38,
+      98
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_panel_1",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      40,
+      96,
+      41,
+      98
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_panel_1",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      113,
+      103,
+      116,
+      104
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_panel_1",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      118,
+      103,
+      121,
+      104
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_panel_2",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      71,
+      61,
+      76,
+      64
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_panel_2",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      78,
+      61,
+      83,
+      64
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_panel_2",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      53,
+      71,
+      54,
+      74
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_panel_2",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      56,
+      71,
+      57,
+      74
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_panel_2",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      55,
+      100,
+      60,
+      101
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_panel_2",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      62,
+      100,
+      67,
+      101
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_panel_3",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      111,
+      66,
+      115,
+      69
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_panel_3",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      117,
+      66,
+      121,
+      69
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_panel_3",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      59,
+      71,
+      60,
+      74
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_panel_3",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      62,
+      71,
+      63,
+      74
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_panel_3",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      235,
+      100,
+      239,
+      101
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_panel_3",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      241,
+      100,
+      245,
+      101
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_panel_4",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      129,
+      88,
+      131,
+      90
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_panel_4",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      133,
+      88,
+      135,
+      90
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_panel_4",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      43,
+      96,
+      44,
+      98
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_panel_4",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      46,
+      96,
+      47,
+      98
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_panel_4",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      201,
+      103,
+      203,
+      104
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_panel_4",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      205,
+      103,
+      207,
+      104
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_vein",
+    "face": "north",
+    "material": "vein",
+    "uv": [
+      177,
+      24,
+      178,
+      31
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_vein",
+    "face": "south",
+    "material": "vein",
+    "uv": [
+      180,
+      24,
+      181,
+      31
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_vein",
+    "face": "east",
+    "material": "vein",
+    "uv": [
+      183,
+      24,
+      184,
+      31
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_vein",
+    "face": "west",
+    "material": "vein",
+    "uv": [
+      186,
+      24,
+      187,
+      31
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_vein",
+    "face": "up",
+    "material": "vein",
+    "uv": [
+      31,
+      106,
+      32,
+      107
+    ]
+  },
+  {
+    "cube": "collar_sepal_2_vein",
+    "face": "down",
+    "material": "vein",
+    "uv": [
+      34,
+      106,
+      35,
+      107
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_panel_1",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      27,
+      88,
+      30,
+      90
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_panel_1",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      32,
+      88,
+      35,
+      90
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_panel_1",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      49,
+      96,
+      50,
+      98
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_panel_1",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      52,
+      96,
+      53,
+      98
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_panel_1",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      123,
+      103,
+      126,
+      104
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_panel_1",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      128,
+      103,
+      131,
+      104
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_panel_2",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      85,
+      61,
+      90,
+      64
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_panel_2",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      92,
+      61,
+      97,
+      64
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_panel_2",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      65,
+      71,
+      66,
+      74
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_panel_2",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      68,
+      71,
+      69,
+      74
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_panel_2",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      69,
+      100,
+      74,
+      101
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_panel_2",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      76,
+      100,
+      81,
+      101
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_panel_3",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      123,
+      66,
+      127,
+      69
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_panel_3",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      129,
+      66,
+      133,
+      69
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_panel_3",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      71,
+      71,
+      72,
+      74
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_panel_3",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      74,
+      71,
+      75,
+      74
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_panel_3",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      247,
+      100,
+      251,
+      101
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_panel_3",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      1,
+      103,
+      5,
+      104
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_panel_4",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      137,
+      88,
+      139,
+      90
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_panel_4",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      141,
+      88,
+      143,
+      90
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_panel_4",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      55,
+      96,
+      56,
+      98
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_panel_4",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      58,
+      96,
+      59,
+      98
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_panel_4",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      209,
+      103,
+      211,
+      104
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_panel_4",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      213,
+      103,
+      215,
+      104
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_vein",
+    "face": "north",
+    "material": "vein",
+    "uv": [
+      189,
+      24,
+      190,
+      31
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_vein",
+    "face": "south",
+    "material": "vein",
+    "uv": [
+      192,
+      24,
+      193,
+      31
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_vein",
+    "face": "east",
+    "material": "vein",
+    "uv": [
+      195,
+      24,
+      196,
+      31
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_vein",
+    "face": "west",
+    "material": "vein",
+    "uv": [
+      198,
+      24,
+      199,
+      31
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_vein",
+    "face": "up",
+    "material": "vein",
+    "uv": [
+      37,
+      106,
+      38,
+      107
+    ]
+  },
+  {
+    "cube": "collar_sepal_3_vein",
+    "face": "down",
+    "material": "vein",
+    "uv": [
+      40,
+      106,
+      41,
+      107
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_panel_1",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      37,
+      88,
+      40,
+      90
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_panel_1",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      42,
+      88,
+      45,
+      90
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_panel_1",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      61,
+      96,
+      62,
+      98
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_panel_1",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      64,
+      96,
+      65,
+      98
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_panel_1",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      133,
+      103,
+      136,
+      104
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_panel_1",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      138,
+      103,
+      141,
+      104
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_panel_2",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      99,
+      61,
+      104,
+      64
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_panel_2",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      106,
+      61,
+      111,
+      64
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_panel_2",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      77,
+      71,
+      78,
+      74
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_panel_2",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      80,
+      71,
+      81,
+      74
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_panel_2",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      83,
+      100,
+      88,
+      101
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_panel_2",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      90,
+      100,
+      95,
+      101
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_panel_3",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      135,
+      66,
+      139,
+      69
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_panel_3",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      141,
+      66,
+      145,
+      69
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_panel_3",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      83,
+      71,
+      84,
+      74
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_panel_3",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      86,
+      71,
+      87,
+      74
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_panel_3",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      7,
+      103,
+      11,
+      104
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_panel_3",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      13,
+      103,
+      17,
+      104
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_panel_4",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      145,
+      88,
+      147,
+      90
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_panel_4",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      149,
+      88,
+      151,
+      90
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_panel_4",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      67,
+      96,
+      68,
+      98
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_panel_4",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      70,
+      96,
+      71,
+      98
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_panel_4",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      217,
+      103,
+      219,
+      104
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_panel_4",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      221,
+      103,
+      223,
+      104
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_vein",
+    "face": "north",
+    "material": "vein",
+    "uv": [
+      201,
+      24,
+      202,
+      31
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_vein",
+    "face": "south",
+    "material": "vein",
+    "uv": [
+      204,
+      24,
+      205,
+      31
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_vein",
+    "face": "east",
+    "material": "vein",
+    "uv": [
+      207,
+      24,
+      208,
+      31
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_vein",
+    "face": "west",
+    "material": "vein",
+    "uv": [
+      210,
+      24,
+      211,
+      31
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_vein",
+    "face": "up",
+    "material": "vein",
+    "uv": [
+      43,
+      106,
+      44,
+      107
+    ]
+  },
+  {
+    "cube": "collar_sepal_4_vein",
+    "face": "down",
+    "material": "vein",
+    "uv": [
+      46,
+      106,
+      47,
+      107
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_panel_1",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      47,
+      88,
+      50,
+      90
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_panel_1",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      52,
+      88,
+      55,
+      90
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_panel_1",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      73,
+      96,
+      74,
+      98
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_panel_1",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      76,
+      96,
+      77,
+      98
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_panel_1",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      143,
+      103,
+      146,
+      104
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_panel_1",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      148,
+      103,
+      151,
+      104
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_panel_2",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      113,
+      61,
+      118,
+      64
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_panel_2",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      120,
+      61,
+      125,
+      64
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_panel_2",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      89,
+      71,
+      90,
+      74
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_panel_2",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      92,
+      71,
+      93,
+      74
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_panel_2",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      97,
+      100,
+      102,
+      101
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_panel_2",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      104,
+      100,
+      109,
+      101
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_panel_3",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      147,
+      66,
+      151,
+      69
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_panel_3",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      153,
+      66,
+      157,
+      69
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_panel_3",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      95,
+      71,
+      96,
+      74
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_panel_3",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      98,
+      71,
+      99,
+      74
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_panel_3",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      19,
+      103,
+      23,
+      104
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_panel_3",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      25,
+      103,
+      29,
+      104
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_panel_4",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      153,
+      88,
+      155,
+      90
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_panel_4",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      157,
+      88,
+      159,
+      90
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_panel_4",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      79,
+      96,
+      80,
+      98
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_panel_4",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      82,
+      96,
+      83,
+      98
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_panel_4",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      225,
+      103,
+      227,
+      104
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_panel_4",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      229,
+      103,
+      231,
+      104
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_vein",
+    "face": "north",
+    "material": "vein",
+    "uv": [
+      213,
+      24,
+      214,
+      31
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_vein",
+    "face": "south",
+    "material": "vein",
+    "uv": [
+      216,
+      24,
+      217,
+      31
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_vein",
+    "face": "east",
+    "material": "vein",
+    "uv": [
+      219,
+      24,
+      220,
+      31
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_vein",
+    "face": "west",
+    "material": "vein",
+    "uv": [
+      222,
+      24,
+      223,
+      31
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_vein",
+    "face": "up",
+    "material": "vein",
+    "uv": [
+      49,
+      106,
+      50,
+      107
+    ]
+  },
+  {
+    "cube": "collar_sepal_5_vein",
+    "face": "down",
+    "material": "vein",
+    "uv": [
+      52,
+      106,
+      53,
+      107
+    ]
+  },
+  {
+    "cube": "lower_pale_stalk",
+    "face": "north",
+    "material": "neck",
+    "uv": [
+      29,
+      24,
+      32,
+      31
+    ]
+  },
+  {
+    "cube": "lower_pale_stalk",
+    "face": "south",
+    "material": "neck",
+    "uv": [
+      34,
+      24,
+      37,
+      31
+    ]
+  },
+  {
+    "cube": "lower_pale_stalk",
+    "face": "east",
+    "material": "neck",
+    "uv": [
+      39,
+      24,
+      42,
+      31
+    ]
+  },
+  {
+    "cube": "lower_pale_stalk",
+    "face": "west",
+    "material": "neck",
+    "uv": [
+      44,
+      24,
+      47,
+      31
+    ]
+  },
+  {
+    "cube": "lower_pale_stalk",
+    "face": "up",
+    "material": "neck",
+    "uv": [
+      171,
+      66,
+      174,
+      69
+    ]
+  },
+  {
+    "cube": "lower_pale_stalk",
+    "face": "down",
+    "material": "neck",
+    "uv": [
+      176,
+      66,
+      179,
+      69
+    ]
+  },
+  {
+    "cube": "neck_curve",
+    "face": "north",
+    "material": "neck",
+    "uv": [
+      201,
+      33,
+      204,
+      39
+    ]
+  },
+  {
+    "cube": "neck_curve",
+    "face": "south",
+    "material": "neck",
+    "uv": [
+      206,
+      33,
+      209,
+      39
+    ]
+  },
+  {
+    "cube": "neck_curve",
+    "face": "east",
+    "material": "neck",
+    "uv": [
+      211,
+      33,
+      214,
+      39
+    ]
+  },
+  {
+    "cube": "neck_curve",
+    "face": "west",
+    "material": "neck",
+    "uv": [
+      216,
+      33,
+      219,
+      39
+    ]
+  },
+  {
+    "cube": "neck_curve",
+    "face": "up",
+    "material": "neck",
+    "uv": [
+      181,
+      66,
+      184,
+      69
+    ]
+  },
+  {
+    "cube": "neck_curve",
+    "face": "down",
+    "material": "neck",
+    "uv": [
+      186,
+      66,
+      189,
+      69
+    ]
+  },
+  {
+    "cube": "neck_return",
+    "face": "north",
+    "material": "neck",
+    "uv": [
+      49,
+      24,
+      52,
+      31
+    ]
+  },
+  {
+    "cube": "neck_return",
+    "face": "south",
+    "material": "neck",
+    "uv": [
+      54,
+      24,
+      57,
+      31
+    ]
+  },
+  {
+    "cube": "neck_return",
+    "face": "east",
+    "material": "neck",
+    "uv": [
+      59,
+      24,
+      62,
+      31
+    ]
+  },
+  {
+    "cube": "neck_return",
+    "face": "west",
+    "material": "neck",
+    "uv": [
+      64,
+      24,
+      67,
+      31
+    ]
+  },
+  {
+    "cube": "neck_return",
+    "face": "up",
+    "material": "neck",
+    "uv": [
+      191,
+      66,
+      194,
+      69
+    ]
+  },
+  {
+    "cube": "neck_return",
+    "face": "down",
+    "material": "neck",
+    "uv": [
+      196,
+      66,
+      199,
+      69
+    ]
+  },
+  {
+    "cube": "calyx_center",
+    "face": "north",
+    "material": "calyx",
+    "uv": [
+      227,
+      1,
+      236,
+      9
+    ]
+  },
+  {
+    "cube": "calyx_center",
+    "face": "south",
+    "material": "calyx",
+    "uv": [
+      238,
+      1,
+      247,
+      9
+    ]
+  },
+  {
+    "cube": "calyx_center",
+    "face": "up",
+    "material": "calyx",
+    "uv": [
+      1,
+      14,
+      10,
+      22
+    ]
+  },
+  {
+    "cube": "calyx_center",
+    "face": "down",
+    "material": "calyx",
+    "uv": [
+      12,
+      14,
+      21,
+      22
+    ]
+  },
+  {
+    "cube": "calyx_center",
+    "face": "east",
+    "material": "calyx",
+    "uv": [
+      23,
+      14,
+      31,
+      22
+    ]
+  },
+  {
+    "cube": "calyx_center",
+    "face": "west",
+    "material": "calyx",
+    "uv": [
+      33,
+      14,
+      41,
+      22
+    ]
+  },
+  {
+    "cube": "calyx_top",
+    "face": "up",
+    "material": "calyx",
+    "uv": [
+      155,
+      33,
+      161,
+      39
+    ]
+  },
+  {
+    "cube": "calyx_top",
+    "face": "down",
+    "material": "calyx",
+    "uv": [
+      163,
+      33,
+      169,
+      39
+    ]
+  },
+  {
+    "cube": "calyx_top",
+    "face": "north",
+    "material": "calyx",
+    "uv": [
+      229,
+      56,
+      235,
+      59
+    ]
+  },
+  {
+    "cube": "calyx_top",
+    "face": "south",
+    "material": "calyx",
+    "uv": [
+      237,
+      56,
+      243,
+      59
+    ]
+  },
+  {
+    "cube": "calyx_top",
+    "face": "east",
+    "material": "calyx",
+    "uv": [
+      245,
+      56,
+      251,
+      59
+    ]
+  },
+  {
+    "cube": "calyx_top",
+    "face": "west",
+    "material": "calyx",
+    "uv": [
+      1,
+      61,
+      7,
+      64
+    ]
+  },
+  {
+    "cube": "calyx_lower",
+    "face": "up",
+    "material": "calyx",
+    "uv": [
+      65,
+      33,
+      72,
+      39
+    ]
+  },
+  {
+    "cube": "calyx_lower",
+    "face": "down",
+    "material": "calyx",
+    "uv": [
+      74,
+      33,
+      81,
+      39
+    ]
+  },
+  {
+    "cube": "calyx_lower",
+    "face": "north",
+    "material": "calyx",
+    "uv": [
+      121,
+      56,
+      128,
+      59
+    ]
+  },
+  {
+    "cube": "calyx_lower",
+    "face": "south",
+    "material": "calyx",
+    "uv": [
+      130,
+      56,
+      137,
+      59
+    ]
+  },
+  {
+    "cube": "calyx_lower",
+    "face": "east",
+    "material": "calyx",
+    "uv": [
+      9,
+      61,
+      15,
+      64
+    ]
+  },
+  {
+    "cube": "calyx_lower",
+    "face": "west",
+    "material": "calyx",
+    "uv": [
+      17,
+      61,
+      23,
+      64
+    ]
+  },
+  {
+    "cube": "left_head_bract_base",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      69,
+      24,
+      71,
+      31
+    ]
+  },
+  {
+    "cube": "left_head_bract_base",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      73,
+      24,
+      75,
+      31
+    ]
+  },
+  {
+    "cube": "left_head_bract_base",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      77,
+      24,
+      79,
+      31
+    ]
+  },
+  {
+    "cube": "left_head_bract_base",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      81,
+      24,
+      83,
+      31
+    ]
+  },
+  {
+    "cube": "left_head_bract_base",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      161,
+      88,
+      163,
+      90
+    ]
+  },
+  {
+    "cube": "left_head_bract_base",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      165,
+      88,
+      167,
+      90
+    ]
+  },
+  {
+    "cube": "left_head_bract_tip",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      23,
+      49,
+      24,
+      54
+    ]
+  },
+  {
+    "cube": "left_head_bract_tip",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      26,
+      49,
+      27,
+      54
+    ]
+  },
+  {
+    "cube": "left_head_bract_tip",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      29,
+      49,
+      30,
+      54
+    ]
+  },
+  {
+    "cube": "left_head_bract_tip",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      32,
+      49,
+      33,
+      54
+    ]
+  },
+  {
+    "cube": "left_head_bract_tip",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      55,
+      106,
+      56,
+      107
+    ]
+  },
+  {
+    "cube": "left_head_bract_tip",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      58,
+      106,
+      59,
+      107
+    ]
+  },
+  {
+    "cube": "right_head_bract_base",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      85,
+      24,
+      87,
+      31
+    ]
+  },
+  {
+    "cube": "right_head_bract_base",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      89,
+      24,
+      91,
+      31
+    ]
+  },
+  {
+    "cube": "right_head_bract_base",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      93,
+      24,
+      95,
+      31
+    ]
+  },
+  {
+    "cube": "right_head_bract_base",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      97,
+      24,
+      99,
+      31
+    ]
+  },
+  {
+    "cube": "right_head_bract_base",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      169,
+      88,
+      171,
+      90
+    ]
+  },
+  {
+    "cube": "right_head_bract_base",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      173,
+      88,
+      175,
+      90
+    ]
+  },
+  {
+    "cube": "right_head_bract_tip",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      35,
+      49,
+      36,
+      54
+    ]
+  },
+  {
+    "cube": "right_head_bract_tip",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      38,
+      49,
+      39,
+      54
+    ]
+  },
+  {
+    "cube": "right_head_bract_tip",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      41,
+      49,
+      42,
+      54
+    ]
+  },
+  {
+    "cube": "right_head_bract_tip",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      44,
+      49,
+      45,
+      54
+    ]
+  },
+  {
+    "cube": "right_head_bract_tip",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      61,
+      106,
+      62,
+      107
+    ]
+  },
+  {
+    "cube": "right_head_bract_tip",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      64,
+      106,
+      65,
+      107
+    ]
+  },
+  {
+    "cube": "petal_1_lobe_1",
+    "face": "north",
+    "material": "petal",
+    "uv": [
+      139,
+      56,
+      146,
+      59
+    ]
+  },
+  {
+    "cube": "petal_1_lobe_1",
+    "face": "south",
+    "material": "petal",
+    "uv": [
+      148,
+      56,
+      155,
+      59
+    ]
+  },
+  {
+    "cube": "petal_1_lobe_1",
+    "face": "east",
+    "material": "petal",
+    "uv": [
+      201,
+      66,
+      203,
+      69
+    ]
+  },
+  {
+    "cube": "petal_1_lobe_1",
+    "face": "west",
+    "material": "petal",
+    "uv": [
+      205,
+      66,
+      207,
+      69
+    ]
+  },
+  {
+    "cube": "petal_1_lobe_1",
+    "face": "up",
+    "material": "petal",
+    "uv": [
+      55,
+      80,
+      62,
+      82
+    ]
+  },
+  {
+    "cube": "petal_1_lobe_1",
+    "face": "down",
+    "material": "petal",
+    "uv": [
+      64,
+      80,
+      71,
+      82
+    ]
+  },
+  {
+    "cube": "petal_1_lobe_2",
+    "face": "north",
+    "material": "petal",
+    "uv": [
+      47,
+      49,
+      58,
+      53
+    ]
+  },
+  {
+    "cube": "petal_1_lobe_2",
+    "face": "south",
+    "material": "petal",
+    "uv": [
+      60,
+      49,
+      71,
+      53
+    ]
+  },
+  {
+    "cube": "petal_1_lobe_2",
+    "face": "east",
+    "material": "petal",
+    "uv": [
+      189,
+      49,
+      191,
+      53
+    ]
+  },
+  {
+    "cube": "petal_1_lobe_2",
+    "face": "west",
+    "material": "petal",
+    "uv": [
+      193,
+      49,
+      195,
+      53
+    ]
+  },
+  {
+    "cube": "petal_1_lobe_2",
+    "face": "up",
+    "material": "petal",
+    "uv": [
+      233,
+      71,
+      244,
+      73
+    ]
+  },
+  {
+    "cube": "petal_1_lobe_2",
+    "face": "down",
+    "material": "petal",
+    "uv": [
+      1,
+      76,
+      12,
+      78
+    ]
+  },
+  {
+    "cube": "petal_1_lobe_3",
+    "face": "north",
+    "material": "petal",
+    "uv": [
+      1,
+      56,
+      11,
+      59
+    ]
+  },
+  {
+    "cube": "petal_1_lobe_3",
+    "face": "south",
+    "material": "petal",
+    "uv": [
+      13,
+      56,
+      23,
+      59
+    ]
+  },
+  {
+    "cube": "petal_1_lobe_3",
+    "face": "east",
+    "material": "petal",
+    "uv": [
+      209,
+      66,
+      211,
+      69
+    ]
+  },
+  {
+    "cube": "petal_1_lobe_3",
+    "face": "west",
+    "material": "petal",
+    "uv": [
+      213,
+      66,
+      215,
+      69
+    ]
+  },
+  {
+    "cube": "petal_1_lobe_3",
+    "face": "up",
+    "material": "petal",
+    "uv": [
+      118,
+      76,
+      128,
+      78
+    ]
+  },
+  {
+    "cube": "petal_1_lobe_3",
+    "face": "down",
+    "material": "petal",
+    "uv": [
+      130,
+      76,
+      140,
+      78
+    ]
+  },
+  {
+    "cube": "petal_1_lobe_4",
+    "face": "north",
+    "material": "petal",
+    "uv": [
+      181,
+      80,
+      187,
+      82
+    ]
+  },
+  {
+    "cube": "petal_1_lobe_4",
+    "face": "south",
+    "material": "petal",
+    "uv": [
+      189,
+      80,
+      195,
+      82
+    ]
+  },
+  {
+    "cube": "petal_1_lobe_4",
+    "face": "up",
+    "material": "petal",
+    "uv": [
+      197,
+      80,
+      203,
+      82
+    ]
+  },
+  {
+    "cube": "petal_1_lobe_4",
+    "face": "down",
+    "material": "petal",
+    "uv": [
+      205,
+      80,
+      211,
+      82
+    ]
+  },
+  {
+    "cube": "petal_1_lobe_4",
+    "face": "east",
+    "material": "petal",
+    "uv": [
+      177,
+      88,
+      179,
+      90
+    ]
+  },
+  {
+    "cube": "petal_1_lobe_4",
+    "face": "west",
+    "material": "petal",
+    "uv": [
+      181,
+      88,
+      183,
+      90
+    ]
+  },
+  {
+    "cube": "petal_1_central_fold",
+    "face": "north",
+    "material": "petal_vein",
+    "uv": [
+      119,
+      1,
+      120,
+      10
+    ]
+  },
+  {
+    "cube": "petal_1_central_fold",
+    "face": "south",
+    "material": "petal_vein",
+    "uv": [
+      122,
+      1,
+      123,
+      10
+    ]
+  },
+  {
+    "cube": "petal_1_central_fold",
+    "face": "east",
+    "material": "petal_vein",
+    "uv": [
+      125,
+      1,
+      126,
+      10
+    ]
+  },
+  {
+    "cube": "petal_1_central_fold",
+    "face": "west",
+    "material": "petal_vein",
+    "uv": [
+      128,
+      1,
+      129,
+      10
+    ]
+  },
+  {
+    "cube": "petal_1_central_fold",
+    "face": "up",
+    "material": "petal_vein",
+    "uv": [
+      67,
+      106,
+      68,
+      107
+    ]
+  },
+  {
+    "cube": "petal_1_central_fold",
+    "face": "down",
+    "material": "petal_vein",
+    "uv": [
+      70,
+      106,
+      71,
+      107
+    ]
+  },
+  {
+    "cube": "petal_2_lobe_1",
+    "face": "north",
+    "material": "petal",
+    "uv": [
+      157,
+      56,
+      164,
+      59
+    ]
+  },
+  {
+    "cube": "petal_2_lobe_1",
+    "face": "south",
+    "material": "petal",
+    "uv": [
+      166,
+      56,
+      173,
+      59
+    ]
+  },
+  {
+    "cube": "petal_2_lobe_1",
+    "face": "east",
+    "material": "petal",
+    "uv": [
+      217,
+      66,
+      219,
+      69
+    ]
+  },
+  {
+    "cube": "petal_2_lobe_1",
+    "face": "west",
+    "material": "petal",
+    "uv": [
+      221,
+      66,
+      223,
+      69
+    ]
+  },
+  {
+    "cube": "petal_2_lobe_1",
+    "face": "up",
+    "material": "petal",
+    "uv": [
+      73,
+      80,
+      80,
+      82
+    ]
+  },
+  {
+    "cube": "petal_2_lobe_1",
+    "face": "down",
+    "material": "petal",
+    "uv": [
+      82,
+      80,
+      89,
+      82
+    ]
+  },
+  {
+    "cube": "petal_2_lobe_2",
+    "face": "north",
+    "material": "petal",
+    "uv": [
+      73,
+      49,
+      84,
+      53
+    ]
+  },
+  {
+    "cube": "petal_2_lobe_2",
+    "face": "south",
+    "material": "petal",
+    "uv": [
+      86,
+      49,
+      97,
+      53
+    ]
+  },
+  {
+    "cube": "petal_2_lobe_2",
+    "face": "east",
+    "material": "petal",
+    "uv": [
+      197,
+      49,
+      199,
+      53
+    ]
+  },
+  {
+    "cube": "petal_2_lobe_2",
+    "face": "west",
+    "material": "petal",
+    "uv": [
+      201,
+      49,
+      203,
+      53
+    ]
+  },
+  {
+    "cube": "petal_2_lobe_2",
+    "face": "up",
+    "material": "petal",
+    "uv": [
+      14,
+      76,
+      25,
+      78
+    ]
+  },
+  {
+    "cube": "petal_2_lobe_2",
+    "face": "down",
+    "material": "petal",
+    "uv": [
+      27,
+      76,
+      38,
+      78
+    ]
+  },
+  {
+    "cube": "petal_2_lobe_3",
+    "face": "north",
+    "material": "petal",
+    "uv": [
+      25,
+      56,
+      35,
+      59
+    ]
+  },
+  {
+    "cube": "petal_2_lobe_3",
+    "face": "south",
+    "material": "petal",
+    "uv": [
+      37,
+      56,
+      47,
+      59
+    ]
+  },
+  {
+    "cube": "petal_2_lobe_3",
+    "face": "east",
+    "material": "petal",
+    "uv": [
+      225,
+      66,
+      227,
+      69
+    ]
+  },
+  {
+    "cube": "petal_2_lobe_3",
+    "face": "west",
+    "material": "petal",
+    "uv": [
+      229,
+      66,
+      231,
+      69
+    ]
+  },
+  {
+    "cube": "petal_2_lobe_3",
+    "face": "up",
+    "material": "petal",
+    "uv": [
+      142,
+      76,
+      152,
+      78
+    ]
+  },
+  {
+    "cube": "petal_2_lobe_3",
+    "face": "down",
+    "material": "petal",
+    "uv": [
+      154,
+      76,
+      164,
+      78
+    ]
+  },
+  {
+    "cube": "petal_2_lobe_4",
+    "face": "north",
+    "material": "petal",
+    "uv": [
+      213,
+      80,
+      219,
+      82
+    ]
+  },
+  {
+    "cube": "petal_2_lobe_4",
+    "face": "south",
+    "material": "petal",
+    "uv": [
+      221,
+      80,
+      227,
+      82
+    ]
+  },
+  {
+    "cube": "petal_2_lobe_4",
+    "face": "up",
+    "material": "petal",
+    "uv": [
+      229,
+      80,
+      235,
+      82
+    ]
+  },
+  {
+    "cube": "petal_2_lobe_4",
+    "face": "down",
+    "material": "petal",
+    "uv": [
+      237,
+      80,
+      243,
+      82
+    ]
+  },
+  {
+    "cube": "petal_2_lobe_4",
+    "face": "east",
+    "material": "petal",
+    "uv": [
+      185,
+      88,
+      187,
+      90
+    ]
+  },
+  {
+    "cube": "petal_2_lobe_4",
+    "face": "west",
+    "material": "petal",
+    "uv": [
+      189,
+      88,
+      191,
+      90
+    ]
+  },
+  {
+    "cube": "petal_2_central_fold",
+    "face": "north",
+    "material": "petal_vein",
+    "uv": [
+      131,
+      1,
+      132,
+      10
+    ]
+  },
+  {
+    "cube": "petal_2_central_fold",
+    "face": "south",
+    "material": "petal_vein",
+    "uv": [
+      134,
+      1,
+      135,
+      10
+    ]
+  },
+  {
+    "cube": "petal_2_central_fold",
+    "face": "east",
+    "material": "petal_vein",
+    "uv": [
+      137,
+      1,
+      138,
+      10
+    ]
+  },
+  {
+    "cube": "petal_2_central_fold",
+    "face": "west",
+    "material": "petal_vein",
+    "uv": [
+      140,
+      1,
+      141,
+      10
+    ]
+  },
+  {
+    "cube": "petal_2_central_fold",
+    "face": "up",
+    "material": "petal_vein",
+    "uv": [
+      73,
+      106,
+      74,
+      107
+    ]
+  },
+  {
+    "cube": "petal_2_central_fold",
+    "face": "down",
+    "material": "petal_vein",
+    "uv": [
+      76,
+      106,
+      77,
+      107
+    ]
+  },
+  {
+    "cube": "petal_3_lobe_1",
+    "face": "north",
+    "material": "petal",
+    "uv": [
+      175,
+      56,
+      182,
+      59
+    ]
+  },
+  {
+    "cube": "petal_3_lobe_1",
+    "face": "south",
+    "material": "petal",
+    "uv": [
+      184,
+      56,
+      191,
+      59
+    ]
+  },
+  {
+    "cube": "petal_3_lobe_1",
+    "face": "east",
+    "material": "petal",
+    "uv": [
+      233,
+      66,
+      235,
+      69
+    ]
+  },
+  {
+    "cube": "petal_3_lobe_1",
+    "face": "west",
+    "material": "petal",
+    "uv": [
+      237,
+      66,
+      239,
+      69
+    ]
+  },
+  {
+    "cube": "petal_3_lobe_1",
+    "face": "up",
+    "material": "petal",
+    "uv": [
+      91,
+      80,
+      98,
+      82
+    ]
+  },
+  {
+    "cube": "petal_3_lobe_1",
+    "face": "down",
+    "material": "petal",
+    "uv": [
+      100,
+      80,
+      107,
+      82
+    ]
+  },
+  {
+    "cube": "petal_3_lobe_2",
+    "face": "north",
+    "material": "petal",
+    "uv": [
+      99,
+      49,
+      110,
+      53
+    ]
+  },
+  {
+    "cube": "petal_3_lobe_2",
+    "face": "south",
+    "material": "petal",
+    "uv": [
+      112,
+      49,
+      123,
+      53
+    ]
+  },
+  {
+    "cube": "petal_3_lobe_2",
+    "face": "east",
+    "material": "petal",
+    "uv": [
+      205,
+      49,
+      207,
+      53
+    ]
+  },
+  {
+    "cube": "petal_3_lobe_2",
+    "face": "west",
+    "material": "petal",
+    "uv": [
+      209,
+      49,
+      211,
+      53
+    ]
+  },
+  {
+    "cube": "petal_3_lobe_2",
+    "face": "up",
+    "material": "petal",
+    "uv": [
+      40,
+      76,
+      51,
+      78
+    ]
+  },
+  {
+    "cube": "petal_3_lobe_2",
+    "face": "down",
+    "material": "petal",
+    "uv": [
+      53,
+      76,
+      64,
+      78
+    ]
+  },
+  {
+    "cube": "petal_3_lobe_3",
+    "face": "north",
+    "material": "petal",
+    "uv": [
+      49,
+      56,
+      59,
+      59
+    ]
+  },
+  {
+    "cube": "petal_3_lobe_3",
+    "face": "south",
+    "material": "petal",
+    "uv": [
+      61,
+      56,
+      71,
+      59
+    ]
+  },
+  {
+    "cube": "petal_3_lobe_3",
+    "face": "east",
+    "material": "petal",
+    "uv": [
+      241,
+      66,
+      243,
+      69
+    ]
+  },
+  {
+    "cube": "petal_3_lobe_3",
+    "face": "west",
+    "material": "petal",
+    "uv": [
+      245,
+      66,
+      247,
+      69
+    ]
+  },
+  {
+    "cube": "petal_3_lobe_3",
+    "face": "up",
+    "material": "petal",
+    "uv": [
+      166,
+      76,
+      176,
+      78
+    ]
+  },
+  {
+    "cube": "petal_3_lobe_3",
+    "face": "down",
+    "material": "petal",
+    "uv": [
+      178,
+      76,
+      188,
+      78
+    ]
+  },
+  {
+    "cube": "petal_3_lobe_4",
+    "face": "north",
+    "material": "petal",
+    "uv": [
+      245,
+      80,
+      251,
+      82
+    ]
+  },
+  {
+    "cube": "petal_3_lobe_4",
+    "face": "south",
+    "material": "petal",
+    "uv": [
+      1,
+      84,
+      7,
+      86
+    ]
+  },
+  {
+    "cube": "petal_3_lobe_4",
+    "face": "up",
+    "material": "petal",
+    "uv": [
+      9,
+      84,
+      15,
+      86
+    ]
+  },
+  {
+    "cube": "petal_3_lobe_4",
+    "face": "down",
+    "material": "petal",
+    "uv": [
+      17,
+      84,
+      23,
+      86
+    ]
+  },
+  {
+    "cube": "petal_3_lobe_4",
+    "face": "east",
+    "material": "petal",
+    "uv": [
+      193,
+      88,
+      195,
+      90
+    ]
+  },
+  {
+    "cube": "petal_3_lobe_4",
+    "face": "west",
+    "material": "petal",
+    "uv": [
+      197,
+      88,
+      199,
+      90
+    ]
+  },
+  {
+    "cube": "petal_3_central_fold",
+    "face": "north",
+    "material": "petal_vein",
+    "uv": [
+      143,
+      1,
+      144,
+      10
+    ]
+  },
+  {
+    "cube": "petal_3_central_fold",
+    "face": "south",
+    "material": "petal_vein",
+    "uv": [
+      146,
+      1,
+      147,
+      10
+    ]
+  },
+  {
+    "cube": "petal_3_central_fold",
+    "face": "east",
+    "material": "petal_vein",
+    "uv": [
+      149,
+      1,
+      150,
+      10
+    ]
+  },
+  {
+    "cube": "petal_3_central_fold",
+    "face": "west",
+    "material": "petal_vein",
+    "uv": [
+      152,
+      1,
+      153,
+      10
+    ]
+  },
+  {
+    "cube": "petal_3_central_fold",
+    "face": "up",
+    "material": "petal_vein",
+    "uv": [
+      79,
+      106,
+      80,
+      107
+    ]
+  },
+  {
+    "cube": "petal_3_central_fold",
+    "face": "down",
+    "material": "petal_vein",
+    "uv": [
+      82,
+      106,
+      83,
+      107
+    ]
+  },
+  {
+    "cube": "petal_4_lobe_1",
+    "face": "north",
+    "material": "petal",
+    "uv": [
+      193,
+      56,
+      200,
+      59
+    ]
+  },
+  {
+    "cube": "petal_4_lobe_1",
+    "face": "south",
+    "material": "petal",
+    "uv": [
+      202,
+      56,
+      209,
+      59
+    ]
+  },
+  {
+    "cube": "petal_4_lobe_1",
+    "face": "east",
+    "material": "petal",
+    "uv": [
+      249,
+      66,
+      251,
+      69
+    ]
+  },
+  {
+    "cube": "petal_4_lobe_1",
+    "face": "west",
+    "material": "petal",
+    "uv": [
+      253,
+      66,
+      255,
+      69
+    ]
+  },
+  {
+    "cube": "petal_4_lobe_1",
+    "face": "up",
+    "material": "petal",
+    "uv": [
+      109,
+      80,
+      116,
+      82
+    ]
+  },
+  {
+    "cube": "petal_4_lobe_1",
+    "face": "down",
+    "material": "petal",
+    "uv": [
+      118,
+      80,
+      125,
+      82
+    ]
+  },
+  {
+    "cube": "petal_4_lobe_2",
+    "face": "north",
+    "material": "petal",
+    "uv": [
+      125,
+      49,
+      136,
+      53
+    ]
+  },
+  {
+    "cube": "petal_4_lobe_2",
+    "face": "south",
+    "material": "petal",
+    "uv": [
+      138,
+      49,
+      149,
+      53
+    ]
+  },
+  {
+    "cube": "petal_4_lobe_2",
+    "face": "east",
+    "material": "petal",
+    "uv": [
+      213,
+      49,
+      215,
+      53
+    ]
+  },
+  {
+    "cube": "petal_4_lobe_2",
+    "face": "west",
+    "material": "petal",
+    "uv": [
+      217,
+      49,
+      219,
+      53
+    ]
+  },
+  {
+    "cube": "petal_4_lobe_2",
+    "face": "up",
+    "material": "petal",
+    "uv": [
+      66,
+      76,
+      77,
+      78
+    ]
+  },
+  {
+    "cube": "petal_4_lobe_2",
+    "face": "down",
+    "material": "petal",
+    "uv": [
+      79,
+      76,
+      90,
+      78
+    ]
+  },
+  {
+    "cube": "petal_4_lobe_3",
+    "face": "north",
+    "material": "petal",
+    "uv": [
+      73,
+      56,
+      83,
+      59
+    ]
+  },
+  {
+    "cube": "petal_4_lobe_3",
+    "face": "south",
+    "material": "petal",
+    "uv": [
+      85,
+      56,
+      95,
+      59
+    ]
+  },
+  {
+    "cube": "petal_4_lobe_3",
+    "face": "east",
+    "material": "petal",
+    "uv": [
+      1,
+      71,
+      3,
+      74
+    ]
+  },
+  {
+    "cube": "petal_4_lobe_3",
+    "face": "west",
+    "material": "petal",
+    "uv": [
+      5,
+      71,
+      7,
+      74
+    ]
+  },
+  {
+    "cube": "petal_4_lobe_3",
+    "face": "up",
+    "material": "petal",
+    "uv": [
+      190,
+      76,
+      200,
+      78
+    ]
+  },
+  {
+    "cube": "petal_4_lobe_3",
+    "face": "down",
+    "material": "petal",
+    "uv": [
+      202,
+      76,
+      212,
+      78
+    ]
+  },
+  {
+    "cube": "petal_4_lobe_4",
+    "face": "north",
+    "material": "petal",
+    "uv": [
+      25,
+      84,
+      31,
+      86
+    ]
+  },
+  {
+    "cube": "petal_4_lobe_4",
+    "face": "south",
+    "material": "petal",
+    "uv": [
+      33,
+      84,
+      39,
+      86
+    ]
+  },
+  {
+    "cube": "petal_4_lobe_4",
+    "face": "up",
+    "material": "petal",
+    "uv": [
+      41,
+      84,
+      47,
+      86
+    ]
+  },
+  {
+    "cube": "petal_4_lobe_4",
+    "face": "down",
+    "material": "petal",
+    "uv": [
+      49,
+      84,
+      55,
+      86
+    ]
+  },
+  {
+    "cube": "petal_4_lobe_4",
+    "face": "east",
+    "material": "petal",
+    "uv": [
+      201,
+      88,
+      203,
+      90
+    ]
+  },
+  {
+    "cube": "petal_4_lobe_4",
+    "face": "west",
+    "material": "petal",
+    "uv": [
+      205,
+      88,
+      207,
+      90
+    ]
+  },
+  {
+    "cube": "petal_4_central_fold",
+    "face": "north",
+    "material": "petal_vein",
+    "uv": [
+      155,
+      1,
+      156,
+      10
+    ]
+  },
+  {
+    "cube": "petal_4_central_fold",
+    "face": "south",
+    "material": "petal_vein",
+    "uv": [
+      158,
+      1,
+      159,
+      10
+    ]
+  },
+  {
+    "cube": "petal_4_central_fold",
+    "face": "east",
+    "material": "petal_vein",
+    "uv": [
+      161,
+      1,
+      162,
+      10
+    ]
+  },
+  {
+    "cube": "petal_4_central_fold",
+    "face": "west",
+    "material": "petal_vein",
+    "uv": [
+      164,
+      1,
+      165,
+      10
+    ]
+  },
+  {
+    "cube": "petal_4_central_fold",
+    "face": "up",
+    "material": "petal_vein",
+    "uv": [
+      85,
+      106,
+      86,
+      107
+    ]
+  },
+  {
+    "cube": "petal_4_central_fold",
+    "face": "down",
+    "material": "petal_vein",
+    "uv": [
+      88,
+      106,
+      89,
+      107
+    ]
+  },
+  {
+    "cube": "petal_5_lobe_1",
+    "face": "north",
+    "material": "petal",
+    "uv": [
+      211,
+      56,
+      218,
+      59
+    ]
+  },
+  {
+    "cube": "petal_5_lobe_1",
+    "face": "south",
+    "material": "petal",
+    "uv": [
+      220,
+      56,
+      227,
+      59
+    ]
+  },
+  {
+    "cube": "petal_5_lobe_1",
+    "face": "east",
+    "material": "petal",
+    "uv": [
+      9,
+      71,
+      11,
+      74
+    ]
+  },
+  {
+    "cube": "petal_5_lobe_1",
+    "face": "west",
+    "material": "petal",
+    "uv": [
+      13,
+      71,
+      15,
+      74
+    ]
+  },
+  {
+    "cube": "petal_5_lobe_1",
+    "face": "up",
+    "material": "petal",
+    "uv": [
+      127,
+      80,
+      134,
+      82
+    ]
+  },
+  {
+    "cube": "petal_5_lobe_1",
+    "face": "down",
+    "material": "petal",
+    "uv": [
+      136,
+      80,
+      143,
+      82
+    ]
+  },
+  {
+    "cube": "petal_5_lobe_2",
+    "face": "north",
+    "material": "petal",
+    "uv": [
+      151,
+      49,
+      162,
+      53
+    ]
+  },
+  {
+    "cube": "petal_5_lobe_2",
+    "face": "south",
+    "material": "petal",
+    "uv": [
+      164,
+      49,
+      175,
+      53
+    ]
+  },
+  {
+    "cube": "petal_5_lobe_2",
+    "face": "east",
+    "material": "petal",
+    "uv": [
+      221,
+      49,
+      223,
+      53
+    ]
+  },
+  {
+    "cube": "petal_5_lobe_2",
+    "face": "west",
+    "material": "petal",
+    "uv": [
+      225,
+      49,
+      227,
+      53
+    ]
+  },
+  {
+    "cube": "petal_5_lobe_2",
+    "face": "up",
+    "material": "petal",
+    "uv": [
+      92,
+      76,
+      103,
+      78
+    ]
+  },
+  {
+    "cube": "petal_5_lobe_2",
+    "face": "down",
+    "material": "petal",
+    "uv": [
+      105,
+      76,
+      116,
+      78
+    ]
+  },
+  {
+    "cube": "petal_5_lobe_3",
+    "face": "north",
+    "material": "petal",
+    "uv": [
+      97,
+      56,
+      107,
+      59
+    ]
+  },
+  {
+    "cube": "petal_5_lobe_3",
+    "face": "south",
+    "material": "petal",
+    "uv": [
+      109,
+      56,
+      119,
+      59
+    ]
+  },
+  {
+    "cube": "petal_5_lobe_3",
+    "face": "east",
+    "material": "petal",
+    "uv": [
+      17,
+      71,
+      19,
+      74
+    ]
+  },
+  {
+    "cube": "petal_5_lobe_3",
+    "face": "west",
+    "material": "petal",
+    "uv": [
+      21,
+      71,
+      23,
+      74
+    ]
+  },
+  {
+    "cube": "petal_5_lobe_3",
+    "face": "up",
+    "material": "petal",
+    "uv": [
+      214,
+      76,
+      224,
+      78
+    ]
+  },
+  {
+    "cube": "petal_5_lobe_3",
+    "face": "down",
+    "material": "petal",
+    "uv": [
+      226,
+      76,
+      236,
+      78
+    ]
+  },
+  {
+    "cube": "petal_5_lobe_4",
+    "face": "north",
+    "material": "petal",
+    "uv": [
+      57,
+      84,
+      63,
+      86
+    ]
+  },
+  {
+    "cube": "petal_5_lobe_4",
+    "face": "south",
+    "material": "petal",
+    "uv": [
+      65,
+      84,
+      71,
+      86
+    ]
+  },
+  {
+    "cube": "petal_5_lobe_4",
+    "face": "up",
+    "material": "petal",
+    "uv": [
+      73,
+      84,
+      79,
+      86
+    ]
+  },
+  {
+    "cube": "petal_5_lobe_4",
+    "face": "down",
+    "material": "petal",
+    "uv": [
+      81,
+      84,
+      87,
+      86
+    ]
+  },
+  {
+    "cube": "petal_5_lobe_4",
+    "face": "east",
+    "material": "petal",
+    "uv": [
+      209,
+      88,
+      211,
+      90
+    ]
+  },
+  {
+    "cube": "petal_5_lobe_4",
+    "face": "west",
+    "material": "petal",
+    "uv": [
+      213,
+      88,
+      215,
+      90
+    ]
+  },
+  {
+    "cube": "petal_5_central_fold",
+    "face": "north",
+    "material": "petal_vein",
+    "uv": [
+      167,
+      1,
+      168,
+      10
+    ]
+  },
+  {
+    "cube": "petal_5_central_fold",
+    "face": "south",
+    "material": "petal_vein",
+    "uv": [
+      170,
+      1,
+      171,
+      10
+    ]
+  },
+  {
+    "cube": "petal_5_central_fold",
+    "face": "east",
+    "material": "petal_vein",
+    "uv": [
+      173,
+      1,
+      174,
+      10
+    ]
+  },
+  {
+    "cube": "petal_5_central_fold",
+    "face": "west",
+    "material": "petal_vein",
+    "uv": [
+      176,
+      1,
+      177,
+      10
+    ]
+  },
+  {
+    "cube": "petal_5_central_fold",
+    "face": "up",
+    "material": "petal_vein",
+    "uv": [
+      91,
+      106,
+      92,
+      107
+    ]
+  },
+  {
+    "cube": "petal_5_central_fold",
+    "face": "down",
+    "material": "petal_vein",
+    "uv": [
+      94,
+      106,
+      95,
+      107
+    ]
+  },
+  {
+    "cube": "throat_shadow",
+    "face": "north",
+    "material": "cavity",
+    "uv": [
+      43,
+      14,
+      51,
+      22
+    ]
+  },
+  {
+    "cube": "throat_shadow",
+    "face": "south",
+    "material": "cavity",
+    "uv": [
+      53,
+      14,
+      61,
+      22
+    ]
+  },
+  {
+    "cube": "throat_shadow",
+    "face": "east",
+    "material": "cavity",
+    "uv": [
+      143,
+      14,
+      144,
+      22
+    ]
+  },
+  {
+    "cube": "throat_shadow",
+    "face": "west",
+    "material": "cavity",
+    "uv": [
+      146,
+      14,
+      147,
+      22
+    ]
+  },
+  {
+    "cube": "throat_shadow",
+    "face": "up",
+    "material": "cavity",
+    "uv": [
+      205,
+      96,
+      213,
+      97
+    ]
+  },
+  {
+    "cube": "throat_shadow",
+    "face": "down",
+    "material": "cavity",
+    "uv": [
+      215,
+      96,
+      223,
+      97
+    ]
+  },
+  {
+    "cube": "trumpet_wall_1",
+    "face": "up",
+    "material": "trumpet",
+    "uv": [
+      141,
+      41,
+      146,
+      46
+    ]
+  },
+  {
+    "cube": "trumpet_wall_1",
+    "face": "down",
+    "material": "trumpet",
+    "uv": [
+      148,
+      41,
+      153,
+      46
+    ]
+  },
+  {
+    "cube": "trumpet_wall_1",
+    "face": "north",
+    "material": "trumpet",
+    "uv": [
+      127,
+      61,
+      132,
+      64
+    ]
+  },
+  {
+    "cube": "trumpet_wall_1",
+    "face": "south",
+    "material": "trumpet",
+    "uv": [
+      134,
+      61,
+      139,
+      64
+    ]
+  },
+  {
+    "cube": "trumpet_wall_1",
+    "face": "east",
+    "material": "trumpet",
+    "uv": [
+      141,
+      61,
+      146,
+      64
+    ]
+  },
+  {
+    "cube": "trumpet_wall_1",
+    "face": "west",
+    "material": "trumpet",
+    "uv": [
+      148,
+      61,
+      153,
+      64
+    ]
+  },
+  {
+    "cube": "purple_lip_1",
+    "face": "north",
+    "material": "petal_vein",
+    "uv": [
+      89,
+      84,
+      94,
+      86
+    ]
+  },
+  {
+    "cube": "purple_lip_1",
+    "face": "south",
+    "material": "petal_vein",
+    "uv": [
+      96,
+      84,
+      101,
+      86
+    ]
+  },
+  {
+    "cube": "purple_lip_1",
+    "face": "east",
+    "material": "petal_vein",
+    "uv": [
+      85,
+      96,
+      86,
+      98
+    ]
+  },
+  {
+    "cube": "purple_lip_1",
+    "face": "west",
+    "material": "petal_vein",
+    "uv": [
+      88,
+      96,
+      89,
+      98
+    ]
+  },
+  {
+    "cube": "purple_lip_1",
+    "face": "up",
+    "material": "petal_vein",
+    "uv": [
+      111,
+      100,
+      116,
+      101
+    ]
+  },
+  {
+    "cube": "purple_lip_1",
+    "face": "down",
+    "material": "petal_vein",
+    "uv": [
+      118,
+      100,
+      123,
+      101
+    ]
+  },
+  {
+    "cube": "trumpet_wall_2",
+    "face": "up",
+    "material": "trumpet",
+    "uv": [
+      155,
+      41,
+      160,
+      46
+    ]
+  },
+  {
+    "cube": "trumpet_wall_2",
+    "face": "down",
+    "material": "trumpet",
+    "uv": [
+      162,
+      41,
+      167,
+      46
+    ]
+  },
+  {
+    "cube": "trumpet_wall_2",
+    "face": "north",
+    "material": "trumpet",
+    "uv": [
+      155,
+      61,
+      160,
+      64
+    ]
+  },
+  {
+    "cube": "trumpet_wall_2",
+    "face": "south",
+    "material": "trumpet",
+    "uv": [
+      162,
+      61,
+      167,
+      64
+    ]
+  },
+  {
+    "cube": "trumpet_wall_2",
+    "face": "east",
+    "material": "trumpet",
+    "uv": [
+      169,
+      61,
+      174,
+      64
+    ]
+  },
+  {
+    "cube": "trumpet_wall_2",
+    "face": "west",
+    "material": "trumpet",
+    "uv": [
+      176,
+      61,
+      181,
+      64
+    ]
+  },
+  {
+    "cube": "purple_lip_2",
+    "face": "north",
+    "material": "petal_vein",
+    "uv": [
+      103,
+      84,
+      108,
+      86
+    ]
+  },
+  {
+    "cube": "purple_lip_2",
+    "face": "south",
+    "material": "petal_vein",
+    "uv": [
+      110,
+      84,
+      115,
+      86
+    ]
+  },
+  {
+    "cube": "purple_lip_2",
+    "face": "east",
+    "material": "petal_vein",
+    "uv": [
+      91,
+      96,
+      92,
+      98
+    ]
+  },
+  {
+    "cube": "purple_lip_2",
+    "face": "west",
+    "material": "petal_vein",
+    "uv": [
+      94,
+      96,
+      95,
+      98
+    ]
+  },
+  {
+    "cube": "purple_lip_2",
+    "face": "up",
+    "material": "petal_vein",
+    "uv": [
+      125,
+      100,
+      130,
+      101
+    ]
+  },
+  {
+    "cube": "purple_lip_2",
+    "face": "down",
+    "material": "petal_vein",
+    "uv": [
+      132,
+      100,
+      137,
+      101
+    ]
+  },
+  {
+    "cube": "trumpet_wall_3",
+    "face": "up",
+    "material": "trumpet",
+    "uv": [
+      169,
+      41,
+      174,
+      46
+    ]
+  },
+  {
+    "cube": "trumpet_wall_3",
+    "face": "down",
+    "material": "trumpet",
+    "uv": [
+      176,
+      41,
+      181,
+      46
+    ]
+  },
+  {
+    "cube": "trumpet_wall_3",
+    "face": "north",
+    "material": "trumpet",
+    "uv": [
+      183,
+      61,
+      188,
+      64
+    ]
+  },
+  {
+    "cube": "trumpet_wall_3",
+    "face": "south",
+    "material": "trumpet",
+    "uv": [
+      190,
+      61,
+      195,
+      64
+    ]
+  },
+  {
+    "cube": "trumpet_wall_3",
+    "face": "east",
+    "material": "trumpet",
+    "uv": [
+      197,
+      61,
+      202,
+      64
+    ]
+  },
+  {
+    "cube": "trumpet_wall_3",
+    "face": "west",
+    "material": "trumpet",
+    "uv": [
+      204,
+      61,
+      209,
+      64
+    ]
+  },
+  {
+    "cube": "purple_lip_3",
+    "face": "north",
+    "material": "petal_vein",
+    "uv": [
+      117,
+      84,
+      122,
+      86
+    ]
+  },
+  {
+    "cube": "purple_lip_3",
+    "face": "south",
+    "material": "petal_vein",
+    "uv": [
+      124,
+      84,
+      129,
+      86
+    ]
+  },
+  {
+    "cube": "purple_lip_3",
+    "face": "east",
+    "material": "petal_vein",
+    "uv": [
+      97,
+      96,
+      98,
+      98
+    ]
+  },
+  {
+    "cube": "purple_lip_3",
+    "face": "west",
+    "material": "petal_vein",
+    "uv": [
+      100,
+      96,
+      101,
+      98
+    ]
+  },
+  {
+    "cube": "purple_lip_3",
+    "face": "up",
+    "material": "petal_vein",
+    "uv": [
+      139,
+      100,
+      144,
+      101
+    ]
+  },
+  {
+    "cube": "purple_lip_3",
+    "face": "down",
+    "material": "petal_vein",
+    "uv": [
+      146,
+      100,
+      151,
+      101
+    ]
+  },
+  {
+    "cube": "trumpet_wall_4",
+    "face": "up",
+    "material": "trumpet",
+    "uv": [
+      183,
+      41,
+      188,
+      46
+    ]
+  },
+  {
+    "cube": "trumpet_wall_4",
+    "face": "down",
+    "material": "trumpet",
+    "uv": [
+      190,
+      41,
+      195,
+      46
+    ]
+  },
+  {
+    "cube": "trumpet_wall_4",
+    "face": "north",
+    "material": "trumpet",
+    "uv": [
+      211,
+      61,
+      216,
+      64
+    ]
+  },
+  {
+    "cube": "trumpet_wall_4",
+    "face": "south",
+    "material": "trumpet",
+    "uv": [
+      218,
+      61,
+      223,
+      64
+    ]
+  },
+  {
+    "cube": "trumpet_wall_4",
+    "face": "east",
+    "material": "trumpet",
+    "uv": [
+      225,
+      61,
+      230,
+      64
+    ]
+  },
+  {
+    "cube": "trumpet_wall_4",
+    "face": "west",
+    "material": "trumpet",
+    "uv": [
+      232,
+      61,
+      237,
+      64
+    ]
+  },
+  {
+    "cube": "purple_lip_4",
+    "face": "north",
+    "material": "petal_vein",
+    "uv": [
+      131,
+      84,
+      136,
+      86
+    ]
+  },
+  {
+    "cube": "purple_lip_4",
+    "face": "south",
+    "material": "petal_vein",
+    "uv": [
+      138,
+      84,
+      143,
+      86
+    ]
+  },
+  {
+    "cube": "purple_lip_4",
+    "face": "east",
+    "material": "petal_vein",
+    "uv": [
+      103,
+      96,
+      104,
+      98
+    ]
+  },
+  {
+    "cube": "purple_lip_4",
+    "face": "west",
+    "material": "petal_vein",
+    "uv": [
+      106,
+      96,
+      107,
+      98
+    ]
+  },
+  {
+    "cube": "purple_lip_4",
+    "face": "up",
+    "material": "petal_vein",
+    "uv": [
+      153,
+      100,
+      158,
+      101
+    ]
+  },
+  {
+    "cube": "purple_lip_4",
+    "face": "down",
+    "material": "petal_vein",
+    "uv": [
+      160,
+      100,
+      165,
+      101
+    ]
+  },
+  {
+    "cube": "trumpet_wall_5",
+    "face": "up",
+    "material": "trumpet",
+    "uv": [
+      197,
+      41,
+      202,
+      46
+    ]
+  },
+  {
+    "cube": "trumpet_wall_5",
+    "face": "down",
+    "material": "trumpet",
+    "uv": [
+      204,
+      41,
+      209,
+      46
+    ]
+  },
+  {
+    "cube": "trumpet_wall_5",
+    "face": "north",
+    "material": "trumpet",
+    "uv": [
+      239,
+      61,
+      244,
+      64
+    ]
+  },
+  {
+    "cube": "trumpet_wall_5",
+    "face": "south",
+    "material": "trumpet",
+    "uv": [
+      246,
+      61,
+      251,
+      64
+    ]
+  },
+  {
+    "cube": "trumpet_wall_5",
+    "face": "east",
+    "material": "trumpet",
+    "uv": [
+      1,
+      66,
+      6,
+      69
+    ]
+  },
+  {
+    "cube": "trumpet_wall_5",
+    "face": "west",
+    "material": "trumpet",
+    "uv": [
+      8,
+      66,
+      13,
+      69
+    ]
+  },
+  {
+    "cube": "purple_lip_5",
+    "face": "north",
+    "material": "petal_vein",
+    "uv": [
+      145,
+      84,
+      150,
+      86
+    ]
+  },
+  {
+    "cube": "purple_lip_5",
+    "face": "south",
+    "material": "petal_vein",
+    "uv": [
+      152,
+      84,
+      157,
+      86
+    ]
+  },
+  {
+    "cube": "purple_lip_5",
+    "face": "east",
+    "material": "petal_vein",
+    "uv": [
+      109,
+      96,
+      110,
+      98
+    ]
+  },
+  {
+    "cube": "purple_lip_5",
+    "face": "west",
+    "material": "petal_vein",
+    "uv": [
+      112,
+      96,
+      113,
+      98
+    ]
+  },
+  {
+    "cube": "purple_lip_5",
+    "face": "up",
+    "material": "petal_vein",
+    "uv": [
+      167,
+      100,
+      172,
+      101
+    ]
+  },
+  {
+    "cube": "purple_lip_5",
+    "face": "down",
+    "material": "petal_vein",
+    "uv": [
+      174,
+      100,
+      179,
+      101
+    ]
+  },
+  {
+    "cube": "trumpet_wall_6",
+    "face": "up",
+    "material": "trumpet",
+    "uv": [
+      211,
+      41,
+      216,
+      46
+    ]
+  },
+  {
+    "cube": "trumpet_wall_6",
+    "face": "down",
+    "material": "trumpet",
+    "uv": [
+      218,
+      41,
+      223,
+      46
+    ]
+  },
+  {
+    "cube": "trumpet_wall_6",
+    "face": "north",
+    "material": "trumpet",
+    "uv": [
+      15,
+      66,
+      20,
+      69
+    ]
+  },
+  {
+    "cube": "trumpet_wall_6",
+    "face": "south",
+    "material": "trumpet",
+    "uv": [
+      22,
+      66,
+      27,
+      69
+    ]
+  },
+  {
+    "cube": "trumpet_wall_6",
+    "face": "east",
+    "material": "trumpet",
+    "uv": [
+      29,
+      66,
+      34,
+      69
+    ]
+  },
+  {
+    "cube": "trumpet_wall_6",
+    "face": "west",
+    "material": "trumpet",
+    "uv": [
+      36,
+      66,
+      41,
+      69
+    ]
+  },
+  {
+    "cube": "purple_lip_6",
+    "face": "north",
+    "material": "petal_vein",
+    "uv": [
+      159,
+      84,
+      164,
+      86
+    ]
+  },
+  {
+    "cube": "purple_lip_6",
+    "face": "south",
+    "material": "petal_vein",
+    "uv": [
+      166,
+      84,
+      171,
+      86
+    ]
+  },
+  {
+    "cube": "purple_lip_6",
+    "face": "east",
+    "material": "petal_vein",
+    "uv": [
+      115,
+      96,
+      116,
+      98
+    ]
+  },
+  {
+    "cube": "purple_lip_6",
+    "face": "west",
+    "material": "petal_vein",
+    "uv": [
+      118,
+      96,
+      119,
+      98
+    ]
+  },
+  {
+    "cube": "purple_lip_6",
+    "face": "up",
+    "material": "petal_vein",
+    "uv": [
+      181,
+      100,
+      186,
+      101
+    ]
+  },
+  {
+    "cube": "purple_lip_6",
+    "face": "down",
+    "material": "petal_vein",
+    "uv": [
+      188,
+      100,
+      193,
+      101
+    ]
+  },
+  {
+    "cube": "trumpet_wall_7",
+    "face": "up",
+    "material": "trumpet",
+    "uv": [
+      225,
+      41,
+      230,
+      46
+    ]
+  },
+  {
+    "cube": "trumpet_wall_7",
+    "face": "down",
+    "material": "trumpet",
+    "uv": [
+      232,
+      41,
+      237,
+      46
+    ]
+  },
+  {
+    "cube": "trumpet_wall_7",
+    "face": "north",
+    "material": "trumpet",
+    "uv": [
+      43,
+      66,
+      48,
+      69
+    ]
+  },
+  {
+    "cube": "trumpet_wall_7",
+    "face": "south",
+    "material": "trumpet",
+    "uv": [
+      50,
+      66,
+      55,
+      69
+    ]
+  },
+  {
+    "cube": "trumpet_wall_7",
+    "face": "east",
+    "material": "trumpet",
+    "uv": [
+      57,
+      66,
+      62,
+      69
+    ]
+  },
+  {
+    "cube": "trumpet_wall_7",
+    "face": "west",
+    "material": "trumpet",
+    "uv": [
+      64,
+      66,
+      69,
+      69
+    ]
+  },
+  {
+    "cube": "purple_lip_7",
+    "face": "north",
+    "material": "petal_vein",
+    "uv": [
+      173,
+      84,
+      178,
+      86
+    ]
+  },
+  {
+    "cube": "purple_lip_7",
+    "face": "south",
+    "material": "petal_vein",
+    "uv": [
+      180,
+      84,
+      185,
+      86
+    ]
+  },
+  {
+    "cube": "purple_lip_7",
+    "face": "east",
+    "material": "petal_vein",
+    "uv": [
+      121,
+      96,
+      122,
+      98
+    ]
+  },
+  {
+    "cube": "purple_lip_7",
+    "face": "west",
+    "material": "petal_vein",
+    "uv": [
+      124,
+      96,
+      125,
+      98
+    ]
+  },
+  {
+    "cube": "purple_lip_7",
+    "face": "up",
+    "material": "petal_vein",
+    "uv": [
+      195,
+      100,
+      200,
+      101
+    ]
+  },
+  {
+    "cube": "purple_lip_7",
+    "face": "down",
+    "material": "petal_vein",
+    "uv": [
+      202,
+      100,
+      207,
+      101
+    ]
+  },
+  {
+    "cube": "trumpet_wall_8",
+    "face": "up",
+    "material": "trumpet",
+    "uv": [
+      239,
+      41,
+      244,
+      46
+    ]
+  },
+  {
+    "cube": "trumpet_wall_8",
+    "face": "down",
+    "material": "trumpet",
+    "uv": [
+      246,
+      41,
+      251,
+      46
+    ]
+  },
+  {
+    "cube": "trumpet_wall_8",
+    "face": "north",
+    "material": "trumpet",
+    "uv": [
+      71,
+      66,
+      76,
+      69
+    ]
+  },
+  {
+    "cube": "trumpet_wall_8",
+    "face": "south",
+    "material": "trumpet",
+    "uv": [
+      78,
+      66,
+      83,
+      69
+    ]
+  },
+  {
+    "cube": "trumpet_wall_8",
+    "face": "east",
+    "material": "trumpet",
+    "uv": [
+      85,
+      66,
+      90,
+      69
+    ]
+  },
+  {
+    "cube": "trumpet_wall_8",
+    "face": "west",
+    "material": "trumpet",
+    "uv": [
+      92,
+      66,
+      97,
+      69
+    ]
+  },
+  {
+    "cube": "purple_lip_8",
+    "face": "north",
+    "material": "petal_vein",
+    "uv": [
+      187,
+      84,
+      192,
+      86
+    ]
+  },
+  {
+    "cube": "purple_lip_8",
+    "face": "south",
+    "material": "petal_vein",
+    "uv": [
+      194,
+      84,
+      199,
+      86
+    ]
+  },
+  {
+    "cube": "purple_lip_8",
+    "face": "east",
+    "material": "petal_vein",
+    "uv": [
+      127,
+      96,
+      128,
+      98
+    ]
+  },
+  {
+    "cube": "purple_lip_8",
+    "face": "west",
+    "material": "petal_vein",
+    "uv": [
+      130,
+      96,
+      131,
+      98
+    ]
+  },
+  {
+    "cube": "purple_lip_8",
+    "face": "up",
+    "material": "petal_vein",
+    "uv": [
+      209,
+      100,
+      214,
+      101
+    ]
+  },
+  {
+    "cube": "purple_lip_8",
+    "face": "down",
+    "material": "petal_vein",
+    "uv": [
+      216,
+      100,
+      221,
+      101
+    ]
+  },
+  {
+    "cube": "magenta_tongue_base",
+    "face": "north",
+    "material": "tongue",
+    "uv": [
+      63,
+      14,
+      65,
+      22
+    ]
+  },
+  {
+    "cube": "magenta_tongue_base",
+    "face": "south",
+    "material": "tongue",
+    "uv": [
+      67,
+      14,
+      69,
+      22
+    ]
+  },
+  {
+    "cube": "magenta_tongue_base",
+    "face": "east",
+    "material": "tongue",
+    "uv": [
+      71,
+      14,
+      73,
+      22
+    ]
+  },
+  {
+    "cube": "magenta_tongue_base",
+    "face": "west",
+    "material": "tongue",
+    "uv": [
+      75,
+      14,
+      77,
+      22
+    ]
+  },
+  {
+    "cube": "magenta_tongue_base",
+    "face": "up",
+    "material": "tongue",
+    "uv": [
+      217,
+      88,
+      219,
+      90
+    ]
+  },
+  {
+    "cube": "magenta_tongue_base",
+    "face": "down",
+    "material": "tongue",
+    "uv": [
+      221,
+      88,
+      223,
+      90
+    ]
+  },
+  {
+    "cube": "magenta_tongue_bend",
+    "face": "north",
+    "material": "tongue",
+    "uv": [
+      221,
+      33,
+      223,
+      39
+    ]
+  },
+  {
+    "cube": "magenta_tongue_bend",
+    "face": "south",
+    "material": "tongue",
+    "uv": [
+      225,
+      33,
+      227,
+      39
+    ]
+  },
+  {
+    "cube": "magenta_tongue_bend",
+    "face": "east",
+    "material": "tongue",
+    "uv": [
+      229,
+      33,
+      231,
+      39
+    ]
+  },
+  {
+    "cube": "magenta_tongue_bend",
+    "face": "west",
+    "material": "tongue",
+    "uv": [
+      233,
+      33,
+      235,
+      39
+    ]
+  },
+  {
+    "cube": "magenta_tongue_bend",
+    "face": "up",
+    "material": "tongue",
+    "uv": [
+      225,
+      88,
+      227,
+      90
+    ]
+  },
+  {
+    "cube": "magenta_tongue_bend",
+    "face": "down",
+    "material": "tongue",
+    "uv": [
+      229,
+      88,
+      231,
+      90
+    ]
+  },
+  {
+    "cube": "left_tongue_fork",
+    "face": "north",
+    "material": "purple_tip",
+    "uv": [
+      45,
+      41,
+      46,
+      47
+    ]
+  },
+  {
+    "cube": "left_tongue_fork",
+    "face": "south",
+    "material": "purple_tip",
+    "uv": [
+      48,
+      41,
+      49,
+      47
+    ]
+  },
+  {
+    "cube": "left_tongue_fork",
+    "face": "east",
+    "material": "purple_tip",
+    "uv": [
+      51,
+      41,
+      52,
+      47
+    ]
+  },
+  {
+    "cube": "left_tongue_fork",
+    "face": "west",
+    "material": "purple_tip",
+    "uv": [
+      54,
+      41,
+      55,
+      47
+    ]
+  },
+  {
+    "cube": "left_tongue_fork",
+    "face": "up",
+    "material": "purple_tip",
+    "uv": [
+      97,
+      106,
+      98,
+      107
+    ]
+  },
+  {
+    "cube": "left_tongue_fork",
+    "face": "down",
+    "material": "purple_tip",
+    "uv": [
+      100,
+      106,
+      101,
+      107
+    ]
+  },
+  {
+    "cube": "left_tongue_point",
+    "face": "north",
+    "material": "purple_tip",
+    "uv": [
+      101,
+      71,
+      102,
+      74
+    ]
+  },
+  {
+    "cube": "left_tongue_point",
+    "face": "south",
+    "material": "purple_tip",
+    "uv": [
+      104,
+      71,
+      105,
+      74
+    ]
+  },
+  {
+    "cube": "left_tongue_point",
+    "face": "east",
+    "material": "purple_tip",
+    "uv": [
+      107,
+      71,
+      108,
+      74
+    ]
+  },
+  {
+    "cube": "left_tongue_point",
+    "face": "west",
+    "material": "purple_tip",
+    "uv": [
+      110,
+      71,
+      111,
+      74
+    ]
+  },
+  {
+    "cube": "left_tongue_point",
+    "face": "up",
+    "material": "purple_tip",
+    "uv": [
+      103,
+      106,
+      104,
+      107
+    ]
+  },
+  {
+    "cube": "left_tongue_point",
+    "face": "down",
+    "material": "purple_tip",
+    "uv": [
+      106,
+      106,
+      107,
+      107
+    ]
+  },
+  {
+    "cube": "right_tongue_fork",
+    "face": "north",
+    "material": "purple_tip",
+    "uv": [
+      57,
+      41,
+      58,
+      47
+    ]
+  },
+  {
+    "cube": "right_tongue_fork",
+    "face": "south",
+    "material": "purple_tip",
+    "uv": [
+      60,
+      41,
+      61,
+      47
+    ]
+  },
+  {
+    "cube": "right_tongue_fork",
+    "face": "east",
+    "material": "purple_tip",
+    "uv": [
+      63,
+      41,
+      64,
+      47
+    ]
+  },
+  {
+    "cube": "right_tongue_fork",
+    "face": "west",
+    "material": "purple_tip",
+    "uv": [
+      66,
+      41,
+      67,
+      47
+    ]
+  },
+  {
+    "cube": "right_tongue_fork",
+    "face": "up",
+    "material": "purple_tip",
+    "uv": [
+      109,
+      106,
+      110,
+      107
+    ]
+  },
+  {
+    "cube": "right_tongue_fork",
+    "face": "down",
+    "material": "purple_tip",
+    "uv": [
+      112,
+      106,
+      113,
+      107
+    ]
+  },
+  {
+    "cube": "right_tongue_point",
+    "face": "north",
+    "material": "purple_tip",
+    "uv": [
+      113,
+      71,
+      114,
+      74
+    ]
+  },
+  {
+    "cube": "right_tongue_point",
+    "face": "south",
+    "material": "purple_tip",
+    "uv": [
+      116,
+      71,
+      117,
+      74
+    ]
+  },
+  {
+    "cube": "right_tongue_point",
+    "face": "east",
+    "material": "purple_tip",
+    "uv": [
+      119,
+      71,
+      120,
+      74
+    ]
+  },
+  {
+    "cube": "right_tongue_point",
+    "face": "west",
+    "material": "purple_tip",
+    "uv": [
+      122,
+      71,
+      123,
+      74
+    ]
+  },
+  {
+    "cube": "right_tongue_point",
+    "face": "up",
+    "material": "purple_tip",
+    "uv": [
+      115,
+      106,
+      116,
+      107
+    ]
+  },
+  {
+    "cube": "right_tongue_point",
+    "face": "down",
+    "material": "purple_tip",
+    "uv": [
+      118,
+      106,
+      119,
+      107
+    ]
+  },
+  {
+    "cube": "segmented_pod_1",
+    "face": "north",
+    "material": "pod",
+    "uv": [
+      83,
+      33,
+      90,
+      39
+    ]
+  },
+  {
+    "cube": "segmented_pod_1",
+    "face": "south",
+    "material": "pod",
+    "uv": [
+      92,
+      33,
+      99,
+      39
+    ]
+  },
+  {
+    "cube": "segmented_pod_1",
+    "face": "up",
+    "material": "pod",
+    "uv": [
+      101,
+      33,
+      108,
+      39
+    ]
+  },
+  {
+    "cube": "segmented_pod_1",
+    "face": "down",
+    "material": "pod",
+    "uv": [
+      110,
+      33,
+      117,
+      39
+    ]
+  },
+  {
+    "cube": "segmented_pod_1",
+    "face": "east",
+    "material": "pod",
+    "uv": [
+      171,
+      33,
+      177,
+      39
+    ]
+  },
+  {
+    "cube": "segmented_pod_1",
+    "face": "west",
+    "material": "pod",
+    "uv": [
+      179,
+      33,
+      185,
+      39
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_1",
+    "face": "up",
+    "material": "pod_ring",
+    "uv": [
+      119,
+      33,
+      126,
+      39
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_1",
+    "face": "down",
+    "material": "pod_ring",
+    "uv": [
+      128,
+      33,
+      135,
+      39
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_1",
+    "face": "north",
+    "material": "pod_ring",
+    "uv": [
+      225,
+      96,
+      232,
+      97
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_1",
+    "face": "south",
+    "material": "pod_ring",
+    "uv": [
+      234,
+      96,
+      241,
+      97
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_1",
+    "face": "east",
+    "material": "pod_ring",
+    "uv": [
+      243,
+      96,
+      249,
+      97
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_1",
+    "face": "west",
+    "material": "pod_ring",
+    "uv": [
+      1,
+      100,
+      7,
+      101
+    ]
+  },
+  {
+    "cube": "pod_upper_thorn_1",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      125,
+      71,
+      126,
+      74
+    ]
+  },
+  {
+    "cube": "pod_upper_thorn_1",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      128,
+      71,
+      129,
+      74
+    ]
+  },
+  {
+    "cube": "pod_upper_thorn_1",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      131,
+      71,
+      132,
+      74
+    ]
+  },
+  {
+    "cube": "pod_upper_thorn_1",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      134,
+      71,
+      135,
+      74
+    ]
+  },
+  {
+    "cube": "pod_upper_thorn_1",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      121,
+      106,
+      122,
+      107
+    ]
+  },
+  {
+    "cube": "pod_upper_thorn_1",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      124,
+      106,
+      125,
+      107
+    ]
+  },
+  {
+    "cube": "segmented_pod_2",
+    "face": "up",
+    "material": "pod",
+    "uv": [
+      179,
+      1,
+      189,
+      9
+    ]
+  },
+  {
+    "cube": "segmented_pod_2",
+    "face": "down",
+    "material": "pod",
+    "uv": [
+      191,
+      1,
+      201,
+      9
+    ]
+  },
+  {
+    "cube": "segmented_pod_2",
+    "face": "north",
+    "material": "pod",
+    "uv": [
+      1,
+      33,
+      11,
+      39
+    ]
+  },
+  {
+    "cube": "segmented_pod_2",
+    "face": "south",
+    "material": "pod",
+    "uv": [
+      13,
+      33,
+      23,
+      39
+    ]
+  },
+  {
+    "cube": "segmented_pod_2",
+    "face": "east",
+    "material": "pod",
+    "uv": [
+      45,
+      33,
+      53,
+      39
+    ]
+  },
+  {
+    "cube": "segmented_pod_2",
+    "face": "west",
+    "material": "pod",
+    "uv": [
+      55,
+      33,
+      63,
+      39
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_2",
+    "face": "up",
+    "material": "pod_ring",
+    "uv": [
+      203,
+      1,
+      213,
+      9
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_2",
+    "face": "down",
+    "material": "pod_ring",
+    "uv": [
+      215,
+      1,
+      225,
+      9
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_2",
+    "face": "north",
+    "material": "pod_ring",
+    "uv": [
+      238,
+      76,
+      248,
+      78
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_2",
+    "face": "south",
+    "material": "pod_ring",
+    "uv": [
+      1,
+      80,
+      11,
+      82
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_2",
+    "face": "east",
+    "material": "pod_ring",
+    "uv": [
+      35,
+      80,
+      43,
+      82
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_2",
+    "face": "west",
+    "material": "pod_ring",
+    "uv": [
+      45,
+      80,
+      53,
+      82
+    ]
+  },
+  {
+    "cube": "pod_upper_thorn_2",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      137,
+      71,
+      138,
+      74
+    ]
+  },
+  {
+    "cube": "pod_upper_thorn_2",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      140,
+      71,
+      141,
+      74
+    ]
+  },
+  {
+    "cube": "pod_upper_thorn_2",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      143,
+      71,
+      144,
+      74
+    ]
+  },
+  {
+    "cube": "pod_upper_thorn_2",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      146,
+      71,
+      147,
+      74
+    ]
+  },
+  {
+    "cube": "pod_upper_thorn_2",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      127,
+      106,
+      128,
+      107
+    ]
+  },
+  {
+    "cube": "pod_upper_thorn_2",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      130,
+      106,
+      131,
+      107
+    ]
+  },
+  {
+    "cube": "segmented_pod_3",
+    "face": "north",
+    "material": "pod",
+    "uv": [
+      173,
+      14,
+      182,
+      21
+    ]
+  },
+  {
+    "cube": "segmented_pod_3",
+    "face": "south",
+    "material": "pod",
+    "uv": [
+      184,
+      14,
+      193,
+      21
+    ]
+  },
+  {
+    "cube": "segmented_pod_3",
+    "face": "up",
+    "material": "pod",
+    "uv": [
+      195,
+      14,
+      204,
+      21
+    ]
+  },
+  {
+    "cube": "segmented_pod_3",
+    "face": "down",
+    "material": "pod",
+    "uv": [
+      206,
+      14,
+      215,
+      21
+    ]
+  },
+  {
+    "cube": "segmented_pod_3",
+    "face": "east",
+    "material": "pod",
+    "uv": [
+      11,
+      24,
+      18,
+      31
+    ]
+  },
+  {
+    "cube": "segmented_pod_3",
+    "face": "west",
+    "material": "pod",
+    "uv": [
+      20,
+      24,
+      27,
+      31
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_3",
+    "face": "up",
+    "material": "pod_ring",
+    "uv": [
+      217,
+      14,
+      226,
+      21
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_3",
+    "face": "down",
+    "material": "pod_ring",
+    "uv": [
+      228,
+      14,
+      237,
+      21
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_3",
+    "face": "north",
+    "material": "pod_ring",
+    "uv": [
+      13,
+      80,
+      22,
+      82
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_3",
+    "face": "south",
+    "material": "pod_ring",
+    "uv": [
+      24,
+      80,
+      33,
+      82
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_3",
+    "face": "east",
+    "material": "pod_ring",
+    "uv": [
+      145,
+      80,
+      152,
+      82
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_3",
+    "face": "west",
+    "material": "pod_ring",
+    "uv": [
+      154,
+      80,
+      161,
+      82
+    ]
+  },
+  {
+    "cube": "pod_upper_thorn_3",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      149,
+      71,
+      150,
+      74
+    ]
+  },
+  {
+    "cube": "pod_upper_thorn_3",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      152,
+      71,
+      153,
+      74
+    ]
+  },
+  {
+    "cube": "pod_upper_thorn_3",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      155,
+      71,
+      156,
+      74
+    ]
+  },
+  {
+    "cube": "pod_upper_thorn_3",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      158,
+      71,
+      159,
+      74
+    ]
+  },
+  {
+    "cube": "pod_upper_thorn_3",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      133,
+      106,
+      134,
+      107
+    ]
+  },
+  {
+    "cube": "pod_upper_thorn_3",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      136,
+      106,
+      137,
+      107
+    ]
+  },
+  {
+    "cube": "segmented_pod_4",
+    "face": "north",
+    "material": "pod",
+    "uv": [
+      137,
+      33,
+      144,
+      39
+    ]
+  },
+  {
+    "cube": "segmented_pod_4",
+    "face": "south",
+    "material": "pod",
+    "uv": [
+      146,
+      33,
+      153,
+      39
+    ]
+  },
+  {
+    "cube": "segmented_pod_4",
+    "face": "east",
+    "material": "pod",
+    "uv": [
+      187,
+      33,
+      192,
+      39
+    ]
+  },
+  {
+    "cube": "segmented_pod_4",
+    "face": "west",
+    "material": "pod",
+    "uv": [
+      194,
+      33,
+      199,
+      39
+    ]
+  },
+  {
+    "cube": "segmented_pod_4",
+    "face": "up",
+    "material": "pod",
+    "uv": [
+      89,
+      41,
+      96,
+      46
+    ]
+  },
+  {
+    "cube": "segmented_pod_4",
+    "face": "down",
+    "material": "pod",
+    "uv": [
+      98,
+      41,
+      105,
+      46
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_4",
+    "face": "up",
+    "material": "pod_ring",
+    "uv": [
+      107,
+      41,
+      114,
+      46
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_4",
+    "face": "down",
+    "material": "pod_ring",
+    "uv": [
+      116,
+      41,
+      123,
+      46
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_4",
+    "face": "north",
+    "material": "pod_ring",
+    "uv": [
+      163,
+      80,
+      170,
+      82
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_4",
+    "face": "south",
+    "material": "pod_ring",
+    "uv": [
+      172,
+      80,
+      179,
+      82
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_4",
+    "face": "east",
+    "material": "pod_ring",
+    "uv": [
+      201,
+      84,
+      206,
+      86
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_4",
+    "face": "west",
+    "material": "pod_ring",
+    "uv": [
+      208,
+      84,
+      213,
+      86
+    ]
+  },
+  {
+    "cube": "pod_upper_thorn_4",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      161,
+      71,
+      162,
+      74
+    ]
+  },
+  {
+    "cube": "pod_upper_thorn_4",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      164,
+      71,
+      165,
+      74
+    ]
+  },
+  {
+    "cube": "pod_upper_thorn_4",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      167,
+      71,
+      168,
+      74
+    ]
+  },
+  {
+    "cube": "pod_upper_thorn_4",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      170,
+      71,
+      171,
+      74
+    ]
+  },
+  {
+    "cube": "pod_upper_thorn_4",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      139,
+      106,
+      140,
+      107
+    ]
+  },
+  {
+    "cube": "pod_upper_thorn_4",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      142,
+      106,
+      143,
+      107
+    ]
+  },
+  {
+    "cube": "segmented_pod_5",
+    "face": "north",
+    "material": "pod",
+    "uv": [
+      1,
+      49,
+      5,
+      54
+    ]
+  },
+  {
+    "cube": "segmented_pod_5",
+    "face": "south",
+    "material": "pod",
+    "uv": [
+      7,
+      49,
+      11,
+      54
+    ]
+  },
+  {
+    "cube": "segmented_pod_5",
+    "face": "east",
+    "material": "pod",
+    "uv": [
+      13,
+      49,
+      16,
+      54
+    ]
+  },
+  {
+    "cube": "segmented_pod_5",
+    "face": "west",
+    "material": "pod",
+    "uv": [
+      18,
+      49,
+      21,
+      54
+    ]
+  },
+  {
+    "cube": "segmented_pod_5",
+    "face": "up",
+    "material": "pod",
+    "uv": [
+      159,
+      66,
+      163,
+      69
+    ]
+  },
+  {
+    "cube": "segmented_pod_5",
+    "face": "down",
+    "material": "pod",
+    "uv": [
+      165,
+      66,
+      169,
+      69
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_5",
+    "face": "up",
+    "material": "pod_ring",
+    "uv": [
+      177,
+      49,
+      181,
+      53
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_5",
+    "face": "down",
+    "material": "pod_ring",
+    "uv": [
+      183,
+      49,
+      187,
+      53
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_5",
+    "face": "north",
+    "material": "pod_ring",
+    "uv": [
+      31,
+      103,
+      35,
+      104
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_5",
+    "face": "south",
+    "material": "pod_ring",
+    "uv": [
+      37,
+      103,
+      41,
+      104
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_5",
+    "face": "east",
+    "material": "pod_ring",
+    "uv": [
+      43,
+      103,
+      47,
+      104
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_5",
+    "face": "west",
+    "material": "pod_ring",
+    "uv": [
+      49,
+      103,
+      53,
+      104
+    ]
+  },
+  {
+    "cube": "segmented_pod_6",
+    "face": "north",
+    "material": "pod",
+    "uv": [
+      25,
+      71,
+      27,
+      74
+    ]
+  },
+  {
+    "cube": "segmented_pod_6",
+    "face": "south",
+    "material": "pod",
+    "uv": [
+      29,
+      71,
+      31,
+      74
+    ]
+  },
+  {
+    "cube": "segmented_pod_6",
+    "face": "east",
+    "material": "pod",
+    "uv": [
+      33,
+      71,
+      35,
+      74
+    ]
+  },
+  {
+    "cube": "segmented_pod_6",
+    "face": "west",
+    "material": "pod",
+    "uv": [
+      37,
+      71,
+      39,
+      74
+    ]
+  },
+  {
+    "cube": "segmented_pod_6",
+    "face": "up",
+    "material": "pod",
+    "uv": [
+      233,
+      88,
+      235,
+      90
+    ]
+  },
+  {
+    "cube": "segmented_pod_6",
+    "face": "down",
+    "material": "pod",
+    "uv": [
+      237,
+      88,
+      239,
+      90
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_6",
+    "face": "up",
+    "material": "pod_ring",
+    "uv": [
+      241,
+      88,
+      243,
+      90
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_6",
+    "face": "down",
+    "material": "pod_ring",
+    "uv": [
+      245,
+      88,
+      247,
+      90
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_6",
+    "face": "north",
+    "material": "pod_ring",
+    "uv": [
+      233,
+      103,
+      235,
+      104
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_6",
+    "face": "south",
+    "material": "pod_ring",
+    "uv": [
+      237,
+      103,
+      239,
+      104
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_6",
+    "face": "east",
+    "material": "pod_ring",
+    "uv": [
+      241,
+      103,
+      243,
+      104
+    ]
+  },
+  {
+    "cube": "pod_dark_ring_6",
+    "face": "west",
+    "material": "pod_ring",
+    "uv": [
+      245,
+      103,
+      247,
+      104
+    ]
+  },
+  {
+    "cube": "left_arm_stem",
+    "face": "north",
+    "material": "stem",
+    "uv": [
+      79,
+      14,
+      81,
+      22
+    ]
+  },
+  {
+    "cube": "left_arm_stem",
+    "face": "south",
+    "material": "stem",
+    "uv": [
+      83,
+      14,
+      85,
+      22
+    ]
+  },
+  {
+    "cube": "left_arm_stem",
+    "face": "east",
+    "material": "stem",
+    "uv": [
+      87,
+      14,
+      89,
+      22
+    ]
+  },
+  {
+    "cube": "left_arm_stem",
+    "face": "west",
+    "material": "stem",
+    "uv": [
+      91,
+      14,
+      93,
+      22
+    ]
+  },
+  {
+    "cube": "left_arm_stem",
+    "face": "up",
+    "material": "stem",
+    "uv": [
+      249,
+      88,
+      251,
+      90
+    ]
+  },
+  {
+    "cube": "left_arm_stem",
+    "face": "down",
+    "material": "stem",
+    "uv": [
+      253,
+      88,
+      255,
+      90
+    ]
+  },
+  {
+    "cube": "left_arm_outer_vine",
+    "face": "north",
+    "material": "vein",
+    "uv": [
+      149,
+      14,
+      150,
+      22
+    ]
+  },
+  {
+    "cube": "left_arm_outer_vine",
+    "face": "south",
+    "material": "vein",
+    "uv": [
+      152,
+      14,
+      153,
+      22
+    ]
+  },
+  {
+    "cube": "left_arm_outer_vine",
+    "face": "east",
+    "material": "vein",
+    "uv": [
+      155,
+      14,
+      156,
+      22
+    ]
+  },
+  {
+    "cube": "left_arm_outer_vine",
+    "face": "west",
+    "material": "vein",
+    "uv": [
+      158,
+      14,
+      159,
+      22
+    ]
+  },
+  {
+    "cube": "left_arm_outer_vine",
+    "face": "up",
+    "material": "vein",
+    "uv": [
+      145,
+      106,
+      146,
+      107
+    ]
+  },
+  {
+    "cube": "left_arm_outer_vine",
+    "face": "down",
+    "material": "vein",
+    "uv": [
+      148,
+      106,
+      149,
+      107
+    ]
+  },
+  {
+    "cube": "left_forearm_stem",
+    "face": "north",
+    "material": "bark",
+    "uv": [
+      101,
+      24,
+      103,
+      31
+    ]
+  },
+  {
+    "cube": "left_forearm_stem",
+    "face": "south",
+    "material": "bark",
+    "uv": [
+      105,
+      24,
+      107,
+      31
+    ]
+  },
+  {
+    "cube": "left_forearm_stem",
+    "face": "east",
+    "material": "bark",
+    "uv": [
+      109,
+      24,
+      111,
+      31
+    ]
+  },
+  {
+    "cube": "left_forearm_stem",
+    "face": "west",
+    "material": "bark",
+    "uv": [
+      113,
+      24,
+      115,
+      31
+    ]
+  },
+  {
+    "cube": "left_forearm_stem",
+    "face": "up",
+    "material": "bark",
+    "uv": [
+      1,
+      92,
+      3,
+      94
+    ]
+  },
+  {
+    "cube": "left_forearm_stem",
+    "face": "down",
+    "material": "bark",
+    "uv": [
+      5,
+      92,
+      7,
+      94
+    ]
+  },
+  {
+    "cube": "left_arm_thorn_1",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      173,
+      71,
+      174,
+      74
+    ]
+  },
+  {
+    "cube": "left_arm_thorn_1",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      176,
+      71,
+      177,
+      74
+    ]
+  },
+  {
+    "cube": "left_arm_thorn_1",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      179,
+      71,
+      180,
+      74
+    ]
+  },
+  {
+    "cube": "left_arm_thorn_1",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      182,
+      71,
+      183,
+      74
+    ]
+  },
+  {
+    "cube": "left_arm_thorn_1",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      151,
+      106,
+      152,
+      107
+    ]
+  },
+  {
+    "cube": "left_arm_thorn_1",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      154,
+      106,
+      155,
+      107
+    ]
+  },
+  {
+    "cube": "left_arm_thorn_2",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      185,
+      71,
+      186,
+      74
+    ]
+  },
+  {
+    "cube": "left_arm_thorn_2",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      188,
+      71,
+      189,
+      74
+    ]
+  },
+  {
+    "cube": "left_arm_thorn_2",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      191,
+      71,
+      192,
+      74
+    ]
+  },
+  {
+    "cube": "left_arm_thorn_2",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      194,
+      71,
+      195,
+      74
+    ]
+  },
+  {
+    "cube": "left_arm_thorn_2",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      157,
+      106,
+      158,
+      107
+    ]
+  },
+  {
+    "cube": "left_arm_thorn_2",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      160,
+      106,
+      161,
+      107
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_panel_1",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      57,
+      88,
+      60,
+      90
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_panel_1",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      62,
+      88,
+      65,
+      90
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_panel_1",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      133,
+      96,
+      134,
+      98
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_panel_1",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      136,
+      96,
+      137,
+      98
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_panel_1",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      153,
+      103,
+      156,
+      104
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_panel_1",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      158,
+      103,
+      161,
+      104
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_panel_2",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      25,
+      61,
+      31,
+      64
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_panel_2",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      33,
+      61,
+      39,
+      64
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_panel_2",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      197,
+      71,
+      198,
+      74
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_panel_2",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      200,
+      71,
+      201,
+      74
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_panel_2",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      9,
+      100,
+      15,
+      101
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_panel_2",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      17,
+      100,
+      23,
+      101
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_panel_3",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      215,
+      84,
+      219,
+      86
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_panel_3",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      221,
+      84,
+      225,
+      86
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_panel_3",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      139,
+      96,
+      140,
+      98
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_panel_3",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      142,
+      96,
+      143,
+      98
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_panel_3",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      55,
+      103,
+      59,
+      104
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_panel_3",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      61,
+      103,
+      65,
+      104
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_panel_4",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      9,
+      92,
+      11,
+      94
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_panel_4",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      13,
+      92,
+      15,
+      94
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_panel_4",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      145,
+      96,
+      146,
+      98
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_panel_4",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      148,
+      96,
+      149,
+      98
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_panel_4",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      249,
+      103,
+      251,
+      104
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_panel_4",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      253,
+      103,
+      255,
+      104
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_vein",
+    "face": "north",
+    "material": "vein",
+    "uv": [
+      225,
+      24,
+      226,
+      31
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_vein",
+    "face": "south",
+    "material": "vein",
+    "uv": [
+      228,
+      24,
+      229,
+      31
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_vein",
+    "face": "east",
+    "material": "vein",
+    "uv": [
+      231,
+      24,
+      232,
+      31
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_vein",
+    "face": "west",
+    "material": "vein",
+    "uv": [
+      234,
+      24,
+      235,
+      31
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_vein",
+    "face": "up",
+    "material": "vein",
+    "uv": [
+      163,
+      106,
+      164,
+      107
+    ]
+  },
+  {
+    "cube": "left_sickle_leaf_vein",
+    "face": "down",
+    "material": "vein",
+    "uv": [
+      166,
+      106,
+      167,
+      107
+    ]
+  },
+  {
+    "cube": "right_arm_stem",
+    "face": "north",
+    "material": "stem",
+    "uv": [
+      95,
+      14,
+      97,
+      22
+    ]
+  },
+  {
+    "cube": "right_arm_stem",
+    "face": "south",
+    "material": "stem",
+    "uv": [
+      99,
+      14,
+      101,
+      22
+    ]
+  },
+  {
+    "cube": "right_arm_stem",
+    "face": "east",
+    "material": "stem",
+    "uv": [
+      103,
+      14,
+      105,
+      22
+    ]
+  },
+  {
+    "cube": "right_arm_stem",
+    "face": "west",
+    "material": "stem",
+    "uv": [
+      107,
+      14,
+      109,
+      22
+    ]
+  },
+  {
+    "cube": "right_arm_stem",
+    "face": "up",
+    "material": "stem",
+    "uv": [
+      17,
+      92,
+      19,
+      94
+    ]
+  },
+  {
+    "cube": "right_arm_stem",
+    "face": "down",
+    "material": "stem",
+    "uv": [
+      21,
+      92,
+      23,
+      94
+    ]
+  },
+  {
+    "cube": "right_arm_outer_vine",
+    "face": "north",
+    "material": "vein",
+    "uv": [
+      161,
+      14,
+      162,
+      22
+    ]
+  },
+  {
+    "cube": "right_arm_outer_vine",
+    "face": "south",
+    "material": "vein",
+    "uv": [
+      164,
+      14,
+      165,
+      22
+    ]
+  },
+  {
+    "cube": "right_arm_outer_vine",
+    "face": "east",
+    "material": "vein",
+    "uv": [
+      167,
+      14,
+      168,
+      22
+    ]
+  },
+  {
+    "cube": "right_arm_outer_vine",
+    "face": "west",
+    "material": "vein",
+    "uv": [
+      170,
+      14,
+      171,
+      22
+    ]
+  },
+  {
+    "cube": "right_arm_outer_vine",
+    "face": "up",
+    "material": "vein",
+    "uv": [
+      169,
+      106,
+      170,
+      107
+    ]
+  },
+  {
+    "cube": "right_arm_outer_vine",
+    "face": "down",
+    "material": "vein",
+    "uv": [
+      172,
+      106,
+      173,
+      107
+    ]
+  },
+  {
+    "cube": "right_forearm_stem",
+    "face": "north",
+    "material": "bark",
+    "uv": [
+      117,
+      24,
+      119,
+      31
+    ]
+  },
+  {
+    "cube": "right_forearm_stem",
+    "face": "south",
+    "material": "bark",
+    "uv": [
+      121,
+      24,
+      123,
+      31
+    ]
+  },
+  {
+    "cube": "right_forearm_stem",
+    "face": "east",
+    "material": "bark",
+    "uv": [
+      125,
+      24,
+      127,
+      31
+    ]
+  },
+  {
+    "cube": "right_forearm_stem",
+    "face": "west",
+    "material": "bark",
+    "uv": [
+      129,
+      24,
+      131,
+      31
+    ]
+  },
+  {
+    "cube": "right_forearm_stem",
+    "face": "up",
+    "material": "bark",
+    "uv": [
+      25,
+      92,
+      27,
+      94
+    ]
+  },
+  {
+    "cube": "right_forearm_stem",
+    "face": "down",
+    "material": "bark",
+    "uv": [
+      29,
+      92,
+      31,
+      94
+    ]
+  },
+  {
+    "cube": "right_arm_thorn_1",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      203,
+      71,
+      204,
+      74
+    ]
+  },
+  {
+    "cube": "right_arm_thorn_1",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      206,
+      71,
+      207,
+      74
+    ]
+  },
+  {
+    "cube": "right_arm_thorn_1",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      209,
+      71,
+      210,
+      74
+    ]
+  },
+  {
+    "cube": "right_arm_thorn_1",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      212,
+      71,
+      213,
+      74
+    ]
+  },
+  {
+    "cube": "right_arm_thorn_1",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      175,
+      106,
+      176,
+      107
+    ]
+  },
+  {
+    "cube": "right_arm_thorn_1",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      178,
+      106,
+      179,
+      107
+    ]
+  },
+  {
+    "cube": "right_arm_thorn_2",
+    "face": "north",
+    "material": "thorn",
+    "uv": [
+      215,
+      71,
+      216,
+      74
+    ]
+  },
+  {
+    "cube": "right_arm_thorn_2",
+    "face": "south",
+    "material": "thorn",
+    "uv": [
+      218,
+      71,
+      219,
+      74
+    ]
+  },
+  {
+    "cube": "right_arm_thorn_2",
+    "face": "east",
+    "material": "thorn",
+    "uv": [
+      221,
+      71,
+      222,
+      74
+    ]
+  },
+  {
+    "cube": "right_arm_thorn_2",
+    "face": "west",
+    "material": "thorn",
+    "uv": [
+      224,
+      71,
+      225,
+      74
+    ]
+  },
+  {
+    "cube": "right_arm_thorn_2",
+    "face": "up",
+    "material": "thorn",
+    "uv": [
+      181,
+      106,
+      182,
+      107
+    ]
+  },
+  {
+    "cube": "right_arm_thorn_2",
+    "face": "down",
+    "material": "thorn",
+    "uv": [
+      184,
+      106,
+      185,
+      107
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_panel_1",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      67,
+      88,
+      70,
+      90
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_panel_1",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      72,
+      88,
+      75,
+      90
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_panel_1",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      151,
+      96,
+      152,
+      98
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_panel_1",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      154,
+      96,
+      155,
+      98
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_panel_1",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      163,
+      103,
+      166,
+      104
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_panel_1",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      168,
+      103,
+      171,
+      104
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_panel_2",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      41,
+      61,
+      47,
+      64
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_panel_2",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      49,
+      61,
+      55,
+      64
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_panel_2",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      227,
+      71,
+      228,
+      74
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_panel_2",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      230,
+      71,
+      231,
+      74
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_panel_2",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      25,
+      100,
+      31,
+      101
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_panel_2",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      33,
+      100,
+      39,
+      101
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_panel_3",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      227,
+      84,
+      231,
+      86
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_panel_3",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      233,
+      84,
+      237,
+      86
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_panel_3",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      157,
+      96,
+      158,
+      98
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_panel_3",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      160,
+      96,
+      161,
+      98
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_panel_3",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      67,
+      103,
+      71,
+      104
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_panel_3",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      73,
+      103,
+      77,
+      104
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_panel_4",
+    "face": "north",
+    "material": "sepal",
+    "uv": [
+      33,
+      92,
+      35,
+      94
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_panel_4",
+    "face": "south",
+    "material": "sepal",
+    "uv": [
+      37,
+      92,
+      39,
+      94
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_panel_4",
+    "face": "east",
+    "material": "sepal",
+    "uv": [
+      163,
+      96,
+      164,
+      98
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_panel_4",
+    "face": "west",
+    "material": "sepal",
+    "uv": [
+      166,
+      96,
+      167,
+      98
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_panel_4",
+    "face": "up",
+    "material": "sepal",
+    "uv": [
+      1,
+      106,
+      3,
+      107
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_panel_4",
+    "face": "down",
+    "material": "sepal",
+    "uv": [
+      5,
+      106,
+      7,
+      107
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_vein",
+    "face": "north",
+    "material": "vein",
+    "uv": [
+      237,
+      24,
+      238,
+      31
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_vein",
+    "face": "south",
+    "material": "vein",
+    "uv": [
+      240,
+      24,
+      241,
+      31
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_vein",
+    "face": "east",
+    "material": "vein",
+    "uv": [
+      243,
+      24,
+      244,
+      31
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_vein",
+    "face": "west",
+    "material": "vein",
+    "uv": [
+      246,
+      24,
+      247,
+      31
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_vein",
+    "face": "up",
+    "material": "vein",
+    "uv": [
+      187,
+      106,
+      188,
+      107
+    ]
+  },
+  {
+    "cube": "right_sickle_leaf_vein",
+    "face": "down",
+    "material": "vein",
+    "uv": [
+      190,
+      106,
+      191,
+      107
+    ]
+  }
+]

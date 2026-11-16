@@ -28,14 +28,30 @@ public class ModCreativeTabs {
                         output.accept(ModItems.ALCHEMY_WORKBENCH);
                         output.accept(ModItems.SMELTER);
                         output.accept(ModItems.ANVIL);
+                        output.accept(ModItems.HASLA_WORKBENCH);
                         output.accept(ModItems.STONEMASON_WORKBENCH);
                         output.accept(ModItems.YATA_MEAT.get());
+                        output.accept(ModItems.YATA_SPAWN_EGG);
+                        output.accept(ModItems.SARRACENIA_SPAWN_EGG);
                         output.accept(ModItems.COOKED_YATA_MEAT.get());
                         output.accept(ModItems.YATA_FUR);
                         output.accept(ModItems.YATA_FERTILIZER);
                         output.accept(ModItems.YATA_FERTILIZER_BLOCK_ITEM);
                         output.accept(ModItems.CLOVER_SEEDS);
                         output.accept(ModItems.CLOVER);
+                        // Plants and crop materials
+                        output.accept(ModItems.COTTON_SEEDS);
+                        output.accept(ModItems.AZALEA);
+                        output.accept(ModItems.NARCISSUS);
+                        output.accept(ModItems.LILY);
+                        output.accept(ModItems.LOTUS);
+                        output.accept(ModItems.LAVENDER);
+                        output.accept(ModItems.RICE);
+                        output.accept(ModItems.RICE_SEEDS);
+                        output.accept(ModItems.CORN);
+                        output.accept(ModItems.CORN_SEEDS);
+                        output.accept(ModItems.BARLEY);
+                        output.accept(ModItems.BARLEY_SEEDS);
                         output.accept(ModItems.ARCHEUM_ORE);
                         output.accept(ModItems.GOAT_WOOL);
                         output.accept(ModItems.HANDICRAFT_YARN);
@@ -76,6 +92,15 @@ public class ModCreativeTabs {
                         output.accept(ModItems.FINE_LUMBER);
                         output.accept(ModItems.NURI_FOREST_LUMBER);
                         output.accept(ModItems.BLAZING_NURI_FOREST_LUMBER);
+                        output.accept(ModItems.THUNDERSTRUCK_LOG);
+                        // Equipment components
+                        output.accept(ModItems.WOODEN_HANDLE);
+                        output.accept(ModItems.WOODEN_SHAFT);
+                        output.accept(ModItems.LEATHER_STRIP);
+                        output.accept(ModItems.CLOTH_PADDING);
+                        output.accept(ModItems.ROPE);
+                        output.accept(ModItems.METAL_PLATE);
+                        output.accept(ModItems.RIVET);
                         // Metal (Metalwork)
                         output.accept(ModItems.SUNRIDGE_INGOT);
                         output.accept(ModItems.BLAZING_SUNRIDGE_INGOT);
@@ -108,6 +133,8 @@ public class ModCreativeTabs {
                         output.accept(ModItems.TOPAZ);
                         output.accept(ModItems.MYSTERIOUS_GARDEN_POWDER);
                         output.accept(ModItems.BLUE_SALT_WEDGE);
+                        output.accept(ModItems.ONYX_ARCHEUM_ESSENCE);
+                        output.accept(ModItems.DAWN_LAKE_LIGHT_ESSENCE);
                         // Alchemy Oils
                         output.accept(ModItems.SMALL_SEED_OIL);
                         output.accept(ModItems.VISCOUS_GLOSSY_OIL);

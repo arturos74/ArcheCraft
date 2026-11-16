@@ -1,6 +1,9 @@
 package com.redcookies.archecraft;
 
 import com.redcookies.archecraft.client.WorkbenchScreen;
+import com.redcookies.archecraft.client.YataRenderer;
+import com.redcookies.archecraft.client.SarraceniaRenderer;
+import net.neoforged.neoforge.client.event.EntityRenderersEvent;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.client.event.RegisterMenuScreensEvent;
 
@@ -21,6 +24,7 @@ import net.neoforged.neoforge.client.gui.IConfigScreenFactory;
 public class ArcheCraftClient {
     public ArcheCraftClient(IEventBus modEventBus, ModContainer container) {
         modEventBus.addListener(ArcheCraftClient::registerScreens);
+        modEventBus.addListener(ArcheCraftClient::registerEntityRenderers);
         // Allows NeoForge to create a config screen for this mod's configs.
         // The config screen is accessed by going to the Mods screen > clicking on your mod > clicking on config.
         // Do not forget to add translations for your config options to the en_us.json file.
@@ -29,6 +33,11 @@ public class ArcheCraftClient {
 
     private static void registerScreens(RegisterMenuScreensEvent event) {
         event.register(ModMenus.WORKBENCH.get(), WorkbenchScreen::new);
+    }
+
+    private static void registerEntityRenderers(EntityRenderersEvent.RegisterRenderers event) {
+        event.registerEntityRenderer(ModEntities.YATA.get(), YataRenderer::new);
+        event.registerEntityRenderer(ModEntities.SARRACENIA.get(), SarraceniaRenderer::new);
     }
 
     @SubscribeEvent

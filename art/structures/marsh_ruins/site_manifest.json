@@ -1,0 +1,72 @@
+{
+  "size": [
+    96,
+    36,
+    96
+  ],
+  "section_size": [
+    48,
+    36,
+    48
+  ],
+  "hub_offset": [
+    48,
+    48
+  ],
+  "hub_sha256": "dd3e03ebe447a77112fee7d8492f99b413f8983316e7b405672ffef9c42a10e1",
+  "sections": [
+    {
+      "name": "sunken_court",
+      "offset": [
+        0,
+        48
+      ],
+      "seed": 731205,
+      "sha256": "075641a3c3a86b23d52c75cf31def6edcda495366786aad98505c1a5fb72585c",
+      "water_columns": 250,
+      "ruins": 2,
+      "pond_depth_blocks": 0.5
+    },
+    {
+      "name": "broken_arch",
+      "offset": [
+        48,
+        0
+      ],
+      "seed": 731206,
+      "sha256": "55d11ae0661e6bcbe44b9374e50858f076117aaf9275332fdd7ae56f8fe8002c",
+      "water_columns": 261,
+      "ruins": 2,
+      "pond_depth_blocks": 0.5
+    },
+    {
+      "name": "fallen_walls",
+      "offset": [
+        0,
+        0
+      ],
+      "seed": 731207,
+      "sha256": "816bb9b212c5971e9384892d4cf84bc38a91d3461dfcce2ff728b2b298e78009",
+      "water_columns": 300,
+      "ruins": 2,
+      "pond_depth_blocks": 0.5
+    }
+  ],
+  "assembled_template": "archecraft:abandoned_drill_camp",
+  "sha256": "bb264188db1ea3457ba8596d13b3b3660b49f942776feeee107d8da448ddf70a",
+  "workstation": {
+    "id": "archecraft:hasla_workbench",
+    "hub_position": [
+      35,
+      16,
+      38
+    ],
+    "site_position": [
+      83,
+      16,
+      86
+    ],
+    "facing": "north"
+  },
+  "notes": "Abandoned Drill Camp: saved crafting pavilion with Hasla Workbench, plus three swamp habitat sections. Sarracenia natural spawns come from the registered structure override; no entities are embedded in the templates."
+}

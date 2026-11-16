@@ -14,7 +14,7 @@ public final class ModBlockEntities {
             BLOCK_ENTITIES.register("workbench", () -> BlockEntityType.Builder.of(
                     WorkbenchBlockEntity::new, ModBlocks.CARPENTER_WORKBENCH.get(), ModBlocks.ARCHEUM_WORKBENCH.get(),
                     ModBlocks.STONEMASON_WORKBENCH.get(), ModBlocks.ALCHEMY_WORKBENCH.get(), ModBlocks.SMELTER.get(),
-                    ModBlocks.ANVIL.get()).build(null));
+                    ModBlocks.ANVIL.get(), ModBlocks.HASLA_WORKBENCH.get()).build(null));
 
     public static void register(IEventBus bus) {
         BLOCK_ENTITIES.register(bus);

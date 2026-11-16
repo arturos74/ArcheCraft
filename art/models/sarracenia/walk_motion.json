@@ -1,0 +1,17 @@
+{
+  "duration_seconds": 0.92,
+  "samples_per_second": 50,
+  "references": [
+    {
+      "view": "side",
+      "file": "2026-11-14 20-30-32.mp4",
+      "sha256": "4a6f6f3950931a335aacbdfd218a3b0c56705eacc296eb96ed92a392d5b4ac2b"
+    },
+    {
+      "view": "front",
+      "file": "2026-11-14 20-31-25.mp4",
+      "sha256": "19f8a64584546983809ea8b3b568e5338eae96d8c5cde985bc57f05f7777f7f6"
+    }
+  ],
+  "notes": "Hand-authored approximation of the moving portion of both references. Roughly .92s repeating shuffle: forward/back body rock, small bounce, subtle lateral sway, synchronized tendril curls and delayed blade flutter. Authored in place for later entity movement; source pauses and camera motion excluded."
+}

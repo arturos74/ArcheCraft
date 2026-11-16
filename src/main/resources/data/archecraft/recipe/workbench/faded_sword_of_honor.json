@@ -1,6 +1,6 @@
 {
   "type": "archecraft:workbench",
-  "workstation": "archecraft:anvil",
+  "workstation": "archecraft:hasla_workbench",
   "ingredients": [
     { "item": "archecraft:hasla_token_honor", "count": 64 }
   ],

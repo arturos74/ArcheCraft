@@ -1,0 +1,25 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.rafflesia.idle": {
+      "loop": true,
+      "animation_length": 2,
+      "bones": {}
+    },
+    "animation.rafflesia.walk": {
+      "loop": true,
+      "animation_length": 1,
+      "bones": {}
+    },
+    "animation.rafflesia.attack": {
+      "loop": false,
+      "animation_length": 1,
+      "bones": {}
+    },
+    "animation.rafflesia.death": {
+      "loop": false,
+      "animation_length": 1,
+      "bones": {}
+    }
+  }
+}

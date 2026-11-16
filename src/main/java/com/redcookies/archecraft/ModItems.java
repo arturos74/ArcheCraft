@@ -13,9 +13,18 @@ import net.minecraft.world.item.JukeboxSong;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
+import net.neoforged.neoforge.common.DeferredSpawnEggItem;
 
 public class ModItems {
     public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(ArcheCraft.MODID);
+
+    public static final DeferredItem<DeferredSpawnEggItem> YATA_SPAWN_EGG =
+            ITEMS.register("yata_spawn_egg", () -> new DeferredSpawnEggItem(
+                    ModEntities.YATA, 0x856C4D, 0xC0AD9A, new Item.Properties()));
+
+    public static final DeferredItem<DeferredSpawnEggItem> SARRACENIA_SPAWN_EGG =
+            ITEMS.register("sarracenia_spawn_egg", () -> new DeferredSpawnEggItem(
+                    ModEntities.SARRACENIA, 0x3F5327, 0xB34C18, new Item.Properties()));
 
     public static final DeferredItem<BlockItem> EXAMPLE_BLOCK_ITEM =
             ITEMS.registerSimpleBlockItem("example_block", ModBlocks.EXAMPLE_BLOCK);
@@ -53,6 +62,20 @@ public class ModItems {
             props -> new ItemNameBlockItem(ModBlocks.CLOVER_CROP.get(), props));
 
     public static final DeferredItem<Item> CLOVER = ITEMS.registerSimpleItem("clover");
+
+    // Plants and crop materials; growth and acquisition recipes are added separately.
+    public static final DeferredItem<Item> COTTON_SEEDS = ITEMS.registerSimpleItem("cotton_seeds");
+    public static final DeferredItem<Item> AZALEA = ITEMS.registerSimpleItem("azalea");
+    public static final DeferredItem<Item> NARCISSUS = ITEMS.registerSimpleItem("narcissus");
+    public static final DeferredItem<Item> LILY = ITEMS.registerSimpleItem("lily");
+    public static final DeferredItem<Item> LOTUS = ITEMS.registerSimpleItem("lotus");
+    public static final DeferredItem<Item> LAVENDER = ITEMS.registerSimpleItem("lavender");
+    public static final DeferredItem<Item> RICE = ITEMS.registerSimpleItem("rice");
+    public static final DeferredItem<Item> RICE_SEEDS = ITEMS.registerSimpleItem("rice_seeds");
+    public static final DeferredItem<Item> CORN = ITEMS.registerSimpleItem("corn");
+    public static final DeferredItem<Item> CORN_SEEDS = ITEMS.registerSimpleItem("corn_seeds");
+    public static final DeferredItem<Item> BARLEY = ITEMS.registerSimpleItem("barley");
+    public static final DeferredItem<Item> BARLEY_SEEDS = ITEMS.registerSimpleItem("barley_seeds");
 
     public static final DeferredItem<Item> SUNLIGHT_ARCHEUM_MOTES = ITEMS.registerSimpleItem("sunlight_archeum_motes");
 
@@ -106,6 +129,16 @@ public class ModItems {
     public static final DeferredItem<Item> FINE_LUMBER = ITEMS.registerSimpleItem("fine_lumber");
     public static final DeferredItem<Item> NURI_FOREST_LUMBER = ITEMS.registerSimpleItem("nuri_forest_lumber");
     public static final DeferredItem<Item> BLAZING_NURI_FOREST_LUMBER = ITEMS.registerSimpleItem("blazing_nuri_forest_lumber");
+    public static final DeferredItem<Item> THUNDERSTRUCK_LOG = ITEMS.registerSimpleItem("thunderstruck_log");
+
+    // Equipment components
+    public static final DeferredItem<Item> WOODEN_HANDLE = ITEMS.registerSimpleItem("wooden_handle");
+    public static final DeferredItem<Item> WOODEN_SHAFT = ITEMS.registerSimpleItem("wooden_shaft");
+    public static final DeferredItem<Item> LEATHER_STRIP = ITEMS.registerSimpleItem("leather_strip");
+    public static final DeferredItem<Item> CLOTH_PADDING = ITEMS.registerSimpleItem("cloth_padding");
+    public static final DeferredItem<Item> ROPE = ITEMS.registerSimpleItem("rope");
+    public static final DeferredItem<Item> METAL_PLATE = ITEMS.registerSimpleItem("metal_plate");
+    public static final DeferredItem<Item> RIVET = ITEMS.registerSimpleItem("rivet");
 
     // Metal (Metalwork)
     public static final DeferredItem<Item> SUNRIDGE_INGOT = ITEMS.registerSimpleItem("sunridge_ingot");
@@ -142,6 +175,8 @@ public class ModItems {
     public static final DeferredItem<Item> TOPAZ = ITEMS.registerSimpleItem("topaz");
     public static final DeferredItem<Item> MYSTERIOUS_GARDEN_POWDER = ITEMS.registerSimpleItem("mysterious_garden_powder");
     public static final DeferredItem<Item> BLUE_SALT_WEDGE = ITEMS.registerSimpleItem("blue_salt_wedge");
+    public static final DeferredItem<Item> ONYX_ARCHEUM_ESSENCE = ITEMS.registerSimpleItem("onyx_archeum_essence");
+    public static final DeferredItem<Item> DAWN_LAKE_LIGHT_ESSENCE = ITEMS.registerSimpleItem("dawn_lake_light_essence");
 
     // Alchemy Oils
     public static final DeferredItem<Item> SMALL_SEED_OIL = ITEMS.registerSimpleItem("small_seed_oil");
@@ -170,6 +205,9 @@ public class ModItems {
     // </editor-fold>
 
     // <editor-fold desc="Block Items">
+    public static final DeferredItem<BlockItem> HASLA_WORKBENCH =
+            ITEMS.registerSimpleBlockItem("hasla_workbench", ModBlocks.HASLA_WORKBENCH);
+
     public static final DeferredItem<BlockItem> ANVIL =
             ITEMS.registerSimpleBlockItem("anvil", ModBlocks.ANVIL);
 
@@ -251,6 +289,9 @@ public class ModItems {
 
 
     public static void register(IEventBus modEventBus) {
+        // Keep spawn eggs already stored in player inventories and containers.
+        ITEMS.addAlias(ResourceLocation.fromNamespaceAndPath(ArcheCraft.MODID, "pitcher_plant_spawn_egg"),
+                ResourceLocation.fromNamespaceAndPath(ArcheCraft.MODID, "sarracenia_spawn_egg"));
         ITEMS.register(modEventBus);
     }
 }

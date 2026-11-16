@@ -1,0 +1,13 @@
+{
+  "female_source": "art/models/yata/yata.bbmodel",
+  "female_source_sha256": "63afc4132893f503b8f4b406ee55cd303bab718aa60e02ddac830c4678918692",
+  "male_only": false,
+  "female_only": true,
+  "variant": "palomino",
+  "variant_scale": 1.3,
+  "cuboids": 92,
+  "bones": 29,
+  "source_sha256": "66ac45c28880a69320e493adcd4d204e4f07daed5acd72abcf35ad10d5d9ddbc",
+  "texture_sha256": "0da8c9c94c3a20cc100693421e1b3694553e55866e89f8bdee123a2af9de4638",
+  "notes": "Shared canonical runtime rig at 1.3 scale. Muted sand/beige coat, pale throat/belly, dark muzzle/legs/tail and sparse dark flank markings. Female only."
+}
